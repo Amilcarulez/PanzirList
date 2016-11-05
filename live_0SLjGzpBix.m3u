@@ -1,0 +1,1459 @@
+#EXTM3U
+#EXTINF:-1,---- TOP ITALIA ----
+http://127.0.0.1:9999/fake
+#EXTINF:-1,Rai1 HD
+http://cdnlive001.dp.ua:8080/live/0SLjGzpBix/8cdTwSCiFC/38.ts
+#EXTINF:-1,Rai2 HD
+http://cdnlive001.dp.ua:8080/live/0SLjGzpBix/8cdTwSCiFC/37.ts
+#EXTINF:-1,Rai3 HD
+http://cdnlive001.dp.ua:8080/live/0SLjGzpBix/8cdTwSCiFC/36.ts
+#EXTINF:-1,Rete 4 HD
+http://cdnlive001.dp.ua:8080/live/0SLjGzpBix/8cdTwSCiFC/34.ts
+#EXTINF:-1,Canale 5 HD
+http://cdnlive001.dp.ua:8080/live/0SLjGzpBix/8cdTwSCiFC/93.ts
+#EXTINF:-1,Italia 1 HD
+http://cdnlive001.dp.ua:8080/live/0SLjGzpBix/8cdTwSCiFC/78.ts
+#EXTINF:-1,La7
+http://cdnlive001.dp.ua:8080/live/0SLjGzpBix/8cdTwSCiFC/201.ts
+#EXTINF:-1,RSI LA 1 HD
+http://cdnlive001.dp.ua:8080/live/0SLjGzpBix/8cdTwSCiFC/195.ts
+#EXTINF:-1,RSI LA 2 HD
+http://cdnlive001.dp.ua:8080/live/0SLjGzpBix/8cdTwSCiFC/196.ts
+#EXTINF:-1,La5
+http://cdnlive001.dp.ua:8080/live/0SLjGzpBix/8cdTwSCiFC/77.ts
+#EXTINF:-1,Iris
+http://cdnlive001.dp.ua:8080/live/0SLjGzpBix/8cdTwSCiFC/79.ts
+#EXTINF:-1,Rai 4
+http://cdnlive001.dp.ua:8080/live/0SLjGzpBix/8cdTwSCiFC/233.ts
+#EXTINF:-1,Rai 5
+http://cdnlive001.dp.ua:8080/live/0SLjGzpBix/8cdTwSCiFC/230.ts
+#EXTINF:-1,Rai Storia
+http://cdnlive001.dp.ua:8080/live/0SLjGzpBix/8cdTwSCiFC/220.ts
+#EXTINF:-1,Rai Sport 1 HD
+http://cdnlive001.dp.ua:8080/live/0SLjGzpBix/8cdTwSCiFC/222.ts
+#EXTINF:-1,Videolina
+http://cdnlive001.dp.ua:8080/live/0SLjGzpBix/8cdTwSCiFC/214.ts
+#EXTINF:-1,---- MEDIASET PREMIUM ----
+http://cdnlive001.dp.ua:8080/live/0SLjGzpBix/8cdTwSCiFC/105.ts
+#EXTINF:-1,Premium Cinema HD
+http://cdnlive001.dp.ua:8080/live/0SLjGzpBix/8cdTwSCiFC/58.ts
+#EXTINF:-1,Premium Cinema 2 HD
+http://cdnlive001.dp.ua:8080/live/0SLjGzpBix/8cdTwSCiFC/61.ts
+#EXTINF:-1,Premium Cinema +24
+http://cdnlive001.dp.ua:8080/live/0SLjGzpBix/8cdTwSCiFC/247.ts
+#EXTINF:-1,Premium Cinema 2 +24
+http://cdnlive001.dp.ua:8080/live/0SLjGzpBix/8cdTwSCiFC/213.ts
+#EXTINF:-1,Premium Emotion
+http://cdnlive001.dp.ua:8080/live/0SLjGzpBix/8cdTwSCiFC/51.ts
+#EXTINF:-1,Premium Cinema Energy HD
+http://cdnlive001.dp.ua:8080/live/0SLjGzpBix/8cdTwSCiFC/50.ts
+#EXTINF:-1,Premium Action HD
+http://cdnlive001.dp.ua:8080/live/0SLjGzpBix/8cdTwSCiFC/212.ts
+#EXTINF:-1,Premium Action +24
+http://cdnlive001.dp.ua:8080/live/0SLjGzpBix/8cdTwSCiFC/210.ts
+#EXTINF:-1,Premium Comedy
+http://cdnlive001.dp.ua:8080/live/0SLjGzpBix/8cdTwSCiFC/57.ts
+#EXTINF:-1,Premium Joi
+http://cdnlive001.dp.ua:8080/live/0SLjGzpBix/8cdTwSCiFC/43.ts
+#EXTINF:-1,Premium Stories
+http://cdnlive001.dp.ua:8080/live/0SLjGzpBix/8cdTwSCiFC/42.ts
+#EXTINF:-1,Premium Studio Universal
+http://cdnlive001.dp.ua:8080/live/0SLjGzpBix/8cdTwSCiFC/40.ts
+#EXTINF:-1,Premium TopCrime
+http://cdnlive001.dp.ua:8080/live/0SLjGzpBix/8cdTwSCiFC/39.ts
+#EXTINF:-1,Premium Crime HD
+http://cdnlive001.dp.ua:8080/live/0SLjGzpBix/8cdTwSCiFC/211.ts
+#EXTINF:-1,Premium Italiadue
+http://cdnlive001.dp.ua:8080/live/0SLjGzpBix/8cdTwSCiFC/44.ts
+#EXTINF:-1,Premium Fine Living
+http://cdnlive001.dp.ua:8080/live/0SLjGzpBix/8cdTwSCiFC/46.ts
+#EXTINF:-1,Premium Extra
+http://cdnlive001.dp.ua:8080/live/0SLjGzpBix/8cdTwSCiFC/47.ts
+#EXTINF:-1,Premium Extra GF1
+http://cdnlive001.dp.ua:8080/live/0SLjGzpBix/8cdTwSCiFC/255.ts
+#EXTINF:-1,Premium Extra GF2
+http://cdnlive001.dp.ua:8080/live/0SLjGzpBix/8cdTwSCiFC/256.ts
+#EXTINF:-1,Premium Sport Italia
+http://cdnlive001.dp.ua:8080/live/0SLjGzpBix/8cdTwSCiFC/41.ts
+#EXTINF:-1,Premium Eurosport
+http://cdnlive001.dp.ua:8080/live/0SLjGzpBix/8cdTwSCiFC/49.ts
+#EXTINF:-1,Premium Eurosport 2
+http://cdnlive001.dp.ua:8080/live/0SLjGzpBix/8cdTwSCiFC/48.ts
+#EXTINF:-1,Premium Sport HD
+http://cdnlive001.dp.ua:8080/live/0SLjGzpBix/8cdTwSCiFC/62.ts
+#EXTINF:-1,Premium Calcio HD
+http://cdnlive001.dp.ua:8080/live/0SLjGzpBix/8cdTwSCiFC/1434.ts
+#EXTINF:-1,Premium Sport 2 HD
+http://cdnlive001.dp.ua:8080/live/0SLjGzpBix/8cdTwSCiFC/63.ts
+#EXTINF:-1,Premium Calcio
+http://cdnlive001.dp.ua:8080/live/0SLjGzpBix/8cdTwSCiFC/70.ts
+#EXTINF:-1,Premium Calcio 1
+http://cdnlive001.dp.ua:8080/live/0SLjGzpBix/8cdTwSCiFC/69.ts
+#EXTINF:-1,Premium Calcio 2
+http://cdnlive001.dp.ua:8080/live/0SLjGzpBix/8cdTwSCiFC/68.ts
+#EXTINF:-1,Premium Calcio 3
+http://cdnlive001.dp.ua:8080/live/0SLjGzpBix/8cdTwSCiFC/67.ts
+#EXTINF:-1,Premium Calcio 4
+http://cdnlive001.dp.ua:8080/live/0SLjGzpBix/8cdTwSCiFC/94.ts
+#EXTINF:-1,Premium Calcio 5
+http://cdnlive001.dp.ua:8080/live/0SLjGzpBix/8cdTwSCiFC/66.ts
+#EXTINF:-1,Premium Calcio 6
+http://cdnlive001.dp.ua:8080/live/0SLjGzpBix/8cdTwSCiFC/65.ts
+#EXTINF:-1,Premium Calcio 7
+http://cdnlive001.dp.ua:8080/live/0SLjGzpBix/8cdTwSCiFC/64.ts
+#EXTINF:-1,---- SKY INTRATTENIMENTO ----
+http://cdnlive001.dp.ua:8080/live/0SLjGzpBix/8cdTwSCiFC/99.ts
+#EXTINF:-1,Sky Uno Full HD
+http://cdnlive001.dp.ua:8080/live/0SLjGzpBix/8cdTwSCiFC/1459.ts
+#EXTINF:-1,Sky Uno HD
+http://cdnlive001.dp.ua:8080/live/0SLjGzpBix/8cdTwSCiFC/1.ts
+#EXTINF:-1,Sky Uno +1 HD
+http://cdnlive001.dp.ua:8080/live/0SLjGzpBix/8cdTwSCiFC/198.ts
+#EXTINF:-1,SKY Uno SD
+http://cdnlive001.dp.ua:8080/live/0SLjGzpBix/8cdTwSCiFC/257.ts
+#EXTINF:-1,Sky Atlantic HD
+http://cdnlive001.dp.ua:8080/live/0SLjGzpBix/8cdTwSCiFC/32.ts
+#EXTINF:-1,Sky Atlantic +1 HD
+http://cdnlive001.dp.ua:8080/live/0SLjGzpBix/8cdTwSCiFC/190.ts
+#EXTINF:-1,Sky Atlantic SD
+http://cdnlive001.dp.ua:8080/live/0SLjGzpBix/8cdTwSCiFC/261.ts
+#EXTINF:-1,Fox Life HD
+http://cdnlive001.dp.ua:8080/live/0SLjGzpBix/8cdTwSCiFC/83.ts
+#EXTINF:-1,Fox Life +1 HD
+http://cdnlive001.dp.ua:8080/live/0SLjGzpBix/8cdTwSCiFC/189.ts
+#EXTINF:-1,Fox Life SD
+http://cdnlive001.dp.ua:8080/live/0SLjGzpBix/8cdTwSCiFC/262.ts
+#EXTINF:-1,Fox HD
+http://cdnlive001.dp.ua:8080/live/0SLjGzpBix/8cdTwSCiFC/84.ts
+#EXTINF:-1,Fox +1 HD
+http://cdnlive001.dp.ua:8080/live/0SLjGzpBix/8cdTwSCiFC/188.ts
+#EXTINF:-1,Fox SD
+http://cdnlive001.dp.ua:8080/live/0SLjGzpBix/8cdTwSCiFC/263.ts
+#EXTINF:-1,Fox Animation HD
+http://cdnlive001.dp.ua:8080/live/0SLjGzpBix/8cdTwSCiFC/87.ts
+#EXTINF:-1,Fox Animation SD
+http://cdnlive001.dp.ua:8080/live/0SLjGzpBix/8cdTwSCiFC/312.ts
+#EXTINF:-1,Fox Comedy HD
+http://cdnlive001.dp.ua:8080/live/0SLjGzpBix/8cdTwSCiFC/86.ts
+#EXTINF:-1,Fox Comedy SD
+http://cdnlive001.dp.ua:8080/live/0SLjGzpBix/8cdTwSCiFC/313.ts
+#EXTINF:-1,Fox Crime HD
+http://cdnlive001.dp.ua:8080/live/0SLjGzpBix/8cdTwSCiFC/85.ts
+#EXTINF:-1,Fox Crime +1 HD
+http://cdnlive001.dp.ua:8080/live/0SLjGzpBix/8cdTwSCiFC/199.ts
+#EXTINF:-1,Fox Crime SD
+http://cdnlive001.dp.ua:8080/live/0SLjGzpBix/8cdTwSCiFC/264.ts
+#EXTINF:-1,MTV HD
+http://cdnlive001.dp.ua:8080/live/0SLjGzpBix/8cdTwSCiFC/207.ts
+#EXTINF:-1,AXN HD
+http://cdnlive001.dp.ua:8080/live/0SLjGzpBix/8cdTwSCiFC/95.ts
+#EXTINF:-1,AXN +1 HD
+http://cdnlive001.dp.ua:8080/live/0SLjGzpBix/8cdTwSCiFC/200.ts
+#EXTINF:-1,AXN SD
+http://cdnlive001.dp.ua:8080/live/0SLjGzpBix/8cdTwSCiFC/266.ts
+#EXTINF:-1,AXN Sci-Fi
+http://cdnlive001.dp.ua:8080/live/0SLjGzpBix/8cdTwSCiFC/282.ts
+#EXTINF:-1,Cielo HD
+http://cdnlive001.dp.ua:8080/live/0SLjGzpBix/8cdTwSCiFC/92.ts
+#EXTINF:-1,Realtime HD
+http://cdnlive001.dp.ua:8080/live/0SLjGzpBix/8cdTwSCiFC/35.ts
+#EXTINF:-1,Realtime +1 HD
+http://cdnlive001.dp.ua:8080/live/0SLjGzpBix/8cdTwSCiFC/191.ts
+#EXTINF:-1,DMAX HD
+http://cdnlive001.dp.ua:8080/live/0SLjGzpBix/8cdTwSCiFC/202.ts
+#EXTINF:-1,DMAX +1 HD
+http://cdnlive001.dp.ua:8080/live/0SLjGzpBix/8cdTwSCiFC/245.ts
+#EXTINF:-1,DMAX SD
+http://cdnlive001.dp.ua:8080/live/0SLjGzpBix/8cdTwSCiFC/267.ts
+#EXTINF:-1,---- SKY CINEMA ----
+http://cdnlive001.dp.ua:8080/live/0SLjGzpBix/8cdTwSCiFC/98.ts
+#EXTINF:-1,Sky 3D
+http://cdnlive001.dp.ua:8080/live/0SLjGzpBix/8cdTwSCiFC/231.ts
+#EXTINF:-1,Sky Cinema 1 Full HD
+http://cdnlive001.dp.ua:8080/live/0SLjGzpBix/8cdTwSCiFC/1443.ts
+#EXTINF:-1,Sky Cinema 1 HD
+http://cdnlive001.dp.ua:8080/live/0SLjGzpBix/8cdTwSCiFC/22.ts
+#EXTINF:-1,Sky Cinema 1 SD
+http://cdnlive001.dp.ua:8080/live/0SLjGzpBix/8cdTwSCiFC/268.ts
+#EXTINF:-1,Sky Cinema +1 HD
+http://cdnlive001.dp.ua:8080/live/0SLjGzpBix/8cdTwSCiFC/185.ts
+#EXTINF:-1,Sky Cinema +24 Full HD
+http://cdnlive001.dp.ua:8080/live/0SLjGzpBix/8cdTwSCiFC/1445.ts
+#EXTINF:-1,Sky Cinema +24 HD
+http://cdnlive001.dp.ua:8080/live/0SLjGzpBix/8cdTwSCiFC/23.ts
+#EXTINF:-1,Sky Cinema +24 SD
+http://cdnlive001.dp.ua:8080/live/0SLjGzpBix/8cdTwSCiFC/269.ts
+#EXTINF:-1,Sky Cinema Hits Full HD
+http://cdnlive001.dp.ua:8080/live/0SLjGzpBix/8cdTwSCiFC/1446.ts
+#EXTINF:-1,Sky Cinema Hits HD
+http://cdnlive001.dp.ua:8080/live/0SLjGzpBix/8cdTwSCiFC/17.ts
+#EXTINF:-1,Sky Cinema Hits SD
+http://cdnlive001.dp.ua:8080/live/0SLjGzpBix/8cdTwSCiFC/270.ts
+#EXTINF:-1,Sky Cinema Family Full HD
+http://cdnlive001.dp.ua:8080/live/0SLjGzpBix/8cdTwSCiFC/1453.ts
+#EXTINF:-1,Sky Cinema Family HD
+http://cdnlive001.dp.ua:8080/live/0SLjGzpBix/8cdTwSCiFC/18.ts
+#EXTINF:-1,Sky Cinema Family +1 HD
+http://cdnlive001.dp.ua:8080/live/0SLjGzpBix/8cdTwSCiFC/186.ts
+#EXTINF:-1,Sky Cinema Family SD
+http://cdnlive001.dp.ua:8080/live/0SLjGzpBix/8cdTwSCiFC/271.ts
+#EXTINF:-1,Sky Cinema Passion Full HD
+http://cdnlive001.dp.ua:8080/live/0SLjGzpBix/8cdTwSCiFC/1452.ts
+#EXTINF:-1,Sky Cinema Passion HD
+http://cdnlive001.dp.ua:8080/live/0SLjGzpBix/8cdTwSCiFC/15.ts
+#EXTINF:-1,Sky Cinema Passion SD
+http://cdnlive001.dp.ua:8080/live/0SLjGzpBix/8cdTwSCiFC/272.ts
+#EXTINF:-1,Sky Cinema Comedy Full HD
+http://cdnlive001.dp.ua:8080/live/0SLjGzpBix/8cdTwSCiFC/1458.ts
+#EXTINF:-1,Sky Cinema Comedy HD
+http://cdnlive001.dp.ua:8080/live/0SLjGzpBix/8cdTwSCiFC/20.ts
+#EXTINF:-1,Sky Cinema Comedy SD
+http://cdnlive001.dp.ua:8080/live/0SLjGzpBix/8cdTwSCiFC/273.ts
+#EXTINF:-1,Sky Cinema Max Full HD
+http://cdnlive001.dp.ua:8080/live/0SLjGzpBix/8cdTwSCiFC/1444.ts
+#EXTINF:-1,Sky Cinema Max HD
+http://cdnlive001.dp.ua:8080/live/0SLjGzpBix/8cdTwSCiFC/16.ts
+#EXTINF:-1,Sky Cinema Max SD
+http://cdnlive001.dp.ua:8080/live/0SLjGzpBix/8cdTwSCiFC/274.ts
+#EXTINF:-1,Sky Cinema Max +1 HD
+http://cdnlive001.dp.ua:8080/live/0SLjGzpBix/8cdTwSCiFC/187.ts
+#EXTINF:-1,Sky Cinema Cult Full HD
+http://cdnlive001.dp.ua:8080/live/0SLjGzpBix/8cdTwSCiFC/1447.ts
+#EXTINF:-1,Sky Cinema Cult HD
+http://cdnlive001.dp.ua:8080/live/0SLjGzpBix/8cdTwSCiFC/19.ts
+#EXTINF:-1,Sky Cinema Cult SD
+http://cdnlive001.dp.ua:8080/live/0SLjGzpBix/8cdTwSCiFC/275.ts
+#EXTINF:-1,Sky Cinema Classic Full HD
+http://cdnlive001.dp.ua:8080/live/0SLjGzpBix/8cdTwSCiFC/1451.ts
+#EXTINF:-1,Sky Cinema Classic HD
+http://cdnlive001.dp.ua:8080/live/0SLjGzpBix/8cdTwSCiFC/21.ts
+#EXTINF:-1,Sky Cinema Classic SD
+http://cdnlive001.dp.ua:8080/live/0SLjGzpBix/8cdTwSCiFC/276.ts
+#EXTINF:-1,---- PRIMAFILA  ----
+http://cdnlive001.dp.ua:8080/live/0SLjGzpBix/8cdTwSCiFC/107.ts
+#EXTINF:-1,Primafila 1 HD
+http://cdnlive001.dp.ua:8080/live/0SLjGzpBix/8cdTwSCiFC/165.ts
+#EXTINF:-1,Primafila 2
+http://cdnlive001.dp.ua:8080/live/0SLjGzpBix/8cdTwSCiFC/166.ts
+#EXTINF:-1,Primafila 3 HD
+http://cdnlive001.dp.ua:8080/live/0SLjGzpBix/8cdTwSCiFC/167.ts
+#EXTINF:-1,Primafila 4
+http://cdnlive001.dp.ua:8080/live/0SLjGzpBix/8cdTwSCiFC/168.ts
+#EXTINF:-1,Primafila 5 HD
+http://cdnlive001.dp.ua:8080/live/0SLjGzpBix/8cdTwSCiFC/169.ts
+#EXTINF:-1,Primafila 6
+http://cdnlive001.dp.ua:8080/live/0SLjGzpBix/8cdTwSCiFC/170.ts
+#EXTINF:-1,Primafila 7 HD
+http://cdnlive001.dp.ua:8080/live/0SLjGzpBix/8cdTwSCiFC/171.ts
+#EXTINF:-1,Primafila 8
+http://cdnlive001.dp.ua:8080/live/0SLjGzpBix/8cdTwSCiFC/172.ts
+#EXTINF:-1,Primafila 9 HD
+http://cdnlive001.dp.ua:8080/live/0SLjGzpBix/8cdTwSCiFC/173.ts
+#EXTINF:-1,Primafila 10
+http://cdnlive001.dp.ua:8080/live/0SLjGzpBix/8cdTwSCiFC/174.ts
+#EXTINF:-1,Primafila 11 HD
+http://cdnlive001.dp.ua:8080/live/0SLjGzpBix/8cdTwSCiFC/175.ts
+#EXTINF:-1,Primafila 12
+http://cdnlive001.dp.ua:8080/live/0SLjGzpBix/8cdTwSCiFC/176.ts
+#EXTINF:-1,Primafila 13 HD
+http://cdnlive001.dp.ua:8080/live/0SLjGzpBix/8cdTwSCiFC/177.ts
+#EXTINF:-1,Primafila 14
+http://cdnlive001.dp.ua:8080/live/0SLjGzpBix/8cdTwSCiFC/178.ts
+#EXTINF:-1,Primafila 15
+http://cdnlive001.dp.ua:8080/live/0SLjGzpBix/8cdTwSCiFC/179.ts
+#EXTINF:-1,Primafila 16
+http://cdnlive001.dp.ua:8080/live/0SLjGzpBix/8cdTwSCiFC/180.ts
+#EXTINF:-1,Primafila 17
+http://cdnlive001.dp.ua:8080/live/0SLjGzpBix/8cdTwSCiFC/181.ts
+#EXTINF:-1,Primafila 18
+http://cdnlive001.dp.ua:8080/live/0SLjGzpBix/8cdTwSCiFC/182.ts
+#EXTINF:-1,Primafila 19
+http://cdnlive001.dp.ua:8080/live/0SLjGzpBix/8cdTwSCiFC/183.ts
+#EXTINF:-1,Primafila 1 HD On_Demand
+http://cdnlive001.dp.ua:8080/movie/0SLjGzpBix/8cdTwSCiFC/163.mp4
+#EXTINF:-1,Primafila 2 On_Demand
+http://cdnlive001.dp.ua:8080/movie/0SLjGzpBix/8cdTwSCiFC/154.mp4
+#EXTINF:-1,Primafila 3 HD On_Demand
+http://cdnlive001.dp.ua:8080/movie/0SLjGzpBix/8cdTwSCiFC/155.mp4
+#EXTINF:-1,Primafila 4 On_Demand
+http://cdnlive001.dp.ua:8080/movie/0SLjGzpBix/8cdTwSCiFC/156.mp4
+#EXTINF:-1,Primafila 5 HD On_Demand
+http://cdnlive001.dp.ua:8080/movie/0SLjGzpBix/8cdTwSCiFC/157.mp4
+#EXTINF:-1,Primafila 6 On_Demand
+http://cdnlive001.dp.ua:8080/movie/0SLjGzpBix/8cdTwSCiFC/158.mp4
+#EXTINF:-1,Primafila 7 HD On_Demand
+http://cdnlive001.dp.ua:8080/movie/0SLjGzpBix/8cdTwSCiFC/159.mp4
+#EXTINF:-1,Primafila 8 On_Demand
+http://cdnlive001.dp.ua:8080/movie/0SLjGzpBix/8cdTwSCiFC/160.mp4
+#EXTINF:-1,Primafila 9 HD On_Demand
+http://cdnlive001.dp.ua:8080/movie/0SLjGzpBix/8cdTwSCiFC/161.mp4
+#EXTINF:-1,Primafila 10 On_Demand
+http://cdnlive001.dp.ua:8080/movie/0SLjGzpBix/8cdTwSCiFC/144.mp4
+#EXTINF:-1,Primafila 11 HD On_Demand
+http://cdnlive001.dp.ua:8080/movie/0SLjGzpBix/8cdTwSCiFC/145.mp4
+#EXTINF:-1,Primafila 12 On_Demand
+http://cdnlive001.dp.ua:8080/movie/0SLjGzpBix/8cdTwSCiFC/146.mp4
+#EXTINF:-1,Primafila 13 HD On_Demand
+http://cdnlive001.dp.ua:8080/movie/0SLjGzpBix/8cdTwSCiFC/147.mp4
+#EXTINF:-1,Primafila 14 On_Demand
+http://cdnlive001.dp.ua:8080/movie/0SLjGzpBix/8cdTwSCiFC/148.mp4
+#EXTINF:-1,Primafila 15 On_Demand
+http://cdnlive001.dp.ua:8080/movie/0SLjGzpBix/8cdTwSCiFC/149.mp4
+#EXTINF:-1,Primafila 16 On_Demand
+http://cdnlive001.dp.ua:8080/movie/0SLjGzpBix/8cdTwSCiFC/150.mp4
+#EXTINF:-1,Primafila 17 On_Demand
+http://cdnlive001.dp.ua:8080/movie/0SLjGzpBix/8cdTwSCiFC/151.mp4
+#EXTINF:-1,Primafila 18 On_Demand
+http://cdnlive001.dp.ua:8080/movie/0SLjGzpBix/8cdTwSCiFC/152.mp4
+#EXTINF:-1,Primafila 19 On_Demand
+http://cdnlive001.dp.ua:8080/movie/0SLjGzpBix/8cdTwSCiFC/153.mp4
+#EXTINF:-1,---- SKY CULTURA ----
+http://cdnlive001.dp.ua:8080/live/0SLjGzpBix/8cdTwSCiFC/101.ts
+#EXTINF:-1,Sky Arte Full HD
+http://cdnlive001.dp.ua:8080/live/0SLjGzpBix/8cdTwSCiFC/1448.ts
+#EXTINF:-1,Sky Arte HD
+http://cdnlive001.dp.ua:8080/live/0SLjGzpBix/8cdTwSCiFC/33.ts
+#EXTINF:-1,Sky Arte SD
+http://cdnlive001.dp.ua:8080/live/0SLjGzpBix/8cdTwSCiFC/314.ts
+#EXTINF:-1,Discovery Channel HD
+http://cdnlive001.dp.ua:8080/live/0SLjGzpBix/8cdTwSCiFC/90.ts
+#EXTINF:-1,Discovery Channel +1 HD
+http://cdnlive001.dp.ua:8080/live/0SLjGzpBix/8cdTwSCiFC/194.ts
+#EXTINF:-1,Discovery Channel SD
+http://cdnlive001.dp.ua:8080/live/0SLjGzpBix/8cdTwSCiFC/315.ts
+#EXTINF:-1,National Geo HD
+http://cdnlive001.dp.ua:8080/live/0SLjGzpBix/8cdTwSCiFC/76.ts
+#EXTINF:-1,National Geo +1 HD
+http://cdnlive001.dp.ua:8080/live/0SLjGzpBix/8cdTwSCiFC/192.ts
+#EXTINF:-1,National Geo SD
+http://cdnlive001.dp.ua:8080/live/0SLjGzpBix/8cdTwSCiFC/316.ts
+#EXTINF:-1,Discovery Sci HD
+http://cdnlive001.dp.ua:8080/live/0SLjGzpBix/8cdTwSCiFC/89.ts
+#EXTINF:-1,Discovery Sci SD
+http://cdnlive001.dp.ua:8080/live/0SLjGzpBix/8cdTwSCiFC/317.ts
+#EXTINF:-1,Discovery Travel & Living HD
+http://cdnlive001.dp.ua:8080/live/0SLjGzpBix/8cdTwSCiFC/204.ts
+#EXTINF:-1,Discovery Travel & Living SD
+http://cdnlive001.dp.ua:8080/live/0SLjGzpBix/8cdTwSCiFC/318.ts
+#EXTINF:-1,History HD
+http://cdnlive001.dp.ua:8080/live/0SLjGzpBix/8cdTwSCiFC/80.ts
+#EXTINF:-1,History +1 HD
+http://cdnlive001.dp.ua:8080/live/0SLjGzpBix/8cdTwSCiFC/244.ts
+#EXTINF:-1,History SD
+http://cdnlive001.dp.ua:8080/live/0SLjGzpBix/8cdTwSCiFC/319.ts
+#EXTINF:-1,National Wild HD
+http://cdnlive001.dp.ua:8080/live/0SLjGzpBix/8cdTwSCiFC/74.ts
+#EXTINF:-1,National Wild +1 HD
+http://cdnlive001.dp.ua:8080/live/0SLjGzpBix/8cdTwSCiFC/193.ts
+#EXTINF:-1,National Wild SD
+http://cdnlive001.dp.ua:8080/live/0SLjGzpBix/8cdTwSCiFC/320.ts
+#EXTINF:-1,National Geo People HD
+http://cdnlive001.dp.ua:8080/live/0SLjGzpBix/8cdTwSCiFC/75.ts
+#EXTINF:-1,National Geo People SD
+http://cdnlive001.dp.ua:8080/live/0SLjGzpBix/8cdTwSCiFC/321.ts
+#EXTINF:-1,Explora HD
+http://cdnlive001.dp.ua:8080/live/0SLjGzpBix/8cdTwSCiFC/88.ts
+#EXTINF:-1,Gambero Rosso HD
+http://cdnlive001.dp.ua:8080/live/0SLjGzpBix/8cdTwSCiFC/11.ts
+#EXTINF:-1,Gambero Rosso SD
+http://cdnlive001.dp.ua:8080/live/0SLjGzpBix/8cdTwSCiFC/322.ts
+#EXTINF:-1,---- SKY SPORT ----
+http://cdnlive001.dp.ua:8080/live/0SLjGzpBix/8cdTwSCiFC/100.ts
+#EXTINF:-1,Sky Sport 24 Full HD
+http://cdnlive001.dp.ua:8080/live/0SLjGzpBix/8cdTwSCiFC/1457.ts
+#EXTINF:-1,Sky Sport 24 HD
+http://cdnlive001.dp.ua:8080/live/0SLjGzpBix/8cdTwSCiFC/8.ts
+#EXTINF:-1,Sky Sport 24 SD
+http://cdnlive001.dp.ua:8080/live/0SLjGzpBix/8cdTwSCiFC/277.ts
+#EXTINF:-1,Sky Sport 1 Full HD
+http://cdnlive001.dp.ua:8080/live/0SLjGzpBix/8cdTwSCiFC/1449.ts
+#EXTINF:-1,Sky Sport 1 HD
+http://cdnlive001.dp.ua:8080/live/0SLjGzpBix/8cdTwSCiFC/10.ts
+#EXTINF:-1,Sky Sport 1 SD
+http://cdnlive001.dp.ua:8080/live/0SLjGzpBix/8cdTwSCiFC/278.ts
+#EXTINF:-1,Sky Sport 2 Full HD
+http://cdnlive001.dp.ua:8080/live/0SLjGzpBix/8cdTwSCiFC/1454.ts
+#EXTINF:-1,Sky Sport 2 HD
+http://cdnlive001.dp.ua:8080/live/0SLjGzpBix/8cdTwSCiFC/9.ts
+#EXTINF:-1,Sky Sport 2 SD
+http://cdnlive001.dp.ua:8080/live/0SLjGzpBix/8cdTwSCiFC/279.ts
+#EXTINF:-1,Sky Sport 3 Full HD
+http://cdnlive001.dp.ua:8080/live/0SLjGzpBix/8cdTwSCiFC/1455.ts
+#EXTINF:-1,Sky Sport 3 HD
+http://cdnlive001.dp.ua:8080/live/0SLjGzpBix/8cdTwSCiFC/7.ts
+#EXTINF:-1,Sky Sport 3 SD
+http://cdnlive001.dp.ua:8080/live/0SLjGzpBix/8cdTwSCiFC/280.ts
+#EXTINF:-1,Sky Sport Plus HD
+http://cdnlive001.dp.ua:8080/live/0SLjGzpBix/8cdTwSCiFC/4.ts
+#EXTINF:-1,Sky Sport Plus SD
+http://cdnlive001.dp.ua:8080/live/0SLjGzpBix/8cdTwSCiFC/323.ts
+#EXTINF:-1,Fox Sports HD
+http://cdnlive001.dp.ua:8080/live/0SLjGzpBix/8cdTwSCiFC/12.ts
+#EXTINF:-1,Sky Sport F1 Full HD
+http://cdnlive001.dp.ua:8080/live/0SLjGzpBix/8cdTwSCiFC/1450.ts
+#EXTINF:-1,Sky Sport F1 HD
+http://cdnlive001.dp.ua:8080/live/0SLjGzpBix/8cdTwSCiFC/6.ts
+#EXTINF:-1,Sky Sport F1 SD
+http://cdnlive001.dp.ua:8080/live/0SLjGzpBix/8cdTwSCiFC/258.ts
+#EXTINF:-1,Sky Sport Moto GP Full HD
+http://cdnlive001.dp.ua:8080/live/0SLjGzpBix/8cdTwSCiFC/1456.ts
+#EXTINF:-1,Sky Sport Moto GP
+http://cdnlive001.dp.ua:8080/live/0SLjGzpBix/8cdTwSCiFC/5.ts
+#EXTINF:-1,Sky Sport Moto GP SD
+http://cdnlive001.dp.ua:8080/live/0SLjGzpBix/8cdTwSCiFC/281.ts
+#EXTINF:-1,Sky Eurosport HD
+http://cdnlive001.dp.ua:8080/live/0SLjGzpBix/8cdTwSCiFC/13.ts
+#EXTINF:-1,Sky Eurosport 2 HD
+http://cdnlive001.dp.ua:8080/live/0SLjGzpBix/8cdTwSCiFC/14.ts
+#EXTINF:-1,SuperTennis HD
+http://cdnlive001.dp.ua:8080/live/0SLjGzpBix/8cdTwSCiFC/208.ts
+#EXTINF:-1,Bike Channel
+http://cdnlive001.dp.ua:8080/live/0SLjGzpBix/8cdTwSCiFC/325.ts
+#EXTINF:-1,Sky Supercalcio HD
+http://cdnlive001.dp.ua:8080/live/0SLjGzpBix/8cdTwSCiFC/3.ts
+#EXTINF:-1,Sky Calcio 1 HD
+http://cdnlive001.dp.ua:8080/live/0SLjGzpBix/8cdTwSCiFC/31.ts
+#EXTINF:-1,Sky Calcio 2 HD
+http://cdnlive001.dp.ua:8080/live/0SLjGzpBix/8cdTwSCiFC/30.ts
+#EXTINF:-1,Sky Calcio 3 HD
+http://cdnlive001.dp.ua:8080/live/0SLjGzpBix/8cdTwSCiFC/29.ts
+#EXTINF:-1,Sky Calcio 4 HD
+http://cdnlive001.dp.ua:8080/live/0SLjGzpBix/8cdTwSCiFC/28.ts
+#EXTINF:-1,Sky Calcio 5 HD
+http://cdnlive001.dp.ua:8080/live/0SLjGzpBix/8cdTwSCiFC/27.ts
+#EXTINF:-1,Sky Calcio 6 HD
+http://cdnlive001.dp.ua:8080/live/0SLjGzpBix/8cdTwSCiFC/26.ts
+#EXTINF:-1,Sky Calcio 7 HD
+http://cdnlive001.dp.ua:8080/live/0SLjGzpBix/8cdTwSCiFC/25.ts
+#EXTINF:-1,Sky Calcio 8 HD
+http://cdnlive001.dp.ua:8080/live/0SLjGzpBix/8cdTwSCiFC/24.ts
+#EXTINF:-1,Sky Calcio 1 Full HD
+http://cdnlive001.dp.ua:8080/live/0SLjGzpBix/8cdTwSCiFC/1435.ts
+#EXTINF:-1,Sky Calcio 2 Full HD
+http://cdnlive001.dp.ua:8080/live/0SLjGzpBix/8cdTwSCiFC/1436.ts
+#EXTINF:-1,Sky Calcio 3 Full HD
+http://cdnlive001.dp.ua:8080/live/0SLjGzpBix/8cdTwSCiFC/1437.ts
+#EXTINF:-1,Sky Calcio 4 Full HD
+http://cdnlive001.dp.ua:8080/live/0SLjGzpBix/8cdTwSCiFC/1438.ts
+#EXTINF:-1,Sky Calcio 5 Full HD
+http://cdnlive001.dp.ua:8080/live/0SLjGzpBix/8cdTwSCiFC/1439.ts
+#EXTINF:-1,Sky Calcio 6 Full HD
+http://cdnlive001.dp.ua:8080/live/0SLjGzpBix/8cdTwSCiFC/1440.ts
+#EXTINF:-1,Sky Calcio 7 Full HD
+http://cdnlive001.dp.ua:8080/live/0SLjGzpBix/8cdTwSCiFC/1441.ts
+#EXTINF:-1,Sky Calcio 8 Full HD
+http://cdnlive001.dp.ua:8080/live/0SLjGzpBix/8cdTwSCiFC/1442.ts
+#EXTINF:-1,Milan Channel
+http://cdnlive001.dp.ua:8080/live/0SLjGzpBix/8cdTwSCiFC/235.ts
+#EXTINF:-1,Juventus TV
+http://cdnlive001.dp.ua:8080/live/0SLjGzpBix/8cdTwSCiFC/237.ts
+#EXTINF:-1,Inter Channel
+http://cdnlive001.dp.ua:8080/live/0SLjGzpBix/8cdTwSCiFC/238.ts
+#EXTINF:-1,Roma TV
+http://cdnlive001.dp.ua:8080/live/0SLjGzpBix/8cdTwSCiFC/232.ts
+#EXTINF:-1,Lazio Style Channel
+http://cdnlive001.dp.ua:8080/live/0SLjGzpBix/8cdTwSCiFC/236.ts
+#EXTINF:-1,Caccia e Pesca
+http://cdnlive001.dp.ua:8080/live/0SLjGzpBix/8cdTwSCiFC/239.ts
+#EXTINF:-1,Pesca e Caccia
+http://cdnlive001.dp.ua:8080/live/0SLjGzpBix/8cdTwSCiFC/234.ts
+#EXTINF:-1,Gazzetta TV
+http://cdnlive001.dp.ua:8080/live/0SLjGzpBix/8cdTwSCiFC/259.ts
+#EXTINF:-1,---- SKY CALCIO SD ----
+http://cdnlive001.dp.ua:8080/live/0SLjGzpBix/8cdTwSCiFC/311.ts
+#EXTINF:-1,Sky Supercalcio SD
+http://cdnlive001.dp.ua:8080/live/0SLjGzpBix/8cdTwSCiFC/324.ts
+#EXTINF:-1,Sky Calcio 1 SD
+http://cdnlive001.dp.ua:8080/live/0SLjGzpBix/8cdTwSCiFC/303.ts
+#EXTINF:-1,Sky Calcio 2 SD
+http://cdnlive001.dp.ua:8080/live/0SLjGzpBix/8cdTwSCiFC/304.ts
+#EXTINF:-1,Sky Calcio 3 SD
+http://cdnlive001.dp.ua:8080/live/0SLjGzpBix/8cdTwSCiFC/305.ts
+#EXTINF:-1,Sky Calcio 4 SD
+http://cdnlive001.dp.ua:8080/live/0SLjGzpBix/8cdTwSCiFC/306.ts
+#EXTINF:-1,Sky Calcio 5 SD
+http://cdnlive001.dp.ua:8080/live/0SLjGzpBix/8cdTwSCiFC/307.ts
+#EXTINF:-1,Sky Calcio 6 SD
+http://cdnlive001.dp.ua:8080/live/0SLjGzpBix/8cdTwSCiFC/308.ts
+#EXTINF:-1,Sky Calcio 7 SD
+http://cdnlive001.dp.ua:8080/live/0SLjGzpBix/8cdTwSCiFC/309.ts
+#EXTINF:-1,Sky Calcio 8 SD
+http://cdnlive001.dp.ua:8080/live/0SLjGzpBix/8cdTwSCiFC/310.ts
+#EXTINF:-1,---- NEWS ----
+http://cdnlive001.dp.ua:8080/live/0SLjGzpBix/8cdTwSCiFC/103.ts
+#EXTINF:-1,Sky Tg 24 HD
+http://cdnlive001.dp.ua:8080/live/0SLjGzpBix/8cdTwSCiFC/2.ts
+#EXTINF:-1,Rai News 24
+http://cdnlive001.dp.ua:8080/live/0SLjGzpBix/8cdTwSCiFC/225.ts
+#EXTINF:-1,Tgcom24
+http://cdnlive001.dp.ua:8080/live/0SLjGzpBix/8cdTwSCiFC/96.ts
+#EXTINF:-1,Euronews
+http://cdnlive001.dp.ua:8080/live/0SLjGzpBix/8cdTwSCiFC/229.ts
+#EXTINF:-1,---- MUSICA ----
+http://cdnlive001.dp.ua:8080/live/0SLjGzpBix/8cdTwSCiFC/227.ts
+#EXTINF:-1,RTL 102.5
+http://cdnlive001.dp.ua:8080/live/0SLjGzpBix/8cdTwSCiFC/216.ts
+#EXTINF:-1,Radio Italia TV
+http://cdnlive001.dp.ua:8080/live/0SLjGzpBix/8cdTwSCiFC/218.ts
+#EXTINF:-1,Radio 105 TV
+http://cdnlive001.dp.ua:8080/live/0SLjGzpBix/8cdTwSCiFC/228.ts
+#EXTINF:-1,Radio Montecarlo TV
+http://cdnlive001.dp.ua:8080/live/0SLjGzpBix/8cdTwSCiFC/217.ts
+#EXTINF:-1,Virgin Radio TV
+http://cdnlive001.dp.ua:8080/live/0SLjGzpBix/8cdTwSCiFC/215.ts
+#EXTINF:-1,Vevo TV 1
+http://cdnlive001.dp.ua:8080/live/0SLjGzpBix/8cdTwSCiFC/241.ts
+#EXTINF:-1,Vevo TV 2
+http://cdnlive001.dp.ua:8080/live/0SLjGzpBix/8cdTwSCiFC/242.ts
+#EXTINF:-1,Vevo TV 3
+http://cdnlive001.dp.ua:8080/live/0SLjGzpBix/8cdTwSCiFC/243.ts
+#EXTINF:-1,---- Ragazzi - BAMBINI ----
+http://cdnlive001.dp.ua:8080/live/0SLjGzpBix/8cdTwSCiFC/102.ts
+#EXTINF:-1,Nick Jr
+http://cdnlive001.dp.ua:8080/live/0SLjGzpBix/8cdTwSCiFC/250.ts
+#EXTINF:-1,Cartoon Network
+http://cdnlive001.dp.ua:8080/live/0SLjGzpBix/8cdTwSCiFC/60.ts
+#EXTINF:-1,DisneyChannel HD
+http://cdnlive001.dp.ua:8080/live/0SLjGzpBix/8cdTwSCiFC/205.ts
+#EXTINF:-1,Disney Channel +1
+http://cdnlive001.dp.ua:8080/live/0SLjGzpBix/8cdTwSCiFC/53.ts
+#EXTINF:-1,Disney Channel +2
+http://cdnlive001.dp.ua:8080/live/0SLjGzpBix/8cdTwSCiFC/246.ts
+#EXTINF:-1,Disney XD HD
+http://cdnlive001.dp.ua:8080/live/0SLjGzpBix/8cdTwSCiFC/206.ts
+#EXTINF:-1,Disney XD +1 HD
+http://cdnlive001.dp.ua:8080/live/0SLjGzpBix/8cdTwSCiFC/209.ts
+#EXTINF:-1,Premium Disney
+http://cdnlive001.dp.ua:8080/live/0SLjGzpBix/8cdTwSCiFC/54.ts
+#EXTINF:-1,Premium DisneyJunior
+http://cdnlive001.dp.ua:8080/live/0SLjGzpBix/8cdTwSCiFC/52.ts
+#EXTINF:-1,Super!
+http://cdnlive001.dp.ua:8080/live/0SLjGzpBix/8cdTwSCiFC/253.ts
+#EXTINF:-1,Premium Boing
+http://cdnlive001.dp.ua:8080/live/0SLjGzpBix/8cdTwSCiFC/71.ts
+#EXTINF:-1,Premium Cartoonito
+http://cdnlive001.dp.ua:8080/live/0SLjGzpBix/8cdTwSCiFC/59.ts
+#EXTINF:-1,Rai YoYo
+http://cdnlive001.dp.ua:8080/live/0SLjGzpBix/8cdTwSCiFC/219.ts
+#EXTINF:-1,Rai Gulp
+http://cdnlive001.dp.ua:8080/live/0SLjGzpBix/8cdTwSCiFC/226.ts
+#EXTINF:-1,---- BEIN SPORT FULL E ALTRI----
+http://cdnlive001.dp.ua:8080/live/0SLjGzpBix/8cdTwSCiFC/977.ts
+#EXTINF:-1,AR: Bein_Sport_01_HD
+http://cdnlive001.dp.ua:8080/live/0SLjGzpBix/8cdTwSCiFC/1280.ts
+#EXTINF:-1,AR: Bein_Sport_02_HD
+http://cdnlive001.dp.ua:8080/live/0SLjGzpBix/8cdTwSCiFC/1279.ts
+#EXTINF:-1,AR_Bein_Sport_03_HD
+http://cdnlive001.dp.ua:8080/live/0SLjGzpBix/8cdTwSCiFC/1262.ts
+#EXTINF:-1,AR: Bein_Sport_04_HD
+http://cdnlive001.dp.ua:8080/live/0SLjGzpBix/8cdTwSCiFC/1278.ts
+#EXTINF:-1,AR: Bein_Sport_05_HD
+http://cdnlive001.dp.ua:8080/live/0SLjGzpBix/8cdTwSCiFC/1277.ts
+#EXTINF:-1,AR: Bein_Sport_06_HD
+http://cdnlive001.dp.ua:8080/live/0SLjGzpBix/8cdTwSCiFC/1276.ts
+#EXTINF:-1,AR: Bein_Sport_07_HD
+http://cdnlive001.dp.ua:8080/live/0SLjGzpBix/8cdTwSCiFC/1275.ts
+#EXTINF:-1,AR: Bein_Sport_08_HD
+http://cdnlive001.dp.ua:8080/live/0SLjGzpBix/8cdTwSCiFC/1274.ts
+#EXTINF:-1,AR: Bein_Sport_09_HD
+http://cdnlive001.dp.ua:8080/live/0SLjGzpBix/8cdTwSCiFC/1273.ts
+#EXTINF:-1,AR: Bein_Sport_10_HD
+http://cdnlive001.dp.ua:8080/live/0SLjGzpBix/8cdTwSCiFC/1272.ts
+#EXTINF:-1,AR: Bein_Sport_11_HD
+http://cdnlive001.dp.ua:8080/live/0SLjGzpBix/8cdTwSCiFC/1271.ts
+#EXTINF:-1,AR: Bein_Sport_12_HD
+http://cdnlive001.dp.ua:8080/live/0SLjGzpBix/8cdTwSCiFC/1270.ts
+#EXTINF:-1,AR_Bein_Sport_13_HD
+http://cdnlive001.dp.ua:8080/live/0SLjGzpBix/8cdTwSCiFC/1261.ts
+#EXTINF:-1,AR: Bein_Sport_14_HD
+http://cdnlive001.dp.ua:8080/live/0SLjGzpBix/8cdTwSCiFC/1269.ts
+#EXTINF:-1,AR: Bein_Sport_15_HD
+http://cdnlive001.dp.ua:8080/live/0SLjGzpBix/8cdTwSCiFC/1268.ts
+#EXTINF:-1,AR: Bein_Sport_16_HD
+http://cdnlive001.dp.ua:8080/live/0SLjGzpBix/8cdTwSCiFC/1267.ts
+#EXTINF:-1,AR_BEIN_SPORT_MAX_1
+http://cdnlive001.dp.ua:8080/live/0SLjGzpBix/8cdTwSCiFC/1260.ts
+#EXTINF:-1,AR_BEIN_SPORT_MAX_2
+http://cdnlive001.dp.ua:8080/live/0SLjGzpBix/8cdTwSCiFC/1259.ts
+#EXTINF:-1,AR: BEIN-SPORT-AlKASS-1-HD
+http://cdnlive001.dp.ua:8080/live/0SLjGzpBix/8cdTwSCiFC/1281.ts
+#EXTINF:-1,AR:BEIN-SPORT-AlKASS-2-HD
+http://cdnlive001.dp.ua:8080/live/0SLjGzpBix/8cdTwSCiFC/1266.ts
+#EXTINF:-1,AR:BEIN-SPORT-AlKASS-3-HD
+http://cdnlive001.dp.ua:8080/live/0SLjGzpBix/8cdTwSCiFC/1265.ts
+#EXTINF:-1,AR:BEIN-SPORT-AlKASS-4-HD
+http://cdnlive001.dp.ua:8080/live/0SLjGzpBix/8cdTwSCiFC/1264.ts
+#EXTINF:-1,AR:BEIN-SPORT-AlKASS-5-HD
+http://cdnlive001.dp.ua:8080/live/0SLjGzpBix/8cdTwSCiFC/1263.ts
+#EXTINF:-1,USA_SHOWTIME_HD
+http://cdnlive001.dp.ua:8080/live/0SLjGzpBix/8cdTwSCiFC/1024.ts
+#EXTINF:-1,USA_VERSUS_HD
+http://cdnlive001.dp.ua:8080/live/0SLjGzpBix/8cdTwSCiFC/1016.ts
+#EXTINF:-1,USA_AFN_MOVIE
+http://cdnlive001.dp.ua:8080/live/0SLjGzpBix/8cdTwSCiFC/1041.ts
+#EXTINF:-1,USA_CBN
+http://cdnlive001.dp.ua:8080/live/0SLjGzpBix/8cdTwSCiFC/1035.ts
+#EXTINF:-1,USA_CBS_NEWS_HD
+http://cdnlive001.dp.ua:8080/live/0SLjGzpBix/8cdTwSCiFC/1034.ts
+#EXTINF:-1,USA_DISCOVERY_CHANNEL_HD
+http://cdnlive001.dp.ua:8080/live/0SLjGzpBix/8cdTwSCiFC/1033.ts
+#EXTINF:-1,USA_NASA_HD
+http://cdnlive001.dp.ua:8080/live/0SLjGzpBix/8cdTwSCiFC/1028.ts
+#EXTINF:-1,USA_Vevo_Playlist 1
+http://cdnlive001.dp.ua:8080/live/0SLjGzpBix/8cdTwSCiFC/1015.ts
+#EXTINF:-1,USA_Vevo_Playlist_2
+http://cdnlive001.dp.ua:8080/live/0SLjGzpBix/8cdTwSCiFC/1014.ts
+#EXTINF:-1,USA_Vevo_Playlist_3
+http://cdnlive001.dp.ua:8080/live/0SLjGzpBix/8cdTwSCiFC/1013.ts
+#EXTINF:-1,USA_WORLD_FASHION_HD
+http://cdnlive001.dp.ua:8080/live/0SLjGzpBix/8cdTwSCiFC/1012.ts
+#EXTINF:-1,USA_Astro_SUPERSPORT_01
+http://cdnlive001.dp.ua:8080/live/0SLjGzpBix/8cdTwSCiFC/1040.ts
+#EXTINF:-1,USA_Astro_SUPERSPORT_02
+http://cdnlive001.dp.ua:8080/live/0SLjGzpBix/8cdTwSCiFC/1039.ts
+#EXTINF:-1,USA_Astro_SUPERSPORT_03
+http://cdnlive001.dp.ua:8080/live/0SLjGzpBix/8cdTwSCiFC/1038.ts
+#EXTINF:-1,USA_Astro_SUPERSPORT_04
+http://cdnlive001.dp.ua:8080/live/0SLjGzpBix/8cdTwSCiFC/1037.ts
+#EXTINF:-1,USA_BYU_SPORTS_TV_HD
+http://cdnlive001.dp.ua:8080/live/0SLjGzpBix/8cdTwSCiFC/1036.ts
+#EXTINF:-1,USA_ESPN
+http://cdnlive001.dp.ua:8080/live/0SLjGzpBix/8cdTwSCiFC/1032.ts
+#EXTINF:-1,USA_FOX_SPORT_1
+http://cdnlive001.dp.ua:8080/live/0SLjGzpBix/8cdTwSCiFC/1031.ts
+#EXTINF:-1,USA_FOX_SPORT_2
+http://cdnlive001.dp.ua:8080/live/0SLjGzpBix/8cdTwSCiFC/1030.ts
+#EXTINF:-1,USA_MIAMI_TV
+http://cdnlive001.dp.ua:8080/live/0SLjGzpBix/8cdTwSCiFC/1029.ts
+#EXTINF:-1,USA_NBC
+http://cdnlive001.dp.ua:8080/live/0SLjGzpBix/8cdTwSCiFC/1027.ts
+#EXTINF:-1,USA_NFL
+http://cdnlive001.dp.ua:8080/live/0SLjGzpBix/8cdTwSCiFC/1026.ts
+#EXTINF:-1,USA_REDBULL_TV
+http://cdnlive001.dp.ua:8080/live/0SLjGzpBix/8cdTwSCiFC/1025.ts
+#EXTINF:-1,USA_SPORT_NET_1
+http://cdnlive001.dp.ua:8080/live/0SLjGzpBix/8cdTwSCiFC/1023.ts
+#EXTINF:-1,USA_SPORT_NET_360
+http://cdnlive001.dp.ua:8080/live/0SLjGzpBix/8cdTwSCiFC/1022.ts
+#EXTINF:-1,USA_TSN_1
+http://cdnlive001.dp.ua:8080/live/0SLjGzpBix/8cdTwSCiFC/1021.ts
+#EXTINF:-1,USA_TSN_2
+http://cdnlive001.dp.ua:8080/live/0SLjGzpBix/8cdTwSCiFC/1020.ts
+#EXTINF:-1,USA_TSN_3
+http://cdnlive001.dp.ua:8080/live/0SLjGzpBix/8cdTwSCiFC/1019.ts
+#EXTINF:-1,USA_TSN_4
+http://cdnlive001.dp.ua:8080/live/0SLjGzpBix/8cdTwSCiFC/1018.ts
+#EXTINF:-1,USA_TSN_5
+http://cdnlive001.dp.ua:8080/live/0SLjGzpBix/8cdTwSCiFC/1017.ts
+#EXTINF:-1,[ ALB ] Kino Premiere 1 HD
+http://cdnlive001.dp.ua:8080/live/0SLjGzpBix/8cdTwSCiFC/998.ts
+#EXTINF:-1,[ ALB ] Kino Premiere 2 HD
+http://cdnlive001.dp.ua:8080/live/0SLjGzpBix/8cdTwSCiFC/997.ts
+#EXTINF:-1,[ ALB ] Klan Kosova HD
+http://cdnlive001.dp.ua:8080/live/0SLjGzpBix/8cdTwSCiFC/996.ts
+#EXTINF:-1,AL_ZJARR_TV
+http://cdnlive001.dp.ua:8080/live/0SLjGzpBix/8cdTwSCiFC/1282.ts
+#EXTINF:-1,AL_Vision_Plus
+http://cdnlive001.dp.ua:8080/live/0SLjGzpBix/8cdTwSCiFC/1283.ts
+#EXTINF:-1,AL_RTV_ART
+http://cdnlive001.dp.ua:8080/live/0SLjGzpBix/8cdTwSCiFC/1294.ts
+#EXTINF:-1,AL_RTV21_Popullore
+http://cdnlive001.dp.ua:8080/live/0SLjGzpBix/8cdTwSCiFC/1295.ts
+#EXTINF:-1,AL_RTV21_Plus
+http://cdnlive001.dp.ua:8080/live/0SLjGzpBix/8cdTwSCiFC/1296.ts
+#EXTINF:-1,AL_RTV21_Maqedonia
+http://cdnlive001.dp.ua:8080/live/0SLjGzpBix/8cdTwSCiFC/1297.ts
+#EXTINF:-1,AL_RTK_3
+http://cdnlive001.dp.ua:8080/live/0SLjGzpBix/8cdTwSCiFC/1298.ts
+#EXTINF:-1,AL_RTK_2
+http://cdnlive001.dp.ua:8080/live/0SLjGzpBix/8cdTwSCiFC/1299.ts
+#EXTINF:-1,AL_RTK_01
+http://cdnlive001.dp.ua:8080/live/0SLjGzpBix/8cdTwSCiFC/1300.ts
+#EXTINF:-1,AL_PEACE_TV
+http://cdnlive001.dp.ua:8080/live/0SLjGzpBix/8cdTwSCiFC/1301.ts
+#EXTINF:-1,AL_Nat_Geographic
+http://cdnlive001.dp.ua:8080/live/0SLjGzpBix/8cdTwSCiFC/1302.ts
+#EXTINF:-1,AL_Muse_TV
+http://cdnlive001.dp.ua:8080/live/0SLjGzpBix/8cdTwSCiFC/1303.ts
+#EXTINF:-1,AL_MKTV_2
+http://cdnlive001.dp.ua:8080/live/0SLjGzpBix/8cdTwSCiFC/1304.ts
+#EXTINF:-1,AL_KTV_HD
+http://cdnlive001.dp.ua:8080/live/0SLjGzpBix/8cdTwSCiFC/1305.ts
+#EXTINF:-1,AL_KOHA_TELEVIZION_HD
+http://cdnlive001.dp.ua:8080/live/0SLjGzpBix/8cdTwSCiFC/1306.ts
+#EXTINF:-1,AL_Klan_HD
+http://cdnlive001.dp.ua:8080/live/0SLjGzpBix/8cdTwSCiFC/1307.ts
+#EXTINF:-1,AL_Kanali_7
+http://cdnlive001.dp.ua:8080/live/0SLjGzpBix/8cdTwSCiFC/1308.ts
+#EXTINF:-1,AL_Fox_Life
+http://cdnlive001.dp.ua:8080/live/0SLjGzpBix/8cdTwSCiFC/1309.ts
+#EXTINF:-1,AL_Folklorit_TV
+http://cdnlive001.dp.ua:8080/live/0SLjGzpBix/8cdTwSCiFC/1310.ts
+#EXTINF:-1,AL_First_TV
+http://cdnlive001.dp.ua:8080/live/0SLjGzpBix/8cdTwSCiFC/1311.ts
+#EXTINF:-1,AL_Film_Thriller
+http://cdnlive001.dp.ua:8080/live/0SLjGzpBix/8cdTwSCiFC/1312.ts
+#EXTINF:-1,AL_Film_Komedi
+http://cdnlive001.dp.ua:8080/live/0SLjGzpBix/8cdTwSCiFC/1313.ts
+#EXTINF:-1,AL_Film_Junior_TV
+http://cdnlive001.dp.ua:8080/live/0SLjGzpBix/8cdTwSCiFC/1314.ts
+#EXTINF:-1,AL_Film_Hits
+http://cdnlive001.dp.ua:8080/live/0SLjGzpBix/8cdTwSCiFC/1315.ts
+#EXTINF:-1,AL_Film_Dy_HD
+http://cdnlive001.dp.ua:8080/live/0SLjGzpBix/8cdTwSCiFC/1316.ts
+#EXTINF:-1,AL_Film_Drame
+http://cdnlive001.dp.ua:8080/live/0SLjGzpBix/8cdTwSCiFC/1317.ts
+#EXTINF:-1,AL_Film_Autor
+http://cdnlive001.dp.ua:8080/live/0SLjGzpBix/8cdTwSCiFC/1318.ts
+#EXTINF:-1,AL_Expoler_Shkence
+http://cdnlive001.dp.ua:8080/live/0SLjGzpBix/8cdTwSCiFC/1319.ts
+#EXTINF:-1,AL_Club_TV
+http://cdnlive001.dp.ua:8080/live/0SLjGzpBix/8cdTwSCiFC/1320.ts
+#EXTINF:-1,AL_Click_TV
+http://cdnlive001.dp.ua:8080/live/0SLjGzpBix/8cdTwSCiFC/1321.ts
+#EXTINF:-1,AL_BBF_MUSIC
+http://cdnlive001.dp.ua:8080/live/0SLjGzpBix/8cdTwSCiFC/1322.ts
+#EXTINF:-1,AL_A1_Shqiptare
+http://cdnlive001.dp.ua:8080/live/0SLjGzpBix/8cdTwSCiFC/1323.ts
+#EXTINF:-1,[ ALB ] Jolly HD
+http://cdnlive001.dp.ua:8080/live/0SLjGzpBix/8cdTwSCiFC/1001.ts
+#EXTINF:-1,[ ALB ] Fox HD
+http://cdnlive001.dp.ua:8080/live/0SLjGzpBix/8cdTwSCiFC/1002.ts
+#EXTINF:-1,[ ALB ] Film Hits  1
+http://cdnlive001.dp.ua:8080/live/0SLjGzpBix/8cdTwSCiFC/1003.ts
+#EXTINF:-1,[ ALB ] Film Aksion
+http://cdnlive001.dp.ua:8080/live/0SLjGzpBix/8cdTwSCiFC/1004.ts
+#EXTINF:-1,[ ALB ] Expoler Natyra
+http://cdnlive001.dp.ua:8080/live/0SLjGzpBix/8cdTwSCiFC/1005.ts
+#EXTINF:-1,[ ALB ] ALBA UK HD
+http://cdnlive001.dp.ua:8080/live/0SLjGzpBix/8cdTwSCiFC/1006.ts
+#EXTINF:-1,[ ALB ] ALB MUSIC UK [ HD ]
+http://cdnlive001.dp.ua:8080/live/0SLjGzpBix/8cdTwSCiFC/1007.ts
+#EXTINF:-1,[ ALB ] ALB Humor
+http://cdnlive001.dp.ua:8080/live/0SLjGzpBix/8cdTwSCiFC/1008.ts
+#EXTINF:-1,[ ALB ] ALB Hits
+http://cdnlive001.dp.ua:8080/live/0SLjGzpBix/8cdTwSCiFC/1009.ts
+#EXTINF:-1,[ ALB ] ALB Cifteli HD
+http://cdnlive001.dp.ua:8080/live/0SLjGzpBix/8cdTwSCiFC/1010.ts
+#EXTINF:-1,[ ALB ] A1 Report
+http://cdnlive001.dp.ua:8080/live/0SLjGzpBix/8cdTwSCiFC/1011.ts
+#EXTINF:-1,[ ALB ] Top Channel SD
+http://cdnlive001.dp.ua:8080/live/0SLjGzpBix/8cdTwSCiFC/989.ts
+#EXTINF:-1,[ ALB ] RTV21 Mix
+http://cdnlive001.dp.ua:8080/live/0SLjGzpBix/8cdTwSCiFC/992.ts
+#EXTINF:-1,[ ALB ] RTV21 Junior
+http://cdnlive001.dp.ua:8080/live/0SLjGzpBix/8cdTwSCiFC/993.ts
+#EXTINF:-1,[ ALB ] RTK 4
+http://cdnlive001.dp.ua:8080/live/0SLjGzpBix/8cdTwSCiFC/994.ts
+#EXTINF:-1,[ ALB ] MusicAL TV
+http://cdnlive001.dp.ua:8080/live/0SLjGzpBix/8cdTwSCiFC/995.ts
+#EXTINF:-1,AL_Tring_World
+http://cdnlive001.dp.ua:8080/live/0SLjGzpBix/8cdTwSCiFC/1284.ts
+#EXTINF:-1,AL_Tring_Shqip
+http://cdnlive001.dp.ua:8080/live/0SLjGzpBix/8cdTwSCiFC/1285.ts
+#EXTINF:-1,AL_Tring_Histori
+http://cdnlive001.dp.ua:8080/live/0SLjGzpBix/8cdTwSCiFC/1286.ts
+#EXTINF:-1,AL_TRING_Folk
+http://cdnlive001.dp.ua:8080/live/0SLjGzpBix/8cdTwSCiFC/1287.ts
+#EXTINF:-1,AL_Tring_Fantasy
+http://cdnlive001.dp.ua:8080/live/0SLjGzpBix/8cdTwSCiFC/1288.ts
+#EXTINF:-1,[ ALB ] Tring Tring
+http://cdnlive001.dp.ua:8080/live/0SLjGzpBix/8cdTwSCiFC/979.ts
+#EXTINF:-1,[ ALB ] Tring Super
+http://cdnlive001.dp.ua:8080/live/0SLjGzpBix/8cdTwSCiFC/980.ts
+#EXTINF:-1,[ ALB ] Tring Planet
+http://cdnlive001.dp.ua:8080/live/0SLjGzpBix/8cdTwSCiFC/985.ts
+#EXTINF:-1,[ ALB ] Tring Max
+http://cdnlive001.dp.ua:8080/live/0SLjGzpBix/8cdTwSCiFC/986.ts
+#EXTINF:-1,[ ALB ] Tring Comedy
+http://cdnlive001.dp.ua:8080/live/0SLjGzpBix/8cdTwSCiFC/987.ts
+#EXTINF:-1,[ ALB ] Tring 3 Plus
+http://cdnlive001.dp.ua:8080/live/0SLjGzpBix/8cdTwSCiFC/988.ts
+#EXTINF:-1,[ ALB ] Tring Sport News HD
+http://cdnlive001.dp.ua:8080/live/0SLjGzpBix/8cdTwSCiFC/981.ts
+#EXTINF:-1,[ ALB ] Tring Sport 1 HD
+http://cdnlive001.dp.ua:8080/live/0SLjGzpBix/8cdTwSCiFC/984.ts
+#EXTINF:-1,[ ALB ] Tring Sport 3 HD
+http://cdnlive001.dp.ua:8080/live/0SLjGzpBix/8cdTwSCiFC/983.ts
+#EXTINF:-1,[ ALB ] Tring Sport 4 HD
+http://cdnlive001.dp.ua:8080/live/0SLjGzpBix/8cdTwSCiFC/982.ts
+#EXTINF:-1,AL_Super_Sport_1_HD
+http://cdnlive001.dp.ua:8080/live/0SLjGzpBix/8cdTwSCiFC/1291.ts
+#EXTINF:-1,AL_Super_Sport_2_HD
+http://cdnlive001.dp.ua:8080/live/0SLjGzpBix/8cdTwSCiFC/1290.ts
+#EXTINF:-1,AL_Super_Sport_3_HD
+http://cdnlive001.dp.ua:8080/live/0SLjGzpBix/8cdTwSCiFC/1289.ts
+#EXTINF:-1,[ ALB ] Super Sport 4 HD
+http://cdnlive001.dp.ua:8080/live/0SLjGzpBix/8cdTwSCiFC/991.ts
+#EXTINF:-1,[ ALB ] Super Sport 6
+http://cdnlive001.dp.ua:8080/live/0SLjGzpBix/8cdTwSCiFC/990.ts
+#EXTINF:-1,AL_SS_Kosova_1_HD
+http://cdnlive001.dp.ua:8080/live/0SLjGzpBix/8cdTwSCiFC/1293.ts
+#EXTINF:-1,AL_SS_Kosova_2_HD
+http://cdnlive001.dp.ua:8080/live/0SLjGzpBix/8cdTwSCiFC/1292.ts
+#EXTINF:-1,[ ALB ] K Sport 2
+http://cdnlive001.dp.ua:8080/live/0SLjGzpBix/8cdTwSCiFC/999.ts
+#EXTINF:-1,[ ALB ] K Sport 1
+http://cdnlive001.dp.ua:8080/live/0SLjGzpBix/8cdTwSCiFC/1000.ts
+#EXTINF:-1,---- OLANDESI----
+http://cdnlive001.dp.ua:8080/live/0SLjGzpBix/8cdTwSCiFC/978.ts
+#EXTINF:-1,NL: HBO_1_HD
+http://cdnlive001.dp.ua:8080/live/0SLjGzpBix/8cdTwSCiFC/1160.ts
+#EXTINF:-1,NL: HBO_2_HD
+http://cdnlive001.dp.ua:8080/live/0SLjGzpBix/8cdTwSCiFC/1159.ts
+#EXTINF:-1,NL: HBO_3_HD
+http://cdnlive001.dp.ua:8080/live/0SLjGzpBix/8cdTwSCiFC/1158.ts
+#EXTINF:-1,NL: NPO_1_HD
+http://cdnlive001.dp.ua:8080/live/0SLjGzpBix/8cdTwSCiFC/1157.ts
+#EXTINF:-1,NL: NPO_2_HD
+http://cdnlive001.dp.ua:8080/live/0SLjGzpBix/8cdTwSCiFC/1156.ts
+#EXTINF:-1,NL: NPO_3_HD
+http://cdnlive001.dp.ua:8080/live/0SLjGzpBix/8cdTwSCiFC/1155.ts
+#EXTINF:-1,NL: RTL_4_HD
+http://cdnlive001.dp.ua:8080/live/0SLjGzpBix/8cdTwSCiFC/1154.ts
+#EXTINF:-1,NL: RTL_5_HD
+http://cdnlive001.dp.ua:8080/live/0SLjGzpBix/8cdTwSCiFC/1153.ts
+#EXTINF:-1,NL: RTL_7_HD
+http://cdnlive001.dp.ua:8080/live/0SLjGzpBix/8cdTwSCiFC/1152.ts
+#EXTINF:-1,NL: RTL_8_HD
+http://cdnlive001.dp.ua:8080/live/0SLjGzpBix/8cdTwSCiFC/1151.ts
+#EXTINF:-1,NL_EDGE_SPORT
+http://cdnlive001.dp.ua:8080/live/0SLjGzpBix/8cdTwSCiFC/1150.ts
+#EXTINF:-1,NL_Film1_Action_HD
+http://cdnlive001.dp.ua:8080/live/0SLjGzpBix/8cdTwSCiFC/1149.ts
+#EXTINF:-1,NL_Film1_Premiere_HD
+http://cdnlive001.dp.ua:8080/live/0SLjGzpBix/8cdTwSCiFC/1148.ts
+#EXTINF:-1,NL: Film1_Comedy_&_Kids
+http://cdnlive001.dp.ua:8080/live/0SLjGzpBix/8cdTwSCiFC/1162.ts
+#EXTINF:-1,NL: Film1_Sundance
+http://cdnlive001.dp.ua:8080/live/0SLjGzpBix/8cdTwSCiFC/1161.ts
+#EXTINF:-1,NL_FILM1_SPOTLIGT
+http://cdnlive001.dp.ua:8080/live/0SLjGzpBix/8cdTwSCiFC/1147.ts
+#EXTINF:-1,NL_Fox_Sports1_Eredivisie
+http://cdnlive001.dp.ua:8080/live/0SLjGzpBix/8cdTwSCiFC/1146.ts
+#EXTINF:-1,NL_Fox_Sports2_Internationaal
+http://cdnlive001.dp.ua:8080/live/0SLjGzpBix/8cdTwSCiFC/1145.ts
+#EXTINF:-1,NL_Fox_Sports3_Eredivisie
+http://cdnlive001.dp.ua:8080/live/0SLjGzpBix/8cdTwSCiFC/1144.ts
+#EXTINF:-1,NL_Fox_Sports4_Internationaal
+http://cdnlive001.dp.ua:8080/live/0SLjGzpBix/8cdTwSCiFC/1143.ts
+#EXTINF:-1,NL_Fox_Sports5_Eredivisie
+http://cdnlive001.dp.ua:8080/live/0SLjGzpBix/8cdTwSCiFC/1142.ts
+#EXTINF:-1,NL_Fox_Sports6_Internationaal
+http://cdnlive001.dp.ua:8080/live/0SLjGzpBix/8cdTwSCiFC/1141.ts
+#EXTINF:-1,NL_tv_oost
+http://cdnlive001.dp.ua:8080/live/0SLjGzpBix/8cdTwSCiFC/1140.ts
+#EXTINF:-1,NL_ZIGO_SPORT_racing
+http://cdnlive001.dp.ua:8080/live/0SLjGzpBix/8cdTwSCiFC/1139.ts
+#EXTINF:-1,BE_TVO
+http://cdnlive001.dp.ua:8080/live/0SLjGzpBix/8cdTwSCiFC/1246.ts
+#EXTINF:-1,BE_RTL_TVi_HD
+http://cdnlive001.dp.ua:8080/live/0SLjGzpBix/8cdTwSCiFC/1247.ts
+#EXTINF:-1,BE_Rtl_Tvi
+http://cdnlive001.dp.ua:8080/live/0SLjGzpBix/8cdTwSCiFC/1248.ts
+#EXTINF:-1,BE_Plug_RTL
+http://cdnlive001.dp.ua:8080/live/0SLjGzpBix/8cdTwSCiFC/1249.ts
+#EXTINF:-1,BE_La_Une_HD
+http://cdnlive001.dp.ua:8080/live/0SLjGzpBix/8cdTwSCiFC/1250.ts
+#EXTINF:-1,BE_La_Trois
+http://cdnlive001.dp.ua:8080/live/0SLjGzpBix/8cdTwSCiFC/1251.ts
+#EXTINF:-1,Be_La_Deux
+http://cdnlive001.dp.ua:8080/live/0SLjGzpBix/8cdTwSCiFC/1252.ts
+#EXTINF:-1,BE_Ketnet
+http://cdnlive001.dp.ua:8080/live/0SLjGzpBix/8cdTwSCiFC/1253.ts
+#EXTINF:-1,BE_Een_HD
+http://cdnlive001.dp.ua:8080/live/0SLjGzpBix/8cdTwSCiFC/1254.ts
+#EXTINF:-1,BE_Club_RTL
+http://cdnlive001.dp.ua:8080/live/0SLjGzpBix/8cdTwSCiFC/1255.ts
+#EXTINF:-1,BE_Canvas_HD
+http://cdnlive001.dp.ua:8080/live/0SLjGzpBix/8cdTwSCiFC/1256.ts
+#EXTINF:-1,BE_Acht
+http://cdnlive001.dp.ua:8080/live/0SLjGzpBix/8cdTwSCiFC/1257.ts
+#EXTINF:-1,BE_2BE_HD
+http://cdnlive001.dp.ua:8080/live/0SLjGzpBix/8cdTwSCiFC/1258.ts
+#EXTINF:-1,---- TEDESCHI ----
+http://cdnlive001.dp.ua:8080/live/0SLjGzpBix/8cdTwSCiFC/976.ts
+#EXTINF:-1,DE_Das_Erste
+http://cdnlive001.dp.ua:8080/live/0SLjGzpBix/8cdTwSCiFC/1242.ts
+#EXTINF:-1,DE_Discovery_Channel_HD
+http://cdnlive001.dp.ua:8080/live/0SLjGzpBix/8cdTwSCiFC/1241.ts
+#EXTINF:-1,DE_Disney_Channel_HD
+http://cdnlive001.dp.ua:8080/live/0SLjGzpBix/8cdTwSCiFC/1240.ts
+#EXTINF:-1,DE_Disney_Cinemagic_HD
+http://cdnlive001.dp.ua:8080/live/0SLjGzpBix/8cdTwSCiFC/1239.ts
+#EXTINF:-1,DE_Disney_XD
+http://cdnlive001.dp.ua:8080/live/0SLjGzpBix/8cdTwSCiFC/1238.ts
+#EXTINF:-1,DE_Eurosport
+http://cdnlive001.dp.ua:8080/live/0SLjGzpBix/8cdTwSCiFC/1237.ts
+#EXTINF:-1,DE_Fox_HD
+http://cdnlive001.dp.ua:8080/live/0SLjGzpBix/8cdTwSCiFC/1236.ts
+#EXTINF:-1,DE_KABEL_1_HD
+http://cdnlive001.dp.ua:8080/live/0SLjGzpBix/8cdTwSCiFC/1235.ts
+#EXTINF:-1,DE_KIKA_HD
+http://cdnlive001.dp.ua:8080/live/0SLjGzpBix/8cdTwSCiFC/1234.ts
+#EXTINF:-1,DE_Nickelodeon_JR
+http://cdnlive001.dp.ua:8080/live/0SLjGzpBix/8cdTwSCiFC/1233.ts
+#EXTINF:-1,DE_ORF_1_HD
+http://cdnlive001.dp.ua:8080/live/0SLjGzpBix/8cdTwSCiFC/1232.ts
+#EXTINF:-1,DE_PRO7_HD
+http://cdnlive001.dp.ua:8080/live/0SLjGzpBix/8cdTwSCiFC/1231.ts
+#EXTINF:-1,DE_PRO7_MAXX_HD
+http://cdnlive001.dp.ua:8080/live/0SLjGzpBix/8cdTwSCiFC/1230.ts
+#EXTINF:-1,DE_RTL_1_HD
+http://cdnlive001.dp.ua:8080/live/0SLjGzpBix/8cdTwSCiFC/1229.ts
+#EXTINF:-1,DE_Sat_1_HD
+http://cdnlive001.dp.ua:8080/live/0SLjGzpBix/8cdTwSCiFC/1228.ts
+#EXTINF:-1,DE_SKY_13_STREET_HD
+http://cdnlive001.dp.ua:8080/live/0SLjGzpBix/8cdTwSCiFC/1227.ts
+#EXTINF:-1,DE_Sky_Action_HD
+http://cdnlive001.dp.ua:8080/live/0SLjGzpBix/8cdTwSCiFC/1226.ts
+#EXTINF:-1,DE_Sky_Atlantic_HD
+http://cdnlive001.dp.ua:8080/live/0SLjGzpBix/8cdTwSCiFC/1225.ts
+#EXTINF:-1,DE_Sky_Cinema_01_HD
+http://cdnlive001.dp.ua:8080/live/0SLjGzpBix/8cdTwSCiFC/1224.ts
+#EXTINF:-1,DE_Sky_Cinema_24_HD
+http://cdnlive001.dp.ua:8080/live/0SLjGzpBix/8cdTwSCiFC/1223.ts
+#EXTINF:-1,DE_Sky_Comedy_HD
+http://cdnlive001.dp.ua:8080/live/0SLjGzpBix/8cdTwSCiFC/1222.ts
+#EXTINF:-1,DE_Sky_Discovery_Channel_HD
+http://cdnlive001.dp.ua:8080/live/0SLjGzpBix/8cdTwSCiFC/1221.ts
+#EXTINF:-1,DE_SKY_EMOTION_HD
+http://cdnlive001.dp.ua:8080/live/0SLjGzpBix/8cdTwSCiFC/1220.ts
+#EXTINF:-1,DE_Sky_Hits_HD
+http://cdnlive001.dp.ua:8080/live/0SLjGzpBix/8cdTwSCiFC/1219.ts
+#EXTINF:-1,DE_Sky_Krimi_HD
+http://cdnlive001.dp.ua:8080/live/0SLjGzpBix/8cdTwSCiFC/1218.ts
+#EXTINF:-1,DE_Sky_TNT_Film_HD
+http://cdnlive001.dp.ua:8080/live/0SLjGzpBix/8cdTwSCiFC/1211.ts
+#EXTINF:-1,DE_VOX_HD
+http://cdnlive001.dp.ua:8080/live/0SLjGzpBix/8cdTwSCiFC/1210.ts
+#EXTINF:-1,DE_WDR
+http://cdnlive001.dp.ua:8080/live/0SLjGzpBix/8cdTwSCiFC/1209.ts
+#EXTINF:-1,DE_ZDF_HD
+http://cdnlive001.dp.ua:8080/live/0SLjGzpBix/8cdTwSCiFC/1208.ts
+#EXTINF:-1,DE_Sky_Select_01_HD
+http://cdnlive001.dp.ua:8080/live/0SLjGzpBix/8cdTwSCiFC/1217.ts
+#EXTINF:-1,DE_Sky_Select_02_HD
+http://cdnlive001.dp.ua:8080/live/0SLjGzpBix/8cdTwSCiFC/1216.ts
+#EXTINF:-1,DE_Sky_Select_03_HD
+http://cdnlive001.dp.ua:8080/live/0SLjGzpBix/8cdTwSCiFC/1215.ts
+#EXTINF:-1,DE_Sky_Select_04_HD
+http://cdnlive001.dp.ua:8080/live/0SLjGzpBix/8cdTwSCiFC/1214.ts
+#EXTINF:-1,DE_Sky_Sport_01_HD
+http://cdnlive001.dp.ua:8080/live/0SLjGzpBix/8cdTwSCiFC/1213.ts
+#EXTINF:-1,DE_Sky_Sport_02_HD
+http://cdnlive001.dp.ua:8080/live/0SLjGzpBix/8cdTwSCiFC/1212.ts
+#EXTINF:-1,DE_BUNDESLIGA_01_HD
+http://cdnlive001.dp.ua:8080/live/0SLjGzpBix/8cdTwSCiFC/1245.ts
+#EXTINF:-1,DE_BUNDESLIGA_02_HD
+http://cdnlive001.dp.ua:8080/live/0SLjGzpBix/8cdTwSCiFC/1244.ts
+#EXTINF:-1,DE_BUNDESLIGA_03_HD
+http://cdnlive001.dp.ua:8080/live/0SLjGzpBix/8cdTwSCiFC/1243.ts
+#EXTINF:-1,---- SPAGNOLI----
+http://cdnlive001.dp.ua:8080/live/0SLjGzpBix/8cdTwSCiFC/975.ts
+#EXTINF:-1,EP_FOX_LIFE_HD
+http://cdnlive001.dp.ua:8080/live/0SLjGzpBix/8cdTwSCiFC/1206.ts
+#EXTINF:-1,EP_PARAMOUNT
+http://cdnlive001.dp.ua:8080/live/0SLjGzpBix/8cdTwSCiFC/1205.ts
+#EXTINF:-1,ES_C _XTRA
+http://cdnlive001.dp.ua:8080/live/0SLjGzpBix/8cdTwSCiFC/1202.ts
+#EXTINF:-1,ES_Calle_13
+http://cdnlive001.dp.ua:8080/live/0SLjGzpBix/8cdTwSCiFC/1201.ts
+#EXTINF:-1,ES_Canal _COCINA
+http://cdnlive001.dp.ua:8080/live/0SLjGzpBix/8cdTwSCiFC/1200.ts
+#EXTINF:-1,ES_Canal _COMEDIA
+http://cdnlive001.dp.ua:8080/live/0SLjGzpBix/8cdTwSCiFC/1199.ts
+#EXTINF:-1,ES_Canal _DCINE
+http://cdnlive001.dp.ua:8080/live/0SLjGzpBix/8cdTwSCiFC/1198.ts
+#EXTINF:-1,ES_Canal _Estrenos
+http://cdnlive001.dp.ua:8080/live/0SLjGzpBix/8cdTwSCiFC/1197.ts
+#EXTINF:-1,ES_Canal _Series
+http://cdnlive001.dp.ua:8080/live/0SLjGzpBix/8cdTwSCiFC/1194.ts
+#EXTINF:-1,ES_Canal _Series_Extra
+http://cdnlive001.dp.ua:8080/live/0SLjGzpBix/8cdTwSCiFC/1193.ts
+#EXTINF:-1,ES_Canal_Action
+http://cdnlive001.dp.ua:8080/live/0SLjGzpBix/8cdTwSCiFC/1190.ts
+#EXTINF:-1,ES_CLASSICA
+http://cdnlive001.dp.ua:8080/live/0SLjGzpBix/8cdTwSCiFC/1186.ts
+#EXTINF:-1,ES_COMEDY_CENTRAL
+http://cdnlive001.dp.ua:8080/live/0SLjGzpBix/8cdTwSCiFC/1185.ts
+#EXTINF:-1,ES_C_Hollywood_HD
+http://cdnlive001.dp.ua:8080/live/0SLjGzpBix/8cdTwSCiFC/1184.ts
+#EXTINF:-1,ES_DISNEY_CHANNEL
+http://cdnlive001.dp.ua:8080/live/0SLjGzpBix/8cdTwSCiFC/1183.ts
+#EXTINF:-1,ES_DISNEY_JUNIOR
+http://cdnlive001.dp.ua:8080/live/0SLjGzpBix/8cdTwSCiFC/1182.ts
+#EXTINF:-1,ES_DISNEY_XD
+http://cdnlive001.dp.ua:8080/live/0SLjGzpBix/8cdTwSCiFC/1181.ts
+#EXTINF:-1,ES_Energy
+http://cdnlive001.dp.ua:8080/live/0SLjGzpBix/8cdTwSCiFC/1180.ts
+#EXTINF:-1,ES_FOX_HD
+http://cdnlive001.dp.ua:8080/live/0SLjGzpBix/8cdTwSCiFC/1179.ts
+#EXTINF:-1,ES_La1
+http://cdnlive001.dp.ua:8080/live/0SLjGzpBix/8cdTwSCiFC/1178.ts
+#EXTINF:-1,ES_La2
+http://cdnlive001.dp.ua:8080/live/0SLjGzpBix/8cdTwSCiFC/1177.ts
+#EXTINF:-1,ES_NEOX
+http://cdnlive001.dp.ua:8080/live/0SLjGzpBix/8cdTwSCiFC/1174.ts
+#EXTINF:-1,ES_SOL
+http://cdnlive001.dp.ua:8080/live/0SLjGzpBix/8cdTwSCiFC/1173.ts
+#EXTINF:-1,ES_SYFY
+http://cdnlive001.dp.ua:8080/live/0SLjGzpBix/8cdTwSCiFC/1172.ts
+#EXTINF:-1,ES_TV3
+http://cdnlive001.dp.ua:8080/live/0SLjGzpBix/8cdTwSCiFC/1163.ts
+#EXTINF:-1,EP_BARCA_TV
+http://cdnlive001.dp.ua:8080/live/0SLjGzpBix/8cdTwSCiFC/1207.ts
+#EXTINF:-1,ES_BEIN-SPORT_SPAIN
+http://cdnlive001.dp.ua:8080/live/0SLjGzpBix/8cdTwSCiFC/1203.ts
+#EXTINF:-1,EP_Real_Madrid_tv
+http://cdnlive001.dp.ua:8080/live/0SLjGzpBix/8cdTwSCiFC/1204.ts
+#EXTINF:-1,ES_Canal _Futbol
+http://cdnlive001.dp.ua:8080/live/0SLjGzpBix/8cdTwSCiFC/1196.ts
+#EXTINF:-1,es_canal0
+http://cdnlive001.dp.ua:8080/live/0SLjGzpBix/8cdTwSCiFC/1191.ts
+#EXTINF:-1,ES_Canal _Toros
+http://cdnlive001.dp.ua:8080/live/0SLjGzpBix/8cdTwSCiFC/1192.ts
+#EXTINF:-1,ES_Canal_Deportes
+http://cdnlive001.dp.ua:8080/live/0SLjGzpBix/8cdTwSCiFC/1189.ts
+#EXTINF:-1,ES_CANAL_LIGA
+http://cdnlive001.dp.ua:8080/live/0SLjGzpBix/8cdTwSCiFC/1187.ts
+#EXTINF:-1,ES_CANAL _Liga_2
+http://cdnlive001.dp.ua:8080/live/0SLjGzpBix/8cdTwSCiFC/1195.ts
+#EXTINF:-1,ES_Canal_Golf
+http://cdnlive001.dp.ua:8080/live/0SLjGzpBix/8cdTwSCiFC/1188.ts
+#EXTINF:-1,ES_MOVISTAR_FORMULA_1_HD
+http://cdnlive001.dp.ua:8080/live/0SLjGzpBix/8cdTwSCiFC/1176.ts
+#EXTINF:-1,ES_MOVISTAR_MOTO_GP_HD
+http://cdnlive001.dp.ua:8080/live/0SLjGzpBix/8cdTwSCiFC/1175.ts
+#EXTINF:-1,ES_Taquilla_01
+http://cdnlive001.dp.ua:8080/live/0SLjGzpBix/8cdTwSCiFC/1171.ts
+#EXTINF:-1,ES_Taquilla_02
+http://cdnlive001.dp.ua:8080/live/0SLjGzpBix/8cdTwSCiFC/1170.ts
+#EXTINF:-1,ES_Taquilla_03
+http://cdnlive001.dp.ua:8080/live/0SLjGzpBix/8cdTwSCiFC/1169.ts
+#EXTINF:-1,ES_Taquilla_04
+http://cdnlive001.dp.ua:8080/live/0SLjGzpBix/8cdTwSCiFC/1168.ts
+#EXTINF:-1,ES_Taquilla_05
+http://cdnlive001.dp.ua:8080/live/0SLjGzpBix/8cdTwSCiFC/1167.ts
+#EXTINF:-1,ES_taquilla_06
+http://cdnlive001.dp.ua:8080/live/0SLjGzpBix/8cdTwSCiFC/1166.ts
+#EXTINF:-1,ES_taquilla_07
+http://cdnlive001.dp.ua:8080/live/0SLjGzpBix/8cdTwSCiFC/1165.ts
+#EXTINF:-1,ES_taquilla_08
+http://cdnlive001.dp.ua:8080/live/0SLjGzpBix/8cdTwSCiFC/1164.ts
+#EXTINF:-1,FR_INFOSPORT_HD
+http://cdnlive001.dp.ua:8080/live/0SLjGzpBix/8cdTwSCiFC/1361.ts
+#EXTINF:-1,FR_Eurosport_01
+http://cdnlive001.dp.ua:8080/live/0SLjGzpBix/8cdTwSCiFC/1372.ts
+#EXTINF:-1,FR_Eurosport_02
+http://cdnlive001.dp.ua:8080/live/0SLjGzpBix/8cdTwSCiFC/1371.ts
+#EXTINF:-1,FR_CINE_FX
+http://cdnlive001.dp.ua:8080/live/0SLjGzpBix/8cdTwSCiFC/1383.ts
+#EXTINF:-1,FR_Chasse_et_Peche
+http://cdnlive001.dp.ua:8080/live/0SLjGzpBix/8cdTwSCiFC/1389.ts
+#EXTINF:-1,FR_CANAL_ _SPORT_HD
+http://cdnlive001.dp.ua:8080/live/0SLjGzpBix/8cdTwSCiFC/1411.ts
+#EXTINF:-1,FR_BeIN_SPORTS_1_HD
+http://cdnlive001.dp.ua:8080/live/0SLjGzpBix/8cdTwSCiFC/1419.ts
+#EXTINF:-1,FR_BeIN_SPORTS_2_HD
+http://cdnlive001.dp.ua:8080/live/0SLjGzpBix/8cdTwSCiFC/1418.ts
+#EXTINF:-1,FR_BeIN_SPORTS_3_HD
+http://cdnlive001.dp.ua:8080/live/0SLjGzpBix/8cdTwSCiFC/1417.ts
+#EXTINF:-1,FR_BFM_Business
+http://cdnlive001.dp.ua:8080/live/0SLjGzpBix/8cdTwSCiFC/1416.ts
+#EXTINF:-1,FR_BFM_TV
+http://cdnlive001.dp.ua:8080/live/0SLjGzpBix/8cdTwSCiFC/1415.ts
+#EXTINF:-1,FR_CANAL_ _HD
+http://cdnlive001.dp.ua:8080/live/0SLjGzpBix/8cdTwSCiFC/1412.ts
+#EXTINF:-1,FR_CANAL_CINEMA_HD
+http://cdnlive001.dp.ua:8080/live/0SLjGzpBix/8cdTwSCiFC/1410.ts
+#EXTINF:-1,FR_CANAL_DECALE_HD
+http://cdnlive001.dp.ua:8080/live/0SLjGzpBix/8cdTwSCiFC/1409.ts
+#EXTINF:-1,FR_CANAL_FAMILY
+http://cdnlive001.dp.ua:8080/live/0SLjGzpBix/8cdTwSCiFC/1408.ts
+#EXTINF:-1,FR_Cine_Classic_HD
+http://cdnlive001.dp.ua:8080/live/0SLjGzpBix/8cdTwSCiFC/1387.ts
+#EXTINF:-1,FR_Cine_Emotion_HD
+http://cdnlive001.dp.ua:8080/live/0SLjGzpBix/8cdTwSCiFC/1386.ts
+#EXTINF:-1,FR_Cine_Famiz_HD
+http://cdnlive001.dp.ua:8080/live/0SLjGzpBix/8cdTwSCiFC/1385.ts
+#EXTINF:-1,Fr_Cine_Frisson_HD
+http://cdnlive001.dp.ua:8080/live/0SLjGzpBix/8cdTwSCiFC/1384.ts
+#EXTINF:-1,FR_Cine_POLAR
+http://cdnlive001.dp.ua:8080/live/0SLjGzpBix/8cdTwSCiFC/1382.ts
+#EXTINF:-1,FR_Cine_Premier_HD
+http://cdnlive001.dp.ua:8080/live/0SLjGzpBix/8cdTwSCiFC/1381.ts
+#EXTINF:-1,FR_COMEDIE_
+http://cdnlive001.dp.ua:8080/live/0SLjGzpBix/8cdTwSCiFC/1380.ts
+#EXTINF:-1,FR_EQUIDIA_Life
+http://cdnlive001.dp.ua:8080/live/0SLjGzpBix/8cdTwSCiFC/1373.ts
+#EXTINF:-1,FR_D17
+http://cdnlive001.dp.ua:8080/live/0SLjGzpBix/8cdTwSCiFC/1379.ts
+#EXTINF:-1,FR_D8
+http://cdnlive001.dp.ua:8080/live/0SLjGzpBix/8cdTwSCiFC/1378.ts
+#EXTINF:-1,FR_Discovery_HD
+http://cdnlive001.dp.ua:8080/live/0SLjGzpBix/8cdTwSCiFC/1377.ts
+#EXTINF:-1,FR_Discovery_Science_HD
+http://cdnlive001.dp.ua:8080/live/0SLjGzpBix/8cdTwSCiFC/1376.ts
+#EXTINF:-1,FR_Foot 24
+http://cdnlive001.dp.ua:8080/live/0SLjGzpBix/8cdTwSCiFC/1370.ts
+#EXTINF:-1,FR_France_02
+http://cdnlive001.dp.ua:8080/live/0SLjGzpBix/8cdTwSCiFC/1369.ts
+#EXTINF:-1,FR_France_04
+http://cdnlive001.dp.ua:8080/live/0SLjGzpBix/8cdTwSCiFC/1367.ts
+#EXTINF:-1,FR_France_24
+http://cdnlive001.dp.ua:8080/live/0SLjGzpBix/8cdTwSCiFC/1366.ts
+#EXTINF:-1,FR_France_03
+http://cdnlive001.dp.ua:8080/live/0SLjGzpBix/8cdTwSCiFC/1368.ts
+#EXTINF:-1,FR_Grand_Lille_TV
+http://cdnlive001.dp.ua:8080/live/0SLjGzpBix/8cdTwSCiFC/1365.ts
+#EXTINF:-1,FR_Gulli
+http://cdnlive001.dp.ua:8080/live/0SLjGzpBix/8cdTwSCiFC/1364.ts
+#EXTINF:-1,FR_HD1
+http://cdnlive001.dp.ua:8080/live/0SLjGzpBix/8cdTwSCiFC/1363.ts
+#EXTINF:-1,FR_I24
+http://cdnlive001.dp.ua:8080/live/0SLjGzpBix/8cdTwSCiFC/1362.ts
+#EXTINF:-1,FR_CANAL_SERIES_HD
+http://cdnlive001.dp.ua:8080/live/0SLjGzpBix/8cdTwSCiFC/1391.ts
+#EXTINF:-1,FR_Cartoon_Network_HD
+http://cdnlive001.dp.ua:8080/live/0SLjGzpBix/8cdTwSCiFC/1390.ts
+#EXTINF:-1,FR_I_TELE
+http://cdnlive001.dp.ua:8080/live/0SLjGzpBix/8cdTwSCiFC/1360.ts
+#EXTINF:-1,FR_LEQUIPE_21
+http://cdnlive001.dp.ua:8080/live/0SLjGzpBix/8cdTwSCiFC/1359.ts
+#EXTINF:-1,FR_M6
+http://cdnlive001.dp.ua:8080/live/0SLjGzpBix/8cdTwSCiFC/1358.ts
+#EXTINF:-1,FR_M6_Music
+http://cdnlive001.dp.ua:8080/live/0SLjGzpBix/8cdTwSCiFC/1357.ts
+#EXTINF:-1,FR_Manga
+http://cdnlive001.dp.ua:8080/live/0SLjGzpBix/8cdTwSCiFC/1356.ts
+#EXTINF:-1,FR_NATIONAL_GEO_HD
+http://cdnlive001.dp.ua:8080/live/0SLjGzpBix/8cdTwSCiFC/1355.ts
+#EXTINF:-1,FR_Nickelodeon JUNIOR
+http://cdnlive001.dp.ua:8080/live/0SLjGzpBix/8cdTwSCiFC/1354.ts
+#EXTINF:-1,FR_NRJ_12
+http://cdnlive001.dp.ua:8080/live/0SLjGzpBix/8cdTwSCiFC/1353.ts
+#EXTINF:-1,FR_NRJ_TV
+http://cdnlive001.dp.ua:8080/live/0SLjGzpBix/8cdTwSCiFC/1352.ts
+#EXTINF:-1,FR_NT1
+http://cdnlive001.dp.ua:8080/live/0SLjGzpBix/8cdTwSCiFC/1351.ts
+#EXTINF:-1,FR_OCS_CHOC_HD
+http://cdnlive001.dp.ua:8080/live/0SLjGzpBix/8cdTwSCiFC/1350.ts
+#EXTINF:-1,FR_OCS_City_HD
+http://cdnlive001.dp.ua:8080/live/0SLjGzpBix/8cdTwSCiFC/1349.ts
+#EXTINF:-1,FR_OCS_GEANT_HD
+http://cdnlive001.dp.ua:8080/live/0SLjGzpBix/8cdTwSCiFC/1348.ts
+#EXTINF:-1,FR_OCS_Max_HD
+http://cdnlive001.dp.ua:8080/live/0SLjGzpBix/8cdTwSCiFC/1347.ts
+#EXTINF:-1,FR_OLTV
+http://cdnlive001.dp.ua:8080/live/0SLjGzpBix/8cdTwSCiFC/1346.ts
+#EXTINF:-1,FR_Orange_Cine_Action_HD
+http://cdnlive001.dp.ua:8080/live/0SLjGzpBix/8cdTwSCiFC/1345.ts
+#EXTINF:-1,FR_Orange_Cine_Aventure
+http://cdnlive001.dp.ua:8080/live/0SLjGzpBix/8cdTwSCiFC/1344.ts
+#EXTINF:-1,FR_Orange_Cine_HD
+http://cdnlive001.dp.ua:8080/live/0SLjGzpBix/8cdTwSCiFC/1343.ts
+#EXTINF:-1,FR_Orange_Cine_horreur_HD
+http://cdnlive001.dp.ua:8080/live/0SLjGzpBix/8cdTwSCiFC/1342.ts
+#EXTINF:-1,FR_Orange_Documentaire
+http://cdnlive001.dp.ua:8080/live/0SLjGzpBix/8cdTwSCiFC/1341.ts
+#EXTINF:-1,FR_PARIS_PREMIERE_HD
+http://cdnlive001.dp.ua:8080/live/0SLjGzpBix/8cdTwSCiFC/1340.ts
+#EXTINF:-1,FR_Piwi
+http://cdnlive001.dp.ua:8080/live/0SLjGzpBix/8cdTwSCiFC/1339.ts
+#EXTINF:-1,FR_Planete_ _HD
+http://cdnlive001.dp.ua:8080/live/0SLjGzpBix/8cdTwSCiFC/1338.ts
+#EXTINF:-1,FR_Rtl9
+http://cdnlive001.dp.ua:8080/live/0SLjGzpBix/8cdTwSCiFC/1337.ts
+#EXTINF:-1,FR_SERIE_CLUB_HD
+http://cdnlive001.dp.ua:8080/live/0SLjGzpBix/8cdTwSCiFC/1336.ts
+#EXTINF:-1,FR_Syfy
+http://cdnlive001.dp.ua:8080/live/0SLjGzpBix/8cdTwSCiFC/1335.ts
+#EXTINF:-1,FR_TELETOON_
+http://cdnlive001.dp.ua:8080/live/0SLjGzpBix/8cdTwSCiFC/1334.ts
+#EXTINF:-1,FR_TEVA
+http://cdnlive001.dp.ua:8080/live/0SLjGzpBix/8cdTwSCiFC/1333.ts
+#EXTINF:-1,FR_TF1
+http://cdnlive001.dp.ua:8080/live/0SLjGzpBix/8cdTwSCiFC/1332.ts
+#EXTINF:-1,FR_TMC
+http://cdnlive001.dp.ua:8080/live/0SLjGzpBix/8cdTwSCiFC/1331.ts
+#EXTINF:-1,FR_Toute_l'Histoire
+http://cdnlive001.dp.ua:8080/live/0SLjGzpBix/8cdTwSCiFC/1330.ts
+#EXTINF:-1,FR_TRACE_URBAN_HD
+http://cdnlive001.dp.ua:8080/live/0SLjGzpBix/8cdTwSCiFC/1329.ts
+#EXTINF:-1,FR_TVBREIZH
+http://cdnlive001.dp.ua:8080/live/0SLjGzpBix/8cdTwSCiFC/1328.ts
+#EXTINF:-1,FR_Ushuaia_TV
+http://cdnlive001.dp.ua:8080/live/0SLjGzpBix/8cdTwSCiFC/1327.ts
+#EXTINF:-1,FR_Voyage
+http://cdnlive001.dp.ua:8080/live/0SLjGzpBix/8cdTwSCiFC/1326.ts
+#EXTINF:-1,FR_W9
+http://cdnlive001.dp.ua:8080/live/0SLjGzpBix/8cdTwSCiFC/1325.ts
+#EXTINF:-1,FR_YVELINES_PREMIER
+http://cdnlive001.dp.ua:8080/live/0SLjGzpBix/8cdTwSCiFC/1324.ts
+#EXTINF:-1,FR_13eme_Rue_HD
+http://cdnlive001.dp.ua:8080/live/0SLjGzpBix/8cdTwSCiFC/1433.ts
+#EXTINF:-1,FR_6ter_HD
+http://cdnlive001.dp.ua:8080/live/0SLjGzpBix/8cdTwSCiFC/1432.ts
+#EXTINF:-1,FR_ACTION_HD
+http://cdnlive001.dp.ua:8080/live/0SLjGzpBix/8cdTwSCiFC/1430.ts
+#EXTINF:-1,FR_AB1
+http://cdnlive001.dp.ua:8080/live/0SLjGzpBix/8cdTwSCiFC/1431.ts
+#EXTINF:-1,FR_Arte_HD
+http://cdnlive001.dp.ua:8080/live/0SLjGzpBix/8cdTwSCiFC/1428.ts
+#EXTINF:-1,FR_ANIMAUX_HD
+http://cdnlive001.dp.ua:8080/live/0SLjGzpBix/8cdTwSCiFC/1429.ts
+#EXTINF:-1,FR_Boomerang
+http://cdnlive001.dp.ua:8080/live/0SLjGzpBix/8cdTwSCiFC/1413.ts
+#EXTINF:-1,FR_BOING
+http://cdnlive001.dp.ua:8080/live/0SLjGzpBix/8cdTwSCiFC/1414.ts
+#EXTINF:-1,FR_CANAL_J
+http://cdnlive001.dp.ua:8080/live/0SLjGzpBix/8cdTwSCiFC/1407.ts
+#EXTINF:-1,FR_Cherie_25
+http://cdnlive001.dp.ua:8080/live/0SLjGzpBix/8cdTwSCiFC/1388.ts
+#EXTINF:-1,FR_Disney_Channel
+http://cdnlive001.dp.ua:8080/live/0SLjGzpBix/8cdTwSCiFC/1375.ts
+#EXTINF:-1,FR_DISNEY_JUNIOR_HD
+http://cdnlive001.dp.ua:8080/live/0SLjGzpBix/8cdTwSCiFC/1374.ts
+#EXTINF:-1,FR_CANAL_PLAY_01
+http://cdnlive001.dp.ua:8080/live/0SLjGzpBix/8cdTwSCiFC/1406.ts
+#EXTINF:-1,FR_CANAL_PLAY_02
+http://cdnlive001.dp.ua:8080/live/0SLjGzpBix/8cdTwSCiFC/1405.ts
+#EXTINF:-1,FR_CANAL_PLAY_03
+http://cdnlive001.dp.ua:8080/live/0SLjGzpBix/8cdTwSCiFC/1404.ts
+#EXTINF:-1,FR_CANAL_PLAY_04
+http://cdnlive001.dp.ua:8080/live/0SLjGzpBix/8cdTwSCiFC/1403.ts
+#EXTINF:-1,FR_CANAL_PLAY_05
+http://cdnlive001.dp.ua:8080/live/0SLjGzpBix/8cdTwSCiFC/1402.ts
+#EXTINF:-1,FR_CANAL_PLAY_06
+http://cdnlive001.dp.ua:8080/live/0SLjGzpBix/8cdTwSCiFC/1401.ts
+#EXTINF:-1,FR_CANAL_PLAY_07
+http://cdnlive001.dp.ua:8080/live/0SLjGzpBix/8cdTwSCiFC/1400.ts
+#EXTINF:-1,FR_CANAL_PLAY_08
+http://cdnlive001.dp.ua:8080/live/0SLjGzpBix/8cdTwSCiFC/1399.ts
+#EXTINF:-1,FR_CANAL_PLAY_09
+http://cdnlive001.dp.ua:8080/live/0SLjGzpBix/8cdTwSCiFC/1398.ts
+#EXTINF:-1,FR_CANAL_PLAY_10
+http://cdnlive001.dp.ua:8080/live/0SLjGzpBix/8cdTwSCiFC/1397.ts
+#EXTINF:-1,FR_CANAL_PLAY_11
+http://cdnlive001.dp.ua:8080/live/0SLjGzpBix/8cdTwSCiFC/1396.ts
+#EXTINF:-1,FR_CANAL_PLAY_12
+http://cdnlive001.dp.ua:8080/live/0SLjGzpBix/8cdTwSCiFC/1395.ts
+#EXTINF:-1,FR_CANAL_PLAY_13
+http://cdnlive001.dp.ua:8080/live/0SLjGzpBix/8cdTwSCiFC/1394.ts
+#EXTINF:-1,FR_CANAL_PLAY_14
+http://cdnlive001.dp.ua:8080/live/0SLjGzpBix/8cdTwSCiFC/1393.ts
+#EXTINF:-1,FR_CANAL_PLAY_15
+http://cdnlive001.dp.ua:8080/live/0SLjGzpBix/8cdTwSCiFC/1392.ts
+#EXTINF:-1,FR_A_LA_CARTE_01
+http://cdnlive001.dp.ua:8080/live/0SLjGzpBix/8cdTwSCiFC/1427.ts
+#EXTINF:-1,FR_A_LA_CARTE_02
+http://cdnlive001.dp.ua:8080/live/0SLjGzpBix/8cdTwSCiFC/1426.ts
+#EXTINF:-1,FR_A_LA_CARTE_03
+http://cdnlive001.dp.ua:8080/live/0SLjGzpBix/8cdTwSCiFC/1425.ts
+#EXTINF:-1,FR_A_LA_CARTE_04
+http://cdnlive001.dp.ua:8080/live/0SLjGzpBix/8cdTwSCiFC/1424.ts
+#EXTINF:-1,FR_A_LA_CARTE_05
+http://cdnlive001.dp.ua:8080/live/0SLjGzpBix/8cdTwSCiFC/1423.ts
+#EXTINF:-1,FR_A_LA_CARTE_06
+http://cdnlive001.dp.ua:8080/live/0SLjGzpBix/8cdTwSCiFC/1422.ts
+#EXTINF:-1,FR_A_LA_CARTE_07
+http://cdnlive001.dp.ua:8080/live/0SLjGzpBix/8cdTwSCiFC/1421.ts
+#EXTINF:-1,FR_A_LA_CARTE_08
+http://cdnlive001.dp.ua:8080/live/0SLjGzpBix/8cdTwSCiFC/1420.ts
+#EXTINF:-1,PT_TVCine_1_HD
+http://cdnlive001.dp.ua:8080/live/0SLjGzpBix/8cdTwSCiFC/1103.ts
+#EXTINF:-1,PT_TVCine_2_HD
+http://cdnlive001.dp.ua:8080/live/0SLjGzpBix/8cdTwSCiFC/1102.ts
+#EXTINF:-1,PT_TVCine_3_HD
+http://cdnlive001.dp.ua:8080/live/0SLjGzpBix/8cdTwSCiFC/1101.ts
+#EXTINF:-1,PT_TVCine_4_HD
+http://cdnlive001.dp.ua:8080/live/0SLjGzpBix/8cdTwSCiFC/1100.ts
+#EXTINF:-1,PT_AXN_HD
+http://cdnlive001.dp.ua:8080/live/0SLjGzpBix/8cdTwSCiFC/1136.ts
+#EXTINF:-1,PT_AXN_Black_HD
+http://cdnlive001.dp.ua:8080/live/0SLjGzpBix/8cdTwSCiFC/1137.ts
+#EXTINF:-1,PT_AXN_White_HD
+http://cdnlive001.dp.ua:8080/live/0SLjGzpBix/8cdTwSCiFC/1135.ts
+#EXTINF:-1,PT_CARTOON_NETWORK
+http://cdnlive001.dp.ua:8080/live/0SLjGzpBix/8cdTwSCiFC/1132.ts
+#EXTINF:-1,PT_CMTV
+http://cdnlive001.dp.ua:8080/live/0SLjGzpBix/8cdTwSCiFC/1131.ts
+#EXTINF:-1,PT_DISCOVERY_CHANNEL
+http://cdnlive001.dp.ua:8080/live/0SLjGzpBix/8cdTwSCiFC/1130.ts
+#EXTINF:-1,PT_Disney junior
+http://cdnlive001.dp.ua:8080/live/0SLjGzpBix/8cdTwSCiFC/1129.ts
+#EXTINF:-1,PT_Fox HD
+http://cdnlive001.dp.ua:8080/live/0SLjGzpBix/8cdTwSCiFC/1126.ts
+#EXTINF:-1,PT_FOX_COMEDY
+http://cdnlive001.dp.ua:8080/live/0SLjGzpBix/8cdTwSCiFC/1125.ts
+#EXTINF:-1,PT_Fox_Crime
+http://cdnlive001.dp.ua:8080/live/0SLjGzpBix/8cdTwSCiFC/1124.ts
+#EXTINF:-1,PT_MOV_HD
+http://cdnlive001.dp.ua:8080/live/0SLjGzpBix/8cdTwSCiFC/1123.ts
+#EXTINF:-1,PT_Nat Geo Wild
+http://cdnlive001.dp.ua:8080/live/0SLjGzpBix/8cdTwSCiFC/1122.ts
+#EXTINF:-1,PT_Niclelodeon
+http://cdnlive001.dp.ua:8080/live/0SLjGzpBix/8cdTwSCiFC/1121.ts
+#EXTINF:-1,PT_RTP_ÁFRICA
+http://cdnlive001.dp.ua:8080/live/0SLjGzpBix/8cdTwSCiFC/1116.ts
+#EXTINF:-1,PT_RTP_1
+http://cdnlive001.dp.ua:8080/live/0SLjGzpBix/8cdTwSCiFC/1119.ts
+#EXTINF:-1,PT_RTP_2
+http://cdnlive001.dp.ua:8080/live/0SLjGzpBix/8cdTwSCiFC/1118.ts
+#EXTINF:-1,PT_RTP_3
+http://cdnlive001.dp.ua:8080/live/0SLjGzpBix/8cdTwSCiFC/1117.ts
+#EXTINF:-1,PT_SIC KIDS
+http://cdnlive001.dp.ua:8080/live/0SLjGzpBix/8cdTwSCiFC/1115.ts
+#EXTINF:-1,PT_SIC_CARAS
+http://cdnlive001.dp.ua:8080/live/0SLjGzpBix/8cdTwSCiFC/1114.ts
+#EXTINF:-1,PT_SIC_MULHER
+http://cdnlive001.dp.ua:8080/live/0SLjGzpBix/8cdTwSCiFC/1113.ts
+#EXTINF:-1,PT_SYFY
+http://cdnlive001.dp.ua:8080/live/0SLjGzpBix/8cdTwSCiFC/1105.ts
+#EXTINF:-1,PT_TVI
+http://cdnlive001.dp.ua:8080/live/0SLjGzpBix/8cdTwSCiFC/1099.ts
+#EXTINF:-1,PT_TVI REALITY
+http://cdnlive001.dp.ua:8080/live/0SLjGzpBix/8cdTwSCiFC/1098.ts
+#EXTINF:-1,PT_TVI_24
+http://cdnlive001.dp.ua:8080/live/0SLjGzpBix/8cdTwSCiFC/1097.ts
+#EXTINF:-1,PT_TV_SERIES
+http://cdnlive001.dp.ua:8080/live/0SLjGzpBix/8cdTwSCiFC/1094.ts
+#EXTINF:-1,PT_TV_Globo
+http://cdnlive001.dp.ua:8080/live/0SLjGzpBix/8cdTwSCiFC/1096.ts
+#EXTINF:-1,PT_TV_Globo_Premium
+http://cdnlive001.dp.ua:8080/live/0SLjGzpBix/8cdTwSCiFC/1095.ts
+#EXTINF:-1,PT: Sic Radical
+http://cdnlive001.dp.ua:8080/live/0SLjGzpBix/8cdTwSCiFC/1138.ts
+#EXTINF:-1,PT_SIC_Noticias
+http://cdnlive001.dp.ua:8080/live/0SLjGzpBix/8cdTwSCiFC/1112.ts
+#EXTINF:-1,PT_Sporting_TV_HD
+http://cdnlive001.dp.ua:8080/live/0SLjGzpBix/8cdTwSCiFC/1111.ts
+#EXTINF:-1,PT_SportTV_1_HD
+http://cdnlive001.dp.ua:8080/live/0SLjGzpBix/8cdTwSCiFC/1110.ts
+#EXTINF:-1,PT_SportTV_2_HD
+http://cdnlive001.dp.ua:8080/live/0SLjGzpBix/8cdTwSCiFC/1109.ts
+#EXTINF:-1,PT_SportTV_3_HD
+http://cdnlive001.dp.ua:8080/live/0SLjGzpBix/8cdTwSCiFC/1108.ts
+#EXTINF:-1,PT_SportTV_4_HD
+http://cdnlive001.dp.ua:8080/live/0SLjGzpBix/8cdTwSCiFC/1107.ts
+#EXTINF:-1,PT_SportTV_5_HD
+http://cdnlive001.dp.ua:8080/live/0SLjGzpBix/8cdTwSCiFC/1106.ts
+#EXTINF:-1,PT_Toros_TV
+http://cdnlive001.dp.ua:8080/live/0SLjGzpBix/8cdTwSCiFC/1104.ts
+#EXTINF:-1,PT_Porto_Canal
+http://cdnlive001.dp.ua:8080/live/0SLjGzpBix/8cdTwSCiFC/1120.ts
+#EXTINF:-1,PT_EUROSPORT_1_HD
+http://cdnlive001.dp.ua:8080/live/0SLjGzpBix/8cdTwSCiFC/1128.ts
+#EXTINF:-1,PT_EUROSPORT_2_HD
+http://cdnlive001.dp.ua:8080/live/0SLjGzpBix/8cdTwSCiFC/1127.ts
+#EXTINF:-1,PT_Benfica_TV_1_HD
+http://cdnlive001.dp.ua:8080/live/0SLjGzpBix/8cdTwSCiFC/1134.ts
+#EXTINF:-1,PT_Benfica_TV_2_HD
+http://cdnlive001.dp.ua:8080/live/0SLjGzpBix/8cdTwSCiFC/1133.ts
+#EXTINF:-1,PT_VEVO_HD
+http://cdnlive001.dp.ua:8080/live/0SLjGzpBix/8cdTwSCiFC/1091.ts
+#EXTINF:-1,PT_VEVO_2_HD
+http://cdnlive001.dp.ua:8080/live/0SLjGzpBix/8cdTwSCiFC/1093.ts
+#EXTINF:-1,PT_VEVO_3_HD
+http://cdnlive001.dp.ua:8080/live/0SLjGzpBix/8cdTwSCiFC/1092.ts
+#EXTINF:-1,---- INGLESI ----
+http://cdnlive001.dp.ua:8080/live/0SLjGzpBix/8cdTwSCiFC/974.ts
+#EXTINF:-1,UK_BBC_1_HD
+http://cdnlive001.dp.ua:8080/live/0SLjGzpBix/8cdTwSCiFC/1088.ts
+#EXTINF:-1,UK_BBC_2_HD
+http://cdnlive001.dp.ua:8080/live/0SLjGzpBix/8cdTwSCiFC/1087.ts
+#EXTINF:-1,UK_BBC_3_HD
+http://cdnlive001.dp.ua:8080/live/0SLjGzpBix/8cdTwSCiFC/1086.ts
+#EXTINF:-1,UK_BBC_4_HD
+http://cdnlive001.dp.ua:8080/live/0SLjGzpBix/8cdTwSCiFC/1085.ts
+#EXTINF:-1,UK_BBC_NEW_HD
+http://cdnlive001.dp.ua:8080/live/0SLjGzpBix/8cdTwSCiFC/1084.ts
+#EXTINF:-1,UK_CBS_Action
+http://cdnlive001.dp.ua:8080/live/0SLjGzpBix/8cdTwSCiFC/1082.ts
+#EXTINF:-1,UK_CBS_Drama
+http://cdnlive001.dp.ua:8080/live/0SLjGzpBix/8cdTwSCiFC/1081.ts
+#EXTINF:-1,UK_CBS_REALITY
+http://cdnlive001.dp.ua:8080/live/0SLjGzpBix/8cdTwSCiFC/1080.ts
+#EXTINF:-1,UK_ITV_1_HD
+http://cdnlive001.dp.ua:8080/live/0SLjGzpBix/8cdTwSCiFC/1072.ts
+#EXTINF:-1,UK_ITV_2_HD
+http://cdnlive001.dp.ua:8080/live/0SLjGzpBix/8cdTwSCiFC/1071.ts
+#EXTINF:-1,UK_ITV_3_HD
+http://cdnlive001.dp.ua:8080/live/0SLjGzpBix/8cdTwSCiFC/1070.ts
+#EXTINF:-1,UK_ITV_4_HD
+http://cdnlive001.dp.ua:8080/live/0SLjGzpBix/8cdTwSCiFC/1069.ts
+#EXTINF:-1,UK_Sky_MUTV
+http://cdnlive001.dp.ua:8080/live/0SLjGzpBix/8cdTwSCiFC/1051.ts
+#EXTINF:-1,UK_Fox
+http://cdnlive001.dp.ua:8080/live/0SLjGzpBix/8cdTwSCiFC/1074.ts
+#EXTINF:-1,UK_Sky_Syfy
+http://cdnlive001.dp.ua:8080/live/0SLjGzpBix/8cdTwSCiFC/1045.ts
+#EXTINF:-1,UK_SKY_ACTION_HD
+http://cdnlive001.dp.ua:8080/live/0SLjGzpBix/8cdTwSCiFC/1067.ts
+#EXTINF:-1,UK_SKY_MOVIES_COMEDY
+http://cdnlive001.dp.ua:8080/live/0SLjGzpBix/8cdTwSCiFC/1061.ts
+#EXTINF:-1,UK_Sky_Movies_Greats
+http://cdnlive001.dp.ua:8080/live/0SLjGzpBix/8cdTwSCiFC/1057.ts
+#EXTINF:-1,UK_SKY_MOVIES_DISNEY_HD
+http://cdnlive001.dp.ua:8080/live/0SLjGzpBix/8cdTwSCiFC/1060.ts
+#EXTINF:-1,UK_SKY_MOVIES_DRAMA_HD
+http://cdnlive001.dp.ua:8080/live/0SLjGzpBix/8cdTwSCiFC/1059.ts
+#EXTINF:-1,UK_SKY_MOVIES_FAMILY_HD
+http://cdnlive001.dp.ua:8080/live/0SLjGzpBix/8cdTwSCiFC/1058.ts
+#EXTINF:-1,UK_SKY_MOVIES_SCIFI_HD
+http://cdnlive001.dp.ua:8080/live/0SLjGzpBix/8cdTwSCiFC/1055.ts
+#EXTINF:-1,UK_SKY_MOVIES_PREMIERE_HD
+http://cdnlive001.dp.ua:8080/live/0SLjGzpBix/8cdTwSCiFC/1056.ts
+#EXTINF:-1,UK_Sky_Movies_Showcase
+http://cdnlive001.dp.ua:8080/live/0SLjGzpBix/8cdTwSCiFC/1053.ts
+#EXTINF:-1,UK_Sky_Movies_Select
+http://cdnlive001.dp.ua:8080/live/0SLjGzpBix/8cdTwSCiFC/1054.ts
+#EXTINF:-1,UK_SKY_MOVIES_THRILLER_HD
+http://cdnlive001.dp.ua:8080/live/0SLjGzpBix/8cdTwSCiFC/1052.ts
+#EXTINF:-1,UK_True_Movies_1_HD
+http://cdnlive001.dp.ua:8080/live/0SLjGzpBix/8cdTwSCiFC/1044.ts
+#EXTINF:-1,UK_True_Movies_2_HD
+http://cdnlive001.dp.ua:8080/live/0SLjGzpBix/8cdTwSCiFC/1043.ts
+#EXTINF:-1,UK_YESTERDAY
+http://cdnlive001.dp.ua:8080/live/0SLjGzpBix/8cdTwSCiFC/1042.ts
+#EXTINF:-1,UK_Sky_Sports_News
+http://cdnlive001.dp.ua:8080/live/0SLjGzpBix/8cdTwSCiFC/1046.ts
+#EXTINF:-1,UK_Sky_Sports_F1_HD
+http://cdnlive001.dp.ua:8080/live/0SLjGzpBix/8cdTwSCiFC/1047.ts
+#EXTINF:-1,UK_Sky_Sports_1
+http://cdnlive001.dp.ua:8080/live/0SLjGzpBix/8cdTwSCiFC/1050.ts
+#EXTINF:-1,UK_Sky_Sports_2
+http://cdnlive001.dp.ua:8080/live/0SLjGzpBix/8cdTwSCiFC/1049.ts
+#EXTINF:-1,UK_Sky_Sports_3
+http://cdnlive001.dp.ua:8080/live/0SLjGzpBix/8cdTwSCiFC/1048.ts
+#EXTINF:-1,UK: Sky Sports 4
+http://cdnlive001.dp.ua:8080/live/0SLjGzpBix/8cdTwSCiFC/1090.ts
+#EXTINF:-1,UK: Sky Sports 5
+http://cdnlive001.dp.ua:8080/live/0SLjGzpBix/8cdTwSCiFC/1089.ts
+#EXTINF:-1,UK_boxnation
+http://cdnlive001.dp.ua:8080/live/0SLjGzpBix/8cdTwSCiFC/1083.ts
+#EXTINF:-1,UK_FOX_SPORTS
+http://cdnlive001.dp.ua:8080/live/0SLjGzpBix/8cdTwSCiFC/1073.ts
+#EXTINF:-1,UK_Premier_Sports
+http://cdnlive001.dp.ua:8080/live/0SLjGzpBix/8cdTwSCiFC/1068.ts
+#EXTINF:-1,UK_Sky_BT_Sport_1_HD
+http://cdnlive001.dp.ua:8080/live/0SLjGzpBix/8cdTwSCiFC/1066.ts
+#EXTINF:-1,UK_Sky_BT_Sport_2_HD
+http://cdnlive001.dp.ua:8080/live/0SLjGzpBix/8cdTwSCiFC/1065.ts
+#EXTINF:-1,UK_Sky_BT_SPORT_EUROPE_HD
+http://cdnlive001.dp.ua:8080/live/0SLjGzpBix/8cdTwSCiFC/1064.ts
+#EXTINF:-1,UK_Sky_BT_Sport_Extra_HD
+http://cdnlive001.dp.ua:8080/live/0SLjGzpBix/8cdTwSCiFC/1063.ts
+#EXTINF:-1,UK_Sky_BT_Sport_SPPN
+http://cdnlive001.dp.ua:8080/live/0SLjGzpBix/8cdTwSCiFC/1062.ts
+#EXTINF:-1,UK_CTH_STADIUM_1
+http://cdnlive001.dp.ua:8080/live/0SLjGzpBix/8cdTwSCiFC/1078.ts
+#EXTINF:-1,UK_CTH_ STADIUM_2_HD
+http://cdnlive001.dp.ua:8080/live/0SLjGzpBix/8cdTwSCiFC/1079.ts
+#EXTINF:-1,UK_CTH_STADIUM_3_HD
+http://cdnlive001.dp.ua:8080/live/0SLjGzpBix/8cdTwSCiFC/1077.ts
+#EXTINF:-1,UK_CTH_STADIUM_4_HD
+http://cdnlive001.dp.ua:8080/live/0SLjGzpBix/8cdTwSCiFC/1076.ts
+#EXTINF:-1,UK_CTH_STADIUM_5
+http://cdnlive001.dp.ua:8080/live/0SLjGzpBix/8cdTwSCiFC/1075.ts
