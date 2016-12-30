@@ -1,929 +1,609 @@
+#EXTM3U
 #EXTINF:-1,Rai 1 HD
-http://gameserver2.streamiptv.online:18001/live/petrone/jnssqMAGcr/3378.ts
+http://iptvthebest.ddns.net:15000/live/72fd50ba1a7b4d1/2a64117049763cd/12.ts
+#EXTINF:-1,Rai 1 HD +1
+http://iptvthebest.ddns.net:15000/live/72fd50ba1a7b4d1/2a64117049763cd/13094.ts
 #EXTINF:-1,Rai 2 HD
-http://gameserver2.streamiptv.online:18001/live/petrone/jnssqMAGcr/3379.ts
-#EXTINF:-1,RAI 3 HD
-http://gameserver2.streamiptv.online:18001/live/petrone/jnssqMAGcr/4278.ts
+http://iptvthebest.ddns.net:15000/live/72fd50ba1a7b4d1/2a64117049763cd/13.ts
+#EXTINF:-1,Rai 2 HD +1
+http://iptvthebest.ddns.net:15000/live/72fd50ba1a7b4d1/2a64117049763cd/13095.ts
+#EXTINF:-1,Rai 3 HD
+http://iptvthebest.ddns.net:15000/live/72fd50ba1a7b4d1/2a64117049763cd/14.ts
+#EXTINF:-1,Rai 3 HD +1
+http://iptvthebest.ddns.net:15000/live/72fd50ba1a7b4d1/2a64117049763cd/13096.ts
 #EXTINF:-1,Rete 4 HD
-http://gameserver2.streamiptv.online:18001/live/petrone/jnssqMAGcr/3381.ts
+http://iptvthebest.ddns.net:15000/live/72fd50ba1a7b4d1/2a64117049763cd/15.ts
+#EXTINF:-1,Rete 4 HD +1
+http://iptvthebest.ddns.net:15000/live/72fd50ba1a7b4d1/2a64117049763cd/13097.ts
 #EXTINF:-1,Canale 5 HD
-http://gameserver2.streamiptv.online:18001/live/petrone/jnssqMAGcr/3383.ts
+http://iptvthebest.ddns.net:15000/live/72fd50ba1a7b4d1/2a64117049763cd/16.ts
 #EXTINF:-1,Canale 5 HD +1
-http://gameserver2.streamiptv.online:18001/live/petrone/jnssqMAGcr/10451.ts
+http://iptvthebest.ddns.net:15000/live/72fd50ba1a7b4d1/2a64117049763cd/13098.ts
 #EXTINF:-1,Italia 1 HD
-http://gameserver2.streamiptv.online:18001/live/petrone/jnssqMAGcr/3382.ts
-#EXTINF:-1,La 7 HD
-http://gameserver2.streamiptv.online:18001/live/petrone/jnssqMAGcr/3418.ts
-#EXTINF:-1,LA7D
-http://gameserver2.streamiptv.online:18001/live/petrone/jnssqMAGcr/7090.ts
-#EXTINF:-1,RSI LA 1 HD
-http://gameserver2.streamiptv.online:18001/live/petrone/jnssqMAGcr/3384.ts
-#EXTINF:-1,RSI LA 2 HD
-http://gameserver2.streamiptv.online:18001/live/petrone/jnssqMAGcr/3385.ts
-#EXTINF:-1,TV8
-http://gameserver2.streamiptv.online:18001/live/petrone/jnssqMAGcr/4820.ts
-#EXTINF:-1,Rai 4 HD
-http://gameserver2.streamiptv.online:18001/live/petrone/jnssqMAGcr/4917.ts
-#EXTINF:-1,Rai 5 HD
-http://gameserver2.streamiptv.online:18001/live/petrone/jnssqMAGcr/4918.ts
-#EXTINF:-1,7 Gold
-http://gameserver2.streamiptv.online:18001/live/petrone/jnssqMAGcr/3417.ts
-#EXTINF:-1,- - - CINEMA- - -
-#EXTINF:-1,Cinema 1 full HD
-http://gameserver2.streamiptv.online:18001/live/petrone/jnssqMAGcr/7257.ts
-#EXTINF:-1,Cinema 1 HD
-http://gameserver2.streamiptv.online:18001/live/petrone/jnssqMAGcr/3387.ts
-#EXTINF:-1,Cinema 1
-http://gameserver2.streamiptv.online:18001/live/petrone/jnssqMAGcr/4895.ts
-#EXTINF:-1,Cinema +1 HD
-http://gameserver2.streamiptv.online:18001/live/petrone/jnssqMAGcr/3388.ts
-#EXTINF:-1,Cinema +24 HD
-http://gameserver2.streamiptv.online:18001/live/petrone/jnssqMAGcr/3396.ts
-#EXTINF:-1,Cinema +24
-http://gameserver2.streamiptv.online:18001/live/petrone/jnssqMAGcr/4885.ts
-#EXTINF:-1,Cinema Hits Full HD
-http://gameserver2.streamiptv.online:18001/live/petrone/jnssqMAGcr/7255.ts
-#EXTINF:-1,Cinema Hits HD
-http://gameserver2.streamiptv.online:18001/live/petrone/jnssqMAGcr/4919.ts
-#EXTINF:-1,Cinema Hits
-http://gameserver2.streamiptv.online:18001/live/petrone/jnssqMAGcr/4894.ts
-#EXTINF:-1,Cinema Comedy HD
-http://gameserver2.streamiptv.online:18001/live/petrone/jnssqMAGcr/3394.ts
-#EXTINF:-1,Cinema Comedy
-http://gameserver2.streamiptv.online:18001/live/petrone/jnssqMAGcr/4886.ts
-#EXTINF:-1,Cinema Max  Full HD
-http://gameserver2.streamiptv.online:18001/live/petrone/jnssqMAGcr/7254.ts
-#EXTINF:-1,Cinema Max HD
-http://gameserver2.streamiptv.online:18001/live/petrone/jnssqMAGcr/3389.ts
-#EXTINF:-1,Cinema Max
-http://gameserver2.streamiptv.online:18001/live/petrone/jnssqMAGcr/4882.ts
-#EXTINF:-1,Cinema Max +1 HD
-http://gameserver2.streamiptv.online:18001/live/petrone/jnssqMAGcr/3390.ts
-#EXTINF:-1,Cinema Family Full HD
-http://gameserver2.streamiptv.online:18001/live/petrone/jnssqMAGcr/7256.ts
-#EXTINF:-1,Cinema Family HD
-http://gameserver2.streamiptv.online:18001/live/petrone/jnssqMAGcr/3392.ts
-#EXTINF:-1,Cinema Family
-http://gameserver2.streamiptv.online:18001/live/petrone/jnssqMAGcr/4884.ts
-#EXTINF:-1,Cinema Family +1 HD
-http://gameserver2.streamiptv.online:18001/live/petrone/jnssqMAGcr/3393.ts
-#EXTINF:-1,Cinema Classics HD
-http://gameserver2.streamiptv.online:18001/live/petrone/jnssqMAGcr/3395.ts
-#EXTINF:-1,Cinema Passion HD
-http://gameserver2.streamiptv.online:18001/live/petrone/jnssqMAGcr/3398.ts
-#EXTINF:-1,Cinema Cult HD
-http://gameserver2.streamiptv.online:18001/live/petrone/jnssqMAGcr/3397.ts
-#EXTINF:-1,Rai Movie
-http://gameserver2.streamiptv.online:18001/live/petrone/jnssqMAGcr/3505.ts
-#EXTINF:-1,Paramount Channel HD
-http://gameserver2.streamiptv.online:18001/live/petrone/jnssqMAGcr/5204.ts
-#EXTINF:-1,Dvs Cinema
-http://gameserver2.streamiptv.online:18001/live/petrone/jnssqMAGcr/3901.ts
-#EXTINF:-1,Emotion Napoli
-http://gameserver2.streamiptv.online:18001/live/petrone/jnssqMAGcr/3900.ts
-#EXTINF:-1,Gomorra
-http://gameserver2.streamiptv.online:18001/live/petrone/jnssqMAGcr/5694.ts
-#EXTINF:-1,Il Trono Di Spade
-http://gameserver2.streamiptv.online:18001/live/petrone/jnssqMAGcr/5695.ts
-#EXTINF:-1,Sky Uno HD
-http://gameserver2.streamiptv.online:18001/live/petrone/jnssqMAGcr/3401.ts
-#EXTINF:-1,Sky Uno
-http://gameserver2.streamiptv.online:18001/live/petrone/jnssqMAGcr/4903.ts
-#EXTINF:-1,Sky Uno + 1 HD
-http://gameserver2.streamiptv.online:18001/live/petrone/jnssqMAGcr/3402.ts
-#EXTINF:-1,Fox HD
-http://gameserver2.streamiptv.online:18001/live/petrone/jnssqMAGcr/3405.ts
-#EXTINF:-1,Fox
-http://gameserver2.streamiptv.online:18001/live/petrone/jnssqMAGcr/4887.ts
-#EXTINF:-1,Fox +1
-http://gameserver2.streamiptv.online:18001/live/petrone/jnssqMAGcr/3410.ts
-#EXTINF:-1,Fox Life HD
-http://gameserver2.streamiptv.online:18001/live/petrone/jnssqMAGcr/3403.ts
-#EXTINF:-1,Fox Life
-http://gameserver2.streamiptv.online:18001/live/petrone/jnssqMAGcr/4888.ts
-#EXTINF:-1,Fox Life +1
-http://gameserver2.streamiptv.online:18001/live/petrone/jnssqMAGcr/3404.ts
-#EXTINF:-1,Fox Crime HD
-http://gameserver2.streamiptv.online:18001/live/petrone/jnssqMAGcr/3406.ts
-#EXTINF:-1,Fox Crime
-http://gameserver2.streamiptv.online:18001/live/petrone/jnssqMAGcr/4893.ts
-#EXTINF:-1,Fox Crime +1
-http://gameserver2.streamiptv.online:18001/live/petrone/jnssqMAGcr/3407.ts
-#EXTINF:-1,Fox Animation HD
-http://gameserver2.streamiptv.online:18001/live/petrone/jnssqMAGcr/3409.ts
-#EXTINF:-1,FOX COMEDY HD
-http://gameserver2.streamiptv.online:18001/live/petrone/jnssqMAGcr/3408.ts
-#EXTINF:-1,Sky Atlantic full HD
-http://gameserver2.streamiptv.online:18001/live/petrone/jnssqMAGcr/7258.ts
-#EXTINF:-1,Sky Atlantic HD
-http://gameserver2.streamiptv.online:18001/live/petrone/jnssqMAGcr/3413.ts
-#EXTINF:-1,Sky Atlantic
-http://gameserver2.streamiptv.online:18001/live/petrone/jnssqMAGcr/4910.ts
-#EXTINF:-1,Sky Atlantic +1 HD
-http://gameserver2.streamiptv.online:18001/live/petrone/jnssqMAGcr/3414.ts
-#EXTINF:-1,Sky Axn HD
-http://gameserver2.streamiptv.online:18001/live/petrone/jnssqMAGcr/3412.ts
-#EXTINF:-1,Sky Axn +1
-http://gameserver2.streamiptv.online:18001/live/petrone/jnssqMAGcr/4920.ts
-#EXTINF:-1,AXN Sci-Fi
-http://gameserver2.streamiptv.online:18001/live/petrone/jnssqMAGcr/3424.ts
-#EXTINF:-1,Sky Comedy Central
-http://gameserver2.streamiptv.online:18001/live/petrone/jnssqMAGcr/3411.ts
-#EXTINF:-1,Real Time Full HD
-http://gameserver2.streamiptv.online:18001/live/petrone/jnssqMAGcr/7253.ts
-#EXTINF:-1,Real time HD
-http://gameserver2.streamiptv.online:18001/live/petrone/jnssqMAGcr/3415.ts
-#EXTINF:-1,Real Time +1
-http://gameserver2.streamiptv.online:18001/live/petrone/jnssqMAGcr/10307.ts
-#EXTINF:-1,cielo HD
-http://gameserver2.streamiptv.online:18001/live/petrone/jnssqMAGcr/3423.ts
-#EXTINF:-1,MTV Live HD
-http://gameserver2.streamiptv.online:18001/live/petrone/jnssqMAGcr/4864.ts
-#EXTINF:-1,Focus
-http://gameserver2.streamiptv.online:18001/live/petrone/jnssqMAGcr/3542.ts
-#EXTINF:-1,Giallo
-http://gameserver2.streamiptv.online:18001/live/petrone/jnssqMAGcr/3419.ts
-#EXTINF:-1,Alice
-http://gameserver2.streamiptv.online:18001/live/petrone/jnssqMAGcr/4250.ts
-#EXTINF:-1,Fashion TV
-http://gameserver2.streamiptv.online:18001/live/petrone/jnssqMAGcr/4921.ts
-#EXTINF:-1,TV 2000
-http://gameserver2.streamiptv.online:18001/live/petrone/jnssqMAGcr/4922.ts
-#EXTINF:-1,Sky 3D
-http://gameserver2.streamiptv.online:18001/live/petrone/jnssqMAGcr/3400.ts
-#EXTINF:-1,Lei
-http://gameserver2.streamiptv.online:18001/live/petrone/jnssqMAGcr/3416.ts
-#EXTINF:-1,Iris
-http://gameserver2.streamiptv.online:18001/live/petrone/jnssqMAGcr/3545.ts
-#EXTINF:-1,Mediaset Italia Due
-http://gameserver2.streamiptv.online:18001/live/petrone/jnssqMAGcr/3544.ts
+http://iptvthebest.ddns.net:15000/live/72fd50ba1a7b4d1/2a64117049763cd/17.ts
+#EXTINF:-1,Italia 1 HD +1
+http://iptvthebest.ddns.net:15000/live/72fd50ba1a7b4d1/2a64117049763cd/13099.ts
+#EXTINF:-1,La 7
+http://iptvthebest.ddns.net:15000/live/72fd50ba1a7b4d1/2a64117049763cd/18.ts
+#EXTINF:-1,LA 7 +1
+http://iptvthebest.ddns.net:15000/live/72fd50ba1a7b4d1/2a64117049763cd/13100.ts
+#EXTINF:-1,RSI La 1
+http://iptvthebest.ddns.net:15000/live/72fd50ba1a7b4d1/2a64117049763cd/151.ts
+#EXTINF:-1,RSI LA 1 +1
+http://iptvthebest.ddns.net:15000/live/72fd50ba1a7b4d1/2a64117049763cd/13102.ts
+#EXTINF:-1,RSI La 2
+http://iptvthebest.ddns.net:15000/live/72fd50ba1a7b4d1/2a64117049763cd/152.ts
+#EXTINF:-1,RSI LA 2 +1
+http://iptvthebest.ddns.net:15000/live/72fd50ba1a7b4d1/2a64117049763cd/13103.ts
+#EXTINF:-1,La7d
+http://iptvthebest.ddns.net:15000/live/72fd50ba1a7b4d1/2a64117049763cd/19.ts
+#EXTINF:-1,La7d +1
+http://iptvthebest.ddns.net:15000/live/72fd50ba1a7b4d1/2a64117049763cd/13166.ts
 #EXTINF:-1,La 5
-http://gameserver2.streamiptv.online:18001/live/petrone/jnssqMAGcr/3543.ts
-#EXTINF:-1,Mediaset EXTRA
-http://gameserver2.streamiptv.online:18001/live/petrone/jnssqMAGcr/3540.ts
-#EXTINF:-1,Top Crime
-http://gameserver2.streamiptv.online:18001/live/petrone/jnssqMAGcr/3514.ts
-#EXTINF:-1,La 3
-http://gameserver2.streamiptv.online:18001/live/petrone/jnssqMAGcr/10453.ts
-#EXTINF:-1,Vero
-http://gameserver2.streamiptv.online:18001/live/petrone/jnssqMAGcr/10452.ts
-#EXTINF:-1,Sky Sport24 Full HD
-http://gameserver2.streamiptv.online:18001/live/petrone/jnssqMAGcr/7326.ts
-#EXTINF:-1,Sky Sport 24 HD
-http://gameserver2.streamiptv.online:18001/live/petrone/jnssqMAGcr/3426.ts
-#EXTINF:-1,Sky Sport24
-http://gameserver2.streamiptv.online:18001/live/petrone/jnssqMAGcr/4905.ts
-#EXTINF:-1,Sky Sport Mix HD
-http://gameserver2.streamiptv.online:18001/live/petrone/jnssqMAGcr/7252.ts
-#EXTINF:-1,Sky Sport 1 HD
-http://gameserver2.streamiptv.online:18001/live/petrone/jnssqMAGcr/3427.ts
-#EXTINF:-1,Sky Sport 1
-http://gameserver2.streamiptv.online:18001/live/petrone/jnssqMAGcr/4900.ts
-#EXTINF:-1,Sky Sport 2 HD
-http://gameserver2.streamiptv.online:18001/live/petrone/jnssqMAGcr/3428.ts
-#EXTINF:-1,Sky Sport 2
-http://gameserver2.streamiptv.online:18001/live/petrone/jnssqMAGcr/7282.ts
-#EXTINF:-1,Sky Sport 3 HD
-http://gameserver2.streamiptv.online:18001/live/petrone/jnssqMAGcr/3429.ts
-#EXTINF:-1,Sky Sport 3
-http://gameserver2.streamiptv.online:18001/live/petrone/jnssqMAGcr/7283.ts
-#EXTINF:-1,Sky Sport Plus HD
-http://gameserver2.streamiptv.online:18001/live/petrone/jnssqMAGcr/3431.ts
-#EXTINF:-1,Sky Sport Plus
-http://gameserver2.streamiptv.online:18001/live/petrone/jnssqMAGcr/4899.ts
-#EXTINF:-1,Fox Sports HD
-http://gameserver2.streamiptv.online:18001/live/petrone/jnssqMAGcr/3441.ts
-#EXTINF:-1,Fox Sports
-http://gameserver2.streamiptv.online:18001/live/petrone/jnssqMAGcr/4892.ts
-#EXTINF:-1,Sky Sport F1 HD
-http://gameserver2.streamiptv.online:18001/live/petrone/jnssqMAGcr/3433.ts
-#EXTINF:-1,Sky Sport F1
-http://gameserver2.streamiptv.online:18001/live/petrone/jnssqMAGcr/4902.ts
-#EXTINF:-1,Sky Sport MotoGP HD
-http://gameserver2.streamiptv.online:18001/live/petrone/jnssqMAGcr/3432.ts
-#EXTINF:-1,Sky Sport MotoGP
-http://gameserver2.streamiptv.online:18001/live/petrone/jnssqMAGcr/4901.ts
-#EXTINF:-1,Eurosport HD
-http://gameserver2.streamiptv.online:18001/live/petrone/jnssqMAGcr/3442.ts
-#EXTINF:-1,Eurosport 2 HD
-http://gameserver2.streamiptv.online:18001/live/petrone/jnssqMAGcr/3443.ts
-#EXTINF:-1,Super Tennis HD
-http://gameserver2.streamiptv.online:18001/live/petrone/jnssqMAGcr/3430.ts
-#EXTINF:-1,Poker Italia
-http://gameserver2.streamiptv.online:18001/live/petrone/jnssqMAGcr/3436.ts
-#EXTINF:-1,Split Tv
-http://gameserver2.streamiptv.online:18001/live/petrone/jnssqMAGcr/7296.ts
-#EXTINF:-1,Class HorseTv
-http://gameserver2.streamiptv.online:18001/live/petrone/jnssqMAGcr/7259.ts
-#EXTINF:-1,Sport Italia
-http://gameserver2.streamiptv.online:18001/live/petrone/jnssqMAGcr/3434.ts
-#EXTINF:-1,ROMATV
-http://gameserver2.streamiptv.online:18001/live/petrone/jnssqMAGcr/3435.ts
-#EXTINF:-1,Inter Channel
-http://gameserver2.streamiptv.online:18001/live/petrone/jnssqMAGcr/3440.ts
-#EXTINF:-1,J | Juventus TV
-http://gameserver2.streamiptv.online:18001/live/petrone/jnssqMAGcr/3439.ts
-#EXTINF:-1,Milan Channel
-http://gameserver2.streamiptv.online:18001/live/petrone/jnssqMAGcr/3437.ts
-#EXTINF:-1,Lazio Style Ch
-http://gameserver2.streamiptv.online:18001/live/petrone/jnssqMAGcr/3438.ts
-#EXTINF:-1,Bike Channel HD
-http://gameserver2.streamiptv.online:18001/live/petrone/jnssqMAGcr/3444.ts
-#EXTINF:-1,Lei +1
-http://gameserver2.streamiptv.online:18001/live/petrone/jnssqMAGcr/10308.ts
-#EXTINF:-1,UnireSat by Teleippica
-http://gameserver2.streamiptv.online:18001/live/petrone/jnssqMAGcr/4780.ts
-#EXTINF:-1,Fight Network Italia
-http://gameserver2.streamiptv.online:18001/live/petrone/jnssqMAGcr/10480.ts
-#EXTINF:-1,----------Sky Calcio----------
-http://gameserver2.streamiptv.online:18001/live/petrone/jnssqMAGcr/3554.ts
-#EXTINF:-1,Top Calcio 24
-http://gameserver2.streamiptv.online:18001/live/petrone/jnssqMAGcr/7295.ts
-#EXTINF:-1,Sky Calcio Info
-http://gameserver2.streamiptv.online:18001/live/petrone/jnssqMAGcr/4394.ts
-#EXTINF:-1,Sky Supercalcio HD
-http://gameserver2.streamiptv.online:18001/live/petrone/jnssqMAGcr/3445.ts
-#EXTINF:-1,Sky Supercalcio
-http://gameserver2.streamiptv.online:18001/live/petrone/jnssqMAGcr/4904.ts
-#EXTINF:-1,Sky Calcio 1 Full HD
-http://gameserver2.streamiptv.online:18001/live/petrone/jnssqMAGcr/7250.ts
-#EXTINF:-1,Sky Calcio 1 HD
-http://gameserver2.streamiptv.online:18001/live/petrone/jnssqMAGcr/3446.ts
-#EXTINF:-1,Sky Calcio 1
-http://gameserver2.streamiptv.online:18001/live/petrone/jnssqMAGcr/4909.ts
-#EXTINF:-1,Sky Calcio 2 HD
-http://gameserver2.streamiptv.online:18001/live/petrone/jnssqMAGcr/3447.ts
-#EXTINF:-1,Sky Calcio 2
-http://gameserver2.streamiptv.online:18001/live/petrone/jnssqMAGcr/4908.ts
-#EXTINF:-1,Sky Calcio 3 HD
-http://gameserver2.streamiptv.online:18001/live/petrone/jnssqMAGcr/3448.ts
-#EXTINF:-1,Sky Calcio 3
-http://gameserver2.streamiptv.online:18001/live/petrone/jnssqMAGcr/4907.ts
-#EXTINF:-1,Sky Calcio 4 HD
-http://gameserver2.streamiptv.online:18001/live/petrone/jnssqMAGcr/3449.ts
-#EXTINF:-1,Sky Calcio 4
-http://gameserver2.streamiptv.online:18001/live/petrone/jnssqMAGcr/4889.ts
-#EXTINF:-1,Sky Calcio 5 HD
-http://gameserver2.streamiptv.online:18001/live/petrone/jnssqMAGcr/3450.ts
-#EXTINF:-1,Sky Calcio 5
-http://gameserver2.streamiptv.online:18001/live/petrone/jnssqMAGcr/4890.ts
-#EXTINF:-1,Sky Calcio 6 HD
-http://gameserver2.streamiptv.online:18001/live/petrone/jnssqMAGcr/3451.ts
-#EXTINF:-1,Sky Calcio 6
-http://gameserver2.streamiptv.online:18001/live/petrone/jnssqMAGcr/4906.ts
-#EXTINF:-1,Sky Calcio 7 HD
-http://gameserver2.streamiptv.online:18001/live/petrone/jnssqMAGcr/3452.ts
-#EXTINF:-1,Sky Calcio 7
-http://gameserver2.streamiptv.online:18001/live/petrone/jnssqMAGcr/4891.ts
-#EXTINF:-1,Sky Calcio 8 HD
-http://gameserver2.streamiptv.online:18001/live/petrone/jnssqMAGcr/3453.ts
-#EXTINF:-1,Sky Calcio 9
-http://gameserver2.streamiptv.online:18001/live/petrone/jnssqMAGcr/3454.ts
-#EXTINF:-1,Sky Calcio 10
-http://gameserver2.streamiptv.online:18001/live/petrone/jnssqMAGcr/3902.ts
-#EXTINF:-1,Sky Calcio 11
-http://gameserver2.streamiptv.online:18001/live/petrone/jnssqMAGcr/4053.ts
-#EXTINF:-1,Sky Calcio 12
-http://gameserver2.streamiptv.online:18001/live/petrone/jnssqMAGcr/4052.ts
-#EXTINF:-1,Rai 1
-http://gameserver2.streamiptv.online:18001/live/petrone/jnssqMAGcr/3499.ts
-#EXTINF:-1,Rai 2
-http://gameserver2.streamiptv.online:18001/live/petrone/jnssqMAGcr/3500.ts
-#EXTINF:-1,Rai 3
-http://gameserver2.streamiptv.online:18001/live/petrone/jnssqMAGcr/3502.ts
-#EXTINF:-1,Rete 4
-http://gameserver2.streamiptv.online:18001/live/petrone/jnssqMAGcr/7299.ts
-#EXTINF:-1,Canale 5
-http://gameserver2.streamiptv.online:18001/live/petrone/jnssqMAGcr/10476.ts
-#EXTINF:-1,Italia 1
-http://gameserver2.streamiptv.online:18001/live/petrone/jnssqMAGcr/7300.ts
-#EXTINF:-1,NationalGeo HD
-http://gameserver2.streamiptv.online:18001/live/petrone/jnssqMAGcr/3481.ts
-#EXTINF:-1,NatGeo Wild HD
-http://gameserver2.streamiptv.online:18001/live/petrone/jnssqMAGcr/3482.ts
-#EXTINF:-1,NatGeo Wild +1
-http://gameserver2.streamiptv.online:18001/live/petrone/jnssqMAGcr/4924.ts
-#EXTINF:-1,NatGeo People HD
-http://gameserver2.streamiptv.online:18001/live/petrone/jnssqMAGcr/3483.ts
-#EXTINF:-1,Discovery HD
-http://gameserver2.streamiptv.online:18001/live/petrone/jnssqMAGcr/3489.ts
-#EXTINF:-1,Discovery +1
-http://gameserver2.streamiptv.online:18001/live/petrone/jnssqMAGcr/7260.ts
-#EXTINF:-1,Investigation Discovery
-http://gameserver2.streamiptv.online:18001/live/petrone/jnssqMAGcr/7558.ts
-#EXTINF:-1,Discovery Sci HD
-http://gameserver2.streamiptv.online:18001/live/petrone/jnssqMAGcr/3488.ts
-#EXTINF:-1,Discovery Travel HD
-http://gameserver2.streamiptv.online:18001/live/petrone/jnssqMAGcr/3487.ts
-#EXTINF:-1,CI Crime+Inv HD
-http://gameserver2.streamiptv.online:18001/live/petrone/jnssqMAGcr/3490.ts
-#EXTINF:-1,DMAX HD
-http://gameserver2.streamiptv.online:18001/live/petrone/jnssqMAGcr/3421.ts
-#EXTINF:-1,DMAX+1
-http://gameserver2.streamiptv.online:18001/live/petrone/jnssqMAGcr/5023.ts
-#EXTINF:-1,Gambero Rosso HD
-http://gameserver2.streamiptv.online:18001/live/petrone/jnssqMAGcr/3485.ts
-#EXTINF:-1,HIstory HD
-http://gameserver2.streamiptv.online:18001/live/petrone/jnssqMAGcr/3484.ts
-#EXTINF:-1,History +1
-http://gameserver2.streamiptv.online:18001/live/petrone/jnssqMAGcr/10309.ts
-#EXTINF:-1,Sky Arte HD
-http://gameserver2.streamiptv.online:18001/live/petrone/jnssqMAGcr/3480.ts
-#EXTINF:-1,Caccia
-http://gameserver2.streamiptv.online:18001/live/petrone/jnssqMAGcr/3492.ts
-#EXTINF:-1,Pesca
-http://gameserver2.streamiptv.online:18001/live/petrone/jnssqMAGcr/3491.ts
-#EXTINF:-1,Pescare E Cacciare
-http://gameserver2.streamiptv.online:18001/live/petrone/jnssqMAGcr/10485.ts
-#EXTINF:-1,Italian Fishing Tv
-http://gameserver2.streamiptv.online:18001/live/petrone/jnssqMAGcr/7092.ts
-#EXTINF:-1,Dove TV
-http://gameserver2.streamiptv.online:18001/live/petrone/jnssqMAGcr/4925.ts
-#EXTINF:-1,Animal Planet
-http://gameserver2.streamiptv.online:18001/live/petrone/jnssqMAGcr/3493.ts
-#EXTINF:-1,MARCOPOLO
-http://gameserver2.streamiptv.online:18001/live/petrone/jnssqMAGcr/4361.ts
-#EXTINF:-1,Laeffe
-http://gameserver2.streamiptv.online:18001/live/petrone/jnssqMAGcr/4912.ts
-#EXTINF:-1,Z-Peppa Pig
-http://gameserver2.streamiptv.online:18001/live/petrone/jnssqMAGcr/7327.ts
-#EXTINF:-1,Z-Manga-LIVE
-http://gameserver2.streamiptv.online:18001/live/petrone/jnssqMAGcr/7297.ts
-#EXTINF:-1,ZeTa Disney
-http://gameserver2.streamiptv.online:18001/live/petrone/jnssqMAGcr/7243.ts
-#EXTINF:-1,Tom And Jerry [Z]
-http://gameserver2.streamiptv.online:18001/live/petrone/jnssqMAGcr/10486.ts
-#EXTINF:-1,Cartoon-LIVE Masha E Orso
-http://gameserver2.streamiptv.online:18001/live/petrone/jnssqMAGcr/3358.ts
-#EXTINF:-1,Disney Ch. HD
-http://gameserver2.streamiptv.online:18001/live/petrone/jnssqMAGcr/3456.ts
-#EXTINF:-1,Disney Ch. +1
-http://gameserver2.streamiptv.online:18001/live/petrone/jnssqMAGcr/7261.ts
-#EXTINF:-1,Disney XD HD
-http://gameserver2.streamiptv.online:18001/live/petrone/jnssqMAGcr/3464.ts
-#EXTINF:-1,frisbee
-http://gameserver2.streamiptv.online:18001/live/petrone/jnssqMAGcr/7346.ts
-#EXTINF:-1,TeenNick
-http://gameserver2.streamiptv.online:18001/live/petrone/jnssqMAGcr/4863.ts
-#EXTINF:-1,Disney Junior
-http://gameserver2.streamiptv.online:18001/live/petrone/jnssqMAGcr/4821.ts
-#EXTINF:-1,Cartoon Network
-http://gameserver2.streamiptv.online:18001/live/petrone/jnssqMAGcr/3524.ts
-#EXTINF:-1,Boomerang
-http://gameserver2.streamiptv.online:18001/live/petrone/jnssqMAGcr/3468.ts
-#EXTINF:-1,Boomerang +1
-http://gameserver2.streamiptv.online:18001/live/petrone/jnssqMAGcr/10477.ts
-#EXTINF:-1,nickelodeon
-http://gameserver2.streamiptv.online:18001/live/petrone/jnssqMAGcr/3469.ts
-#EXTINF:-1,Nick Jr
-http://gameserver2.streamiptv.online:18001/live/petrone/jnssqMAGcr/7262.ts
-#EXTINF:-1,Baby TV
-http://gameserver2.streamiptv.online:18001/live/petrone/jnssqMAGcr/3472.ts
-#EXTINF:-1,DeAJunior
-http://gameserver2.streamiptv.online:18001/live/petrone/jnssqMAGcr/5026.ts
-#EXTINF:-1,DeAKids
-http://gameserver2.streamiptv.online:18001/live/petrone/jnssqMAGcr/5025.ts
+http://iptvthebest.ddns.net:15000/live/72fd50ba1a7b4d1/2a64117049763cd/20.ts
+#EXTINF:-1,La 5 +1
+http://iptvthebest.ddns.net:15000/live/72fd50ba1a7b4d1/2a64117049763cd/13167.ts
+#EXTINF:-1,MTV TV8
+http://iptvthebest.ddns.net:15000/live/72fd50ba1a7b4d1/2a64117049763cd/10401.ts
+#EXTINF:-1,MTV TV8 +1
+http://iptvthebest.ddns.net:15000/live/72fd50ba1a7b4d1/2a64117049763cd/13101.ts
+#EXTINF:-1,----- SKY CINEMA -----
+http://iptvthebest.ddns.net:15000/live/72fd50ba1a7b4d1/2a64117049763cd/21.ts
+#EXTINF:-1,Cinema 1 HD
+http://iptvthebest.ddns.net:15000/live/72fd50ba1a7b4d1/2a64117049763cd/22.ts
+#EXTINF:-1,Cinema +1 HD
+http://iptvthebest.ddns.net:15000/live/72fd50ba1a7b4d1/2a64117049763cd/23.ts
+#EXTINF:-1,Cinema +24 HD
+http://iptvthebest.ddns.net:15000/live/72fd50ba1a7b4d1/2a64117049763cd/24.ts
+#EXTINF:-1,Cinema Hits HD
+http://iptvthebest.ddns.net:15000/live/72fd50ba1a7b4d1/2a64117049763cd/25.ts
+#EXTINF:-1,Cinema Hits +1
+http://iptvthebest.ddns.net:15000/live/72fd50ba1a7b4d1/2a64117049763cd/10388.ts
+#EXTINF:-1,Cinema Family HD
+http://iptvthebest.ddns.net:15000/live/72fd50ba1a7b4d1/2a64117049763cd/26.ts
+#EXTINF:-1,Cinema Family +1 HD
+http://iptvthebest.ddns.net:15000/live/72fd50ba1a7b4d1/2a64117049763cd/2695.ts
+#EXTINF:-1,Cinema Max HD
+http://iptvthebest.ddns.net:15000/live/72fd50ba1a7b4d1/2a64117049763cd/29.ts
+#EXTINF:-1,Cinema Max +1 HD
+http://iptvthebest.ddns.net:15000/live/72fd50ba1a7b4d1/2a64117049763cd/30.ts
+#EXTINF:-1,Cinema Passion HD
+http://iptvthebest.ddns.net:15000/live/72fd50ba1a7b4d1/2a64117049763cd/27.ts
+#EXTINF:-1,Cinema Passion +1
+http://iptvthebest.ddns.net:15000/live/72fd50ba1a7b4d1/2a64117049763cd/10389.ts
+#EXTINF:-1,Cinema Cult HD
+http://iptvthebest.ddns.net:15000/live/72fd50ba1a7b4d1/2a64117049763cd/31.ts
+#EXTINF:-1,Cinema Cult +1 HD
+http://iptvthebest.ddns.net:15000/live/72fd50ba1a7b4d1/2a64117049763cd/11964.ts
+#EXTINF:-1,Cinema Classic HD
+http://iptvthebest.ddns.net:15000/live/72fd50ba1a7b4d1/2a64117049763cd/32.ts
+#EXTINF:-1,Cinema Classic +1
+http://iptvthebest.ddns.net:15000/live/72fd50ba1a7b4d1/2a64117049763cd/13110.ts
+#EXTINF:-1,Cinema Comedy HD
+http://iptvthebest.ddns.net:15000/live/72fd50ba1a7b4d1/2a64117049763cd/28.ts
+#EXTINF:-1,Cinema Comedy +1
+http://iptvthebest.ddns.net:15000/live/72fd50ba1a7b4d1/2a64117049763cd/10390.ts
+#EXTINF:-1,----- INTRATTENIMENTO -----
+http://iptvthebest.ddns.net:15000/live/72fd50ba1a7b4d1/2a64117049763cd/47.ts
+#EXTINF:-1,Sky 3D
+http://iptvthebest.ddns.net:15000/live/72fd50ba1a7b4d1/2a64117049763cd/13556.ts
+#EXTINF:-1,Sky Uno HD
+http://iptvthebest.ddns.net:15000/live/72fd50ba1a7b4d1/2a64117049763cd/48.ts
+#EXTINF:-1,SKY UNO +1 HD
+http://iptvthebest.ddns.net:15000/live/72fd50ba1a7b4d1/2a64117049763cd/6517.ts
+#EXTINF:-1,Sky Atlantic HD
+http://iptvthebest.ddns.net:15000/live/72fd50ba1a7b4d1/2a64117049763cd/699.ts
+#EXTINF:-1,Sky Atlantic +1 HD
+http://iptvthebest.ddns.net:15000/live/72fd50ba1a7b4d1/2a64117049763cd/6523.ts
+#EXTINF:-1,Sposa HD
+http://iptvthebest.ddns.net:15000/live/72fd50ba1a7b4d1/2a64117049763cd/5157.ts
+#EXTINF:-1,Fox HD
+http://iptvthebest.ddns.net:15000/live/72fd50ba1a7b4d1/2a64117049763cd/49.ts
+#EXTINF:-1,Fox +1
+http://iptvthebest.ddns.net:15000/live/72fd50ba1a7b4d1/2a64117049763cd/10391.ts
+#EXTINF:-1,Fox Life HD
+http://iptvthebest.ddns.net:15000/live/72fd50ba1a7b4d1/2a64117049763cd/50.ts
+#EXTINF:-1,Fox Life +1
+http://iptvthebest.ddns.net:15000/live/72fd50ba1a7b4d1/2a64117049763cd/10392.ts
+#EXTINF:-1,Fox Crime HD
+http://iptvthebest.ddns.net:15000/live/72fd50ba1a7b4d1/2a64117049763cd/52.ts
+#EXTINF:-1,Fox Crime +1
+http://iptvthebest.ddns.net:15000/live/72fd50ba1a7b4d1/2a64117049763cd/10393.ts
+#EXTINF:-1,Fox Comedy HD +1
+http://iptvthebest.ddns.net:15000/live/72fd50ba1a7b4d1/2a64117049763cd/13117.ts
+#EXTINF:-1,Fox Comedy HD
+http://iptvthebest.ddns.net:15000/live/72fd50ba1a7b4d1/2a64117049763cd/51.ts
+#EXTINF:-1,Fox Animation HD
+http://iptvthebest.ddns.net:15000/live/72fd50ba1a7b4d1/2a64117049763cd/53.ts
+#EXTINF:-1,Fox Animation +1
+http://iptvthebest.ddns.net:15000/live/72fd50ba1a7b4d1/2a64117049763cd/13118.ts
+#EXTINF:-1,Comedy Central
+http://iptvthebest.ddns.net:15000/live/72fd50ba1a7b4d1/2a64117049763cd/12175.ts
+#EXTINF:-1,Comedy Central +1
+http://iptvthebest.ddns.net:15000/live/72fd50ba1a7b4d1/2a64117049763cd/12176.ts
 #EXTINF:-1,MAN-GA
-http://gameserver2.streamiptv.online:18001/live/petrone/jnssqMAGcr/3460.ts
-#EXTINF:-1,Super!
-http://gameserver2.streamiptv.online:18001/live/petrone/jnssqMAGcr/3455.ts
-#EXTINF:-1,Rai Yoyo
-http://gameserver2.streamiptv.online:18001/live/petrone/jnssqMAGcr/3457.ts
-#EXTINF:-1,Rai Gulp
-http://gameserver2.streamiptv.online:18001/live/petrone/jnssqMAGcr/3458.ts
-#EXTINF:-1,Cartonito
-http://gameserver2.streamiptv.online:18001/live/petrone/jnssqMAGcr/3467.ts
-#EXTINF:-1,Boing
-http://gameserver2.streamiptv.online:18001/live/petrone/jnssqMAGcr/3470.ts
-#EXTINF:-1,K2
-http://gameserver2.streamiptv.online:18001/live/petrone/jnssqMAGcr/3461.ts
-#EXTINF:-1,Deejay TV
-http://gameserver2.streamiptv.online:18001/live/petrone/jnssqMAGcr/4322.ts
+http://iptvthebest.ddns.net:15000/live/72fd50ba1a7b4d1/2a64117049763cd/244.ts
+#EXTINF:-1,AXN HD
+http://iptvthebest.ddns.net:15000/live/72fd50ba1a7b4d1/2a64117049763cd/54.ts
+#EXTINF:-1,AXN +1
+http://iptvthebest.ddns.net:15000/live/72fd50ba1a7b4d1/2a64117049763cd/10394.ts
+#EXTINF:-1,Axn Sci-Fi +1
+http://iptvthebest.ddns.net:15000/live/72fd50ba1a7b4d1/2a64117049763cd/13120.ts
+#EXTINF:-1,AXN Sci-Fi
+http://iptvthebest.ddns.net:15000/live/72fd50ba1a7b4d1/2a64117049763cd/59.ts
+#EXTINF:-1,Paramount Channel HD
+http://iptvthebest.ddns.net:15000/live/72fd50ba1a7b4d1/2a64117049763cd/3342.ts
+#EXTINF:-1,Iris
+http://iptvthebest.ddns.net:15000/live/72fd50ba1a7b4d1/2a64117049763cd/159.ts
+#EXTINF:-1,Giallo
+http://iptvthebest.ddns.net:15000/live/72fd50ba1a7b4d1/2a64117049763cd/160.ts
+#EXTINF:-1,Giallo +1
+http://iptvthebest.ddns.net:15000/live/72fd50ba1a7b4d1/2a64117049763cd/13136.ts
+#EXTINF:-1,Cielo HD
+http://iptvthebest.ddns.net:15000/live/72fd50ba1a7b4d1/2a64117049763cd/55.ts
+#EXTINF:-1,Real Time HD
+http://iptvthebest.ddns.net:15000/live/72fd50ba1a7b4d1/2a64117049763cd/57.ts
+#EXTINF:-1,Real Time +1
+http://iptvthebest.ddns.net:15000/live/72fd50ba1a7b4d1/2a64117049763cd/7945.ts
+#EXTINF:-1,TV 2000
+http://iptvthebest.ddns.net:15000/live/72fd50ba1a7b4d1/2a64117049763cd/154.ts
+#EXTINF:-1,Rai Movie
+http://iptvthebest.ddns.net:15000/live/72fd50ba1a7b4d1/2a64117049763cd/146.ts
+#EXTINF:-1,Rai Premium
+http://iptvthebest.ddns.net:15000/live/72fd50ba1a7b4d1/2a64117049763cd/145.ts
+#EXTINF:-1,Rai 4
+http://iptvthebest.ddns.net:15000/live/72fd50ba1a7b4d1/2a64117049763cd/147.ts
+#EXTINF:-1,Rai 5
+http://iptvthebest.ddns.net:15000/live/72fd50ba1a7b4d1/2a64117049763cd/148.ts
+#EXTINF:-1,Mediaset Extra
+http://iptvthebest.ddns.net:15000/live/72fd50ba1a7b4d1/2a64117049763cd/142.ts
+#EXTINF:-1,Italia 2
+http://iptvthebest.ddns.net:15000/live/72fd50ba1a7b4d1/2a64117049763cd/158.ts
+#EXTINF:-1,Espansione TV
+http://iptvthebest.ddns.net:15000/live/72fd50ba1a7b4d1/2a64117049763cd/7943.ts
+#EXTINF:-1,E! Ent
+http://iptvthebest.ddns.net:15000/live/72fd50ba1a7b4d1/2a64117049763cd/10147.ts
 #EXTINF:-1,Classica HD
-http://gameserver2.streamiptv.online:18001/live/petrone/jnssqMAGcr/3903.ts
-#EXTINF:-1,Radio Italia
-http://gameserver2.streamiptv.online:18001/live/petrone/jnssqMAGcr/3476.ts
-#EXTINF:-1,Italia Radio TV
-http://gameserver2.streamiptv.online:18001/live/petrone/jnssqMAGcr/10481.ts
-#EXTINF:-1,m2o Tv
-http://gameserver2.streamiptv.online:18001/live/petrone/jnssqMAGcr/7318.ts
-#EXTINF:-1,Radio Taormina
-http://gameserver2.streamiptv.online:18001/live/petrone/jnssqMAGcr/4807.ts
-#EXTINF:-1,Radio Deejay
-http://gameserver2.streamiptv.online:18001/live/petrone/jnssqMAGcr/4929.ts
-#EXTINF:-1,Radio NumberOne Tv
-http://gameserver2.streamiptv.online:18001/live/petrone/jnssqMAGcr/4814.ts
-#EXTINF:-1,Radio montecarlo
-http://gameserver2.streamiptv.online:18001/live/petrone/jnssqMAGcr/3475.ts
-#EXTINF:-1,Onda Italiana
-http://gameserver2.streamiptv.online:18001/live/petrone/jnssqMAGcr/4811.ts
-#EXTINF:-1,RADIONORBA TV
-http://gameserver2.streamiptv.online:18001/live/petrone/jnssqMAGcr/7263.ts
-#EXTINF:-1,kissKiss Napoli TV
-http://gameserver2.streamiptv.online:18001/live/petrone/jnssqMAGcr/4813.ts
-#EXTINF:-1,Radio Kis Kiss
-http://gameserver2.streamiptv.online:18001/live/petrone/jnssqMAGcr/7294.ts
-#EXTINF:-1,TGCom 24
-http://gameserver2.streamiptv.online:18001/live/petrone/jnssqMAGcr/4927.ts
-#EXTINF:-1,Sky TG 24 HD
-http://gameserver2.streamiptv.online:18001/live/petrone/jnssqMAGcr/3494.ts
-#EXTINF:-1,Rai News 24
-http://gameserver2.streamiptv.online:18001/live/petrone/jnssqMAGcr/4928.ts
-#EXTINF:-1,TeleBari
-http://gameserver2.streamiptv.online:18001/live/petrone/jnssqMAGcr/4364.ts
-#EXTINF:-1,Videolina
-http://gameserver2.streamiptv.online:18001/live/petrone/jnssqMAGcr/3498.ts
-#EXTINF:-1,Primafila Vetrina
-http://gameserver2.streamiptv.online:18001/movie/petrone/jnssqMAGcr/933.mkv
-#EXTINF:-1,Primafila Treiler
-http://gameserver2.streamiptv.online:18001/live/petrone/jnssqMAGcr/5536.ts
-#EXTINF:-1,Primafila 1 HD
-http://gameserver2.streamiptv.online:18001/live/petrone/jnssqMAGcr/3377.ts
-#EXTINF:-1,Primafila 2
-http://gameserver2.streamiptv.online:18001/live/petrone/jnssqMAGcr/3366.ts
-#EXTINF:-1,Primafila 3 HD
-http://gameserver2.streamiptv.online:18001/live/petrone/jnssqMAGcr/3365.ts
-#EXTINF:-1,Primafila 4
-http://gameserver2.streamiptv.online:18001/live/petrone/jnssqMAGcr/3364.ts
-#EXTINF:-1,Primafila 5 HD
-http://gameserver2.streamiptv.online:18001/live/petrone/jnssqMAGcr/3363.ts
-#EXTINF:-1,Primafila 6
-http://gameserver2.streamiptv.online:18001/live/petrone/jnssqMAGcr/3362.ts
-#EXTINF:-1,Primafila 7 HD
-http://gameserver2.streamiptv.online:18001/live/petrone/jnssqMAGcr/3361.ts
-#EXTINF:-1,Primafila 8
-http://gameserver2.streamiptv.online:18001/live/petrone/jnssqMAGcr/3360.ts
-#EXTINF:-1,Primafila 9 HD
-http://gameserver2.streamiptv.online:18001/live/petrone/jnssqMAGcr/3359.ts
-#EXTINF:-1,Primafila 10
-http://gameserver2.streamiptv.online:18001/live/petrone/jnssqMAGcr/3376.ts
-#EXTINF:-1,Primafila 11 HD
-http://gameserver2.streamiptv.online:18001/live/petrone/jnssqMAGcr/3375.ts
-#EXTINF:-1,Primafila 12
-http://gameserver2.streamiptv.online:18001/live/petrone/jnssqMAGcr/3374.ts
-#EXTINF:-1,Primafila 13 HD
-http://gameserver2.streamiptv.online:18001/live/petrone/jnssqMAGcr/3373.ts
-#EXTINF:-1,Primafila 14
-http://gameserver2.streamiptv.online:18001/live/petrone/jnssqMAGcr/3372.ts
-#EXTINF:-1,Primafila 15
-http://gameserver2.streamiptv.online:18001/live/petrone/jnssqMAGcr/3371.ts
-#EXTINF:-1,Primafila 16
-http://gameserver2.streamiptv.online:18001/live/petrone/jnssqMAGcr/3370.ts
-#EXTINF:-1,Primafila 17
-http://gameserver2.streamiptv.online:18001/live/petrone/jnssqMAGcr/3369.ts
-#EXTINF:-1,Primafila 18
-http://gameserver2.streamiptv.online:18001/live/petrone/jnssqMAGcr/3368.ts
-#EXTINF:-1,Primafila 19
-http://gameserver2.streamiptv.online:18001/live/petrone/jnssqMAGcr/3367.ts
+http://iptvthebest.ddns.net:15000/live/72fd50ba1a7b4d1/2a64117049763cd/10145.ts
+#EXTINF:-1,Teleticino HD
+http://iptvthebest.ddns.net:15000/live/72fd50ba1a7b4d1/2a64117049763cd/156.ts
+#EXTINF:-1,----- SPORT -----
+http://iptvthebest.ddns.net:15000/live/72fd50ba1a7b4d1/2a64117049763cd/62.ts
+#EXTINF:-1,Sport Mix
+http://iptvthebest.ddns.net:15000/live/72fd50ba1a7b4d1/2a64117049763cd/13327.ts
+#EXTINF:-1,Sky Sport 24 HD
+http://iptvthebest.ddns.net:15000/live/72fd50ba1a7b4d1/2a64117049763cd/64.ts
+#EXTINF:-1,Sky Sport 24 +1
+http://iptvthebest.ddns.net:15000/live/72fd50ba1a7b4d1/2a64117049763cd/13122.ts
+#EXTINF:-1,Sky Sport Plus HD
+http://iptvthebest.ddns.net:15000/live/72fd50ba1a7b4d1/2a64117049763cd/73.ts
+#EXTINF:-1,Fox Sport Plus +1
+http://iptvthebest.ddns.net:15000/live/72fd50ba1a7b4d1/2a64117049763cd/13127.ts
+#EXTINF:-1,Sky Sport 1 HD
+http://iptvthebest.ddns.net:15000/live/72fd50ba1a7b4d1/2a64117049763cd/66.ts
+#EXTINF:-1,Sky Sport 1 +1
+http://iptvthebest.ddns.net:15000/live/72fd50ba1a7b4d1/2a64117049763cd/13123.ts
+#EXTINF:-1,SKY Sport 2 HD
+http://iptvthebest.ddns.net:15000/live/72fd50ba1a7b4d1/2a64117049763cd/68.ts
+#EXTINF:-1,Sky Sport 2 +1
+http://iptvthebest.ddns.net:15000/live/72fd50ba1a7b4d1/2a64117049763cd/13124.ts
+#EXTINF:-1,Sky Sport 3 HD
+http://iptvthebest.ddns.net:15000/live/72fd50ba1a7b4d1/2a64117049763cd/70.ts
+#EXTINF:-1,Sky Sport 3 +1
+http://iptvthebest.ddns.net:15000/live/72fd50ba1a7b4d1/2a64117049763cd/13125.ts
+#EXTINF:-1,Fox Sports HD
+http://iptvthebest.ddns.net:15000/live/72fd50ba1a7b4d1/2a64117049763cd/71.ts
+#EXTINF:-1,Fox Sport +1
+http://iptvthebest.ddns.net:15000/live/72fd50ba1a7b4d1/2a64117049763cd/13126.ts
+#EXTINF:-1,Sky Sport F1 HD
+http://iptvthebest.ddns.net:15000/live/72fd50ba1a7b4d1/2a64117049763cd/75.ts
+#EXTINF:-1,Sky Sport F1 +1
+http://iptvthebest.ddns.net:15000/live/72fd50ba1a7b4d1/2a64117049763cd/13128.ts
+#EXTINF:-1,Sky Motogp HD
+http://iptvthebest.ddns.net:15000/live/72fd50ba1a7b4d1/2a64117049763cd/76.ts
+#EXTINF:-1,Sky MotoGP +1
+http://iptvthebest.ddns.net:15000/live/72fd50ba1a7b4d1/2a64117049763cd/13129.ts
+#EXTINF:-1,Sky Fight NetWork
+http://iptvthebest.ddns.net:15000/live/72fd50ba1a7b4d1/2a64117049763cd/13328.ts
+#EXTINF:-1,Eurosport HD
+http://iptvthebest.ddns.net:15000/live/72fd50ba1a7b4d1/2a64117049763cd/74.ts
+#EXTINF:-1,Eurosport 1 +1
+http://iptvthebest.ddns.net:15000/live/72fd50ba1a7b4d1/2a64117049763cd/13130.ts
+#EXTINF:-1,Eurosport 2 HD
+http://iptvthebest.ddns.net:15000/live/72fd50ba1a7b4d1/2a64117049763cd/77.ts
+#EXTINF:-1,Rai Sport 1 HD
+http://iptvthebest.ddns.net:15000/live/72fd50ba1a7b4d1/2a64117049763cd/3343.ts
+#EXTINF:-1,Sport Italia
+http://iptvthebest.ddns.net:15000/live/72fd50ba1a7b4d1/2a64117049763cd/2324.ts
+#EXTINF:-1,Super tennis HD
+http://iptvthebest.ddns.net:15000/live/72fd50ba1a7b4d1/2a64117049763cd/78.ts
+#EXTINF:-1,BIKE CHANNEL
+http://iptvthebest.ddns.net:15000/live/72fd50ba1a7b4d1/2a64117049763cd/2319.ts
+#EXTINF:-1,Bike Channel +1
+http://iptvthebest.ddns.net:15000/live/72fd50ba1a7b4d1/2a64117049763cd/13134.ts
+#EXTINF:-1,Poker Central
+http://iptvthebest.ddns.net:15000/live/72fd50ba1a7b4d1/2a64117049763cd/2664.ts
+#EXTINF:-1,Nuvolari
+http://iptvthebest.ddns.net:15000/live/72fd50ba1a7b4d1/2a64117049763cd/10143.ts
+#EXTINF:-1,Class Horse TV
+http://iptvthebest.ddns.net:15000/live/72fd50ba1a7b4d1/2a64117049763cd/10149.ts
+#EXTINF:-1,Class Horse +1
+http://iptvthebest.ddns.net:15000/live/72fd50ba1a7b4d1/2a64117049763cd/13131.ts
+#EXTINF:-1,Auto Moto TV
+http://iptvthebest.ddns.net:15000/live/72fd50ba1a7b4d1/2a64117049763cd/12177.ts
+#EXTINF:-1,----- CALCIO -----
+http://iptvthebest.ddns.net:15000/live/72fd50ba1a7b4d1/2a64117049763cd/83.ts
+#EXTINF:-1,Sky Info Calcio
+http://iptvthebest.ddns.net:15000/live/72fd50ba1a7b4d1/2a64117049763cd/12178.ts
+#EXTINF:-1,Sky Supercalcio HD
+http://iptvthebest.ddns.net:15000/live/72fd50ba1a7b4d1/2a64117049763cd/85.ts
+#EXTINF:-1,Sky Calcio 1 HD
+http://iptvthebest.ddns.net:15000/live/72fd50ba1a7b4d1/2a64117049763cd/87.ts
+#EXTINF:-1,Sky Calcio 2 HD
+http://iptvthebest.ddns.net:15000/live/72fd50ba1a7b4d1/2a64117049763cd/88.ts
+#EXTINF:-1,Sky Calcio 3 HD
+http://iptvthebest.ddns.net:15000/live/72fd50ba1a7b4d1/2a64117049763cd/90.ts
+#EXTINF:-1,Sky Calcio 4 HD
+http://iptvthebest.ddns.net:15000/live/72fd50ba1a7b4d1/2a64117049763cd/92.ts
+#EXTINF:-1,Sky Calcio 5 HD
+http://iptvthebest.ddns.net:15000/live/72fd50ba1a7b4d1/2a64117049763cd/94.ts
+#EXTINF:-1,Sky Calcio 6 HD
+http://iptvthebest.ddns.net:15000/live/72fd50ba1a7b4d1/2a64117049763cd/95.ts
+#EXTINF:-1,SKY Calcio 7 HD
+http://iptvthebest.ddns.net:15000/live/72fd50ba1a7b4d1/2a64117049763cd/96.ts
+#EXTINF:-1,SKY Calcio 8 HD
+http://iptvthebest.ddns.net:15000/live/72fd50ba1a7b4d1/2a64117049763cd/97.ts
+#EXTINF:-1,SKY Calcio 9 HD
+http://iptvthebest.ddns.net:15000/live/72fd50ba1a7b4d1/2a64117049763cd/98.ts
+#EXTINF:-1,Juventus TV
+http://iptvthebest.ddns.net:15000/live/72fd50ba1a7b4d1/2a64117049763cd/8315.ts
+#EXTINF:-1,Roma Channel
+http://iptvthebest.ddns.net:15000/live/72fd50ba1a7b4d1/2a64117049763cd/8735.ts
+#EXTINF:-1,Milan Channel
+http://iptvthebest.ddns.net:15000/live/72fd50ba1a7b4d1/2a64117049763cd/8737.ts
+#EXTINF:-1,Inter Channel
+http://iptvthebest.ddns.net:15000/live/72fd50ba1a7b4d1/2a64117049763cd/8736.ts
+#EXTINF:-1,---- Canali UHD (Connessione minima 5mb/s) ----
+http://iptvthebest.ddns.net:15000/live/72fd50ba1a7b4d1/2a64117049763cd/11707.ts
+#EXTINF:-1,Sky Cinema 1 UHD
+http://iptvthebest.ddns.net:15000/live/72fd50ba1a7b4d1/2a64117049763cd/11704.ts
+#EXTINF:-1,Sky Cinema +1 UHD
+http://iptvthebest.ddns.net:15000/live/72fd50ba1a7b4d1/2a64117049763cd/11706.ts
+#EXTINF:-1,Sky Cinema  +24 UHD
+http://iptvthebest.ddns.net:15000/live/72fd50ba1a7b4d1/2a64117049763cd/11705.ts
+#EXTINF:-1,Sky Cinema Hits UHD
+http://iptvthebest.ddns.net:15000/live/72fd50ba1a7b4d1/2a64117049763cd/11699.ts
+#EXTINF:-1,Sky Cinema Max UHD
+http://iptvthebest.ddns.net:15000/live/72fd50ba1a7b4d1/2a64117049763cd/11697.ts
+#EXTINF:-1,Sky Cinema Family UHD
+http://iptvthebest.ddns.net:15000/live/72fd50ba1a7b4d1/2a64117049763cd/11700.ts
+#EXTINF:-1,Sky Cinema Comedy UHD
+http://iptvthebest.ddns.net:15000/live/72fd50ba1a7b4d1/2a64117049763cd/11703.ts
+#EXTINF:-1,Sky Cinema Cult UHD
+http://iptvthebest.ddns.net:15000/live/72fd50ba1a7b4d1/2a64117049763cd/11702.ts
+#EXTINF:-1,Sky Cinema Passion UHD
+http://iptvthebest.ddns.net:15000/live/72fd50ba1a7b4d1/2a64117049763cd/11695.ts
+#EXTINF:-1,Sky Supercalcio UHD
+http://iptvthebest.ddns.net:15000/live/72fd50ba1a7b4d1/2a64117049763cd/11969.ts
+#EXTINF:-1,Sky Calcio 1 UHD
+http://iptvthebest.ddns.net:15000/live/72fd50ba1a7b4d1/2a64117049763cd/11970.ts
+#EXTINF:-1,---- Canali SD (Connessioni Lente)
+http://iptvthebest.ddns.net:15000/live/72fd50ba1a7b4d1/2a64117049763cd/11573.ts
+#EXTINF:-1,Rai 1 SD
+http://iptvthebest.ddns.net:15000/live/72fd50ba1a7b4d1/2a64117049763cd/11691.ts
+#EXTINF:-1,Rai 2 SD
+http://iptvthebest.ddns.net:15000/live/72fd50ba1a7b4d1/2a64117049763cd/11692.ts
+#EXTINF:-1,Rai 3 SD
+http://iptvthebest.ddns.net:15000/live/72fd50ba1a7b4d1/2a64117049763cd/11693.ts
+#EXTINF:-1,Rete 4 SD
+http://iptvthebest.ddns.net:15000/live/72fd50ba1a7b4d1/2a64117049763cd/11574.ts
+#EXTINF:-1,Canale 5 SD
+http://iptvthebest.ddns.net:15000/live/72fd50ba1a7b4d1/2a64117049763cd/11575.ts
+#EXTINF:-1,Italia 1 SD
+http://iptvthebest.ddns.net:15000/live/72fd50ba1a7b4d1/2a64117049763cd/11576.ts
+#EXTINF:-1,La 7 SD
+http://iptvthebest.ddns.net:15000/live/72fd50ba1a7b4d1/2a64117049763cd/11577.ts
+#EXTINF:-1,Paramount Channel SD
+http://iptvthebest.ddns.net:15000/live/72fd50ba1a7b4d1/2a64117049763cd/10148.ts
+#EXTINF:-1,Eurosport 1 SD
+http://iptvthebest.ddns.net:15000/live/72fd50ba1a7b4d1/2a64117049763cd/10146.ts
+#EXTINF:-1,Cinema 1 SD
+http://iptvthebest.ddns.net:15000/live/72fd50ba1a7b4d1/2a64117049763cd/11558.ts
+#EXTINF:-1,Cinema +1 SD
+http://iptvthebest.ddns.net:15000/live/72fd50ba1a7b4d1/2a64117049763cd/11559.ts
+#EXTINF:-1,Cinema  24 SD
+http://iptvthebest.ddns.net:15000/live/72fd50ba1a7b4d1/2a64117049763cd/11560.ts
+#EXTINF:-1,Cinema Max SD
+http://iptvthebest.ddns.net:15000/live/72fd50ba1a7b4d1/2a64117049763cd/11565.ts
+#EXTINF:-1,Cinema Max +1 SD
+http://iptvthebest.ddns.net:15000/live/72fd50ba1a7b4d1/2a64117049763cd/11566.ts
+#EXTINF:-1,Cinema Hits SD
+http://iptvthebest.ddns.net:15000/live/72fd50ba1a7b4d1/2a64117049763cd/11561.ts
+#EXTINF:-1,Cinema Hits +1 SD
+http://iptvthebest.ddns.net:15000/live/72fd50ba1a7b4d1/2a64117049763cd/11562.ts
+#EXTINF:-1,Cinema Family SD
+http://iptvthebest.ddns.net:15000/live/72fd50ba1a7b4d1/2a64117049763cd/11563.ts
+#EXTINF:-1,Cinema Family +1 SD
+http://iptvthebest.ddns.net:15000/live/72fd50ba1a7b4d1/2a64117049763cd/11564.ts
+#EXTINF:-1,Cinema Passion SD
+http://iptvthebest.ddns.net:15000/live/72fd50ba1a7b4d1/2a64117049763cd/11567.ts
+#EXTINF:-1,Cinema Passion +1 SD
+http://iptvthebest.ddns.net:15000/live/72fd50ba1a7b4d1/2a64117049763cd/11568.ts
+#EXTINF:-1,Cinema Cult SD
+http://iptvthebest.ddns.net:15000/live/72fd50ba1a7b4d1/2a64117049763cd/11569.ts
+#EXTINF:-1,Cinema Classic SD
+http://iptvthebest.ddns.net:15000/live/72fd50ba1a7b4d1/2a64117049763cd/11570.ts
+#EXTINF:-1,Cinema Comedy SD
+http://iptvthebest.ddns.net:15000/live/72fd50ba1a7b4d1/2a64117049763cd/11571.ts
+#EXTINF:-1,Cinema Comedy +1 SD
+http://iptvthebest.ddns.net:15000/live/72fd50ba1a7b4d1/2a64117049763cd/11572.ts
+#EXTINF:-1,----- MEDIASET PREMIUM -----
+http://iptvthebest.ddns.net:15000/live/72fd50ba1a7b4d1/2a64117049763cd/162.ts
 #EXTINF:-1,Premium Cinema HD
-http://gameserver2.streamiptv.online:18001/live/petrone/jnssqMAGcr/3506.ts
-#EXTINF:-1,Premium Cinema
-http://gameserver2.streamiptv.online:18001/live/petrone/jnssqMAGcr/7556.ts
-#EXTINF:-1,Premium Cinema 2 HD
-http://gameserver2.streamiptv.online:18001/live/petrone/jnssqMAGcr/3507.ts
-#EXTINF:-1,Premium Cinema 2 +24
-http://gameserver2.streamiptv.online:18001/live/petrone/jnssqMAGcr/3508.ts
+http://iptvthebest.ddns.net:15000/live/72fd50ba1a7b4d1/2a64117049763cd/163.ts
+#EXTINF:-1,Premium Cinema 1 +1
+http://iptvthebest.ddns.net:15000/live/72fd50ba1a7b4d1/2a64117049763cd/13154.ts
 #EXTINF:-1,Premium Cinema +24
-http://gameserver2.streamiptv.online:18001/live/petrone/jnssqMAGcr/3509.ts
-#EXTINF:-1,Premium Emotion
-http://gameserver2.streamiptv.online:18001/live/petrone/jnssqMAGcr/3513.ts
-#EXTINF:-1,Premium Energy HD
-http://gameserver2.streamiptv.online:18001/live/petrone/jnssqMAGcr/3512.ts
-#EXTINF:-1,Premium Energy +24
-http://gameserver2.streamiptv.online:18001/live/petrone/jnssqMAGcr/7317.ts
-#EXTINF:-1,Premium Comedy
-http://gameserver2.streamiptv.online:18001/live/petrone/jnssqMAGcr/3519.ts
-#EXTINF:-1,Premium Stories
-http://gameserver2.streamiptv.online:18001/live/petrone/jnssqMAGcr/3511.ts
-#EXTINF:-1,Premium Stories +24
-http://gameserver2.streamiptv.online:18001/live/petrone/jnssqMAGcr/7268.ts
+http://iptvthebest.ddns.net:15000/live/72fd50ba1a7b4d1/2a64117049763cd/164.ts
+#EXTINF:-1,Premium Cinema 2 HD
+http://iptvthebest.ddns.net:15000/live/72fd50ba1a7b4d1/2a64117049763cd/165.ts
+#EXTINF:-1,Premium Cinema 2 HD +1
+http://iptvthebest.ddns.net:15000/live/72fd50ba1a7b4d1/2a64117049763cd/13155.ts
+#EXTINF:-1,Premium Cinema 2 +24
+http://iptvthebest.ddns.net:15000/live/72fd50ba1a7b4d1/2a64117049763cd/166.ts
 #EXTINF:-1,Premium Action HD
-http://gameserver2.streamiptv.online:18001/live/petrone/jnssqMAGcr/3516.ts
+http://iptvthebest.ddns.net:15000/live/72fd50ba1a7b4d1/2a64117049763cd/167.ts
+#EXTINF:-1,Premium Action +1
+http://iptvthebest.ddns.net:15000/live/72fd50ba1a7b4d1/2a64117049763cd/13153.ts
 #EXTINF:-1,Premium Action +24
-http://gameserver2.streamiptv.online:18001/live/petrone/jnssqMAGcr/3517.ts
-#EXTINF:-1,Premium Joi
-http://gameserver2.streamiptv.online:18001/live/petrone/jnssqMAGcr/3515.ts
-#EXTINF:-1,Premium Joi +24
-http://gameserver2.streamiptv.online:18001/live/petrone/jnssqMAGcr/7269.ts
-#EXTINF:-1,Studio Universal - Premium
-http://gameserver2.streamiptv.online:18001/live/petrone/jnssqMAGcr/3520.ts
+http://iptvthebest.ddns.net:15000/live/72fd50ba1a7b4d1/2a64117049763cd/168.ts
 #EXTINF:-1,Premium Crime HD
-http://gameserver2.streamiptv.online:18001/live/petrone/jnssqMAGcr/3510.ts
-#EXTINF:-1,Premium Crime
-http://gameserver2.streamiptv.online:18001/live/petrone/jnssqMAGcr/7557.ts
+http://iptvthebest.ddns.net:15000/live/72fd50ba1a7b4d1/2a64117049763cd/169.ts
+#EXTINF:-1,Premium Crime HD +1
+http://iptvthebest.ddns.net:15000/live/72fd50ba1a7b4d1/2a64117049763cd/13157.ts
 #EXTINF:-1,Premium Crime +24
-http://gameserver2.streamiptv.online:18001/live/petrone/jnssqMAGcr/3518.ts
-#EXTINF:-1,Cartoon Network - Premium
-http://gameserver2.streamiptv.online:18001/live/petrone/jnssqMAGcr/7270.ts
-#EXTINF:-1,DE ARD
-http://gameserver2.streamiptv.online:18001/live/petrone/jnssqMAGcr/10183.ts
-#EXTINF:-1,DE ZDF
-http://gameserver2.streamiptv.online:18001/live/petrone/jnssqMAGcr/10184.ts
-#EXTINF:-1,DE RTL Television
-http://gameserver2.streamiptv.online:18001/live/petrone/jnssqMAGcr/10185.ts
-#EXTINF:-1,DE RTL 2
-http://gameserver2.streamiptv.online:18001/live/petrone/jnssqMAGcr/10186.ts
-#EXTINF:-1,DE Super RTL
-http://gameserver2.streamiptv.online:18001/live/petrone/jnssqMAGcr/10187.ts
-#EXTINF:-1,DE Sixx
-http://gameserver2.streamiptv.online:18001/live/petrone/jnssqMAGcr/10188.ts
-#EXTINF:-1,DE Pro 7 HD
-http://gameserver2.streamiptv.online:18001/live/petrone/jnssqMAGcr/10189.ts
-#EXTINF:-1,DE Sat 1
-http://gameserver2.streamiptv.online:18001/live/petrone/jnssqMAGcr/10190.ts
-#EXTINF:-1,DE VOX
-http://gameserver2.streamiptv.online:18001/live/petrone/jnssqMAGcr/10191.ts
-#EXTINF:-1,DE Kabel Eins
-http://gameserver2.streamiptv.online:18001/live/petrone/jnssqMAGcr/10192.ts
-#EXTINF:-1,AU ORF 1 HD
-http://gameserver2.streamiptv.online:18001/live/petrone/jnssqMAGcr/10193.ts
-#EXTINF:-1,AU ORF 2 HD
-http://gameserver2.streamiptv.online:18001/live/petrone/jnssqMAGcr/10194.ts
-#EXTINF:-1,DE Tele 5 HD
-http://gameserver2.streamiptv.online:18001/live/petrone/jnssqMAGcr/10195.ts
-#EXTINF:-1,DE MTV HD
-http://gameserver2.streamiptv.online:18001/live/petrone/jnssqMAGcr/10196.ts
-#EXTINF:-1,DE RTL Nitro
-http://gameserver2.streamiptv.online:18001/live/petrone/jnssqMAGcr/10197.ts
-#EXTINF:-1,DE Arte HD
-http://gameserver2.streamiptv.online:18001/live/petrone/jnssqMAGcr/10198.ts
-#EXTINF:-1,DE 3Sat
-http://gameserver2.streamiptv.online:18001/live/petrone/jnssqMAGcr/10199.ts
-#EXTINF:-1,DE ZDF Neo HD
-http://gameserver2.streamiptv.online:18001/live/petrone/jnssqMAGcr/10200.ts
-#EXTINF:-1,DE Anixe
-http://gameserver2.streamiptv.online:18001/live/petrone/jnssqMAGcr/10201.ts
-#EXTINF:-1,DE WDR HD
-http://gameserver2.streamiptv.online:18001/live/petrone/jnssqMAGcr/10202.ts
-#EXTINF:-1,DE Tele Barn
-http://gameserver2.streamiptv.online:18001/live/petrone/jnssqMAGcr/10203.ts
-#EXTINF:-1,DE BR HD
-http://gameserver2.streamiptv.online:18001/live/petrone/jnssqMAGcr/10204.ts
-#EXTINF:-1,DE SWR HD
-http://gameserver2.streamiptv.online:18001/live/petrone/jnssqMAGcr/10205.ts
-#EXTINF:-1,DE Servus TV HD
-http://gameserver2.streamiptv.online:18001/live/petrone/jnssqMAGcr/10206.ts
-#EXTINF:-1,DE Sky Cinema HD
-http://gameserver2.streamiptv.online:18001/live/petrone/jnssqMAGcr/10208.ts
-#EXTINF:-1,DE Sky Cinema  1
-http://gameserver2.streamiptv.online:18001/live/petrone/jnssqMAGcr/10209.ts
-#EXTINF:-1,DE Cinema  24 HD
-http://gameserver2.streamiptv.online:18001/live/petrone/jnssqMAGcr/10210.ts
-#EXTINF:-1,DE Sky Action HD
-http://gameserver2.streamiptv.online:18001/live/petrone/jnssqMAGcr/10211.ts
-#EXTINF:-1,DE Sky Hits
-http://gameserver2.streamiptv.online:18001/live/petrone/jnssqMAGcr/10212.ts
-#EXTINF:-1,DE Sky Comedy
-http://gameserver2.streamiptv.online:18001/live/petrone/jnssqMAGcr/10213.ts
-#EXTINF:-1,DE Comedy Central
-http://gameserver2.streamiptv.online:18001/live/petrone/jnssqMAGcr/10214.ts
-#EXTINF:-1,DE Sky Emotion
-http://gameserver2.streamiptv.online:18001/live/petrone/jnssqMAGcr/10215.ts
-#EXTINF:-1,DE Sky Nostalgie
-http://gameserver2.streamiptv.online:18001/live/petrone/jnssqMAGcr/10216.ts
-#EXTINF:-1,DE MGM
-http://gameserver2.streamiptv.online:18001/live/petrone/jnssqMAGcr/10217.ts
-#EXTINF:-1,DE Kinowelt TV
-http://gameserver2.streamiptv.online:18001/live/petrone/jnssqMAGcr/10218.ts
-#EXTINF:-1,DE TNT Comedy HD
-http://gameserver2.streamiptv.online:18001/live/petrone/jnssqMAGcr/10219.ts
-#EXTINF:-1,DE TNT Film
-http://gameserver2.streamiptv.online:18001/live/petrone/jnssqMAGcr/10220.ts
-#EXTINF:-1,DE Sky 3D HD
-http://gameserver2.streamiptv.online:18001/live/petrone/jnssqMAGcr/10222.ts
-#EXTINF:-1,DE Sky Atlantic
-http://gameserver2.streamiptv.online:18001/live/petrone/jnssqMAGcr/10223.ts
-#EXTINF:-1,DE Fox HD
-http://gameserver2.streamiptv.online:18001/live/petrone/jnssqMAGcr/10224.ts
-#EXTINF:-1,DEFox Serie
-http://gameserver2.streamiptv.online:18001/live/petrone/jnssqMAGcr/10225.ts
-#EXTINF:-1,DE TNT Serie
-http://gameserver2.streamiptv.online:18001/live/petrone/jnssqMAGcr/10226.ts
-#EXTINF:-1,DE SYFY
-http://gameserver2.streamiptv.online:18001/live/petrone/jnssqMAGcr/10227.ts
-#EXTINF:-1,DE Sky Krimi
-http://gameserver2.streamiptv.online:18001/live/petrone/jnssqMAGcr/10228.ts
-#EXTINF:-1,DE Universal HD
-http://gameserver2.streamiptv.online:18001/live/petrone/jnssqMAGcr/10229.ts
-#EXTINF:-1,DE 13th Street
-http://gameserver2.streamiptv.online:18001/live/petrone/jnssqMAGcr/10230.ts
-#EXTINF:-1,DE E! Enterteinment HD
-http://gameserver2.streamiptv.online:18001/live/petrone/jnssqMAGcr/10231.ts
-#EXTINF:-1,DE RTL Crime
-http://gameserver2.streamiptv.online:18001/live/petrone/jnssqMAGcr/10232.ts
-#EXTINF:-1,DE RTL Passion
-http://gameserver2.streamiptv.online:18001/live/petrone/jnssqMAGcr/10233.ts
-#EXTINF:-1,DE RTL Living
-http://gameserver2.streamiptv.online:18001/live/petrone/jnssqMAGcr/10234.ts
-#EXTINF:-1,DE Dmax HD
-http://gameserver2.streamiptv.online:18001/live/petrone/jnssqMAGcr/10235.ts
-#EXTINF:-1,DE DMAX
-http://gameserver2.streamiptv.online:18001/live/petrone/jnssqMAGcr/10236.ts
-#EXTINF:-1,DE Sat 1 Gold
-http://gameserver2.streamiptv.online:18001/live/petrone/jnssqMAGcr/10237.ts
-#EXTINF:-1,DE Pro7 Maxx HD
-http://gameserver2.streamiptv.online:18001/live/petrone/jnssqMAGcr/10238.ts
-#EXTINF:-1,DE Pro Sieben Maxx
-http://gameserver2.streamiptv.online:18001/live/petrone/jnssqMAGcr/10239.ts
-#EXTINF:-1,DE Romance TV
-http://gameserver2.streamiptv.online:18001/live/petrone/jnssqMAGcr/10240.ts
-#EXTINF:-1,DE HeimatKanal
-http://gameserver2.streamiptv.online:18001/live/petrone/jnssqMAGcr/10241.ts
-#EXTINF:-1,DE Welt der Wunder
-http://gameserver2.streamiptv.online:18001/live/petrone/jnssqMAGcr/10242.ts
-#EXTINF:-1,DE AXN HD
-http://gameserver2.streamiptv.online:18001/live/petrone/jnssqMAGcr/10243.ts
-#EXTINF:-1,DE Pro7 Fun HD
-http://gameserver2.streamiptv.online:18001/live/petrone/jnssqMAGcr/10244.ts
-#EXTINF:-1,DE Sky Sport 1 HD
-http://gameserver2.streamiptv.online:18001/live/petrone/jnssqMAGcr/10246.ts
-#EXTINF:-1,DE Sky Sport 2 HD
-http://gameserver2.streamiptv.online:18001/live/petrone/jnssqMAGcr/10247.ts
-#EXTINF:-1,DE Sky Sport 3
-http://gameserver2.streamiptv.online:18001/live/petrone/jnssqMAGcr/10248.ts
-#EXTINF:-1,DE Sky Sport 4
-http://gameserver2.streamiptv.online:18001/live/petrone/jnssqMAGcr/10249.ts
-#EXTINF:-1,DE Sky Sport 5
-http://gameserver2.streamiptv.online:18001/live/petrone/jnssqMAGcr/10250.ts
-#EXTINF:-1,DE Sky Sport 6
-http://gameserver2.streamiptv.online:18001/live/petrone/jnssqMAGcr/10251.ts
-#EXTINF:-1,DE Sky Sport 7
-http://gameserver2.streamiptv.online:18001/live/petrone/jnssqMAGcr/10252.ts
-#EXTINF:-1,DE Sport1 US HD
-http://gameserver2.streamiptv.online:18001/live/petrone/jnssqMAGcr/10253.ts
-#EXTINF:-1,DE Sky Sport Austria HD
-http://gameserver2.streamiptv.online:18001/live/petrone/jnssqMAGcr/10254.ts
-#EXTINF:-1,DE Sport News HD
-http://gameserver2.streamiptv.online:18001/live/petrone/jnssqMAGcr/10260.ts
-#EXTINF:-1,DE Eurosport 1 HD
-http://gameserver2.streamiptv.online:18001/live/petrone/jnssqMAGcr/10256.ts
-#EXTINF:-1,DE Eurosport 2 HD
-http://gameserver2.streamiptv.online:18001/live/petrone/jnssqMAGcr/10257.ts
-#EXTINF:-1,AU ORF Sport HD
-http://gameserver2.streamiptv.online:18001/live/petrone/jnssqMAGcr/10258.ts
-#EXTINF:-1,DE Motorvision
-http://gameserver2.streamiptv.online:18001/live/petrone/jnssqMAGcr/10259.ts
-#EXTINF:-1,DE Sky Sport News HD
-http://gameserver2.streamiptv.online:18001/live/petrone/jnssqMAGcr/10255.ts
-#EXTINF:-1,Sky Sport Bundesliga 1 HD
-http://gameserver2.streamiptv.online:18001/live/petrone/jnssqMAGcr/10262.ts
-#EXTINF:-1,Sky Sport Bundesliga 2 HD
-http://gameserver2.streamiptv.online:18001/live/petrone/jnssqMAGcr/10263.ts
-#EXTINF:-1,Sky Sport Bundesliga 3 HD
-http://gameserver2.streamiptv.online:18001/live/petrone/jnssqMAGcr/10264.ts
-#EXTINF:-1,Sky Sport Bundesliga 4 HD
-http://gameserver2.streamiptv.online:18001/live/petrone/jnssqMAGcr/10265.ts
-#EXTINF:-1,Sky Sport Bundesliga 5 HD
-http://gameserver2.streamiptv.online:18001/live/petrone/jnssqMAGcr/10266.ts
-#EXTINF:-1,Sky Sport Bundesliga 6 HD
-http://gameserver2.streamiptv.online:18001/live/petrone/jnssqMAGcr/10267.ts
-#EXTINF:-1,Sky Sport Bundesliga 7 HD
-http://gameserver2.streamiptv.online:18001/live/petrone/jnssqMAGcr/10268.ts
-#EXTINF:-1,Sky Sport Bundesliga 8 HD
-http://gameserver2.streamiptv.online:18001/live/petrone/jnssqMAGcr/10269.ts
-#EXTINF:-1,Sky Sport Bundesliga 9 HD
-http://gameserver2.streamiptv.online:18001/live/petrone/jnssqMAGcr/10270.ts
-#EXTINF:-1,DE National Geographic
-http://gameserver2.streamiptv.online:18001/live/petrone/jnssqMAGcr/10272.ts
-#EXTINF:-1,DE Nat Geo Wild
-http://gameserver2.streamiptv.online:18001/live/petrone/jnssqMAGcr/10273.ts
-#EXTINF:-1,DE Animal Planet HD
-http://gameserver2.streamiptv.online:18001/live/petrone/jnssqMAGcr/10274.ts
-#EXTINF:-1,DE Discovery Channel
-http://gameserver2.streamiptv.online:18001/live/petrone/jnssqMAGcr/10275.ts
-#EXTINF:-1,DE TLC
-http://gameserver2.streamiptv.online:18001/live/petrone/jnssqMAGcr/10276.ts
-#EXTINF:-1,DE History HD
-http://gameserver2.streamiptv.online:18001/live/petrone/jnssqMAGcr/10277.ts
-#EXTINF:-1,DE Spiegel Geschichte
-http://gameserver2.streamiptv.online:18001/live/petrone/jnssqMAGcr/10278.ts
-#EXTINF:-1,DE A&E HD
-http://gameserver2.streamiptv.online:18001/live/petrone/jnssqMAGcr/10279.ts
-#EXTINF:-1,DE ZDF Kultur
-http://gameserver2.streamiptv.online:18001/live/petrone/jnssqMAGcr/10280.ts
-#EXTINF:-1,DE Phoenix HD
-http://gameserver2.streamiptv.online:18001/live/petrone/jnssqMAGcr/10281.ts
-#EXTINF:-1,DE Cartoon Network HD
-http://gameserver2.streamiptv.online:18001/live/petrone/jnssqMAGcr/10283.ts
-#EXTINF:-1,DE Disney Channel
-http://gameserver2.streamiptv.online:18001/live/petrone/jnssqMAGcr/10284.ts
-#EXTINF:-1,DE Disney Cinemagic
-http://gameserver2.streamiptv.online:18001/live/petrone/jnssqMAGcr/10285.ts
-#EXTINF:-1,DE Disney Junior HD
-http://gameserver2.streamiptv.online:18001/live/petrone/jnssqMAGcr/10286.ts
-#EXTINF:-1,DE Disney XD
-http://gameserver2.streamiptv.online:18001/live/petrone/jnssqMAGcr/10287.ts
-#EXTINF:-1,DE Boomerang
-http://gameserver2.streamiptv.online:18001/live/petrone/jnssqMAGcr/10288.ts
-#EXTINF:-1,DE Junior
-http://gameserver2.streamiptv.online:18001/live/petrone/jnssqMAGcr/10289.ts
-#EXTINF:-1,DE KIKA
-http://gameserver2.streamiptv.online:18001/live/petrone/jnssqMAGcr/10290.ts
-#EXTINF:-1,DE Nickelodeon HD
-http://gameserver2.streamiptv.online:18001/live/petrone/jnssqMAGcr/10291.ts
-#EXTINF:-1,Sky Select 1 HD
-http://gameserver2.streamiptv.online:18001/live/petrone/jnssqMAGcr/10293.ts
-#EXTINF:-1,Sky Select 2 HD
-http://gameserver2.streamiptv.online:18001/live/petrone/jnssqMAGcr/10294.ts
-#EXTINF:-1,Sky Select 3 HD
-http://gameserver2.streamiptv.online:18001/live/petrone/jnssqMAGcr/10295.ts
-#EXTINF:-1,Sky Select 4 HD
-http://gameserver2.streamiptv.online:18001/live/petrone/jnssqMAGcr/10296.ts
-#EXTINF:-1,Sky Select 5 HD
-http://gameserver2.streamiptv.online:18001/live/petrone/jnssqMAGcr/10297.ts
-#EXTINF:-1,Sky Select 6 HD
-http://gameserver2.streamiptv.online:18001/live/petrone/jnssqMAGcr/10298.ts
-#EXTINF:-1,Sky Select 7 HD
-http://gameserver2.streamiptv.online:18001/live/petrone/jnssqMAGcr/10299.ts
-#EXTINF:-1,Sky Select 8 HD
-http://gameserver2.streamiptv.online:18001/live/petrone/jnssqMAGcr/10300.ts
-#EXTINF:-1,Sky Select 9 HD
-http://gameserver2.streamiptv.online:18001/live/petrone/jnssqMAGcr/10301.ts
-#EXTINF:-1,DE N-TV
-http://gameserver2.streamiptv.online:18001/live/petrone/jnssqMAGcr/10303.ts
-#EXTINF:-1,DE N24
-http://gameserver2.streamiptv.online:18001/live/petrone/jnssqMAGcr/10304.ts
-#EXTINF:-1,DE ZDF Info
-http://gameserver2.streamiptv.online:18001/live/petrone/jnssqMAGcr/10305.ts
-#EXTINF:-1,DE Tagesschau 24
-http://gameserver2.streamiptv.online:18001/live/petrone/jnssqMAGcr/10306.ts
-#EXTINF:-1,NL 100% NL
-http://gameserver2.streamiptv.online:18001/live/petrone/jnssqMAGcr/9400.ts
-#EXTINF:-1,NL 13th Sreet
-http://gameserver2.streamiptv.online:18001/live/petrone/jnssqMAGcr/9401.ts
-#EXTINF:-1,NL 192 TV
-http://gameserver2.streamiptv.online:18001/live/petrone/jnssqMAGcr/9402.ts
-#EXTINF:-1,NL 24 Kitchen
-http://gameserver2.streamiptv.online:18001/live/petrone/jnssqMAGcr/9403.ts
-#EXTINF:-1,NL Animal Planet HD
-http://gameserver2.streamiptv.online:18001/live/petrone/jnssqMAGcr/9404.ts
-#EXTINF:-1,NL AT5 HD
-http://gameserver2.streamiptv.online:18001/live/petrone/jnssqMAGcr/9405.ts
-#EXTINF:-1,NL BBC Entertainement
-http://gameserver2.streamiptv.online:18001/live/petrone/jnssqMAGcr/9406.ts
-#EXTINF:-1,NL BVN
-http://gameserver2.streamiptv.online:18001/live/petrone/jnssqMAGcr/9407.ts
-#EXTINF:-1,NL Cartoon Network
-http://gameserver2.streamiptv.online:18001/live/petrone/jnssqMAGcr/9408.ts
-#EXTINF:-1,NL Comedy Central
-http://gameserver2.streamiptv.online:18001/live/petrone/jnssqMAGcr/9409.ts
-#EXTINF:-1,NL Comedy Central Extra
-http://gameserver2.streamiptv.online:18001/live/petrone/jnssqMAGcr/9410.ts
-#EXTINF:-1,NL Crime & Investigation
-http://gameserver2.streamiptv.online:18001/live/petrone/jnssqMAGcr/9411.ts
-#EXTINF:-1,NL Discovery Channel
-http://gameserver2.streamiptv.online:18001/live/petrone/jnssqMAGcr/9412.ts
-#EXTINF:-1,NL Discovery Science HD
-http://gameserver2.streamiptv.online:18001/live/petrone/jnssqMAGcr/9413.ts
-#EXTINF:-1,NL Disney Channel HD
-http://gameserver2.streamiptv.online:18001/live/petrone/jnssqMAGcr/9414.ts
-#EXTINF:-1,NL Disney Junior
-http://gameserver2.streamiptv.online:18001/live/petrone/jnssqMAGcr/9415.ts
-#EXTINF:-1,NL E! Entertainement
-http://gameserver2.streamiptv.online:18001/live/petrone/jnssqMAGcr/9416.ts
-#EXTINF:-1,NL EDE TV
-http://gameserver2.streamiptv.online:18001/live/petrone/jnssqMAGcr/9417.ts
-#EXTINF:-1,NL Edge Sport HD
-http://gameserver2.streamiptv.online:18001/live/petrone/jnssqMAGcr/9418.ts
-#EXTINF:-1,NL Eurosport 1 HD
-http://gameserver2.streamiptv.online:18001/live/petrone/jnssqMAGcr/9419.ts
-#EXTINF:-1,NL Eurosport 2 HD
-http://gameserver2.streamiptv.online:18001/live/petrone/jnssqMAGcr/9420.ts
-#EXTINF:-1,NL Extreme Sports
-http://gameserver2.streamiptv.online:18001/live/petrone/jnssqMAGcr/9421.ts
-#EXTINF:-1,NL Film 1 Action HD
-http://gameserver2.streamiptv.online:18001/live/petrone/jnssqMAGcr/9422.ts
-#EXTINF:-1,NL Film 1 Comedy HD
-http://gameserver2.streamiptv.online:18001/live/petrone/jnssqMAGcr/9423.ts
-#EXTINF:-1,NL Film 1 Premiere HD
-http://gameserver2.streamiptv.online:18001/live/petrone/jnssqMAGcr/9424.ts
-#EXTINF:-1,NL Film 1 Sundance
-http://gameserver2.streamiptv.online:18001/live/petrone/jnssqMAGcr/9425.ts
-#EXTINF:-1,NL Film1 Spotlight
-http://gameserver2.streamiptv.online:18001/live/petrone/jnssqMAGcr/9426.ts
-#EXTINF:-1,NL Fox HD
-http://gameserver2.streamiptv.online:18001/live/petrone/jnssqMAGcr/9427.ts
-#EXTINF:-1,NL Fox Sports 1 HD
-http://gameserver2.streamiptv.online:18001/live/petrone/jnssqMAGcr/9428.ts
-#EXTINF:-1,NL Fox Sports 2 HD
-http://gameserver2.streamiptv.online:18001/live/petrone/jnssqMAGcr/9429.ts
-#EXTINF:-1,NL Fox Sports 3
-http://gameserver2.streamiptv.online:18001/live/petrone/jnssqMAGcr/9430.ts
-#EXTINF:-1,NL Fox Sports 4
-http://gameserver2.streamiptv.online:18001/live/petrone/jnssqMAGcr/9431.ts
-#EXTINF:-1,NL Fox Sports 5
-http://gameserver2.streamiptv.online:18001/live/petrone/jnssqMAGcr/9432.ts
-#EXTINF:-1,NL Fox Sports 6
-http://gameserver2.streamiptv.online:18001/live/petrone/jnssqMAGcr/9433.ts
-#EXTINF:-1,NL Fryslan HD
-http://gameserver2.streamiptv.online:18001/live/petrone/jnssqMAGcr/9434.ts
-#EXTINF:-1,NL GPTV (noordwest Friesland)
-http://gameserver2.streamiptv.online:18001/live/petrone/jnssqMAGcr/9435.ts
-#EXTINF:-1,NL HBO 2
-http://gameserver2.streamiptv.online:18001/live/petrone/jnssqMAGcr/9436.ts
-#EXTINF:-1,NL HBO 3
-http://gameserver2.streamiptv.online:18001/live/petrone/jnssqMAGcr/9437.ts
-#EXTINF:-1,NL HBO HD
-http://gameserver2.streamiptv.online:18001/live/petrone/jnssqMAGcr/9438.ts
-#EXTINF:-1,NL History Channel
-http://gameserver2.streamiptv.online:18001/live/petrone/jnssqMAGcr/9439.ts
-#EXTINF:-1,NL I Concerts
-http://gameserver2.streamiptv.online:18001/live/petrone/jnssqMAGcr/9440.ts
-#EXTINF:-1,NL Investigation Discovery
-http://gameserver2.streamiptv.online:18001/live/petrone/jnssqMAGcr/9441.ts
-#EXTINF:-1,NL JimJam
-http://gameserver2.streamiptv.online:18001/live/petrone/jnssqMAGcr/9442.ts
-#EXTINF:-1,NL L1 Limburg
-http://gameserver2.streamiptv.online:18001/live/petrone/jnssqMAGcr/9443.ts
-#EXTINF:-1,NL MTV HD
-http://gameserver2.streamiptv.online:18001/live/petrone/jnssqMAGcr/9444.ts
-#EXTINF:-1,NL N1 (Nijmegen)
-http://gameserver2.streamiptv.online:18001/live/petrone/jnssqMAGcr/9445.ts
-#EXTINF:-1,NL National Geographic HD
-http://gameserver2.streamiptv.online:18001/live/petrone/jnssqMAGcr/9446.ts
-#EXTINF:-1,NL National Geographic Wild HD
-http://gameserver2.streamiptv.online:18001/live/petrone/jnssqMAGcr/9447.ts
-#EXTINF:-1,NL Net 5 HD
-http://gameserver2.streamiptv.online:18001/live/petrone/jnssqMAGcr/9448.ts
-#EXTINF:-1,NL Nick Jr
-http://gameserver2.streamiptv.online:18001/live/petrone/jnssqMAGcr/9449.ts
-#EXTINF:-1,NL Nickelodeon / Spike
-http://gameserver2.streamiptv.online:18001/live/petrone/jnssqMAGcr/9450.ts
-#EXTINF:-1,NL Nicktoons
-http://gameserver2.streamiptv.online:18001/live/petrone/jnssqMAGcr/9451.ts
-#EXTINF:-1,NL NPO 1 HD
-http://gameserver2.streamiptv.online:18001/live/petrone/jnssqMAGcr/9452.ts
-#EXTINF:-1,NL NPO 101
-http://gameserver2.streamiptv.online:18001/live/petrone/jnssqMAGcr/9453.ts
-#EXTINF:-1,NL NPO 2 HD
-http://gameserver2.streamiptv.online:18001/live/petrone/jnssqMAGcr/9454.ts
-#EXTINF:-1,NL NPO 3 HD
-http://gameserver2.streamiptv.online:18001/live/petrone/jnssqMAGcr/9455.ts
-#EXTINF:-1,NL NPO Cultura
-http://gameserver2.streamiptv.online:18001/live/petrone/jnssqMAGcr/9456.ts
-#EXTINF:-1,NL NPO Politiek/Best
-http://gameserver2.streamiptv.online:18001/live/petrone/jnssqMAGcr/9457.ts
-#EXTINF:-1,NL NPO Zappelin Xtra/Humor TV
-http://gameserver2.streamiptv.online:18001/live/petrone/jnssqMAGcr/9458.ts
-#EXTINF:-1,NL Omroep Zeeland
-http://gameserver2.streamiptv.online:18001/live/petrone/jnssqMAGcr/9459.ts
-#EXTINF:-1,NL ONS
-http://gameserver2.streamiptv.online:18001/live/petrone/jnssqMAGcr/9460.ts
-#EXTINF:-1,NL Oost
-http://gameserver2.streamiptv.online:18001/live/petrone/jnssqMAGcr/9461.ts
-#EXTINF:-1,NL RTL 4 HD
-http://gameserver2.streamiptv.online:18001/live/petrone/jnssqMAGcr/9462.ts
-#EXTINF:-1,NL RTL 5 HD
-http://gameserver2.streamiptv.online:18001/live/petrone/jnssqMAGcr/9463.ts
-#EXTINF:-1,NL RTL 7 HD
-http://gameserver2.streamiptv.online:18001/live/petrone/jnssqMAGcr/9464.ts
-#EXTINF:-1,NL RTL 8 HD
-http://gameserver2.streamiptv.online:18001/live/petrone/jnssqMAGcr/9465.ts
-#EXTINF:-1,NL RTL Lounge
-http://gameserver2.streamiptv.online:18001/live/petrone/jnssqMAGcr/9466.ts
-#EXTINF:-1,NL RTL Z
-http://gameserver2.streamiptv.online:18001/live/petrone/jnssqMAGcr/9467.ts
-#EXTINF:-1,NL RTV Drenthe
-http://gameserver2.streamiptv.online:18001/live/petrone/jnssqMAGcr/9468.ts
-#EXTINF:-1,NL RTV Slingeland
-http://gameserver2.streamiptv.online:18001/live/petrone/jnssqMAGcr/9469.ts
-#EXTINF:-1,NL RTV Totaal voor Maas en Waal
-http://gameserver2.streamiptv.online:18001/live/petrone/jnssqMAGcr/9470.ts
-#EXTINF:-1,NL SBS 6 HD
-http://gameserver2.streamiptv.online:18001/live/petrone/jnssqMAGcr/9471.ts
-#EXTINF:-1,NL SBS 9
-http://gameserver2.streamiptv.online:18001/live/petrone/jnssqMAGcr/9472.ts
-#EXTINF:-1,NL Shorts TV
-http://gameserver2.streamiptv.online:18001/live/petrone/jnssqMAGcr/9473.ts
-#EXTINF:-1,NL Slam
-http://gameserver2.streamiptv.online:18001/live/petrone/jnssqMAGcr/9474.ts
-#EXTINF:-1,NL Streek TV
-http://gameserver2.streamiptv.online:18001/live/petrone/jnssqMAGcr/9475.ts
-#EXTINF:-1,NL SyFy
-http://gameserver2.streamiptv.online:18001/live/petrone/jnssqMAGcr/9476.ts
-#EXTINF:-1,NL TLC
-http://gameserver2.streamiptv.online:18001/live/petrone/jnssqMAGcr/9477.ts
-#EXTINF:-1,NL TV 538
-http://gameserver2.streamiptv.online:18001/live/petrone/jnssqMAGcr/9478.ts
-#EXTINF:-1,NL TV Oranje
-http://gameserver2.streamiptv.online:18001/live/petrone/jnssqMAGcr/9479.ts
-#EXTINF:-1,NL TVO
-http://gameserver2.streamiptv.online:18001/live/petrone/jnssqMAGcr/9480.ts
-#EXTINF:-1,NL Veronica / Disney XD
-http://gameserver2.streamiptv.online:18001/live/petrone/jnssqMAGcr/9481.ts
-#EXTINF:-1,NL WOS TV
-http://gameserver2.streamiptv.online:18001/live/petrone/jnssqMAGcr/9482.ts
-#EXTINF:-1,NL Zeeland Televisie
-http://gameserver2.streamiptv.online:18001/live/petrone/jnssqMAGcr/9483.ts
-#EXTINF:-1,NL Ziggo Sport eXtra 1
-http://gameserver2.streamiptv.online:18001/live/petrone/jnssqMAGcr/9484.ts
-#EXTINF:-1,NL Ziggo Sport Extra 2
-http://gameserver2.streamiptv.online:18001/live/petrone/jnssqMAGcr/9485.ts
-#EXTINF:-1,NL Ziggo Sport Golf
-http://gameserver2.streamiptv.online:18001/live/petrone/jnssqMAGcr/9486.ts
-#EXTINF:-1,NL Ziggo Sport Racing
-http://gameserver2.streamiptv.online:18001/live/petrone/jnssqMAGcr/9487.ts
-#EXTINF:-1,NL Ziggo Sport Select HD
-http://gameserver2.streamiptv.online:18001/live/petrone/jnssqMAGcr/9488.ts
-#EXTINF:-1,NL Ziggo Sport Voetbal
-http://gameserver2.streamiptv.online:18001/live/petrone/jnssqMAGcr/9489.ts 
+http://iptvthebest.ddns.net:15000/live/72fd50ba1a7b4d1/2a64117049763cd/170.ts
+#EXTINF:-1,Premium Stories
+http://iptvthebest.ddns.net:15000/live/72fd50ba1a7b4d1/2a64117049763cd/177.ts
+#EXTINF:-1,Premium Stories +1
+http://iptvthebest.ddns.net:15000/live/72fd50ba1a7b4d1/2a64117049763cd/13161.ts
+#EXTINF:-1,Premium Stories + 24
+http://iptvthebest.ddns.net:15000/live/72fd50ba1a7b4d1/2a64117049763cd/3250.ts
+#EXTINF:-1,Premium Joy
+http://iptvthebest.ddns.net:15000/live/72fd50ba1a7b4d1/2a64117049763cd/175.ts
+#EXTINF:-1,Premium Joy +1
+http://iptvthebest.ddns.net:15000/live/72fd50ba1a7b4d1/2a64117049763cd/13160.ts
+#EXTINF:-1,Premium Joy +24
+http://iptvthebest.ddns.net:15000/live/72fd50ba1a7b4d1/2a64117049763cd/3249.ts
+#EXTINF:-1,Studio Universal
+http://iptvthebest.ddns.net:15000/live/72fd50ba1a7b4d1/2a64117049763cd/174.ts
+#EXTINF:-1,Top Crime
+http://iptvthebest.ddns.net:15000/live/72fd50ba1a7b4d1/2a64117049763cd/176.ts
+#EXTINF:-1,Premium Energy
+http://iptvthebest.ddns.net:15000/live/72fd50ba1a7b4d1/2a64117049763cd/171.ts
+#EXTINF:-1,Premium Energy +1
+http://iptvthebest.ddns.net:15000/live/72fd50ba1a7b4d1/2a64117049763cd/13159.ts
+#EXTINF:-1,Premium Energy +24
+http://iptvthebest.ddns.net:15000/live/72fd50ba1a7b4d1/2a64117049763cd/10425.ts
+#EXTINF:-1,Premium Emotion
+http://iptvthebest.ddns.net:15000/live/72fd50ba1a7b4d1/2a64117049763cd/172.ts
+#EXTINF:-1,Premium Emotion +1
+http://iptvthebest.ddns.net:15000/live/72fd50ba1a7b4d1/2a64117049763cd/13158.ts
+#EXTINF:-1,Premium Comedy
+http://iptvthebest.ddns.net:15000/live/72fd50ba1a7b4d1/2a64117049763cd/173.ts
+#EXTINF:-1,Premium Comedy +1
+http://iptvthebest.ddns.net:15000/live/72fd50ba1a7b4d1/2a64117049763cd/13156.ts
+#EXTINF:-1,Premium Sport 1 HD
+http://iptvthebest.ddns.net:15000/live/72fd50ba1a7b4d1/2a64117049763cd/5161.ts
+#EXTINF:-1,Premium Sport 1
+http://iptvthebest.ddns.net:15000/live/72fd50ba1a7b4d1/2a64117049763cd/10081.ts
+#EXTINF:-1,Premium Sport 2 HD
+http://iptvthebest.ddns.net:15000/live/72fd50ba1a7b4d1/2a64117049763cd/5162.ts
+#EXTINF:-1,Premium Sport 2
+http://iptvthebest.ddns.net:15000/live/72fd50ba1a7b4d1/2a64117049763cd/10082.ts
+#EXTINF:-1,Premium Calcio 1 HD
+http://iptvthebest.ddns.net:15000/live/72fd50ba1a7b4d1/2a64117049763cd/180.ts
+#EXTINF:-1,Premium Calcio 1
+http://iptvthebest.ddns.net:15000/live/72fd50ba1a7b4d1/2a64117049763cd/2694.ts
+#EXTINF:-1,Premium Calcio 2
+http://iptvthebest.ddns.net:15000/live/72fd50ba1a7b4d1/2a64117049763cd/182.ts
+#EXTINF:-1,Premium Calcio 3
+http://iptvthebest.ddns.net:15000/live/72fd50ba1a7b4d1/2a64117049763cd/183.ts
+#EXTINF:-1,Premium Calcio 4
+http://iptvthebest.ddns.net:15000/live/72fd50ba1a7b4d1/2a64117049763cd/184.ts
+#EXTINF:-1,Premium Calcio 5
+http://iptvthebest.ddns.net:15000/live/72fd50ba1a7b4d1/2a64117049763cd/185.ts
+#EXTINF:-1,Premium Calcio 6
+http://iptvthebest.ddns.net:15000/live/72fd50ba1a7b4d1/2a64117049763cd/186.ts
+#EXTINF:-1,Premium Calcio 7
+http://iptvthebest.ddns.net:15000/live/72fd50ba1a7b4d1/2a64117049763cd/8808.ts
+#EXTINF:-1,----- CULTURA -----
+http://iptvthebest.ddns.net:15000/live/72fd50ba1a7b4d1/2a64117049763cd/104.ts
+#EXTINF:-1,Nat Geo HD
+http://iptvthebest.ddns.net:15000/live/72fd50ba1a7b4d1/2a64117049763cd/106.ts
+#EXTINF:-1,Nat Geo HD +1
+http://iptvthebest.ddns.net:15000/live/72fd50ba1a7b4d1/2a64117049763cd/13143.ts
+#EXTINF:-1,Nat Geo People HD
+http://iptvthebest.ddns.net:15000/live/72fd50ba1a7b4d1/2a64117049763cd/110.ts
+#EXTINF:-1,Nat Geo People HD +1
+http://iptvthebest.ddns.net:15000/live/72fd50ba1a7b4d1/2a64117049763cd/13144.ts
+#EXTINF:-1,Nat Geo Wild HD
+http://iptvthebest.ddns.net:15000/live/72fd50ba1a7b4d1/2a64117049763cd/111.ts
+#EXTINF:-1,Nat Geo Wild HD +1
+http://iptvthebest.ddns.net:15000/live/72fd50ba1a7b4d1/2a64117049763cd/13145.ts
+#EXTINF:-1,Sky Arte
+http://iptvthebest.ddns.net:15000/live/72fd50ba1a7b4d1/2a64117049763cd/13357.ts
+#EXTINF:-1,Animal Planet
+http://iptvthebest.ddns.net:15000/live/72fd50ba1a7b4d1/2a64117049763cd/118.ts
+#EXTINF:-1,Animal Planet +1
+http://iptvthebest.ddns.net:15000/live/72fd50ba1a7b4d1/2a64117049763cd/13135.ts
+#EXTINF:-1,Discovery HD
+http://iptvthebest.ddns.net:15000/live/72fd50ba1a7b4d1/2a64117049763cd/109.ts
+#EXTINF:-1,Discovery +1
+http://iptvthebest.ddns.net:15000/live/72fd50ba1a7b4d1/2a64117049763cd/13141.ts
+#EXTINF:-1,Discovery Sci HD
+http://iptvthebest.ddns.net:15000/live/72fd50ba1a7b4d1/2a64117049763cd/108.ts
+#EXTINF:-1,Discovery Sci +1
+http://iptvthebest.ddns.net:15000/live/72fd50ba1a7b4d1/2a64117049763cd/13140.ts
+#EXTINF:-1,Discovery T&L HD
+http://iptvthebest.ddns.net:15000/live/72fd50ba1a7b4d1/2a64117049763cd/1531.ts
+#EXTINF:-1,Discovery T&L +1
+http://iptvthebest.ddns.net:15000/live/72fd50ba1a7b4d1/2a64117049763cd/13139.ts
+#EXTINF:-1,CI Crime Investigation HD
+http://iptvthebest.ddns.net:15000/live/72fd50ba1a7b4d1/2a64117049763cd/107.ts
+#EXTINF:-1,CI Crime Investigation +1
+http://iptvthebest.ddns.net:15000/live/72fd50ba1a7b4d1/2a64117049763cd/13116.ts
+#EXTINF:-1,Investigation Discovery
+http://iptvthebest.ddns.net:15000/live/72fd50ba1a7b4d1/2a64117049763cd/13165.ts
+#EXTINF:-1,Investigation Discovery +1
+http://iptvthebest.ddns.net:15000/live/72fd50ba1a7b4d1/2a64117049763cd/13163.ts
+#EXTINF:-1,DMAX
+http://iptvthebest.ddns.net:15000/live/72fd50ba1a7b4d1/2a64117049763cd/115.ts
+#EXTINF:-1,Dmax +1
+http://iptvthebest.ddns.net:15000/live/72fd50ba1a7b4d1/2a64117049763cd/10142.ts
+#EXTINF:-1,Caccia e Pesca
+http://iptvthebest.ddns.net:15000/live/72fd50ba1a7b4d1/2a64117049763cd/450.ts
+#EXTINF:-1,Caccia Pesca +1
+http://iptvthebest.ddns.net:15000/live/72fd50ba1a7b4d1/2a64117049763cd/13132.ts
+#EXTINF:-1,Pesca e Caccia
+http://iptvthebest.ddns.net:15000/live/72fd50ba1a7b4d1/2a64117049763cd/243.ts
+#EXTINF:-1,Pesca Caccia +1
+http://iptvthebest.ddns.net:15000/live/72fd50ba1a7b4d1/2a64117049763cd/13133.ts
+#EXTINF:-1,Italia Fishing
+http://iptvthebest.ddns.net:15000/live/72fd50ba1a7b4d1/2a64117049763cd/5160.ts
+#EXTINF:-1,Pescare&Cacciare TV
+http://iptvthebest.ddns.net:15000/live/72fd50ba1a7b4d1/2a64117049763cd/13356.ts
+#EXTINF:-1,Focus
+http://iptvthebest.ddns.net:15000/live/72fd50ba1a7b4d1/2a64117049763cd/113.ts
+#EXTINF:-1,Focus +1
+http://iptvthebest.ddns.net:15000/live/72fd50ba1a7b4d1/2a64117049763cd/13137.ts
+#EXTINF:-1,History HD
+http://iptvthebest.ddns.net:15000/live/72fd50ba1a7b4d1/2a64117049763cd/120.ts
+#EXTINF:-1,History Channel +1
+http://iptvthebest.ddns.net:15000/live/72fd50ba1a7b4d1/2a64117049763cd/13142.ts
+#EXTINF:-1,Explora HD
+http://iptvthebest.ddns.net:15000/live/72fd50ba1a7b4d1/2a64117049763cd/60.ts
+#EXTINF:-1,Gambero Rosso HD
+http://iptvthebest.ddns.net:15000/live/72fd50ba1a7b4d1/2a64117049763cd/116.ts
+#EXTINF:-1,Gambero Rosso +1
+http://iptvthebest.ddns.net:15000/live/72fd50ba1a7b4d1/2a64117049763cd/13146.ts
+#EXTINF:-1,Alice
+http://iptvthebest.ddns.net:15000/live/72fd50ba1a7b4d1/2a64117049763cd/119.ts
+#EXTINF:-1,MarcoPolo
+http://iptvthebest.ddns.net:15000/live/72fd50ba1a7b4d1/2a64117049763cd/122.ts
+#EXTINF:-1,Fine Living
+http://iptvthebest.ddns.net:15000/live/72fd50ba1a7b4d1/2a64117049763cd/124.ts
+#EXTINF:-1,----- BAMBINI -----
+http://iptvthebest.ddns.net:15000/live/72fd50ba1a7b4d1/2a64117049763cd/126.ts
+#EXTINF:-1,Cartoon Network
+http://iptvthebest.ddns.net:15000/live/72fd50ba1a7b4d1/2a64117049763cd/128.ts
+#EXTINF:-1,Disney Channel HD
+http://iptvthebest.ddns.net:15000/live/72fd50ba1a7b4d1/2a64117049763cd/134.ts
+#EXTINF:-1,Disney HD +1
+http://iptvthebest.ddns.net:15000/live/72fd50ba1a7b4d1/2a64117049763cd/13151.ts
+#EXTINF:-1,Disney HD +2
+http://iptvthebest.ddns.net:15000/live/72fd50ba1a7b4d1/2a64117049763cd/13152.ts
+#EXTINF:-1,Sky Disney Junior
+http://iptvthebest.ddns.net:15000/live/72fd50ba1a7b4d1/2a64117049763cd/12448.ts
+#EXTINF:-1,Sky Disney Junior +1
+http://iptvthebest.ddns.net:15000/live/72fd50ba1a7b4d1/2a64117049763cd/12449.ts
+#EXTINF:-1,Disney XD
+http://iptvthebest.ddns.net:15000/live/72fd50ba1a7b4d1/2a64117049763cd/127.ts
+#EXTINF:-1,Super
+http://iptvthebest.ddns.net:15000/live/72fd50ba1a7b4d1/2a64117049763cd/129.ts
+#EXTINF:-1,Super +1
+http://iptvthebest.ddns.net:15000/live/72fd50ba1a7b4d1/2a64117049763cd/13150.ts
+#EXTINF:-1,K2
+http://iptvthebest.ddns.net:15000/live/72fd50ba1a7b4d1/2a64117049763cd/276.ts
+#EXTINF:-1,K2 +1
+http://iptvthebest.ddns.net:15000/live/72fd50ba1a7b4d1/2a64117049763cd/13149.ts
+#EXTINF:-1,Frisbee
+http://iptvthebest.ddns.net:15000/live/72fd50ba1a7b4d1/2a64117049763cd/61.ts
+#EXTINF:-1,Cartonito
+http://iptvthebest.ddns.net:15000/live/72fd50ba1a7b4d1/2a64117049763cd/130.ts
+#EXTINF:-1,Cartonito +1
+http://iptvthebest.ddns.net:15000/live/72fd50ba1a7b4d1/2a64117049763cd/13148.ts
+#EXTINF:-1,Boing
+http://iptvthebest.ddns.net:15000/live/72fd50ba1a7b4d1/2a64117049763cd/131.ts
+#EXTINF:-1,Boing +1
+http://iptvthebest.ddns.net:15000/live/72fd50ba1a7b4d1/2a64117049763cd/13147.ts
+#EXTINF:-1,Rai Gulp
+http://iptvthebest.ddns.net:15000/live/72fd50ba1a7b4d1/2a64117049763cd/132.ts
+#EXTINF:-1,Rai Yoyo
+http://iptvthebest.ddns.net:15000/live/72fd50ba1a7b4d1/2a64117049763cd/133.ts
+#EXTINF:-1,Peppa Pig Channel
+http://iptvthebest.ddns.net:15000/live/72fd50ba1a7b4d1/2a64117049763cd/11694.ts
+#EXTINF:-1,Holly e Benji Channell
+http://iptvthebest.ddns.net:15000/live/72fd50ba1a7b4d1/2a64117049763cd/10399.ts
+#EXTINF:-1,Heidi Channell
+http://iptvthebest.ddns.net:15000/live/72fd50ba1a7b4d1/2a64117049763cd/10400.ts
+#EXTINF:-1,Belle e Sebastien Channell
+http://iptvthebest.ddns.net:15000/live/72fd50ba1a7b4d1/2a64117049763cd/10395.ts
+#EXTINF:-1,----- NOTIZIE -----
+http://iptvthebest.ddns.net:15000/live/72fd50ba1a7b4d1/2a64117049763cd/138.ts
+#EXTINF:-1,Sky Tg 24 HD
+http://iptvthebest.ddns.net:15000/live/72fd50ba1a7b4d1/2a64117049763cd/139.ts
+#EXTINF:-1,Tg Com 24
+http://iptvthebest.ddns.net:15000/live/72fd50ba1a7b4d1/2a64117049763cd/140.ts
+#EXTINF:-1,Rai News 24
+http://iptvthebest.ddns.net:15000/live/72fd50ba1a7b4d1/2a64117049763cd/141.ts
+#EXTINF:-1,TgNorba 24
+http://iptvthebest.ddns.net:15000/live/72fd50ba1a7b4d1/2a64117049763cd/10201.ts
+#EXTINF:-1,----- SKY PRIMAFILA -----
+http://iptvthebest.ddns.net:15000/live/72fd50ba1a7b4d1/2a64117049763cd/34.ts
+#EXTINF:-1,Vetrina Primafila
+http://iptvthebest.ddns.net:15000/movie/72fd50ba1a7b4d1/2a64117049763cd/4063.mkv
+#EXTINF:-1,Primafila 1 HD
+http://iptvthebest.ddns.net:15000/live/72fd50ba1a7b4d1/2a64117049763cd/35.ts
+#EXTINF:-1,Primafila 2 HD
+http://iptvthebest.ddns.net:15000/movie/72fd50ba1a7b4d1/2a64117049763cd/4054.mkv
+#EXTINF:-1,Trailer Primafila 1/2
+http://iptvthebest.ddns.net:15000/movie/72fd50ba1a7b4d1/2a64117049763cd/12059.mp4
+#EXTINF:-1,Primafila 3 HD
+http://iptvthebest.ddns.net:15000/live/72fd50ba1a7b4d1/2a64117049763cd/37.ts
+#EXTINF:-1,Primafila 4 HD
+http://iptvthebest.ddns.net:15000/movie/72fd50ba1a7b4d1/2a64117049763cd/4055.mkv
+#EXTINF:-1,Trailer Primafila 3/4
+http://iptvthebest.ddns.net:15000/movie/72fd50ba1a7b4d1/2a64117049763cd/12060.mp4
+#EXTINF:-1,Primafila 5 HD
+http://iptvthebest.ddns.net:15000/live/72fd50ba1a7b4d1/2a64117049763cd/39.ts
+#EXTINF:-1,Primafila 6 HD
+http://iptvthebest.ddns.net:15000/movie/72fd50ba1a7b4d1/2a64117049763cd/4056.mkv
+#EXTINF:-1,Trailer Primafila 5/6
+http://iptvthebest.ddns.net:15000/movie/72fd50ba1a7b4d1/2a64117049763cd/12061.mp4
+#EXTINF:-1,Primafila 7 HD
+http://iptvthebest.ddns.net:15000/live/72fd50ba1a7b4d1/2a64117049763cd/41.ts
+#EXTINF:-1,Primafila 8 HD
+http://iptvthebest.ddns.net:15000/movie/72fd50ba1a7b4d1/2a64117049763cd/4057.mkv
+#EXTINF:-1,Trailer Primafila 7/8
+http://iptvthebest.ddns.net:15000/movie/72fd50ba1a7b4d1/2a64117049763cd/12062.mp4
+#EXTINF:-1,Primafila 9 HD
+http://iptvthebest.ddns.net:15000/live/72fd50ba1a7b4d1/2a64117049763cd/43.ts
+#EXTINF:-1,Primafila 10 HD
+http://iptvthebest.ddns.net:15000/movie/72fd50ba1a7b4d1/2a64117049763cd/4058.mkv
+#EXTINF:-1,Trailer Primafila 9/10
+http://iptvthebest.ddns.net:15000/movie/72fd50ba1a7b4d1/2a64117049763cd/12063.mp4
+#EXTINF:-1,Primafila 11 HD
+http://iptvthebest.ddns.net:15000/live/72fd50ba1a7b4d1/2a64117049763cd/521.ts
+#EXTINF:-1,Primafila 12 HD
+http://iptvthebest.ddns.net:15000/movie/72fd50ba1a7b4d1/2a64117049763cd/4059.mkv
+#EXTINF:-1,Trailer Primafila 11/12
+http://iptvthebest.ddns.net:15000/movie/72fd50ba1a7b4d1/2a64117049763cd/12064.mp4
+#EXTINF:-1,Primafila 13 HD
+http://iptvthebest.ddns.net:15000/live/72fd50ba1a7b4d1/2a64117049763cd/3226.ts
+#EXTINF:-1,Primafila 14 HD
+http://iptvthebest.ddns.net:15000/movie/72fd50ba1a7b4d1/2a64117049763cd/4060.mkv
+#EXTINF:-1,Trailer Primafila 13/14
+http://iptvthebest.ddns.net:15000/movie/72fd50ba1a7b4d1/2a64117049763cd/12065.mp4
+#EXTINF:-1,Primafila 15 HD
+http://iptvthebest.ddns.net:15000/live/72fd50ba1a7b4d1/2a64117049763cd/3227.ts
+#EXTINF:-1,Primafila 16 HD
+http://iptvthebest.ddns.net:15000/movie/72fd50ba1a7b4d1/2a64117049763cd/4061.mkv
+#EXTINF:-1,Trailer Primafila 15/16
+http://iptvthebest.ddns.net:15000/movie/72fd50ba1a7b4d1/2a64117049763cd/12066.mp4
+#EXTINF:-1,Primafila 17 HD
+http://iptvthebest.ddns.net:15000/live/72fd50ba1a7b4d1/2a64117049763cd/3228.ts
+#EXTINF:-1,Primafila 18 HD
+http://iptvthebest.ddns.net:15000/movie/72fd50ba1a7b4d1/2a64117049763cd/4062.mkv
+#EXTINF:-1,Trailer Primafila 17/18
+http://iptvthebest.ddns.net:15000/movie/72fd50ba1a7b4d1/2a64117049763cd/12067.mp4
