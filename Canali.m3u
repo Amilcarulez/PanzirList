@@ -47,18 +47,102 @@ http://iptv.iptvthebest.net:15000/live/idfofaaz/e0Y408fqvJ/13167.ts
 http://iptv.iptvthebest.net:15000/live/idfofaaz/e0Y408fqvJ/10401.ts
 #EXTINF:-1 tvg-ID="" tvg-name="MTV TV8 +1" tvg-logo="" group-title="Canali +1 e +2",MTV TV8 +1
 http://iptv.iptvthebest.net:15000/live/idfofaaz/e0Y408fqvJ/13101.ts
-
-#EXTINF:-1 tvg-ID="" tvg-name="----- NOTIZIE -----" tvg-logo="" group-title="News",----- NOTIZIE -----
-http://iptv.iptvthebest.net:15000/live/idfofaaz/e0Y408fqvJ/138.ts
-#EXTINF:-1 tvg-ID="TG24.it" tvg-name="Sky Tg 24 HD" tvg-logo="http://www.sat-address.com/f/pics/logotipi/Sky-TG-24-Canale-50_o.jpg" group-title="News",Sky Tg 24 HD
-http://iptv.iptvthebest.net:15000/live/idfofaaz/e0Y408fqvJ/139.ts
-#EXTINF:-1 tvg-ID="Tgcom24.it" tvg-name="Tg Com 24" tvg-logo="http://www.sat-address.com/f/pics/logotipi/TG-Mediaset_o.jpg" group-title="News",Tg Com 24
-http://iptv.iptvthebest.net:15000/live/idfofaaz/e0Y408fqvJ/140.ts
-#EXTINF:-1 tvg-ID="RaiNews.it" tvg-name="Rai News 24" tvg-logo="http://www.sat-address.com/f/pics/logotipi/Rai-News-24_o.jpg" group-title="News",Rai News 24
-http://iptv.iptvthebest.net:15000/live/idfofaaz/e0Y408fqvJ/141.ts
-#EXTINF:-1 tvg-ID="TG24Norba.it" tvg-name="TgNorba 24" tvg-logo="" group-title="News",TgNorba 24
-http://iptv.iptvthebest.net:15000/live/idfofaaz/e0Y408fqvJ/10201.ts
-
+#EXTINF:-1 tvg-ID="" tvg-name="----- SKY CINEMA -----" tvg-logo="" group-title="Italiani",----- SKY CINEMA -----
+http://iptv.iptvthebest.net:15000/live/idfofaaz/e0Y408fqvJ/21.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Cinema 1 FHD" tvg-logo="" group-title="",Cinema 1 FHD
+http://iptv.iptvthebest.net:15000/live/idfofaaz/e0Y408fqvJ/23271.ts
+#EXTINF:-1 tvg-ID="SkyCinema1.it" tvg-name="Cinema 1 HD" tvg-logo="http://www.sat-address.com/f/pics/logotipi/Sky-Cinema-1-Italia_o.jpg" group-title="Italiani",Cinema 1 HD
+http://iptv.iptvthebest.net:15000/live/idfofaaz/e0Y408fqvJ/22.ts
+#EXTINF:-1 tvg-ID="SkyCinemaPlus1.it" tvg-name="Cinema +1 HD" tvg-logo="http://guidatv.sky.it/app/guidatv/images/epgimages/channels/home/722_home.png" group-title="Italiani",Cinema +1 HD
+http://iptv.iptvthebest.net:15000/live/idfofaaz/e0Y408fqvJ/23.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Sky Cinema   24 FHD" tvg-logo="" group-title="Canali UHD",Sky Cinema   24 FHD
+http://iptv.iptvthebest.net:15000/live/idfofaaz/e0Y408fqvJ/23410.ts
+#EXTINF:-1 tvg-ID="SkyCinema+24.it" tvg-name="Cinema +24 HD" tvg-logo="http://guidatv.sky.it/app/guidatv/images/epgimages/channels/home/452_home.png" group-title="Italiani",Cinema +24 HD
+http://iptv.iptvthebest.net:15000/live/idfofaaz/e0Y408fqvJ/24.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Sky Cinema Hits FHD" tvg-logo="" group-title="Canali UHD",Sky Cinema Hits FHD
+http://iptv.iptvthebest.net:15000/live/idfofaaz/e0Y408fqvJ/23402.ts
+#EXTINF:-1 tvg-ID="SkyCinemaHits.it" tvg-name="Cinema Hits HD" tvg-logo="http://vignette1.wikia.nocookie.net/logopedia/images/4/4f/Sky_it_cinema_hits.jpg" group-title="Italiani",Cinema Hits HD
+http://iptv.iptvthebest.net:15000/live/idfofaaz/e0Y408fqvJ/25.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Cinema Hits +1" tvg-logo="" group-title="Italiani",Cinema Hits +1
+http://iptv.iptvthebest.net:15000/live/idfofaaz/e0Y408fqvJ/10388.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Cinema Family FHD" tvg-logo="" group-title="Canali UHD",Cinema Family FHD
+http://iptv.iptvthebest.net:15000/live/idfofaaz/e0Y408fqvJ/23404.ts
+#EXTINF:-1 tvg-ID="SkyCinemaFamily.it" tvg-name="Cinema Family HD" tvg-logo="http://www.lyngsat-logo.com/logo/tv/ss/sky_it_cinema_family_hd.png" group-title="Italiani",Cinema Family HD
+http://iptv.iptvthebest.net:15000/live/idfofaaz/e0Y408fqvJ/26.ts
+#EXTINF:-1 tvg-ID="SkyCinemaFamilyPlus1.it" tvg-name="Cinema Family +1 HD" tvg-logo="http://www.sat-address.com/f/pics/logotipi/Sky-Cinema-Family-Plus1_o.jpg" group-title="Italiani",Cinema Family +1 HD
+http://iptv.iptvthebest.net:15000/live/idfofaaz/e0Y408fqvJ/2695.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Cinema Max FHD" tvg-logo="" group-title="Canali UHD",Cinema Max FHD
+http://iptv.iptvthebest.net:15000/live/idfofaaz/e0Y408fqvJ/23403.ts
+#EXTINF:-1 tvg-ID="SkyCinemaMax.it" tvg-name="Cinema Max HD" tvg-logo="http://www.sat-address.com/f/pics/logotipi/Sky-Cinema-Max_o.jpg" group-title="Italiani",Cinema Max HD
+http://iptv.iptvthebest.net:15000/live/idfofaaz/e0Y408fqvJ/29.ts
+#EXTINF:-1 tvg-ID="SkyCinemaMaxPlus1.it" tvg-name="Cinema Max +1 HD" tvg-logo="http://www.sat-address.com/f/pics/logotipi/Sky-Cinema-Max-Plus1_o.jpg" group-title="Italiani",Cinema Max +1 HD
+http://iptv.iptvthebest.net:15000/live/idfofaaz/e0Y408fqvJ/30.ts
+#EXTINF:-1 tvg-ID="SkyCinemaPassionHD.it" tvg-name="Cinema Passion HD" tvg-logo="http://www.sat-address.com/f/pics/logotipi/Sky-Cinema-Passion_o.jpg" group-title="Italiani",Cinema Passion HD
+http://iptv.iptvthebest.net:15000/live/idfofaaz/e0Y408fqvJ/27.ts
+#EXTINF:-1 tvg-ID="SkyCinemaPlus1.it" tvg-name="Cinema Passion +1" tvg-logo="" group-title="Italiani",Cinema Passion +1
+http://iptv.iptvthebest.net:15000/live/idfofaaz/e0Y408fqvJ/10389.ts
+#EXTINF:-1 tvg-ID="SkyCinemaCult.it" tvg-name="Cinema Cult HD" tvg-logo="http://www.sat-address.com/f/pics/logotipi/Sky-Cinema-Cult_o.jpg" group-title="Italiani",Cinema Cult HD
+http://iptv.iptvthebest.net:15000/live/idfofaaz/e0Y408fqvJ/31.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Cinema Cult +1 HD" tvg-logo="" group-title="",Cinema Cult +1 HD
+http://iptv.iptvthebest.net:15000/live/idfofaaz/e0Y408fqvJ/11964.ts
+#EXTINF:-1 tvg-ID="SkyCinemaClassic.it" tvg-name="Cinema Classic HD" tvg-logo="http://www.sat-address.com/f/pics/logotipi/Sky-Cinema-Classics_o.jpg" group-title="Italiani",Cinema Classic HD
+http://iptv.iptvthebest.net:15000/live/idfofaaz/e0Y408fqvJ/32.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Cinema Classic +1" tvg-logo="" group-title="Canali +1 e +2",Cinema Classic +1
+http://iptv.iptvthebest.net:15000/live/idfofaaz/e0Y408fqvJ/13110.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Cinema Comedy FHD" tvg-logo="" group-title="Canali UHD",Cinema Comedy FHD
+http://iptv.iptvthebest.net:15000/live/idfofaaz/e0Y408fqvJ/23405.ts
+#EXTINF:-1 tvg-ID="SkyCinemaComedyHD.it" tvg-name="Cinema Comedy HD" tvg-logo="http://www.sat-address.com/f/pics/logotipi/Sky-Cinema-Comedy-IT_o.jpg" group-title="Italiani",Cinema Comedy HD
+http://iptv.iptvthebest.net:15000/live/idfofaaz/e0Y408fqvJ/28.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Cinema Comedy +1" tvg-logo="" group-title="Italiani",Cinema Comedy +1
+http://iptv.iptvthebest.net:15000/live/idfofaaz/e0Y408fqvJ/10390.ts
+#EXTINF:-1 tvg-ID="" tvg-name="----- INTRATTENIMENTO -----" tvg-logo="" group-title="Italiani",----- INTRATTENIMENTO -----
+http://iptv.iptvthebest.net:15000/live/idfofaaz/e0Y408fqvJ/47.ts
+#EXTINF:-1 tvg-ID="Sky3D.it" tvg-name="Sky 3D" tvg-logo="http://www.sat-address.com/f/pics/logotipi/Sky-3D-IT_o.jpg" group-title="Italiani",Sky 3D
+http://iptv.iptvthebest.net:15000/live/idfofaaz/e0Y408fqvJ/33.ts
+#EXTINF:-1 tvg-ID="" tvg-name="IPTVTHEBEST 3D" tvg-logo="" group-title="",IPTVTHEBEST 3D
+http://iptv.iptvthebest.net:15000/live/idfofaaz/e0Y408fqvJ/13556.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Sky Uno FHD" tvg-logo="" group-title="Canali UHD",Sky Uno FHD
+http://iptv.iptvthebest.net:15000/live/idfofaaz/e0Y408fqvJ/23408.ts
+#EXTINF:-1 tvg-ID="SKYUno.it" tvg-name="Sky Uno HD" tvg-logo="http://www.sat-address.com/f/pics/logotipi/Sky-Uno_o.jpg" group-title="Italiani",Sky Uno HD
+http://iptv.iptvthebest.net:15000/live/idfofaaz/e0Y408fqvJ/48.ts
+#EXTINF:-1 tvg-ID="SKYUnoPlus1.it" tvg-name="SKY UNO +1 HD" tvg-logo="http://www.lyngsat-logo.com/logo/tv/ss/sky_it_uno_plus1.png" group-title="",SKY UNO +1 HD
+http://iptv.iptvthebest.net:15000/live/idfofaaz/e0Y408fqvJ/6517.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Sky Atlantic FHD" tvg-logo="" group-title="Canali UHD",Sky Atlantic FHD
+http://iptv.iptvthebest.net:15000/live/idfofaaz/e0Y408fqvJ/23407.ts
+#EXTINF:-1 tvg-ID="SkyAtlantic.it" tvg-name="Sky Atlantic HD" tvg-logo="http://www.sat-address.com/f/pics/logotipi/Sky-Atlantic-HD-Italia_o.jpg" group-title="Italiani",Sky Atlantic HD
+http://iptv.iptvthebest.net:15000/live/idfofaaz/e0Y408fqvJ/699.ts
+#EXTINF:-1 tvg-ID="SkyAtlanticPlus1.it" tvg-name="Sky Atlantic +1 HD" tvg-logo="http://www.lyngsat-logo.com/logo/tv/ss/sky_it_atlantic_hd_plus1.png" group-title="Italiani",Sky Atlantic +1 HD
+http://iptv.iptvthebest.net:15000/live/idfofaaz/e0Y408fqvJ/6523.ts
+#EXTINF:-1 tvg-ID="LaSposa.it" tvg-name="Sposa HD" tvg-logo="http://www.lyngsat-logo.com/logo/tv/ll/la_sposa_it.png" group-title="",Sposa HD
+http://iptv.iptvthebest.net:15000/live/idfofaaz/e0Y408fqvJ/5157.ts
+#EXTINF:-1 tvg-ID="Fox.it" tvg-name="Fox HD" tvg-logo="http://www.sat-address.com/f/pics/logotipi/Fox-Italia_o.jpg" group-title="Italiani",Fox HD
+http://iptv.iptvthebest.net:15000/live/idfofaaz/e0Y408fqvJ/49.ts
+#EXTINF:-1 tvg-ID="FoxPlus1.it" tvg-name="Fox +1" tvg-logo="" group-title="Italiani",Fox +1
+http://iptv.iptvthebest.net:15000/live/idfofaaz/e0Y408fqvJ/10391.ts
+#EXTINF:-1 tvg-ID="FoxLife.it" tvg-name="Fox Life HD" tvg-logo="http://www.sat-address.com/f/pics/logotipi/Fox-Life-IT_o.jpg" group-title="Italiani",Fox Life HD
+http://iptv.iptvthebest.net:15000/live/idfofaaz/e0Y408fqvJ/50.ts
+#EXTINF:-1 tvg-ID="FoxLifePlus1.it" tvg-name="Fox Life +1" tvg-logo="" group-title="Italiani",Fox Life +1
+http://iptv.iptvthebest.net:15000/live/idfofaaz/e0Y408fqvJ/10392.ts
+#EXTINF:-1 tvg-ID="FoxCrime.it" tvg-name="Fox Crime HD" tvg-logo="http://www.sat-address.com/f/pics/logotipi/Fox-Crime-Italia_o.jpg" group-title="Italiani",Fox Crime HD
+http://iptv.iptvthebest.net:15000/live/idfofaaz/e0Y408fqvJ/52.ts
+#EXTINF:-1 tvg-ID="FoxCrimePlus1.it" tvg-name="Fox Crime +1" tvg-logo="" group-title="Italiani",Fox Crime +1
+http://iptv.iptvthebest.net:15000/live/idfofaaz/e0Y408fqvJ/10393.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Fox Comedy HD +1" tvg-logo="" group-title="Canali +1 e +2",Fox Comedy HD +1
+http://iptv.iptvthebest.net:15000/live/idfofaaz/e0Y408fqvJ/13117.ts
+#EXTINF:-1 tvg-ID="FoxComedy.it" tvg-name="Fox Comedy HD" tvg-logo="http://www.sat-address.com/f/pics/logotipi/Fox-Comedy-Italia_o.jpg" group-title="Italiani",Fox Comedy HD
+http://iptv.iptvthebest.net:15000/live/idfofaaz/e0Y408fqvJ/51.ts
+#EXTINF:-1 tvg-ID="FoxAnimation.it" tvg-name="Fox Animation HD" tvg-logo="http://www.sat-address.com/f/pics/logotipi/Fox-Animation-Italia_o.jpg" group-title="Italiani",Fox Animation HD
+http://iptv.iptvthebest.net:15000/live/idfofaaz/e0Y408fqvJ/53.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Fox Animation +1" tvg-logo="" group-title="Canali +1 e +2",Fox Animation +1
+http://iptv.iptvthebest.net:15000/live/idfofaaz/e0Y408fqvJ/13118.ts
+#EXTINF:-1 tvg-ID="ComedyCentral.it" tvg-name="Comedy Central" tvg-logo="" group-title="Italiani",Comedy Central
+http://iptv.iptvthebest.net:15000/live/idfofaaz/e0Y408fqvJ/12175.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Comedy Central +1" tvg-logo="" group-title="Italiani",Comedy Central +1
+http://iptv.iptvthebest.net:15000/live/idfofaaz/e0Y408fqvJ/12176.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Sky Blaze HD" tvg-logo="" group-title="Italiani",Sky Blaze HD
+http://iptv.iptvthebest.net:15000/live/idfofaaz/e0Y408fqvJ/23411.ts
+#EXTINF:-1 tvg-ID="ManGa.it" tvg-name="MAN-GA" tvg-logo="http://www.sat-address.com/f/pics/logotipi/MAN-GA_o.jpg" group-title="Italiani",MAN-GA
+http://iptv.iptvthebest.net:15000/live/idfofaaz/e0Y408fqvJ/244.ts
 #EXTINF:-1 tvg-ID="ParamountChannel.it" tvg-name="Paramount Channel HD" tvg-logo="http://www.lyngsat-logo.com/logo/tv/pp/paramount_channel_us.png" group-title="",Paramount Channel HD
 http://iptv.iptvthebest.net:15000/live/idfofaaz/e0Y408fqvJ/3342.ts
 #EXTINF:-1 tvg-ID="Iris.it" tvg-name="Iris" tvg-logo="http://www.sat-address.com/f/pics/logotipi/Iris-TV-IT_o.jpg" group-title="Italiani",Iris
@@ -95,282 +179,147 @@ http://iptv.iptvthebest.net:15000/live/idfofaaz/e0Y408fqvJ/10147.ts
 http://iptv.iptvthebest.net:15000/live/idfofaaz/e0Y408fqvJ/10145.ts
 #EXTINF:-1 tvg-ID="" tvg-name="Teleticino HD" tvg-logo="" group-title="Italiani",Teleticino HD
 http://iptv.iptvthebest.net:15000/live/idfofaaz/e0Y408fqvJ/156.ts
-
-#EXTINF:-1 tvg-ID="" tvg-name="----- SKY CINEMA -----" tvg-logo="" group-title="SKY",----- SKY CINEMA -----
-http://iptv.iptvthebest.net:15000/live/idfofaaz/e0Y408fqvJ/21.ts
-#EXTINF:-1 tvg-ID="SkyCinema1.it" tvg-name="Cinema 1 HD" tvg-logo="http://www.sat-address.com/f/pics/logotipi/Sky-Cinema-1-Italia_o.jpg" group-title="SKY",Cinema 1 HD
-http://iptv.iptvthebest.net:15000/live/idfofaaz/e0Y408fqvJ/22.ts
-#EXTINF:-1 tvg-ID="SkyCinemaPlus1.it" tvg-name="Cinema +1 HD" tvg-logo="http://guidatv.sky.it/app/guidatv/images/epgimages/channels/home/722_home.png" group-title="SKY",Cinema +1 HD
-http://iptv.iptvthebest.net:15000/live/idfofaaz/e0Y408fqvJ/23.ts
-#EXTINF:-1 tvg-ID="SkyCinema+24.it" tvg-name="Cinema +24 HD" tvg-logo="http://guidatv.sky.it/app/guidatv/images/epgimages/channels/home/452_home.png" group-title="SKY",Cinema +24 HD
-http://iptv.iptvthebest.net:15000/live/idfofaaz/e0Y408fqvJ/24.ts
-#EXTINF:-1 tvg-ID="SkyCinemaHits.it" tvg-name="Cinema Hits HD" tvg-logo="http://vignette1.wikia.nocookie.net/logopedia/images/4/4f/Sky_it_cinema_hits.jpg" group-title="SKY",Cinema Hits HD
-http://iptv.iptvthebest.net:15000/live/idfofaaz/e0Y408fqvJ/25.ts
-#EXTINF:-1 tvg-ID="" tvg-name="Cinema Hits +1" tvg-logo="" group-title="SKY",Cinema Hits +1
-http://iptv.iptvthebest.net:15000/live/idfofaaz/e0Y408fqvJ/10388.ts
-#EXTINF:-1 tvg-ID="SkyCinemaFamily.it" tvg-name="Cinema Family HD" tvg-logo="http://www.lyngsat-logo.com/logo/tv/ss/sky_it_cinema_family_hd.png" group-title="SKY",Cinema Family HD
-http://iptv.iptvthebest.net:15000/live/idfofaaz/e0Y408fqvJ/26.ts
-#EXTINF:-1 tvg-ID="SkyCinemaFamilyPlus1.it" tvg-name="Cinema Family +1 HD" tvg-logo="http://www.sat-address.com/f/pics/logotipi/Sky-Cinema-Family-Plus1_o.jpg" group-title="SKY",Cinema Family +1 HD
-http://iptv.iptvthebest.net:15000/live/idfofaaz/e0Y408fqvJ/2695.ts
-#EXTINF:-1 tvg-ID="SkyCinemaMax.it" tvg-name="Cinema Max HD" tvg-logo="http://www.sat-address.com/f/pics/logotipi/Sky-Cinema-Max_o.jpg" group-title="SKY",Cinema Max HD
-http://iptv.iptvthebest.net:15000/live/idfofaaz/e0Y408fqvJ/29.ts
-#EXTINF:-1 tvg-ID="SkyCinemaMaxPlus1.it" tvg-name="Cinema Max +1 HD" tvg-logo="http://www.sat-address.com/f/pics/logotipi/Sky-Cinema-Max-Plus1_o.jpg" group-title="SKY",Cinema Max +1 HD
-http://iptv.iptvthebest.net:15000/live/idfofaaz/e0Y408fqvJ/30.ts
-#EXTINF:-1 tvg-ID="SkyCinemaPassionHD.it" tvg-name="Cinema Passion HD" tvg-logo="http://www.sat-address.com/f/pics/logotipi/Sky-Cinema-Passion_o.jpg" group-title="SKY",Cinema Passion HD
-http://iptv.iptvthebest.net:15000/live/idfofaaz/e0Y408fqvJ/27.ts
-#EXTINF:-1 tvg-ID="SkyCinemaPlus1.it" tvg-name="Cinema Passion +1" tvg-logo="" group-title="SKY",Cinema Passion +1
-http://iptv.iptvthebest.net:15000/live/idfofaaz/e0Y408fqvJ/10389.ts
-#EXTINF:-1 tvg-ID="SkyCinemaCult.it" tvg-name="Cinema Cult HD" tvg-logo="http://www.sat-address.com/f/pics/logotipi/Sky-Cinema-Cult_o.jpg" group-title="SKY",Cinema Cult HD
-http://iptv.iptvthebest.net:15000/live/idfofaaz/e0Y408fqvJ/31.ts
-#EXTINF:-1 tvg-ID="" tvg-name="Cinema Cult +1 HD" tvg-logo="" group-title="",Cinema Cult +1 HD
-http://iptv.iptvthebest.net:15000/live/idfofaaz/e0Y408fqvJ/11964.ts
-#EXTINF:-1 tvg-ID="SkyCinemaClassic.it" tvg-name="Cinema Classic HD" tvg-logo="http://www.sat-address.com/f/pics/logotipi/Sky-Cinema-Classics_o.jpg" group-title="SKY",Cinema Classic HD
-http://iptv.iptvthebest.net:15000/live/idfofaaz/e0Y408fqvJ/32.ts
-#EXTINF:-1 tvg-ID="" tvg-name="Cinema Classic +1" tvg-logo="" group-title="Canali +1 e +2",Cinema Classic +1
-http://iptv.iptvthebest.net:15000/live/idfofaaz/e0Y408fqvJ/13110.ts
-#EXTINF:-1 tvg-ID="SkyCinemaComedyHD.it" tvg-name="Cinema Comedy HD" tvg-logo="http://www.sat-address.com/f/pics/logotipi/Sky-Cinema-Comedy-IT_o.jpg" group-title="SKY",Cinema Comedy HD
-http://iptv.iptvthebest.net:15000/live/idfofaaz/e0Y408fqvJ/28.ts
-#EXTINF:-1 tvg-ID="" tvg-name="Cinema Comedy +1" tvg-logo="" group-title="SKY",Cinema Comedy +1
-http://iptv.iptvthebest.net:15000/live/idfofaaz/e0Y408fqvJ/10390.ts
-
-#EXTINF:-1 tvg-ID="" tvg-name="----- SKY PRIMAFILA -----" tvg-logo="" group-title="Italiani",----- SKY PRIMAFILA -----
-http://iptv.iptvthebest.net:15000/live/idfofaaz/e0Y408fqvJ/34.ts
-#EXTINF:-1 tvg-ID="" tvg-name="Vetrina Primafila" tvg-logo="" group-title="PrimaFila Sky OnDemand",Vetrina Primafila
-http://iptv.iptvthebest.net:15000/movie/idfofaaz/e0Y408fqvJ/4063.mkv
-#EXTINF:-1 tvg-ID="" tvg-name="Primafila 1 HD" tvg-logo="" group-title="Italiani",Primafila 1 HD
-http://iptv.iptvthebest.net:15000/live/idfofaaz/e0Y408fqvJ/35.ts
-#EXTINF:-1 tvg-ID="" tvg-name="Primafila 2 HD" tvg-logo="" group-title="PrimaFila Sky OnDemand",Primafila 2 HD
-http://iptv.iptvthebest.net:15000/movie/idfofaaz/e0Y408fqvJ/4054.mkv
-#EXTINF:-1 tvg-ID="" tvg-name="Trailer Primafila 1/2" tvg-logo="" group-title="PrimaFila Sky OnDemand",Trailer Primafila 1/2
-http://iptv.iptvthebest.net:15000/movie/idfofaaz/e0Y408fqvJ/12059.mp4
-#EXTINF:-1 tvg-ID="" tvg-name="Primafila 3 HD" tvg-logo="" group-title="Italiani",Primafila 3 HD
-http://iptv.iptvthebest.net:15000/live/idfofaaz/e0Y408fqvJ/37.ts
-#EXTINF:-1 tvg-ID="" tvg-name="Primafila 4 HD" tvg-logo="" group-title="PrimaFila Sky OnDemand",Primafila 4 HD
-http://iptv.iptvthebest.net:15000/movie/idfofaaz/e0Y408fqvJ/4055.mkv
-#EXTINF:-1 tvg-ID="" tvg-name="Trailer Primafila 3/4" tvg-logo="" group-title="PrimaFila Sky OnDemand",Trailer Primafila 3/4
-http://iptv.iptvthebest.net:15000/movie/idfofaaz/e0Y408fqvJ/12060.mp4
-#EXTINF:-1 tvg-ID="" tvg-name="Primafila 5 HD" tvg-logo="" group-title="PrimaFila Sky OnDemand",Primafila 5 HD
-http://iptv.iptvthebest.net:15000/live/idfofaaz/e0Y408fqvJ/39.ts
-#EXTINF:-1 tvg-ID="" tvg-name="Primafila 6 HD" tvg-logo="" group-title="PrimaFila Sky OnDemand",Primafila 6 HD
-http://iptv.iptvthebest.net:15000/movie/idfofaaz/e0Y408fqvJ/4056.mkv
-#EXTINF:-1 tvg-ID="" tvg-name="Trailer Primafila 5/6" tvg-logo="" group-title="PrimaFila Sky OnDemand",Trailer Primafila 5/6
-http://iptv.iptvthebest.net:15000/movie/idfofaaz/e0Y408fqvJ/12061.mp4
-#EXTINF:-1 tvg-ID="" tvg-name="Primafila 7 HD" tvg-logo="" group-title="PrimaFila Sky OnDemand",Primafila 7 HD
-http://iptv.iptvthebest.net:15000/live/idfofaaz/e0Y408fqvJ/41.ts
-#EXTINF:-1 tvg-ID="" tvg-name="Primafila 8 HD" tvg-logo="" group-title="PrimaFila Sky OnDemand",Primafila 8 HD
-http://iptv.iptvthebest.net:15000/movie/idfofaaz/e0Y408fqvJ/4057.mkv
-#EXTINF:-1 tvg-ID="" tvg-name="Trailer Primafila 7/8" tvg-logo="" group-title="PrimaFila Sky OnDemand",Trailer Primafila 7/8
-http://iptv.iptvthebest.net:15000/movie/idfofaaz/e0Y408fqvJ/12062.mp4
-#EXTINF:-1 tvg-ID="" tvg-name="Primafila 9 HD" tvg-logo="" group-title="PrimaFila Sky OnDemand",Primafila 9 HD
-http://iptv.iptvthebest.net:15000/live/idfofaaz/e0Y408fqvJ/43.ts
-#EXTINF:-1 tvg-ID="" tvg-name="Primafila 10 HD" tvg-logo="" group-title="PrimaFila Sky OnDemand",Primafila 10 HD
-http://iptv.iptvthebest.net:15000/movie/idfofaaz/e0Y408fqvJ/4058.mkv
-#EXTINF:-1 tvg-ID="" tvg-name="Trailer Primafila 9/10" tvg-logo="" group-title="PrimaFila Sky OnDemand",Trailer Primafila 9/10
-http://iptv.iptvthebest.net:15000/movie/idfofaaz/e0Y408fqvJ/12063.mp4
-#EXTINF:-1 tvg-ID="" tvg-name="Primafila 11 HD" tvg-logo="" group-title="PrimaFila Sky OnDemand",Primafila 11 HD
-http://iptv.iptvthebest.net:15000/live/idfofaaz/e0Y408fqvJ/521.ts
-#EXTINF:-1 tvg-ID="" tvg-name="Primafila 12 HD" tvg-logo="" group-title="PrimaFila Sky OnDemand",Primafila 12 HD
-http://iptv.iptvthebest.net:15000/movie/idfofaaz/e0Y408fqvJ/4059.mkv
-#EXTINF:-1 tvg-ID="" tvg-name="Trailer Primafila 11/12" tvg-logo="" group-title="PrimaFila Sky OnDemand",Trailer Primafila 11/12
-http://iptv.iptvthebest.net:15000/movie/idfofaaz/e0Y408fqvJ/12064.mp4
-#EXTINF:-1 tvg-ID="" tvg-name="Primafila 13 HD" tvg-logo="" group-title="PrimaFila Sky OnDemand",Primafila 13 HD
-http://iptv.iptvthebest.net:15000/live/idfofaaz/e0Y408fqvJ/3226.ts
-#EXTINF:-1 tvg-ID="" tvg-name="Primafila 14 HD" tvg-logo="" group-title="PrimaFila Sky OnDemand",Primafila 14 HD
-http://iptv.iptvthebest.net:15000/movie/idfofaaz/e0Y408fqvJ/4060.mkv
-#EXTINF:-1 tvg-ID="" tvg-name="Trailer Primafila 13/14" tvg-logo="" group-title="PrimaFila Sky OnDemand",Trailer Primafila 13/14
-http://iptv.iptvthebest.net:15000/movie/idfofaaz/e0Y408fqvJ/12065.mp4
-#EXTINF:-1 tvg-ID="" tvg-name="Primafila 15 HD" tvg-logo="" group-title="PrimaFila Sky OnDemand",Primafila 15 HD
-http://iptv.iptvthebest.net:15000/live/idfofaaz/e0Y408fqvJ/3227.ts
-#EXTINF:-1 tvg-ID="" tvg-name="Primafila 16 HD" tvg-logo="" group-title="PrimaFila Sky OnDemand",Primafila 16 HD
-http://iptv.iptvthebest.net:15000/movie/idfofaaz/e0Y408fqvJ/4061.mkv
-#EXTINF:-1 tvg-ID="" tvg-name="Trailer Primafila 15/16" tvg-logo="" group-title="PrimaFila Sky OnDemand",Trailer Primafila 15/16
-http://iptv.iptvthebest.net:15000/movie/idfofaaz/e0Y408fqvJ/12066.mp4
-#EXTINF:-1 tvg-ID="" tvg-name="Primafila 17 HD" tvg-logo="" group-title="PrimaFila Sky OnDemand",Primafila 17 HD
-http://iptv.iptvthebest.net:15000/live/idfofaaz/e0Y408fqvJ/3228.ts
-#EXTINF:-1 tvg-ID="" tvg-name="Primafila 18 HD" tvg-logo="" group-title="PrimaFila Sky OnDemand",Primafila 18 HD
-http://iptv.iptvthebest.net:15000/movie/idfofaaz/e0Y408fqvJ/4062.mkv
-#EXTINF:-1 tvg-ID="" tvg-name="Trailer Primafila 17/18" tvg-logo="" group-title="PrimaFila Sky OnDemand",Trailer Primafila 17/18
-http://iptv.iptvthebest.net:15000/movie/idfofaaz/e0Y408fqvJ/12067.mp4
-
-#EXTINF:-1 tvg-ID="" tvg-name="----- INTRATTENIMENTO -----" tvg-logo="" group-title="SKY",----- INTRATTENIMENTO -----
-http://iptv.iptvthebest.net:15000/live/idfofaaz/e0Y408fqvJ/47.ts
-#EXTINF:-1 tvg-ID="Sky3D.it" tvg-name="Sky - 3D" tvg-logo="http://www.sat-address.com/f/pics/logotipi/Sky-3D-IT_o.jpg" group-title="SKY",Sky - 3D
-http://iptv.iptvthebest.net:15000/live/idfofaaz/e0Y408fqvJ/33.ts
-#EXTINF:-1 tvg-ID="" tvg-name="IPTVTHEBEST 3D" tvg-logo="" group-title="",IPTVTHEBEST 3D
-http://iptv.iptvthebest.net:15000/live/idfofaaz/e0Y408fqvJ/13556.ts
-#EXTINF:-1 tvg-ID="SKYUno.it" tvg-name="Sky Uno HD" tvg-logo="http://www.sat-address.com/f/pics/logotipi/Sky-Uno_o.jpg" group-title="SKY",Sky Uno HD
-http://iptv.iptvthebest.net:15000/live/idfofaaz/e0Y408fqvJ/48.ts
-#EXTINF:-1 tvg-ID="SKYUnoPlus1.it" tvg-name="SKY UNO +1 HD" tvg-logo="http://www.lyngsat-logo.com/logo/tv/ss/sky_it_uno_plus1.png" group-title="",SKY UNO +1 HD
-http://iptv.iptvthebest.net:15000/live/idfofaaz/e0Y408fqvJ/6517.ts
-#EXTINF:-1 tvg-ID="SkyAtlantic.it" tvg-name="Sky Atlantic HD" tvg-logo="http://www.sat-address.com/f/pics/logotipi/Sky-Atlantic-HD-Italia_o.jpg" group-title="SKY",Sky Atlantic HD
-http://iptv.iptvthebest.net:15000/live/idfofaaz/e0Y408fqvJ/699.ts
-#EXTINF:-1 tvg-ID="SkyAtlanticPlus1.it" tvg-name="Sky Atlantic +1 HD" tvg-logo="http://www.lyngsat-logo.com/logo/tv/ss/sky_it_atlantic_hd_plus1.png" group-title="SKY",Sky Atlantic +1 HD
-http://iptv.iptvthebest.net:15000/live/idfofaaz/e0Y408fqvJ/6523.ts
-#EXTINF:-1 tvg-ID="LaSposa.it" tvg-name="Sposa HD" tvg-logo="http://www.lyngsat-logo.com/logo/tv/ll/la_sposa_it.png" group-title="",Sposa HD
-http://iptv.iptvthebest.net:15000/live/idfofaaz/e0Y408fqvJ/5157.ts
-#EXTINF:-1 tvg-ID="Fox.it" tvg-name="Fox HD" tvg-logo="http://www.sat-address.com/f/pics/logotipi/Fox-Italia_o.jpg" group-title="SKY",Fox HD
-http://iptv.iptvthebest.net:15000/live/idfofaaz/e0Y408fqvJ/49.ts
-#EXTINF:-1 tvg-ID="FoxPlus1.it" tvg-name="Fox +1" tvg-logo="" group-title="SKY",Fox +1
-http://iptv.iptvthebest.net:15000/live/idfofaaz/e0Y408fqvJ/10391.ts
-#EXTINF:-1 tvg-ID="FoxLife.it" tvg-name="Fox Life HD" tvg-logo="http://www.sat-address.com/f/pics/logotipi/Fox-Life-IT_o.jpg" group-title="SKY",Fox Life HD
-http://iptv.iptvthebest.net:15000/live/idfofaaz/e0Y408fqvJ/50.ts
-#EXTINF:-1 tvg-ID="FoxLifePlus1.it" tvg-name="Fox Life +1" tvg-logo="" group-title="SKY",Fox Life +1
-http://iptv.iptvthebest.net:15000/live/idfofaaz/e0Y408fqvJ/10392.ts
-#EXTINF:-1 tvg-ID="FoxCrime.it" tvg-name="Fox Crime HD" tvg-logo="http://www.sat-address.com/f/pics/logotipi/Fox-Crime-Italia_o.jpg" group-title="SKY",Fox Crime HD
-http://iptv.iptvthebest.net:15000/live/idfofaaz/e0Y408fqvJ/52.ts
-#EXTINF:-1 tvg-ID="FoxCrimePlus1.it" tvg-name="Fox Crime +1" tvg-logo="" group-title="SKY",Fox Crime +1
-http://iptv.iptvthebest.net:15000/live/idfofaaz/e0Y408fqvJ/10393.ts
-#EXTINF:-1 tvg-ID="" tvg-name="Fox Comedy HD +1" tvg-logo="" group-title="Canali +1 e +2",Fox Comedy HD +1
-http://iptv.iptvthebest.net:15000/live/idfofaaz/e0Y408fqvJ/13117.ts
-#EXTINF:-1 tvg-ID="FoxComedy.it" tvg-name="Fox Comedy HD" tvg-logo="http://www.sat-address.com/f/pics/logotipi/Fox-Comedy-Italia_o.jpg" group-title="SKY",Fox Comedy HD
-http://iptv.iptvthebest.net:15000/live/idfofaaz/e0Y408fqvJ/51.ts
-#EXTINF:-1 tvg-ID="FoxAnimation.it" tvg-name="Fox Animation HD" tvg-logo="http://www.sat-address.com/f/pics/logotipi/Fox-Animation-Italia_o.jpg" group-title="SKY",Fox Animation HD
-http://iptv.iptvthebest.net:15000/live/idfofaaz/e0Y408fqvJ/53.ts
-#EXTINF:-1 tvg-ID="" tvg-name="Fox Animation +1" tvg-logo="" group-title="Canali +1 e +2",Fox Animation +1
-http://iptv.iptvthebest.net:15000/live/idfofaaz/e0Y408fqvJ/13118.ts
-#EXTINF:-1 tvg-ID="ComedyCentral.it" tvg-name="Comedy Central" tvg-logo="" group-title="SKY",Comedy Central
-http://iptv.iptvthebest.net:15000/live/idfofaaz/e0Y408fqvJ/12175.ts
-#EXTINF:-1 tvg-ID="" tvg-name="Comedy Central +1" tvg-logo="" group-title="SKY",Comedy Central +1
-http://iptv.iptvthebest.net:15000/live/idfofaaz/e0Y408fqvJ/12176.ts
-#EXTINF:-1 tvg-ID="ManGa.it" tvg-name="MAN-GA" tvg-logo="http://www.sat-address.com/f/pics/logotipi/MAN-GA_o.jpg" group-title="SKY",MAN-GA
-http://iptv.iptvthebest.net:15000/live/idfofaaz/e0Y408fqvJ/244.ts
-#EXTINF:-1 tvg-ID="AXN.it" tvg-name="AXN HD" tvg-logo="http://www.sat-address.com/f/pics/logotipi/AXN-Italia_o.jpg" group-title="SKY",AXN HD
-http://iptv.iptvthebest.net:15000/live/idfofaaz/e0Y408fqvJ/54.ts
-#EXTINF:-1 tvg-ID="AXNPlus1.it" tvg-name="AXN +1" tvg-logo="" group-title="SKY",AXN +1
-http://iptv.iptvthebest.net:15000/live/idfofaaz/e0Y408fqvJ/10394.ts
-#EXTINF:-1 tvg-ID="" tvg-name="Axn Sci-Fi +1" tvg-logo="" group-title="Canali +1 e +2",Axn Sci-Fi +1
-http://iptv.iptvthebest.net:15000/live/idfofaaz/e0Y408fqvJ/13120.ts
-#EXTINF:-1 tvg-ID="AXNSciFi.it" tvg-name="AXN Sci-Fi" tvg-logo="http://www.sat-address.com/f/pics/logotipi/AXN-SciFi-Italia_o.jpg" group-title="SKY",AXN Sci-Fi
-http://iptv.iptvthebest.net:15000/live/idfofaaz/e0Y408fqvJ/59.ts
-
-#EXTINF:-1 tvg-ID="" tvg-name="----- SPORT -----" tvg-logo="" group-title="SKY SPORT",----- SPORT -----
+#EXTINF:-1 tvg-ID="" tvg-name="----- SPORT -----" tvg-logo="" group-title="Italiani",----- SPORT -----
 http://iptv.iptvthebest.net:15000/live/idfofaaz/e0Y408fqvJ/62.ts
 #EXTINF:-1 tvg-ID="" tvg-name="Sport Mix" tvg-logo="" group-title="",Sport Mix
 http://iptv.iptvthebest.net:15000/live/idfofaaz/e0Y408fqvJ/13327.ts
-#EXTINF:-1 tvg-ID="SKYSport24.it" tvg-name="Sky Sport 24 HD" tvg-logo="http://www.sat-address.com/f/pics/logotipi/Sky-Sport-24_o.jpg" group-title="SKY SPORT",Sky Sport 24 HD
+#EXTINF:-1 tvg-ID="SKYSport24.it" tvg-name="Sky Sport 24 HD" tvg-logo="http://www.sat-address.com/f/pics/logotipi/Sky-Sport-24_o.jpg" group-title="Italiani",Sky Sport 24 HD
 http://iptv.iptvthebest.net:15000/live/idfofaaz/e0Y408fqvJ/64.ts
 #EXTINF:-1 tvg-ID="" tvg-name="Sky Sport 24 +1" tvg-logo="" group-title="Canali +1 e +2",Sky Sport 24 +1
 http://iptv.iptvthebest.net:15000/live/idfofaaz/e0Y408fqvJ/13122.ts
-#EXTINF:-1 tvg-ID="SkySportPlus.it" tvg-name="Sky Sport Plus HD" tvg-logo="http://www.sat-address.com/f/pics/logotipi/Sky-Sport-Plus-IT_o.jpg" group-title="SKY SPORT",Sky Sport Plus HD
+#EXTINF:-1 tvg-ID="SkySportPlus.it" tvg-name="Sky Sport Plus HD" tvg-logo="http://www.sat-address.com/f/pics/logotipi/Sky-Sport-Plus-IT_o.jpg" group-title="Italiani",Sky Sport Plus HD
 http://iptv.iptvthebest.net:15000/live/idfofaaz/e0Y408fqvJ/73.ts
 #EXTINF:-1 tvg-ID="" tvg-name="Fox Sport Plus +1" tvg-logo="" group-title="Canali +1 e +2",Fox Sport Plus +1
 http://iptv.iptvthebest.net:15000/live/idfofaaz/e0Y408fqvJ/13127.ts
-#EXTINF:-1 tvg-ID="SKYSport1.it" tvg-name="Sky Sport 1 HD" tvg-logo="http://www.sat-address.com/f/pics/logotipi/Sky-Sport-1_o.jpg" group-title="SKY SPORT",Sky Sport 1 HD
+#EXTINF:-1 tvg-ID="" tvg-name="Sky Sport 1 FHD" tvg-logo="" group-title="Canali UHD",Sky Sport 1 FHD
+http://iptv.iptvthebest.net:15000/live/idfofaaz/e0Y408fqvJ/23400.ts
+#EXTINF:-1 tvg-ID="SKYSport1.it" tvg-name="Sky Sport 1 HD" tvg-logo="http://www.sat-address.com/f/pics/logotipi/Sky-Sport-1_o.jpg" group-title="Italiani",Sky Sport 1 HD
 http://iptv.iptvthebest.net:15000/live/idfofaaz/e0Y408fqvJ/66.ts
 #EXTINF:-1 tvg-ID="" tvg-name="Sky Sport 1 +1" tvg-logo="" group-title="Canali +1 e +2",Sky Sport 1 +1
 http://iptv.iptvthebest.net:15000/live/idfofaaz/e0Y408fqvJ/13123.ts
-#EXTINF:-1 tvg-ID="SKYSport2.it" tvg-name="SKY Sport 2 HD" tvg-logo="http://www.sat-address.com/f/pics/logotipi/Sky-Sport-2_o.jpg" group-title="SKY SPORT",SKY Sport 2 HD
+#EXTINF:-1 tvg-ID="" tvg-name="Sky Sport 2 FHD" tvg-logo="" group-title="Canali UHD",Sky Sport 2 FHD
+http://iptv.iptvthebest.net:15000/live/idfofaaz/e0Y408fqvJ/23399.ts
+#EXTINF:-1 tvg-ID="SKYSport2.it" tvg-name="SKY Sport 2 HD" tvg-logo="http://www.sat-address.com/f/pics/logotipi/Sky-Sport-2_o.jpg" group-title="Italiani",SKY Sport 2 HD
 http://iptv.iptvthebest.net:15000/live/idfofaaz/e0Y408fqvJ/68.ts
 #EXTINF:-1 tvg-ID="" tvg-name="Sky Sport 2 +1" tvg-logo="" group-title="Canali +1 e +2",Sky Sport 2 +1
 http://iptv.iptvthebest.net:15000/live/idfofaaz/e0Y408fqvJ/13124.ts
-#EXTINF:-1 tvg-ID="SKYSport3.it" tvg-name="Sky Sport 3 HD" tvg-logo="http://www.sat-address.com/f/pics/logotipi/Sky-Sport-3_o.jpg" group-title="SKY SPORT",Sky Sport 3 HD
+#EXTINF:-1 tvg-ID="" tvg-name="Sky Sport 3 FHD" tvg-logo="" group-title="Canali UHD",Sky Sport 3 FHD
+http://iptv.iptvthebest.net:15000/live/idfofaaz/e0Y408fqvJ/23398.ts
+#EXTINF:-1 tvg-ID="SKYSport3.it" tvg-name="Sky Sport 3 HD" tvg-logo="http://www.sat-address.com/f/pics/logotipi/Sky-Sport-3_o.jpg" group-title="Italiani",Sky Sport 3 HD
 http://iptv.iptvthebest.net:15000/live/idfofaaz/e0Y408fqvJ/70.ts
 #EXTINF:-1 tvg-ID="" tvg-name="Sky Sport 3 +1" tvg-logo="" group-title="Canali +1 e +2",Sky Sport 3 +1
 http://iptv.iptvthebest.net:15000/live/idfofaaz/e0Y408fqvJ/13125.ts
-#EXTINF:-1 tvg-ID="FoxSports.it" tvg-name="Fox Sports HD" tvg-logo="http://www.sat-address.com/f/pics/logotipi/Fox-Sports-Italia_o.jpg" group-title="SKY SPORT",Fox Sports HD
+#EXTINF:-1 tvg-ID="" tvg-name="Fox Sport FHD" tvg-logo="" group-title="Canali UHD",Fox Sport FHD
+http://iptv.iptvthebest.net:15000/live/idfofaaz/e0Y408fqvJ/23406.ts
+#EXTINF:-1 tvg-ID="FoxSports.it" tvg-name="Fox Sports HD" tvg-logo="http://www.sat-address.com/f/pics/logotipi/Fox-Sports-Italia_o.jpg" group-title="Italiani",Fox Sports HD
 http://iptv.iptvthebest.net:15000/live/idfofaaz/e0Y408fqvJ/71.ts
 #EXTINF:-1 tvg-ID="" tvg-name="Fox Sport +1" tvg-logo="" group-title="Canali +1 e +2",Fox Sport +1
 http://iptv.iptvthebest.net:15000/live/idfofaaz/e0Y408fqvJ/13126.ts
-#EXTINF:-1 tvg-ID="SkySportF1.it" tvg-name="Sky Sport F1 HD" tvg-logo="http://www.sat-address.com/f/pics/logotipi/Sky-Sport-F1-HD-Italia_o.jpg" group-title="SKY SPORT",Sky Sport F1 HD
+#EXTINF:-1 tvg-ID="SkySportF1.it" tvg-name="Sky Sport F1 HD" tvg-logo="http://www.sat-address.com/f/pics/logotipi/Sky-Sport-F1-HD-Italia_o.jpg" group-title="Italiani",Sky Sport F1 HD
 http://iptv.iptvthebest.net:15000/live/idfofaaz/e0Y408fqvJ/75.ts
 #EXTINF:-1 tvg-ID="" tvg-name="Sky Sport F1 +1" tvg-logo="" group-title="Canali +1 e +2",Sky Sport F1 +1
 http://iptv.iptvthebest.net:15000/live/idfofaaz/e0Y408fqvJ/13128.ts
-#EXTINF:-1 tvg-ID="SkySportMotoGP.it" tvg-name="Sky Motogp HD" tvg-logo="http://www.sat-address.com/f/pics/logotipi/Sky-Sport-Moto-GP-HD_o.jpg" group-title="SKY SPORT",Sky Motogp HD
+#EXTINF:-1 tvg-ID="" tvg-name="Sport Moto GP FHD" tvg-logo="" group-title="",Sport Moto GP FHD
+http://iptv.iptvthebest.net:15000/live/idfofaaz/e0Y408fqvJ/23273.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Sky Moto GP HD" tvg-logo="" group-title="",Sky Moto GP HD
+http://iptv.iptvthebest.net:15000/live/idfofaaz/e0Y408fqvJ/15058.ts
+#EXTINF:-1 tvg-ID="SkySportMotoGP.it" tvg-name="Sky Motogp HD" tvg-logo="http://www.sat-address.com/f/pics/logotipi/Sky-Sport-Moto-GP-HD_o.jpg" group-title="Italiani",Sky Motogp HD
 http://iptv.iptvthebest.net:15000/live/idfofaaz/e0Y408fqvJ/76.ts
 #EXTINF:-1 tvg-ID="" tvg-name="Sky MotoGP +1" tvg-logo="" group-title="Canali +1 e +2",Sky MotoGP +1
 http://iptv.iptvthebest.net:15000/live/idfofaaz/e0Y408fqvJ/13129.ts
-#EXTINF:-1 tvg-ID="" tvg-name="Sky Fight NetWork" tvg-logo="" group-title="",Sky Fight NetWork
-http://iptv.iptvthebest.net:15000/live/idfofaaz/e0Y408fqvJ/13328.ts
-#EXTINF:-1 tvg-ID="Eurosport1.it" tvg-name="Eurosport HD" tvg-logo="http://www.sat-address.com/f/pics/logotipi/Eurosport-Italia_o.jpg" group-title="SKY SPORT",Eurosport HD
+#EXTINF:-1 tvg-ID="Eurosport1.it" tvg-name="Eurosport HD" tvg-logo="http://www.sat-address.com/f/pics/logotipi/Eurosport-Italia_o.jpg" group-title="Italiani",Eurosport HD
 http://iptv.iptvthebest.net:15000/live/idfofaaz/e0Y408fqvJ/74.ts
 #EXTINF:-1 tvg-ID="" tvg-name="Eurosport 1 +1" tvg-logo="" group-title="Canali +1 e +2",Eurosport 1 +1
 http://iptv.iptvthebest.net:15000/live/idfofaaz/e0Y408fqvJ/13130.ts
 #EXTINF:-1 tvg-ID="Eurosport2.it" tvg-name="Eurosport 2 HD" tvg-logo="http://www.sat-address.com/f/pics/logotipi/Eurosport-2-Italia_o.jpg" group-title="",Eurosport 2 HD
 http://iptv.iptvthebest.net:15000/live/idfofaaz/e0Y408fqvJ/77.ts
-#EXTINF:-1 tvg-ID="RaiSport1.it" tvg-name="Rai Sport 1 HD" tvg-logo="http://www.sat-address.com/f/pics/logotipi/RAI-Sport-1_o.jpg" group-title="SKY SPORT",Rai Sport 1 HD
+#EXTINF:-1 tvg-ID="RaiSport1.it" tvg-name="Rai Sport 1 HD" tvg-logo="http://www.sat-address.com/f/pics/logotipi/RAI-Sport-1_o.jpg" group-title="Italiani",Rai Sport 1 HD
 http://iptv.iptvthebest.net:15000/live/idfofaaz/e0Y408fqvJ/3343.ts
 #EXTINF:-1 tvg-ID="Sportitalia.it" tvg-name="Sport Italia" tvg-logo="http://www.lyngsat-logo.com/logo/tv/ss/sport_italia_it.png" group-title="",Sport Italia
 http://iptv.iptvthebest.net:15000/live/idfofaaz/e0Y408fqvJ/2324.ts
-#EXTINF:-1 tvg-ID="" tvg-name="Super tennis HD" tvg-logo="http://www.sat-address.com/f/pics/logotipi/SuperTennis-TV_o.jpg" group-title="SKY SPORT",Super tennis HD
+#EXTINF:-1 tvg-ID="" tvg-name="Super tennis HD" tvg-logo="http://www.sat-address.com/f/pics/logotipi/SuperTennis-TV_o.jpg" group-title="Italiani",Super tennis HD
 http://iptv.iptvthebest.net:15000/live/idfofaaz/e0Y408fqvJ/78.ts
-#EXTINF:-1 tvg-ID="BikeChannel.it" tvg-name="BIKE CHANNEL" tvg-logo="http://www.sat-address.com/f/pics/logotipi/Bike-Channel-Italia_o.jpg" group-title="SKY SPORT",BIKE CHANNEL
+#EXTINF:-1 tvg-ID="BikeChannel.it" tvg-name="BIKE CHANNEL" tvg-logo="http://www.sat-address.com/f/pics/logotipi/Bike-Channel-Italia_o.jpg" group-title="Italiani",BIKE CHANNEL
 http://iptv.iptvthebest.net:15000/live/idfofaaz/e0Y408fqvJ/2319.ts
 #EXTINF:-1 tvg-ID="" tvg-name="Bike Channel +1" tvg-logo="" group-title="Canali +1 e +2",Bike Channel +1
 http://iptv.iptvthebest.net:15000/live/idfofaaz/e0Y408fqvJ/13134.ts
-#EXTINF:-1 tvg-ID="PokerItalia24.it" tvg-name="Poker Central" tvg-logo="http://www.lyngsat-logo.com/logo/tv/pp/poker_italia_24_it.png" group-title="",Poker Central
-http://iptv.iptvthebest.net:15000/live/idfofaaz/e0Y408fqvJ/2664.ts
-#EXTINF:-1 tvg-ID="Nuvolari.it" tvg-name="Nuvolari" tvg-logo="" group-title="SKY SPORT",Nuvolari
+#EXTINF:-1 tvg-ID="Nuvolari.it" tvg-name="Nuvolari" tvg-logo="" group-title="Italiani",Nuvolari
 http://iptv.iptvthebest.net:15000/live/idfofaaz/e0Y408fqvJ/10143.ts
-#EXTINF:-1 tvg-ID="ClassHorse.it" tvg-name="Class Horse TV" tvg-logo="" group-title="SKY SPORT",Class Horse TV
+#EXTINF:-1 tvg-ID="ClassHorse.it" tvg-name="Class Horse TV" tvg-logo="" group-title="Italiani",Class Horse TV
 http://iptv.iptvthebest.net:15000/live/idfofaaz/e0Y408fqvJ/10149.ts
 #EXTINF:-1 tvg-ID="" tvg-name="Class Horse +1" tvg-logo="" group-title="Canali +1 e +2",Class Horse +1
 http://iptv.iptvthebest.net:15000/live/idfofaaz/e0Y408fqvJ/13131.ts
-#EXTINF:-1 tvg-ID="" tvg-name="Auto Moto TV" tvg-logo="" group-title="SKY SPORT",Auto Moto TV
+#EXTINF:-1 tvg-ID="" tvg-name="Auto Moto TV" tvg-logo="" group-title="Italiani",Auto Moto TV
 http://iptv.iptvthebest.net:15000/live/idfofaaz/e0Y408fqvJ/12177.ts
-
-#EXTINF:-1 tvg-ID="" tvg-name="----- CALCIO -----" tvg-logo="" group-title="SKY Calcio",----- CALCIO -----
+#EXTINF:-1 tvg-ID="" tvg-name="----- CALCIO -----" tvg-logo="" group-title="Italiani",----- CALCIO -----
 http://iptv.iptvthebest.net:15000/live/idfofaaz/e0Y408fqvJ/83.ts
-#EXTINF:-1 tvg-ID="" tvg-name="Sky Info Calcio" tvg-logo="" group-title="SKY Calcio",Sky Info Calcio
-http://iptv.iptvthebest.net:15000/live/idfofaaz/e0Y408fqvJ/12178.ts
-#EXTINF:-1 tvg-ID="SkySupercalcio.it" tvg-name="Sky Supercalcio HD" tvg-logo="http://www.sat-address.com/f/pics/logotipi/Sky-SuperCalcio_o.jpg" group-title="SKY Calcio",Sky Supercalcio HD
+#EXTINF:-1 tvg-ID="" tvg-name="Sky Supercalcio FHD" tvg-logo="" group-title="Canali UHD",Sky Supercalcio FHD
+http://iptv.iptvthebest.net:15000/live/idfofaaz/e0Y408fqvJ/23401.ts
+#EXTINF:-1 tvg-ID="SkySupercalcio.it" tvg-name="Sky Supercalcio HD" tvg-logo="http://www.sat-address.com/f/pics/logotipi/Sky-SuperCalcio_o.jpg" group-title="Italiani",Sky Supercalcio HD
 http://iptv.iptvthebest.net:15000/live/idfofaaz/e0Y408fqvJ/85.ts
-#EXTINF:-1 tvg-ID="SkyCalcio1.it" tvg-name="Sky Calcio 1 HD" tvg-logo="http://www.sat-address.com/f/pics/logotipi/Sky-Calcio_o.jpg" group-title="SKY Calcio",Sky Calcio 1 HD
+#EXTINF:-1 tvg-ID="SkyCalcio1.it" tvg-name="Sky Calcio 1 HD" tvg-logo="http://www.sat-address.com/f/pics/logotipi/Sky-Calcio_o.jpg" group-title="Italiani",Sky Calcio 1 HD
 http://iptv.iptvthebest.net:15000/live/idfofaaz/e0Y408fqvJ/87.ts
-#EXTINF:-1 tvg-ID="SkyCalcio2.it" tvg-name="Sky Calcio 2 HD" tvg-logo="http://www.sat-address.com/f/pics/logotipi/Sky-Calcio-2_o.jpg" group-title="SKY Calcio",Sky Calcio 2 HD
+#EXTINF:-1 tvg-ID="SkyCalcio2.it" tvg-name="Sky Calcio 2 HD" tvg-logo="http://www.sat-address.com/f/pics/logotipi/Sky-Calcio-2_o.jpg" group-title="Italiani",Sky Calcio 2 HD
 http://iptv.iptvthebest.net:15000/live/idfofaaz/e0Y408fqvJ/88.ts
-#EXTINF:-1 tvg-ID="SkyCalcio3.it" tvg-name="Sky Calcio 3 HD" tvg-logo="http://www.sat-address.com/f/pics/logotipi/Sky-Calcio-3_o.jpg" group-title="SKY Calcio",Sky Calcio 3 HD
+#EXTINF:-1 tvg-ID="SkyCalcio3.it" tvg-name="Sky Calcio 3 HD" tvg-logo="http://www.sat-address.com/f/pics/logotipi/Sky-Calcio-3_o.jpg" group-title="Italiani",Sky Calcio 3 HD
 http://iptv.iptvthebest.net:15000/live/idfofaaz/e0Y408fqvJ/90.ts
-#EXTINF:-1 tvg-ID="SkyCalcio4.it" tvg-name="Sky Calcio 4 HD" tvg-logo="http://www.sat-address.com/f/pics/logotipi/Sky-Calcio-4_o.jpg" group-title="SKY Calcio",Sky Calcio 4 HD
+#EXTINF:-1 tvg-ID="SkyCalcio4.it" tvg-name="Sky Calcio 4 HD" tvg-logo="http://www.sat-address.com/f/pics/logotipi/Sky-Calcio-4_o.jpg" group-title="Italiani",Sky Calcio 4 HD
 http://iptv.iptvthebest.net:15000/live/idfofaaz/e0Y408fqvJ/92.ts
-#EXTINF:-1 tvg-ID="SkyCalcio5.it" tvg-name="Sky Calcio 5 HD" tvg-logo="http://www.sat-address.com/f/pics/logotipi/Sky-Calcio-5_o.jpg" group-title="SKY Calcio",Sky Calcio 5 HD
+#EXTINF:-1 tvg-ID="SkyCalcio5.it" tvg-name="Sky Calcio 5 HD" tvg-logo="http://www.sat-address.com/f/pics/logotipi/Sky-Calcio-5_o.jpg" group-title="Italiani",Sky Calcio 5 HD
 http://iptv.iptvthebest.net:15000/live/idfofaaz/e0Y408fqvJ/94.ts
-#EXTINF:-1 tvg-ID="SkyCalcio6.it" tvg-name="Sky Calcio 6 HD" tvg-logo="http://www.sat-address.com/f/pics/logotipi/Sky-Calcio-6_o.jpg" group-title="SKY Calcio",Sky Calcio 6 HD
+#EXTINF:-1 tvg-ID="SkyCalcio6.it" tvg-name="Sky Calcio 6 HD" tvg-logo="http://www.sat-address.com/f/pics/logotipi/Sky-Calcio-6_o.jpg" group-title="Italiani",Sky Calcio 6 HD
 http://iptv.iptvthebest.net:15000/live/idfofaaz/e0Y408fqvJ/95.ts
-#EXTINF:-1 tvg-ID="SkyCalcio7.it" tvg-name="SKY Calcio 7 HD" tvg-logo="http://www.sat-address.com/f/pics/logotipi/Sky-Calcio-7_o.jpg" group-title="SKY Calcio",SKY Calcio 7 HD
+#EXTINF:-1 tvg-ID="SkyCalcio7.it" tvg-name="SKY Calcio 7 HD" tvg-logo="http://www.sat-address.com/f/pics/logotipi/Sky-Calcio-7_o.jpg" group-title="Italiani",SKY Calcio 7 HD
 http://iptv.iptvthebest.net:15000/live/idfofaaz/e0Y408fqvJ/96.ts
-#EXTINF:-1 tvg-ID="SkyCalcio8.it" tvg-name="SKY Calcio 8 HD" tvg-logo="http://www.sat-address.com/f/pics/logotipi/Sky-Calcio-8_o.jpg" group-title="SKY Calcio",SKY Calcio 8 HD
+#EXTINF:-1 tvg-ID="SkyCalcio8.it" tvg-name="SKY Calcio 8 HD" tvg-logo="http://www.sat-address.com/f/pics/logotipi/Sky-Calcio-8_o.jpg" group-title="Italiani",SKY Calcio 8 HD
 http://iptv.iptvthebest.net:15000/live/idfofaaz/e0Y408fqvJ/97.ts
-#EXTINF:-1 tvg-ID="SkyCalcio9.it" tvg-name="SKY Calcio 9 HD" tvg-logo="http://www.sat-address.com/f/pics/logotipi/Sky-Calcio-9_o.jpg" group-title="SKY Calcio",SKY Calcio 9 HD
+#EXTINF:-1 tvg-ID="" tvg-name="Sky Calcio 9 HD" tvg-logo="" group-title="Italiani",Sky Calcio 9 HD
+http://iptv.iptvthebest.net:15000/live/idfofaaz/e0Y408fqvJ/21125.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Sky Calcio 10 HD" tvg-logo="" group-title="Italiani",Sky Calcio 10 HD
+http://iptv.iptvthebest.net:15000/live/idfofaaz/e0Y408fqvJ/21126.ts
+#EXTINF:-1 tvg-ID="SkyCalcio9.it" tvg-name="Lazio Tv" tvg-logo="" group-title="Italiani",Lazio Tv
 http://iptv.iptvthebest.net:15000/live/idfofaaz/e0Y408fqvJ/98.ts
-#EXTINF:-1 tvg-ID="JuventusChannel.it" tvg-name="Juventus TV" tvg-logo="http://www.lyngsat-logo.com/logo/tv/jj/juventus_tv_it.png" group-title="SKY Calcio",Juventus TV
+#EXTINF:-1 tvg-ID="JuventusChannel.it" tvg-name="Juventus TV" tvg-logo="http://www.lyngsat-logo.com/logo/tv/jj/juventus_tv_it.png" group-title="Italiani",Juventus TV
 http://iptv.iptvthebest.net:15000/live/idfofaaz/e0Y408fqvJ/8315.ts
-#EXTINF:-1 tvg-ID="RomaChannel.it" tvg-name="Roma Channel" tvg-logo="" group-title="SKY Calcio",Roma Channel
+#EXTINF:-1 tvg-ID="RomaChannel.it" tvg-name="Roma Channel" tvg-logo="" group-title="Italiani",Roma Channel
 http://iptv.iptvthebest.net:15000/live/idfofaaz/e0Y408fqvJ/8735.ts
-#EXTINF:-1 tvg-ID="MilanTV.it" tvg-name="Milan Channel" tvg-logo="" group-title="SKY Calcio",Milan Channel
+#EXTINF:-1 tvg-ID="MilanTV.it" tvg-name="Milan Channel" tvg-logo="" group-title="Italiani",Milan Channel
 http://iptv.iptvthebest.net:15000/live/idfofaaz/e0Y408fqvJ/8737.ts
-#EXTINF:-1 tvg-ID="InterChannel.it" tvg-name="Inter Channel" tvg-logo="" group-title="SKY Calcio",Inter Channel
+#EXTINF:-1 tvg-ID="InterChannel.it" tvg-name="Inter Channel" tvg-logo="" group-title="Italiani",Inter Channel
 http://iptv.iptvthebest.net:15000/live/idfofaaz/e0Y408fqvJ/8736.ts
-
-#EXTINF:-1 tvg-ID="" tvg-name="---- Canali UHD (Connessione minima 5mb/s) ----" tvg-logo="" group-title="Canali UHD",---- Canali UHD (Connessione minima 5mb/s) ----
-http://iptv.iptvthebest.net:15000/live/idfofaaz/e0Y408fqvJ/11707.ts
-#EXTINF:-1 tvg-ID="SKYCinema1.it" tvg-name="Sky Cinema 1 UHD" tvg-logo="http://www.sat-address.com/f/pics/logotipi/Sky-Cinema-1-Italia_o.jpg" group-title="Canali UHD",Sky Cinema 1 UHD
-http://iptv.iptvthebest.net:15000/live/idfofaaz/e0Y408fqvJ/11704.ts
-#EXTINF:-1 tvg-ID="SKYCinemaPlus1.it" tvg-name="Sky Cinema +1 UHD" tvg-logo="http://guidatv.sky.it/app/guidatv/images/epgimages/channels/home/722_home.png" group-title="Canali UHD",Sky Cinema +1 UHD
-http://iptv.iptvthebest.net:15000/live/idfofaaz/e0Y408fqvJ/11706.ts
-#EXTINF:-1 tvg-ID="SKYCinema+24.it" tvg-name="Sky Cinema  +24 UHD" tvg-logo="http://guidatv.sky.it/app/guidatv/images/epgimages/channels/home/452_home.png" group-title="Canali UHD",Sky Cinema  +24 UHD
-http://iptv.iptvthebest.net:15000/live/idfofaaz/e0Y408fqvJ/11705.ts
-#EXTINF:-1 tvg-ID="CinemaHits.it" tvg-name="Sky Cinema Hits UHD" tvg-logo="http://vignette1.wikia.nocookie.net/logopedia/images/4/4f/Sky_it_cinema_hits.jpg" group-title="Canali UHD",Sky Cinema Hits UHD
-http://iptv.iptvthebest.net:15000/live/idfofaaz/e0Y408fqvJ/11699.ts
-#EXTINF:-1 tvg-ID="CinemaMax.it" tvg-name="Sky Cinema Max UHD" tvg-logo="http://www.sat-address.com/f/pics/logotipi/Sky-Cinema-Max_o.jpg" group-title="Canali UHD",Sky Cinema Max UHD
-http://iptv.iptvthebest.net:15000/live/idfofaaz/e0Y408fqvJ/11697.ts
-#EXTINF:-1 tvg-ID="CinemaFamily.it" tvg-name="Sky Cinema Family UHD" tvg-logo="http://www.lyngsat-logo.com/logo/tv/ss/sky_it_cinema_family_hd.png" group-title="Canali UHD",Sky Cinema Family UHD
-http://iptv.iptvthebest.net:15000/live/idfofaaz/e0Y408fqvJ/11700.ts
-#EXTINF:-1 tvg-ID="CinemaComedyHD.it" tvg-name="Sky Cinema Comedy UHD" tvg-logo="http://www.sat-address.com/f/pics/logotipi/Sky-Cinema-Comedy-IT_o.jpg" group-title="Canali UHD",Sky Cinema Comedy UHD
-http://iptv.iptvthebest.net:15000/live/idfofaaz/e0Y408fqvJ/11703.ts
-#EXTINF:-1 tvg-ID="Cult.it" tvg-name="Sky Cinema Cult UHD" tvg-logo="http://www.sat-address.com/f/pics/logotipi/Sky-Cinema-Cult_o.jpg" group-title="Canali UHD",Sky Cinema Cult UHD
-http://iptv.iptvthebest.net:15000/live/idfofaaz/e0Y408fqvJ/11702.ts
-#EXTINF:-1 tvg-ID="CinemaPassionHD.it" tvg-name="Sky Cinema Passion UHD" tvg-logo="http://www.sat-address.com/f/pics/logotipi/Sky-Cinema-Passion_o.jpg" group-title="Canali UHD",Sky Cinema Passion UHD
-http://iptv.iptvthebest.net:15000/live/idfofaaz/e0Y408fqvJ/11695.ts
-#EXTINF:-1 tvg-ID="" tvg-name="Sky Supercalcio UHD" tvg-logo="" group-title="Canali UHD",Sky Supercalcio UHD
-http://iptv.iptvthebest.net:15000/live/idfofaaz/e0Y408fqvJ/11969.ts
-#EXTINF:-1 tvg-ID="" tvg-name="Sky Calcio 1 UHD" tvg-logo="" group-title="",Sky Calcio 1 UHD
-http://iptv.iptvthebest.net:15000/live/idfofaaz/e0Y408fqvJ/11970.ts
-
+#EXTINF:-1 tvg-ID="" tvg-name="Torino Channel" tvg-logo="" group-title="Italiani",Torino Channel
+http://iptv.iptvthebest.net:15000/live/idfofaaz/e0Y408fqvJ/23415.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Top Calcio 24" tvg-logo="" group-title="Italiani",Top Calcio 24
+http://iptv.iptvthebest.net:15000/live/idfofaaz/e0Y408fqvJ/23487.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Top Planet" tvg-logo="" group-title="Italiani",Top Planet
+http://iptv.iptvthebest.net:15000/live/idfofaaz/e0Y408fqvJ/23488.ts
+#EXTINF:-1 tvg-ID="" tvg-name="----- Lega Pro -----" tvg-logo="" group-title="Italiani",----- Lega Pro -----
+http://iptv.iptvthebest.net:15000/live/idfofaaz/e0Y408fqvJ/13804.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Lega Pro Catania" tvg-logo="" group-title="Italiani",Lega Pro Catania
+http://iptv.iptvthebest.net:15000/live/idfofaaz/e0Y408fqvJ/13805.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Lega Pro Cosenza" tvg-logo="" group-title="Italiani",Lega Pro Cosenza
+http://iptv.iptvthebest.net:15000/live/idfofaaz/e0Y408fqvJ/13806.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Lega Pro Fidelis Andria" tvg-logo="" group-title="Italiani",Lega Pro Fidelis Andria
+http://iptv.iptvthebest.net:15000/live/idfofaaz/e0Y408fqvJ/13807.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Lega Pro Foggia" tvg-logo="" group-title="Italiani",Lega Pro Foggia
+http://iptv.iptvthebest.net:15000/live/idfofaaz/e0Y408fqvJ/13808.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Lega Pro Juve Stabia" tvg-logo="" group-title="Italiani",Lega Pro Juve Stabia
+http://iptv.iptvthebest.net:15000/live/idfofaaz/e0Y408fqvJ/13809.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Lega Pro Lecce" tvg-logo="" group-title="Italiani",Lega Pro Lecce
+http://iptv.iptvthebest.net:15000/live/idfofaaz/e0Y408fqvJ/13810.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Lega Pro Livorno" tvg-logo="" group-title="Italiani",Lega Pro Livorno
+http://iptv.iptvthebest.net:15000/live/idfofaaz/e0Y408fqvJ/13811.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Lega Pro Messina" tvg-logo="" group-title="Italiani",Lega Pro Messina
+http://iptv.iptvthebest.net:15000/live/idfofaaz/e0Y408fqvJ/13812.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Lega Pro Parma" tvg-logo="" group-title="Italiani",Lega Pro Parma
+http://iptv.iptvthebest.net:15000/live/idfofaaz/e0Y408fqvJ/13813.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Lega Pro Taranto" tvg-logo="" group-title="Italiani",Lega Pro Taranto
+http://iptv.iptvthebest.net:15000/live/idfofaaz/e0Y408fqvJ/13814.ts
 #EXTINF:-1 tvg-ID="" tvg-name="---- Canali SD (Connessioni Lente)" tvg-logo="" group-title="",---- Canali SD (Connessioni Lente)
 http://iptv.iptvthebest.net:15000/live/idfofaaz/e0Y408fqvJ/11573.ts
 #EXTINF:-1 tvg-ID="Rai1.it" tvg-name="Rai 1 SD" tvg-logo="http://www.lyngsat-logo.com/hires/rr/rai_1_hd.png" group-title="",Rai 1 SD
 http://iptv.iptvthebest.net:15000/live/idfofaaz/e0Y408fqvJ/11691.ts
-#EXTINF:-1 tvg-ID="Rai2.it" tvg-name="Rai 2 SD" tvg-logo="http://www.lyngsat-logo.com/hires/rr/rai_2_hd.png" group-title="SKY SD",Rai 2 SD
+#EXTINF:-1 tvg-ID="Rai2.it" tvg-name="Rai 2 SD" tvg-logo="http://www.lyngsat-logo.com/hires/rr/rai_2_hd.png" group-title="Canali SD",Rai 2 SD
 http://iptv.iptvthebest.net:15000/live/idfofaaz/e0Y408fqvJ/11692.ts
 #EXTINF:-1 tvg-ID="Rai3.it" tvg-name="Rai 3 SD" tvg-logo="http://www.lyngsat-logo.com/hires/rr/rai_3_hd.png" group-title="",Rai 3 SD
 http://iptv.iptvthebest.net:15000/live/idfofaaz/e0Y408fqvJ/11693.ts
@@ -382,351 +331,306 @@ http://iptv.iptvthebest.net:15000/live/idfofaaz/e0Y408fqvJ/11575.ts
 http://iptv.iptvthebest.net:15000/live/idfofaaz/e0Y408fqvJ/11576.ts
 #EXTINF:-1 tvg-ID="La7d.it" tvg-name="La 7 SD" tvg-logo="http://www.sat-address.com/f/pics/logotipi/La-7_o.jpg" group-title="",La 7 SD
 http://iptv.iptvthebest.net:15000/live/idfofaaz/e0Y408fqvJ/11577.ts
-#EXTINF:-1 tvg-ID="ParamountChannel.it" tvg-name="Paramount Channel SD" tvg-logo="" group-title="Italiani",Paramount Channel SD
-http://iptv.iptvthebest.net:15000/live/idfofaaz/e0Y408fqvJ/10148.ts
-#EXTINF:-1 tvg-ID="Eurosport1.it" tvg-name="Eurosport 1 SD" tvg-logo="http://www.sat-address.com/f/pics/logotipi/Eurosport-Italia_o.jpg" group-title="Italiani",Eurosport 1 SD
-http://iptv.iptvthebest.net:15000/live/idfofaaz/e0Y408fqvJ/10146.ts
-#EXTINF:-1 tvg-ID="SKYCinema1.it" tvg-name="Cinema 1 SD" tvg-logo="http://www.sat-address.com/f/pics/logotipi/Sky-Cinema-1-Italia_o.jpg" group-title="SKY SD",Cinema 1 SD
+#EXTINF:-1 tvg-ID="SKYCinema1.it" tvg-name="Cinema 1 SD" tvg-logo="http://www.sat-address.com/f/pics/logotipi/Sky-Cinema-1-Italia_o.jpg" group-title="Canali SD",Cinema 1 SD
 http://iptv.iptvthebest.net:15000/live/idfofaaz/e0Y408fqvJ/11558.ts
-#EXTINF:-1 tvg-ID="SKYCinemaPlus1.it" tvg-name="Cinema +1 SD" tvg-logo="http://guidatv.sky.it/app/guidatv/images/epgimages/channels/home/722_home.png" group-title="SKY SD",Cinema +1 SD
+#EXTINF:-1 tvg-ID="SKYCinemaPlus1.it" tvg-name="Cinema +1 SD" tvg-logo="http://guidatv.sky.it/app/guidatv/images/epgimages/channels/home/722_home.png" group-title="Canali SD",Cinema +1 SD
 http://iptv.iptvthebest.net:15000/live/idfofaaz/e0Y408fqvJ/11559.ts
-#EXTINF:-1 tvg-ID="SKYCinema+24.it" tvg-name="Cinema  24 SD" tvg-logo="http://guidatv.sky.it/app/guidatv/images/epgimages/channels/home/452_home.png" group-title="SKY SD",Cinema  24 SD
+#EXTINF:-1 tvg-ID="SKYCinema+24.it" tvg-name="Cinema  +24 SD" tvg-logo="http://guidatv.sky.it/app/guidatv/images/epgimages/channels/home/452_home.png" group-title="Canali SD",Cinema  +24 SD
 http://iptv.iptvthebest.net:15000/live/idfofaaz/e0Y408fqvJ/11560.ts
-#EXTINF:-1 tvg-ID="CinemaMax.it" tvg-name="Cinema Max SD" tvg-logo="http://www.sat-address.com/f/pics/logotipi/Sky-Cinema-Max_o.jpg" group-title="SKY SD",Cinema Max SD
+#EXTINF:-1 tvg-ID="CinemaMax.it" tvg-name="Cinema Max SD" tvg-logo="http://www.sat-address.com/f/pics/logotipi/Sky-Cinema-Max_o.jpg" group-title="Canali SD",Cinema Max SD
 http://iptv.iptvthebest.net:15000/live/idfofaaz/e0Y408fqvJ/11565.ts
-#EXTINF:-1 tvg-ID="CinemaMaxPlus1.it" tvg-name="Cinema Max +1 SD" tvg-logo="http://www.sat-address.com/f/pics/logotipi/Sky-Cinema-Max-Plus1_o.jpg" group-title="SKY SD",Cinema Max +1 SD
+#EXTINF:-1 tvg-ID="CinemaMaxPlus1.it" tvg-name="Cinema Max +1 SD" tvg-logo="http://www.sat-address.com/f/pics/logotipi/Sky-Cinema-Max-Plus1_o.jpg" group-title="Canali SD",Cinema Max +1 SD
 http://iptv.iptvthebest.net:15000/live/idfofaaz/e0Y408fqvJ/11566.ts
-#EXTINF:-1 tvg-ID="CinemaHits.it" tvg-name="Cinema Hits SD" tvg-logo="http://vignette1.wikia.nocookie.net/logopedia/images/4/4f/Sky_it_cinema_hits.jpg" group-title="SKY SD",Cinema Hits SD
+#EXTINF:-1 tvg-ID="CinemaHits.it" tvg-name="Cinema Hits SD" tvg-logo="http://vignette1.wikia.nocookie.net/logopedia/images/4/4f/Sky_it_cinema_hits.jpg" group-title="Canali SD",Cinema Hits SD
 http://iptv.iptvthebest.net:15000/live/idfofaaz/e0Y408fqvJ/11561.ts
-#EXTINF:-1 tvg-ID="" tvg-name="Cinema Hits +1 SD" tvg-logo="" group-title="SKY SD",Cinema Hits +1 SD
+#EXTINF:-1 tvg-ID="" tvg-name="Cinema Hits +1 SD" tvg-logo="" group-title="Canali SD",Cinema Hits +1 SD
 http://iptv.iptvthebest.net:15000/live/idfofaaz/e0Y408fqvJ/11562.ts
-#EXTINF:-1 tvg-ID="CinemaFamily.it" tvg-name="Cinema Family SD" tvg-logo="http://www.lyngsat-logo.com/logo/tv/ss/sky_it_cinema_family_hd.png" group-title="SKY SD",Cinema Family SD
+#EXTINF:-1 tvg-ID="CinemaFamily.it" tvg-name="Cinema Family SD" tvg-logo="http://www.lyngsat-logo.com/logo/tv/ss/sky_it_cinema_family_hd.png" group-title="Canali SD",Cinema Family SD
 http://iptv.iptvthebest.net:15000/live/idfofaaz/e0Y408fqvJ/11563.ts
-#EXTINF:-1 tvg-ID="CinemaFamilyPlus1.it" tvg-name="Cinema Family +1 SD" tvg-logo="http://www.sat-address.com/f/pics/logotipi/Sky-Cinema-Family-Plus1_o.jpg" group-title="SKY SD",Cinema Family +1 SD
+#EXTINF:-1 tvg-ID="CinemaFamilyPlus1.it" tvg-name="Cinema Family +1 SD" tvg-logo="http://www.sat-address.com/f/pics/logotipi/Sky-Cinema-Family-Plus1_o.jpg" group-title="Canali SD",Cinema Family +1 SD
 http://iptv.iptvthebest.net:15000/live/idfofaaz/e0Y408fqvJ/11564.ts
-#EXTINF:-1 tvg-ID="CinemaPassionHD.it" tvg-name="Cinema Passion SD" tvg-logo="http://www.sat-address.com/f/pics/logotipi/Sky-Cinema-Passion_o.jpg" group-title="SKY SD",Cinema Passion SD
+#EXTINF:-1 tvg-ID="CinemaPassionHD.it" tvg-name="Cinema Passion SD" tvg-logo="http://www.sat-address.com/f/pics/logotipi/Sky-Cinema-Passion_o.jpg" group-title="Canali SD",Cinema Passion SD
 http://iptv.iptvthebest.net:15000/live/idfofaaz/e0Y408fqvJ/11567.ts
-#EXTINF:-1 tvg-ID="" tvg-name="Cinema Passion +1 SD" tvg-logo="" group-title="SKY SD",Cinema Passion +1 SD
+#EXTINF:-1 tvg-ID="" tvg-name="Cinema Passion +1 SD" tvg-logo="" group-title="Canali SD",Cinema Passion +1 SD
 http://iptv.iptvthebest.net:15000/live/idfofaaz/e0Y408fqvJ/11568.ts
-#EXTINF:-1 tvg-ID="Cult.it" tvg-name="Cinema Cult SD" tvg-logo="http://www.sat-address.com/f/pics/logotipi/Sky-Cinema-Cult_o.jpg" group-title="SKY SD",Cinema Cult SD
+#EXTINF:-1 tvg-ID="Cult.it" tvg-name="Cinema Cult SD" tvg-logo="http://www.sat-address.com/f/pics/logotipi/Sky-Cinema-Cult_o.jpg" group-title="Canali SD",Cinema Cult SD
 http://iptv.iptvthebest.net:15000/live/idfofaaz/e0Y408fqvJ/11569.ts
-#EXTINF:-1 tvg-ID="CinemaClassics.it" tvg-name="Cinema Classic SD" tvg-logo="http://www.sat-address.com/f/pics/logotipi/Sky-Cinema-Classics_o.jpg" group-title="SKY SD",Cinema Classic SD
+#EXTINF:-1 tvg-ID="CinemaClassics.it" tvg-name="Cinema Classic SD" tvg-logo="http://www.sat-address.com/f/pics/logotipi/Sky-Cinema-Classics_o.jpg" group-title="Canali SD",Cinema Classic SD
 http://iptv.iptvthebest.net:15000/live/idfofaaz/e0Y408fqvJ/11570.ts
-#EXTINF:-1 tvg-ID="CinemaComedyHD.it" tvg-name="Cinema Comedy SD" tvg-logo="http://www.sat-address.com/f/pics/logotipi/Sky-Cinema-Comedy-IT_o.jpg" group-title="SKY SD",Cinema Comedy SD
+#EXTINF:-1 tvg-ID="CinemaComedyHD.it" tvg-name="Cinema Comedy SD" tvg-logo="http://www.sat-address.com/f/pics/logotipi/Sky-Cinema-Comedy-IT_o.jpg" group-title="Canali SD",Cinema Comedy SD
 http://iptv.iptvthebest.net:15000/live/idfofaaz/e0Y408fqvJ/11571.ts
-#EXTINF:-1 tvg-ID="" tvg-name="Cinema Comedy +1 SD" tvg-logo="" group-title="SKY SD",Cinema Comedy +1 SD
+#EXTINF:-1 tvg-ID="" tvg-name="Cinema Comedy +1 SD" tvg-logo="" group-title="Canali SD",Cinema Comedy +1 SD
 http://iptv.iptvthebest.net:15000/live/idfofaaz/e0Y408fqvJ/11572.ts
-
-#EXTINF:-1 tvg-ID="" tvg-name="----- MEDIASET PREMIUM -----" tvg-logo="" group-title="Mediaset PREMIUM",----- MEDIASET PREMIUM -----
+#EXTINF:-1 tvg-ID="" tvg-name="----- MEDIASET PREMIUM -----" tvg-logo="" group-title="Italiani",----- MEDIASET PREMIUM -----
 http://iptv.iptvthebest.net:15000/live/idfofaaz/e0Y408fqvJ/162.ts
-#EXTINF:-1 tvg-ID="PremiumCinema.it" tvg-name="Premium Cinema HD" tvg-logo="http://www.sat-address.com/f/pics/logotipi/Mediaset-Premium-Cinema_o.jpg" group-title="Mediaset PREMIUM",Premium Cinema HD
+#EXTINF:-1 tvg-ID="PremiumCinema.it" tvg-name="Premium Cinema HD" tvg-logo="http://www.sat-address.com/f/pics/logotipi/Mediaset-Premium-Cinema_o.jpg" group-title="Italiani",Premium Cinema HD
 http://iptv.iptvthebest.net:15000/live/idfofaaz/e0Y408fqvJ/163.ts
 #EXTINF:-1 tvg-ID="" tvg-name="Premium Cinema 1 +1" tvg-logo="" group-title="Canali +1 e +2",Premium Cinema 1 +1
 http://iptv.iptvthebest.net:15000/live/idfofaaz/e0Y408fqvJ/13154.ts
-#EXTINF:-1 tvg-ID="PremiumCinemaPlus24.it" tvg-name="Premium Cinema +24" tvg-logo="http://www.sat-address.com/f/pics/logotipi/Mediaset-Premium-Cinema-Plus24_o.jpg" group-title="Mediaset PREMIUM",Premium Cinema +24
+#EXTINF:-1 tvg-ID="PremiumCinemaPlus24.it" tvg-name="Premium Cinema +24" tvg-logo="http://www.sat-address.com/f/pics/logotipi/Mediaset-Premium-Cinema-Plus24_o.jpg" group-title="Italiani",Premium Cinema +24
 http://iptv.iptvthebest.net:15000/live/idfofaaz/e0Y408fqvJ/164.ts
-#EXTINF:-1 tvg-ID="PremiumCinema2.it" tvg-name="Premium Cinema 2 HD" tvg-logo="http://www.sat-address.com/f/pics/logotipi/Mediaset-Premium-Cinema-2_o.jpg" group-title="Mediaset PREMIUM",Premium Cinema 2 HD
+#EXTINF:-1 tvg-ID="PremiumCinema2.it" tvg-name="Premium Cinema 2 HD" tvg-logo="http://www.sat-address.com/f/pics/logotipi/Mediaset-Premium-Cinema-2_o.jpg" group-title="Italiani",Premium Cinema 2 HD
 http://iptv.iptvthebest.net:15000/live/idfofaaz/e0Y408fqvJ/165.ts
 #EXTINF:-1 tvg-ID="" tvg-name="Premium Cinema 2 HD +1" tvg-logo="" group-title="Canali +1 e +2",Premium Cinema 2 HD +1
 http://iptv.iptvthebest.net:15000/live/idfofaaz/e0Y408fqvJ/13155.ts
-#EXTINF:-1 tvg-ID="PremiumCinema2Plus24.it" tvg-name="Premium Cinema 2 +24" tvg-logo="http://www.sat-address.com/f/pics/logotipi/Mediaset-Premium-Cinema-2-Plus24_o.jpg" group-title="Mediaset PREMIUM",Premium Cinema 2 +24
+#EXTINF:-1 tvg-ID="PremiumCinema2Plus24.it" tvg-name="Premium Cinema 2 +24" tvg-logo="http://www.sat-address.com/f/pics/logotipi/Mediaset-Premium-Cinema-2-Plus24_o.jpg" group-title="Italiani",Premium Cinema 2 +24
 http://iptv.iptvthebest.net:15000/live/idfofaaz/e0Y408fqvJ/166.ts
-#EXTINF:-1 tvg-ID="PremiumAction.it" tvg-name="Premium Action HD" tvg-logo="http://www.sat-address.com/f/pics/logotipi/Mediaset-Premium-Action_o.jpg" group-title="Mediaset PREMIUM",Premium Action HD
+#EXTINF:-1 tvg-ID="PremiumAction.it" tvg-name="Premium Action HD" tvg-logo="http://www.sat-address.com/f/pics/logotipi/Mediaset-Premium-Action_o.jpg" group-title="Italiani",Premium Action HD
 http://iptv.iptvthebest.net:15000/live/idfofaaz/e0Y408fqvJ/167.ts
 #EXTINF:-1 tvg-ID="" tvg-name="Premium Action +1" tvg-logo="" group-title="Canali +1 e +2",Premium Action +1
 http://iptv.iptvthebest.net:15000/live/idfofaaz/e0Y408fqvJ/13153.ts
-#EXTINF:-1 tvg-ID="PremiumActionPlus24.it" tvg-name="Premium Action +24" tvg-logo="http://www.sat-address.com/f/pics/logotipi/Mediaset-Premium-Action-Plus24_o.jpg" group-title="Mediaset PREMIUM",Premium Action +24
+#EXTINF:-1 tvg-ID="PremiumActionPlus24.it" tvg-name="Premium Action +24" tvg-logo="http://www.sat-address.com/f/pics/logotipi/Mediaset-Premium-Action-Plus24_o.jpg" group-title="Italiani",Premium Action +24
 http://iptv.iptvthebest.net:15000/live/idfofaaz/e0Y408fqvJ/168.ts
-#EXTINF:-1 tvg-ID="PremiumCrime.it" tvg-name="Premium Crime HD" tvg-logo="http://www.sat-address.com/f/pics/logotipi/Mediaset-Premium-Crime_o.jpg" group-title="Mediaset PREMIUM",Premium Crime HD
+#EXTINF:-1 tvg-ID="PremiumCrime.it" tvg-name="Premium Crime HD" tvg-logo="http://www.sat-address.com/f/pics/logotipi/Mediaset-Premium-Crime_o.jpg" group-title="Italiani",Premium Crime HD
 http://iptv.iptvthebest.net:15000/live/idfofaaz/e0Y408fqvJ/169.ts
 #EXTINF:-1 tvg-ID="" tvg-name="Premium Crime HD +1" tvg-logo="" group-title="Canali +1 e +2",Premium Crime HD +1
 http://iptv.iptvthebest.net:15000/live/idfofaaz/e0Y408fqvJ/13157.ts
-#EXTINF:-1 tvg-ID="PremiumCrimePlus24.it" tvg-name="Premium Crime +24" tvg-logo="http://www.sat-address.com/f/pics/logotipi/Mediaset-Premium-Crime-Plus24_o.jpg" group-title="Mediaset PREMIUM",Premium Crime +24
+#EXTINF:-1 tvg-ID="PremiumCrimePlus24.it" tvg-name="Premium Crime +24" tvg-logo="http://www.sat-address.com/f/pics/logotipi/Mediaset-Premium-Crime-Plus24_o.jpg" group-title="Italiani",Premium Crime +24
 http://iptv.iptvthebest.net:15000/live/idfofaaz/e0Y408fqvJ/170.ts
-#EXTINF:-1 tvg-ID="" tvg-name="Premium Stories" tvg-logo="http://www.sat-address.com/f/pics/logotipi/Mediaset-Premium-Stories_o.jpg" group-title="Mediaset PREMIUM",Premium Stories
+#EXTINF:-1 tvg-ID="" tvg-name="Premium Stories" tvg-logo="http://www.sat-address.com/f/pics/logotipi/Mediaset-Premium-Stories_o.jpg" group-title="Italiani",Premium Stories
 http://iptv.iptvthebest.net:15000/live/idfofaaz/e0Y408fqvJ/177.ts
 #EXTINF:-1 tvg-ID="" tvg-name="Premium Stories +1" tvg-logo="" group-title="Canali +1 e +2",Premium Stories +1
 http://iptv.iptvthebest.net:15000/live/idfofaaz/e0Y408fqvJ/13161.ts
-#EXTINF:-1 tvg-ID="StoriesPlus24.it" tvg-name="Premium Stories + 24" tvg-logo="http://www.sat-address.com/f/pics/logotipi/Mediaset-Premium-Stories_o.jpg" group-title="Mediaset PREMIUM",Premium Stories + 24
+#EXTINF:-1 tvg-ID="StoriesPlus24.it" tvg-name="Premium Stories + 24" tvg-logo="http://www.sat-address.com/f/pics/logotipi/Mediaset-Premium-Stories_o.jpg" group-title="Italiani",Premium Stories + 24
 http://iptv.iptvthebest.net:15000/live/idfofaaz/e0Y408fqvJ/3250.ts
 #EXTINF:-1 tvg-ID="Joi.it" tvg-name="Premium Joy" tvg-logo="http://www.lyngsat-logo.com/logo/tv/mm/mediaset_premium_joi.png" group-title="",Premium Joy
 http://iptv.iptvthebest.net:15000/live/idfofaaz/e0Y408fqvJ/175.ts
 #EXTINF:-1 tvg-ID="" tvg-name="Premium Joy +1" tvg-logo="" group-title="Canali +1 e +2",Premium Joy +1
 http://iptv.iptvthebest.net:15000/live/idfofaaz/e0Y408fqvJ/13160.ts
-#EXTINF:-1 tvg-ID="JoiPlus24.it" tvg-name="Premium Joy +24" tvg-logo="http://www.lyngsat-logo.com/logo/tv/mm/mediaset_joi.png" group-title="Mediaset PREMIUM",Premium Joy +24
+#EXTINF:-1 tvg-ID="JoiPlus24.it" tvg-name="Premium Joy +24" tvg-logo="http://www.lyngsat-logo.com/logo/tv/mm/mediaset_joi.png" group-title="Italiani",Premium Joy +24
 http://iptv.iptvthebest.net:15000/live/idfofaaz/e0Y408fqvJ/3249.ts
-#EXTINF:-1 tvg-ID="StudioUniversal.it" tvg-name="Studio Universal" tvg-logo="http://www.sat-address.com/f/pics/logotipi/Studio-Universal-Italy_o.jpg" group-title="Mediaset PREMIUM",Studio Universal
+#EXTINF:-1 tvg-ID="StudioUniversal.it" tvg-name="Studio Universal" tvg-logo="http://www.sat-address.com/f/pics/logotipi/Studio-Universal-Italy_o.jpg" group-title="Italiani",Studio Universal
 http://iptv.iptvthebest.net:15000/live/idfofaaz/e0Y408fqvJ/174.ts
-#EXTINF:-1 tvg-ID="TopCrime.it" tvg-name="Top Crime" tvg-logo="http://www.sat-address.com/f/pics/logotipi/Mediaset-Top-Crime_o.jpg" group-title="Mediaset PREMIUM",Top Crime
+#EXTINF:-1 tvg-ID="TopCrime.it" tvg-name="Top Crime" tvg-logo="http://www.sat-address.com/f/pics/logotipi/Mediaset-Top-Crime_o.jpg" group-title="Italiani",Top Crime
 http://iptv.iptvthebest.net:15000/live/idfofaaz/e0Y408fqvJ/176.ts
-#EXTINF:-1 tvg-ID="PremiumCinemaEnergy.it" tvg-name="Premium Energy" tvg-logo="http://www.sat-address.com/f/pics/logotipi/Mediaset-Premium-Cinema-Energy_o.jpg" group-title="Mediaset PREMIUM",Premium Energy
+#EXTINF:-1 tvg-ID="PremiumCinemaEnergy.it" tvg-name="Premium Energy" tvg-logo="http://www.sat-address.com/f/pics/logotipi/Mediaset-Premium-Cinema-Energy_o.jpg" group-title="Italiani",Premium Energy
 http://iptv.iptvthebest.net:15000/live/idfofaaz/e0Y408fqvJ/171.ts
 #EXTINF:-1 tvg-ID="" tvg-name="Premium Energy +1" tvg-logo="" group-title="Canali +1 e +2",Premium Energy +1
 http://iptv.iptvthebest.net:15000/live/idfofaaz/e0Y408fqvJ/13159.ts
-#EXTINF:-1 tvg-ID="PremiumCinemaEnergyPlus24.it" tvg-name="Premium Energy +24" tvg-logo="" group-title="Mediaset PREMIUM",Premium Energy +24
+#EXTINF:-1 tvg-ID="PremiumCinemaEnergyPlus24.it" tvg-name="Premium Energy +24" tvg-logo="" group-title="Italiani",Premium Energy +24
 http://iptv.iptvthebest.net:15000/live/idfofaaz/e0Y408fqvJ/10425.ts
-#EXTINF:-1 tvg-ID="PremiumCinemaEmotion.it" tvg-name="Premium Emotion" tvg-logo="http://www.sat-address.com/f/pics/logotipi/Mediaset-Premium-Cinema-Emotion_o.jpg" group-title="Mediaset PREMIUM",Premium Emotion
+#EXTINF:-1 tvg-ID="PremiumCinemaEmotion.it" tvg-name="Premium Emotion" tvg-logo="http://www.sat-address.com/f/pics/logotipi/Mediaset-Premium-Cinema-Emotion_o.jpg" group-title="Italiani",Premium Emotion
 http://iptv.iptvthebest.net:15000/live/idfofaaz/e0Y408fqvJ/172.ts
 #EXTINF:-1 tvg-ID="" tvg-name="Premium Emotion +1" tvg-logo="" group-title="Canali +1 e +2",Premium Emotion +1
 http://iptv.iptvthebest.net:15000/live/idfofaaz/e0Y408fqvJ/13158.ts
-#EXTINF:-1 tvg-ID="PremiumCinemaComedy.it" tvg-name="Premium Comedy" tvg-logo="http://www.sat-address.com/f/pics/logotipi/Mediaset-Premium-Cinema-Comedy_o.jpg" group-title="Mediaset PREMIUM",Premium Comedy
+#EXTINF:-1 tvg-ID="PremiumCinemaComedy.it" tvg-name="Premium Comedy" tvg-logo="http://www.sat-address.com/f/pics/logotipi/Mediaset-Premium-Cinema-Comedy_o.jpg" group-title="Italiani",Premium Comedy
 http://iptv.iptvthebest.net:15000/live/idfofaaz/e0Y408fqvJ/173.ts
 #EXTINF:-1 tvg-ID="" tvg-name="Premium Comedy +1" tvg-logo="" group-title="Canali +1 e +2",Premium Comedy +1
 http://iptv.iptvthebest.net:15000/live/idfofaaz/e0Y408fqvJ/13156.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Premium Sport 1 FHD" tvg-logo="" group-title="Italiani",Premium Sport 1 FHD
+http://iptv.iptvthebest.net:15000/live/idfofaaz/e0Y408fqvJ/15004.ts
 #EXTINF:-1 tvg-ID="PremiumSport.it" tvg-name="Premium Sport 1 HD" tvg-logo="http://www.sat-address.com/f/pics/logotipi/Mediaset-Premium-Sport_o.jpg" group-title="",Premium Sport 1 HD
 http://iptv.iptvthebest.net:15000/live/idfofaaz/e0Y408fqvJ/5161.ts
-#EXTINF:-1 tvg-ID="PremiumSport.it" tvg-name="Premium Sport 1" tvg-logo="" group-title="Mediaset PREMIUM",Premium Sport 1
+#EXTINF:-1 tvg-ID="PremiumSport.it" tvg-name="Premium Sport 1" tvg-logo="" group-title="Italiani",Premium Sport 1
 http://iptv.iptvthebest.net:15000/live/idfofaaz/e0Y408fqvJ/10081.ts
 #EXTINF:-1 tvg-ID="PremiumSport2.it" tvg-name="Premium Sport 2 HD" tvg-logo="http://www.sat-address.com/f/pics/logotipi/Mediaset-Premium-Sport_o.jpg" group-title="",Premium Sport 2 HD
 http://iptv.iptvthebest.net:15000/live/idfofaaz/e0Y408fqvJ/5162.ts
-#EXTINF:-1 tvg-ID="PremiumSport2.it" tvg-name="Premium Sport 2" tvg-logo="" group-title="Mediaset PREMIUM",Premium Sport 2
+#EXTINF:-1 tvg-ID="PremiumSport2.it" tvg-name="Premium Sport 2" tvg-logo="" group-title="Italiani",Premium Sport 2
 http://iptv.iptvthebest.net:15000/live/idfofaaz/e0Y408fqvJ/10082.ts
-#EXTINF:-1 tvg-ID="PremiumCalcio1.it" tvg-name="Premium Calcio 1 HD" tvg-logo="http://www.sat-address.com/f/pics/logotipi/Mediaset-Calcio-1_o.jpg" group-title="Mediaset PREMIUM",Premium Calcio 1 HD
+#EXTINF:-1 tvg-ID="" tvg-name="Premium Calcio Auriemma" tvg-logo="" group-title="Italiani",Premium Calcio Auriemma
+http://iptv.iptvthebest.net:15000/live/idfofaaz/e0Y408fqvJ/15003.ts
+#EXTINF:-1 tvg-ID="PremiumCalcio1.it" tvg-name="Premium Calcio 1 HD" tvg-logo="http://www.sat-address.com/f/pics/logotipi/Mediaset-Calcio-1_o.jpg" group-title="Italiani",Premium Calcio 1 HD
 http://iptv.iptvthebest.net:15000/live/idfofaaz/e0Y408fqvJ/180.ts
 #EXTINF:-1 tvg-ID="" tvg-name="Premium Calcio 1" tvg-logo="http://www.lyngsat-logo.com/logo/tv/mm/mediaset_premium_calcio.png" group-title="",Premium Calcio 1
 http://iptv.iptvthebest.net:15000/live/idfofaaz/e0Y408fqvJ/2694.ts
-#EXTINF:-1 tvg-ID="PremiumCalcio2.it" tvg-name="Premium Calcio 2" tvg-logo="http://www.sat-address.com/f/pics/logotipi/Mediaset-Calcio-2_o.jpg" group-title="Mediaset PREMIUM",Premium Calcio 2
+#EXTINF:-1 tvg-ID="PremiumCalcio2.it" tvg-name="Premium Calcio 2" tvg-logo="http://www.sat-address.com/f/pics/logotipi/Mediaset-Calcio-2_o.jpg" group-title="Italiani",Premium Calcio 2
 http://iptv.iptvthebest.net:15000/live/idfofaaz/e0Y408fqvJ/182.ts
-#EXTINF:-1 tvg-ID="PremiumCalcio3.it" tvg-name="Premium Calcio 3" tvg-logo="http://www.sat-address.com/f/pics/logotipi/Mediaset-Calcio-3_o.jpg" group-title="Mediaset PREMIUM",Premium Calcio 3
+#EXTINF:-1 tvg-ID="PremiumCalcio3.it" tvg-name="Premium Calcio 3" tvg-logo="http://www.sat-address.com/f/pics/logotipi/Mediaset-Calcio-3_o.jpg" group-title="Italiani",Premium Calcio 3
 http://iptv.iptvthebest.net:15000/live/idfofaaz/e0Y408fqvJ/183.ts
-#EXTINF:-1 tvg-ID="PremiumCalcio4.it" tvg-name="Premium Calcio 4" tvg-logo="http://www.sat-address.com/f/pics/logotipi/Mediaset-Calcio-4_o.jpg" group-title="Mediaset PREMIUM",Premium Calcio 4
+#EXTINF:-1 tvg-ID="PremiumCalcio4.it" tvg-name="Premium Calcio 4" tvg-logo="http://www.sat-address.com/f/pics/logotipi/Mediaset-Calcio-4_o.jpg" group-title="Italiani",Premium Calcio 4
 http://iptv.iptvthebest.net:15000/live/idfofaaz/e0Y408fqvJ/184.ts
-#EXTINF:-1 tvg-ID="PremiumCalcio5.it" tvg-name="Premium Calcio 5" tvg-logo="http://www.sat-address.com/f/pics/logotipi/Mediaset-Calcio-5_o.jpg" group-title="Mediaset PREMIUM",Premium Calcio 5
+#EXTINF:-1 tvg-ID="PremiumCalcio5.it" tvg-name="Premium Calcio 5" tvg-logo="http://www.sat-address.com/f/pics/logotipi/Mediaset-Calcio-5_o.jpg" group-title="Italiani",Premium Calcio 5
 http://iptv.iptvthebest.net:15000/live/idfofaaz/e0Y408fqvJ/185.ts
-#EXTINF:-1 tvg-ID="PremiumCalcio6.it" tvg-name="Premium Calcio 6" tvg-logo="http://www.sat-address.com/f/pics/logotipi/Mediaset-Calcio-6_o.jpg" group-title="Mediaset PREMIUM",Premium Calcio 6
+#EXTINF:-1 tvg-ID="PremiumCalcio6.it" tvg-name="Premium Calcio 6" tvg-logo="http://www.sat-address.com/f/pics/logotipi/Mediaset-Calcio-6_o.jpg" group-title="Italiani",Premium Calcio 6
 http://iptv.iptvthebest.net:15000/live/idfofaaz/e0Y408fqvJ/186.ts
-#EXTINF:-1 tvg-ID="PremiumCalcio7.it" tvg-name="Premium Calcio 7" tvg-logo="" group-title="Mediaset PREMIUM",Premium Calcio 7
+#EXTINF:-1 tvg-ID="PremiumCalcio7.it" tvg-name="Premium Calcio 7" tvg-logo="" group-title="Italiani",Premium Calcio 7
 http://iptv.iptvthebest.net:15000/live/idfofaaz/e0Y408fqvJ/8808.ts
-
-#EXTINF:-1 tvg-ID="" tvg-name="----- CULTURA -----" tvg-logo="" group-title="Cultura",----- CULTURA -----
+#EXTINF:-1 tvg-ID="" tvg-name="----- CULTURA -----" tvg-logo="" group-title="Italiani",----- CULTURA -----
 http://iptv.iptvthebest.net:15000/live/idfofaaz/e0Y408fqvJ/104.ts
-#EXTINF:-1 tvg-ID="NationalGeo.it" tvg-name="Nat Geo HD" tvg-logo="http://www.sat-address.com/f/pics/logotipi/NGC-HD-Italia_o.jpg" group-title="Cultura",Nat Geo HD
+#EXTINF:-1 tvg-ID="NationalGeo.it" tvg-name="Nat Geo HD" tvg-logo="http://www.sat-address.com/f/pics/logotipi/NGC-HD-Italia_o.jpg" group-title="Italiani",Nat Geo HD
 http://iptv.iptvthebest.net:15000/live/idfofaaz/e0Y408fqvJ/106.ts
-#EXTINF:-1 tvg-ID="" tvg-name="Nat Geo HD +1" tvg-logo="" group-title="Cultura",Nat Geo HD +1
+#EXTINF:-1 tvg-ID="" tvg-name="Nat Geo HD +1" tvg-logo="" group-title="Canali +1 e +2",Nat Geo HD +1
 http://iptv.iptvthebest.net:15000/live/idfofaaz/e0Y408fqvJ/13143.ts
-#EXTINF:-1 tvg-ID="NatGeoPeople.it" tvg-name="Nat Geo People HD" tvg-logo="http://www.sat-address.com/f/pics/logotipi/Nat-Geo-People-Italia_o.jpg" group-title="Cultura",Nat Geo People HD
+#EXTINF:-1 tvg-ID="NatGeoPeople.it" tvg-name="Nat Geo People HD" tvg-logo="http://www.sat-address.com/f/pics/logotipi/Nat-Geo-People-Italia_o.jpg" group-title="Italiani",Nat Geo People HD
 http://iptv.iptvthebest.net:15000/live/idfofaaz/e0Y408fqvJ/110.ts
-#EXTINF:-1 tvg-ID="" tvg-name="Nat Geo People HD +1" tvg-logo="" group-title="Cultura",Nat Geo People HD +1
+#EXTINF:-1 tvg-ID="" tvg-name="Nat Geo People HD +1" tvg-logo="" group-title="Canali +1 e +2",Nat Geo People HD +1
 http://iptv.iptvthebest.net:15000/live/idfofaaz/e0Y408fqvJ/13144.ts
-#EXTINF:-1 tvg-ID="NatGeoWild.it" tvg-name="Nat Geo Wild HD" tvg-logo="http://www.sat-address.com/f/pics/logotipi/NG-Wild-IT_o.jpg" group-title="Cultura",Nat Geo Wild HD
+#EXTINF:-1 tvg-ID="NatGeoWild.it" tvg-name="Nat Geo Wild HD" tvg-logo="http://www.sat-address.com/f/pics/logotipi/NG-Wild-IT_o.jpg" group-title="Italiani",Nat Geo Wild HD
 http://iptv.iptvthebest.net:15000/live/idfofaaz/e0Y408fqvJ/111.ts
-#EXTINF:-1 tvg-ID="" tvg-name="Nat Geo Wild HD +1" tvg-logo="" group-title="Cultura",Nat Geo Wild HD +1
+#EXTINF:-1 tvg-ID="" tvg-name="Nat Geo Wild HD +1" tvg-logo="" group-title="Canali +1 e +2",Nat Geo Wild HD +1
 http://iptv.iptvthebest.net:15000/live/idfofaaz/e0Y408fqvJ/13145.ts
-#EXTINF:-1 tvg-ID="" tvg-name="Sky Arte" tvg-logo="" group-title="Cultura",Sky Arte
+#EXTINF:-1 tvg-ID="" tvg-name="Sky Arte" tvg-logo="" group-title="Italiani",Sky Arte
 http://iptv.iptvthebest.net:15000/live/idfofaaz/e0Y408fqvJ/13357.ts
-#EXTINF:-1 tvg-ID="AnimalPlanet.it" tvg-name="Animal Planet" tvg-logo="http://www.sat-address.com/f/pics/logotipi/Animal-Planet-Italia_o.jpg" group-title="Cultura",Animal Planet
+#EXTINF:-1 tvg-ID="AnimalPlanet.it" tvg-name="Animal Planet" tvg-logo="http://www.sat-address.com/f/pics/logotipi/Animal-Planet-Italia_o.jpg" group-title="Italiani",Animal Planet
 http://iptv.iptvthebest.net:15000/live/idfofaaz/e0Y408fqvJ/118.ts
-#EXTINF:-1 tvg-ID="" tvg-name="Animal Planet +1" tvg-logo="" group-title="Cultura",Animal Planet +1
+#EXTINF:-1 tvg-ID="" tvg-name="Animal Planet +1" tvg-logo="" group-title="Canali +1 e +2",Animal Planet +1
 http://iptv.iptvthebest.net:15000/live/idfofaaz/e0Y408fqvJ/13135.ts
-#EXTINF:-1 tvg-ID="Discovery.it" tvg-name="Discovery HD" tvg-logo="http://www.sat-address.com/f/pics/logotipi/Discovery-Ch-Italia_o.jpg" group-title="Cultura",Discovery HD
+#EXTINF:-1 tvg-ID="Discovery.it" tvg-name="Discovery HD" tvg-logo="http://www.sat-address.com/f/pics/logotipi/Discovery-Ch-Italia_o.jpg" group-title="Italiani",Discovery HD
 http://iptv.iptvthebest.net:15000/live/idfofaaz/e0Y408fqvJ/109.ts
-#EXTINF:-1 tvg-ID="" tvg-name="Discovery +1" tvg-logo="" group-title="Cultura",Discovery +1
+#EXTINF:-1 tvg-ID="" tvg-name="Discovery +1" tvg-logo="" group-title="Canali +1 e +2",Discovery +1
 http://iptv.iptvthebest.net:15000/live/idfofaaz/e0Y408fqvJ/13141.ts
-#EXTINF:-1 tvg-ID="DiscoverySci.it" tvg-name="Discovery Sci HD" tvg-logo="http://www.sat-address.com/f/pics/logotipi/Discovery-Science-Italia_o.jpg" group-title="Cultura",Discovery Sci HD
+#EXTINF:-1 tvg-ID="DiscoverySci.it" tvg-name="Discovery Sci HD" tvg-logo="http://www.sat-address.com/f/pics/logotipi/Discovery-Science-Italia_o.jpg" group-title="Italiani",Discovery Sci HD
 http://iptv.iptvthebest.net:15000/live/idfofaaz/e0Y408fqvJ/108.ts
-#EXTINF:-1 tvg-ID="" tvg-name="Discovery Sci +1" tvg-logo="" group-title="Cultura",Discovery Sci +1
+#EXTINF:-1 tvg-ID="" tvg-name="Discovery Sci +1" tvg-logo="" group-title="Canali +1 e +2",Discovery Sci +1
 http://iptv.iptvthebest.net:15000/live/idfofaaz/e0Y408fqvJ/13140.ts
-#EXTINF:-1 tvg-ID="DiscoveryTravel.it" tvg-name="Discovery T&L HD" tvg-logo="http://www.sat-address.com/f/pics/logotipi/Discovery-Travel-Living-Italia_o.jpg" group-title="Cultura",Discovery T&L HD
+#EXTINF:-1 tvg-ID="DiscoveryTravel.it" tvg-name="Discovery T&L HD" tvg-logo="http://www.sat-address.com/f/pics/logotipi/Discovery-Travel-Living-Italia_o.jpg" group-title="Italiani",Discovery T&L HD
 http://iptv.iptvthebest.net:15000/live/idfofaaz/e0Y408fqvJ/1531.ts
-#EXTINF:-1 tvg-ID="" tvg-name="Discovery T&L +1" tvg-logo="" group-title="Cultura",Discovery T&L +1
+#EXTINF:-1 tvg-ID="" tvg-name="Discovery T&L +1" tvg-logo="" group-title="Canali +1 e +2",Discovery T&L +1
 http://iptv.iptvthebest.net:15000/live/idfofaaz/e0Y408fqvJ/13139.ts
-#EXTINF:-1 tvg-ID="CrimeInvestigation.it" tvg-name="CI Crime Investigation HD" tvg-logo="http://www.sat-address.com/f/pics/logotipi/Crime-Investigation-Network-Italia_o.jpg" group-title="Cultura",CI Crime Investigation HD
+#EXTINF:-1 tvg-ID="CrimeInvestigation.it" tvg-name="CI Crime Investigation HD" tvg-logo="http://www.sat-address.com/f/pics/logotipi/Crime-Investigation-Network-Italia_o.jpg" group-title="Italiani",CI Crime Investigation HD
 http://iptv.iptvthebest.net:15000/live/idfofaaz/e0Y408fqvJ/107.ts
-#EXTINF:-1 tvg-ID="" tvg-name="CI Crime Investigation +1" tvg-logo="" group-title="Cultura",CI Crime Investigation +1
+#EXTINF:-1 tvg-ID="" tvg-name="CI Crime Investigation +1" tvg-logo="" group-title="Canali +1 e +2",CI Crime Investigation +1
 http://iptv.iptvthebest.net:15000/live/idfofaaz/e0Y408fqvJ/13116.ts
 #EXTINF:-1 tvg-ID="" tvg-name="Investigation Discovery" tvg-logo="" group-title="",Investigation Discovery
 http://iptv.iptvthebest.net:15000/live/idfofaaz/e0Y408fqvJ/13165.ts
-#EXTINF:-1 tvg-ID="" tvg-name="Investigation Discovery +1" tvg-logo="" group-title="Cultura",Investigation Discovery +1
+#EXTINF:-1 tvg-ID="" tvg-name="Investigation Discovery +1" tvg-logo="" group-title="Canali +1 e +2",Investigation Discovery +1
 http://iptv.iptvthebest.net:15000/live/idfofaaz/e0Y408fqvJ/13163.ts
-#EXTINF:-1 tvg-ID="DMAX.it" tvg-name="DMAX" tvg-logo="http://www.sat-address.com/f/pics/logotipi/DMAX-IT_o.jpg" group-title="Cultura",DMAX
+#EXTINF:-1 tvg-ID="DMAX.it" tvg-name="DMAX" tvg-logo="http://www.sat-address.com/f/pics/logotipi/DMAX-IT_o.jpg" group-title="Italiani",DMAX
 http://iptv.iptvthebest.net:15000/live/idfofaaz/e0Y408fqvJ/115.ts
-#EXTINF:-1 tvg-ID="DMAXPlus1.it" tvg-name="Dmax +1" tvg-logo="http://www.thelogodb.com/images/media/logo/wutuyr1433791649.png/preview" group-title="Cultura",Dmax +1
-http://iptv.iptvthebest.net:15000/live/idfofaaz/e0Y408fqvJ/10142.ts
-#EXTINF:-1 tvg-ID="CacciaePesca.it" tvg-name="Caccia e Pesca" tvg-logo="http://www.sat-address.com/f/pics/logotipi/Caccia-Pesca_o.jpg" group-title="Cultura",Caccia e Pesca
+#EXTINF:-1 tvg-ID="CacciaePesca.it" tvg-name="Caccia e Pesca" tvg-logo="http://www.sat-address.com/f/pics/logotipi/Caccia-Pesca_o.jpg" group-title="Italiani",Caccia e Pesca
 http://iptv.iptvthebest.net:15000/live/idfofaaz/e0Y408fqvJ/450.ts
-#EXTINF:-1 tvg-ID="" tvg-name="Caccia Pesca +1" tvg-logo="" group-title="Cultura",Caccia Pesca +1
+#EXTINF:-1 tvg-ID="" tvg-name="Caccia Pesca +1" tvg-logo="" group-title="Canali +1 e +2",Caccia Pesca +1
 http://iptv.iptvthebest.net:15000/live/idfofaaz/e0Y408fqvJ/13132.ts
 #EXTINF:-1 tvg-ID="PescaeCaccia.it" tvg-name="Pesca e Caccia" tvg-logo="http://www.sat-address.com/f/pics/logotipi/Caccia-Pesca_o.jpg" group-title="",Pesca e Caccia
 http://iptv.iptvthebest.net:15000/live/idfofaaz/e0Y408fqvJ/243.ts
-#EXTINF:-1 tvg-ID="" tvg-name="Pesca Caccia +1" tvg-logo="" group-title="Cultura",Pesca Caccia +1
+#EXTINF:-1 tvg-ID="" tvg-name="Pesca Caccia +1" tvg-logo="" group-title="Canali +1 e +2",Pesca Caccia +1
 http://iptv.iptvthebest.net:15000/live/idfofaaz/e0Y408fqvJ/13133.ts
 #EXTINF:-1 tvg-ID="" tvg-name="Italia Fishing" tvg-logo="http://www.lyngsat-logo.com/logo/tv/ii/italian_fishing_tv.png" group-title="",Italia Fishing
 http://iptv.iptvthebest.net:15000/live/idfofaaz/e0Y408fqvJ/5160.ts
-#EXTINF:-1 tvg-ID="" tvg-name="Pescare&Cacciare TV" tvg-logo="" group-title="Cultura",Pescare&Cacciare TV
+#EXTINF:-1 tvg-ID="" tvg-name="Pescare&Cacciare TV" tvg-logo="" group-title="Italiani",Pescare&Cacciare TV
 http://iptv.iptvthebest.net:15000/live/idfofaaz/e0Y408fqvJ/13356.ts
-#EXTINF:-1 tvg-ID="Focus.it" tvg-name="Focus" tvg-logo="http://www.sat-address.com/f/pics/logotipi/Focus-IT_o.jpg" group-title="Cultura",Focus
+#EXTINF:-1 tvg-ID="Focus.it" tvg-name="Focus" tvg-logo="http://www.sat-address.com/f/pics/logotipi/Focus-IT_o.jpg" group-title="Italiani",Focus
 http://iptv.iptvthebest.net:15000/live/idfofaaz/e0Y408fqvJ/113.ts
-#EXTINF:-1 tvg-ID="" tvg-name="Focus +1" tvg-logo="" group-title="Cultura",Focus +1
+#EXTINF:-1 tvg-ID="" tvg-name="Focus +1" tvg-logo="" group-title="Canali +1 e +2",Focus +1
 http://iptv.iptvthebest.net:15000/live/idfofaaz/e0Y408fqvJ/13137.ts
-#EXTINF:-1 tvg-ID="History.it" tvg-name="History HD" tvg-logo="http://www.sat-address.com/f/pics/logotipi/History-Channel-Italia_o.jpg" group-title="Cultura",History HD
+#EXTINF:-1 tvg-ID="History.it" tvg-name="History HD" tvg-logo="http://www.sat-address.com/f/pics/logotipi/History-Channel-Italia_o.jpg" group-title="Italiani",History HD
 http://iptv.iptvthebest.net:15000/live/idfofaaz/e0Y408fqvJ/120.ts
-#EXTINF:-1 tvg-ID="" tvg-name="History Channel +1" tvg-logo="" group-title="Cultura",History Channel +1
+#EXTINF:-1 tvg-ID="" tvg-name="History Channel +1" tvg-logo="" group-title="Canali +1 e +2",History Channel +1
 http://iptv.iptvthebest.net:15000/live/idfofaaz/e0Y408fqvJ/13142.ts
-#EXTINF:-1 tvg-ID="eXplora.it" tvg-name="Explora HD" tvg-logo="http://www.sat-address.com/f/pics/logotipi/Dea-Explora_o.jpg" group-title="Cultura",Explora HD
-http://iptv.iptvthebest.net:15000/live/idfofaaz/e0Y408fqvJ/60.ts
 #EXTINF:-1 tvg-ID="GamberoRosso.it" tvg-name="Gambero Rosso HD" tvg-logo="http://www.sat-address.com/f/pics/logotipi/Gambero-Rosso_o.jpg" group-title="",Gambero Rosso HD
 http://iptv.iptvthebest.net:15000/live/idfofaaz/e0Y408fqvJ/116.ts
-#EXTINF:-1 tvg-ID="" tvg-name="Gambero Rosso +1" tvg-logo="" group-title="Cultura",Gambero Rosso +1
+#EXTINF:-1 tvg-ID="" tvg-name="Gambero Rosso +1" tvg-logo="" group-title="Canali +1 e +2",Gambero Rosso +1
 http://iptv.iptvthebest.net:15000/live/idfofaaz/e0Y408fqvJ/13146.ts
-#EXTINF:-1 tvg-ID="Alice.it" tvg-name="Alice" tvg-logo="http://www.sat-address.com/f/pics/logotipi/Alice_o.jpg" group-title="Cultura",Alice
+#EXTINF:-1 tvg-ID="" tvg-name="Food Network" tvg-logo="" group-title="Italiani",Food Network
+http://iptv.iptvthebest.net:15000/live/idfofaaz/e0Y408fqvJ/23489.ts
+#EXTINF:-1 tvg-ID="Alice.it" tvg-name="Alice" tvg-logo="http://www.sat-address.com/f/pics/logotipi/Alice_o.jpg" group-title="Italiani",Alice
 http://iptv.iptvthebest.net:15000/live/idfofaaz/e0Y408fqvJ/119.ts
-#EXTINF:-1 tvg-ID="Marcopolo.it" tvg-name="MarcoPolo" tvg-logo="http://www.sat-address.com/f/pics/logotipi/Marco-Polo_o.jpg" group-title="Cultura",MarcoPolo
+#EXTINF:-1 tvg-ID="Marcopolo.it" tvg-name="MarcoPolo" tvg-logo="http://www.sat-address.com/f/pics/logotipi/Marco-Polo_o.jpg" group-title="Italiani",MarcoPolo
 http://iptv.iptvthebest.net:15000/live/idfofaaz/e0Y408fqvJ/122.ts
-#EXTINF:-1 tvg-ID="FineLiving.it" tvg-name="Fine Living" tvg-logo="http://www.sat-address.com/f/pics/logotipi/Fine-Living-Italia_o.jpg" group-title="Cultura",Fine Living
+#EXTINF:-1 tvg-ID="FineLiving.it" tvg-name="Fine Living" tvg-logo="http://www.sat-address.com/f/pics/logotipi/Fine-Living-Italia_o.jpg" group-title="Italiani",Fine Living
 http://iptv.iptvthebest.net:15000/live/idfofaaz/e0Y408fqvJ/124.ts
-
-
-
-#EXTINF:-1 tvg-ID="" tvg-name="----- BAMBINI -----" tvg-logo="" group-title="Bambini",----- BAMBINI -----
+#EXTINF:-1 tvg-ID="" tvg-name="----- BAMBINI -----" tvg-logo="" group-title="Italiani",----- BAMBINI -----
 http://iptv.iptvthebest.net:15000/live/idfofaaz/e0Y408fqvJ/126.ts
-#EXTINF:-1 tvg-ID="CartoonNetwork.it" tvg-name="Cartoon Network" tvg-logo="http://www.sat-address.com/f/pics/logotipi/Cartoon-Network-Italy_o.jpg" group-title="Bambini",Cartoon Network
+#EXTINF:-1 tvg-ID="CartoonNetwork.it" tvg-name="Cartoon Network" tvg-logo="http://www.sat-address.com/f/pics/logotipi/Cartoon-Network-Italy_o.jpg" group-title="Italiani",Cartoon Network
 http://iptv.iptvthebest.net:15000/live/idfofaaz/e0Y408fqvJ/128.ts
-#EXTINF:-1 tvg-ID="DisneyChannel.it" tvg-name="Disney Channel HD" tvg-logo="http://www.sat-address.com/f/pics/logotipi/Disney-Channel-Italy_o.jpg" group-title="Bambini",Disney Channel HD
+#EXTINF:-1 tvg-ID="DisneyChannel.it" tvg-name="Disney Channel HD" tvg-logo="http://www.sat-address.com/f/pics/logotipi/Disney-Channel-Italy_o.jpg" group-title="Italiani",Disney Channel HD
 http://iptv.iptvthebest.net:15000/live/idfofaaz/e0Y408fqvJ/134.ts
-#EXTINF:-1 tvg-ID="" tvg-name="Disney HD +1" tvg-logo="" group-title="Bambini",Disney HD +1
+#EXTINF:-1 tvg-ID="" tvg-name="Disney HD +1" tvg-logo="" group-title="Canali +1 e +2",Disney HD +1
 http://iptv.iptvthebest.net:15000/live/idfofaaz/e0Y408fqvJ/13151.ts
-#EXTINF:-1 tvg-ID="" tvg-name="Disney HD +2" tvg-logo="" group-title="Bambini",Disney HD +2
+#EXTINF:-1 tvg-ID="" tvg-name="Disney HD +2" tvg-logo="" group-title="Canali +1 e +2",Disney HD +2
 http://iptv.iptvthebest.net:15000/live/idfofaaz/e0Y408fqvJ/13152.ts
-#EXTINF:-1 tvg-ID="" tvg-name="Sky Disney Junior" tvg-logo="" group-title="Bambini",Sky Disney Junior
+#EXTINF:-1 tvg-ID="" tvg-name="Sky Disney Junior" tvg-logo="" group-title="Italiani",Sky Disney Junior
 http://iptv.iptvthebest.net:15000/live/idfofaaz/e0Y408fqvJ/12448.ts
-#EXTINF:-1 tvg-ID="" tvg-name="Sky Disney Junior +1" tvg-logo="" group-title="Bambini",Sky Disney Junior +1
+#EXTINF:-1 tvg-ID="" tvg-name="Sky Disney Junior +1" tvg-logo="" group-title="Italiani",Sky Disney Junior +1
 http://iptv.iptvthebest.net:15000/live/idfofaaz/e0Y408fqvJ/12449.ts
-#EXTINF:-1 tvg-ID="DisneyXD.it" tvg-name="Disney XD" tvg-logo="http://www.sat-address.com/f/pics/logotipi/Disney-XD-Italy_o.jpg" group-title="Bambini",Disney XD
+#EXTINF:-1 tvg-ID="DisneyXD.it" tvg-name="Disney XD" tvg-logo="http://www.sat-address.com/f/pics/logotipi/Disney-XD-Italy_o.jpg" group-title="Italiani",Disney XD
 http://iptv.iptvthebest.net:15000/live/idfofaaz/e0Y408fqvJ/127.ts
-#EXTINF:-1 tvg-ID="Super!.it" tvg-name="Super" tvg-logo="http://www.sat-address.com/f/pics/logotipi/DeA-Super_o.jpg" group-title="Bambini",Super
+#EXTINF:-1 tvg-ID="Super!.it" tvg-name="Super" tvg-logo="http://www.sat-address.com/f/pics/logotipi/DeA-Super_o.jpg" group-title="Italiani",Super
 http://iptv.iptvthebest.net:15000/live/idfofaaz/e0Y408fqvJ/129.ts
-#EXTINF:-1 tvg-ID="" tvg-name="Super +1" tvg-logo="" group-title="Bambini",Super +1
+#EXTINF:-1 tvg-ID="" tvg-name="Super +1" tvg-logo="" group-title="Canali +1 e +2",Super +1
 http://iptv.iptvthebest.net:15000/live/idfofaaz/e0Y408fqvJ/13150.ts
 #EXTINF:-1 tvg-ID="K2.it" tvg-name="K2" tvg-logo="http://www.sat-address.com/f/pics/logotipi/K-2-IT_o.jpg" group-title="",K2
 http://iptv.iptvthebest.net:15000/live/idfofaaz/e0Y408fqvJ/276.ts
-#EXTINF:-1 tvg-ID="" tvg-name="K2 +1" tvg-logo="" group-title="Bambini",K2 +1
+#EXTINF:-1 tvg-ID="" tvg-name="K2 +1" tvg-logo="" group-title="Canali +1 e +2",K2 +1
 http://iptv.iptvthebest.net:15000/live/idfofaaz/e0Y408fqvJ/13149.ts
-#EXTINF:-1 tvg-ID="Frisbee.it" tvg-name="Frisbee" tvg-logo="http://www.sat-address.com/f/pics/logotipi/Frisbee-IT_o.jpg" group-title="Bambini",Frisbee
+#EXTINF:-1 tvg-ID="Frisbee.it" tvg-name="Frisbee" tvg-logo="http://www.sat-address.com/f/pics/logotipi/Frisbee-IT_o.jpg" group-title="Italiani",Frisbee
 http://iptv.iptvthebest.net:15000/live/idfofaaz/e0Y408fqvJ/61.ts
-#EXTINF:-1 tvg-ID="Cartoonito.it" tvg-name="Cartonito" tvg-logo="http://www.sat-address.com/f/pics/logotipi/Cartoonito-Italia_o.jpg" group-title="Bambini",Cartonito
+#EXTINF:-1 tvg-ID="Cartoonito.it" tvg-name="Cartonito" tvg-logo="http://www.sat-address.com/f/pics/logotipi/Cartoonito-Italia_o.jpg" group-title="Italiani",Cartonito
 http://iptv.iptvthebest.net:15000/live/idfofaaz/e0Y408fqvJ/130.ts
-#EXTINF:-1 tvg-ID="" tvg-name="Cartonito +1" tvg-logo="" group-title="Bambini",Cartonito +1
+#EXTINF:-1 tvg-ID="" tvg-name="Cartonito +1" tvg-logo="" group-title="Canali +1 e +2",Cartonito +1
 http://iptv.iptvthebest.net:15000/live/idfofaaz/e0Y408fqvJ/13148.ts
-#EXTINF:-1 tvg-ID="Boing.it" tvg-name="Boing" tvg-logo="http://www.sat-address.com/f/pics/logotipi/Boing-IT_o.jpg" group-title="Bambini",Boing
+#EXTINF:-1 tvg-ID="Boing.it" tvg-name="Boing" tvg-logo="http://www.sat-address.com/f/pics/logotipi/Boing-IT_o.jpg" group-title="Italiani",Boing
 http://iptv.iptvthebest.net:15000/live/idfofaaz/e0Y408fqvJ/131.ts
-#EXTINF:-1 tvg-ID="" tvg-name="Boing +1" tvg-logo="" group-title="Bambini",Boing +1
+#EXTINF:-1 tvg-ID="" tvg-name="Boing +1" tvg-logo="" group-title="Canali +1 e +2",Boing +1
 http://iptv.iptvthebest.net:15000/live/idfofaaz/e0Y408fqvJ/13147.ts
-#EXTINF:-1 tvg-ID="RAIGulp.it" tvg-name="Rai Gulp" tvg-logo="http://www.sat-address.com/f/pics/logotipi/RAI-Gulp_o.jpg" group-title="Bambini",Rai Gulp
+#EXTINF:-1 tvg-ID="RAIGulp.it" tvg-name="Rai Gulp" tvg-logo="http://www.sat-address.com/f/pics/logotipi/RAI-Gulp_o.jpg" group-title="Italiani",Rai Gulp
 http://iptv.iptvthebest.net:15000/live/idfofaaz/e0Y408fqvJ/132.ts
-#EXTINF:-1 tvg-ID="RAIYoyo.it" tvg-name="Rai Yoyo" tvg-logo="http://www.sat-address.com/f/pics/logotipi/RAI-Yoyo_o.jpg" group-title="Bambini",Rai Yoyo
+#EXTINF:-1 tvg-ID="RAIYoyo.it" tvg-name="Rai Yoyo" tvg-logo="http://www.sat-address.com/f/pics/logotipi/RAI-Yoyo_o.jpg" group-title="Italiani",Rai Yoyo
 http://iptv.iptvthebest.net:15000/live/idfofaaz/e0Y408fqvJ/133.ts
-#EXTINF:-1 tvg-ID="" tvg-name="Peppa Pig Channel" tvg-logo="" group-title="Bambini",Peppa Pig Channel
-http://iptv.iptvthebest.net:15000/live/idfofaaz/e0Y408fqvJ/11694.ts
-#EXTINF:-1 tvg-ID="" tvg-name="Holly e Benji Channell" tvg-logo="" group-title="Bambini",Holly e Benji Channell
-http://iptv.iptvthebest.net:15000/live/idfofaaz/e0Y408fqvJ/10399.ts
-#EXTINF:-1 tvg-ID="" tvg-name="Heidi Channell" tvg-logo="" group-title="Bambini",Heidi Channell
-http://iptv.iptvthebest.net:15000/live/idfofaaz/e0Y408fqvJ/10400.ts
-#EXTINF:-1 tvg-ID="" tvg-name="Belle e Sebastien Channell" tvg-logo="" group-title="Bambini",Belle e Sebastien Channell
-http://iptv.iptvthebest.net:15000/live/idfofaaz/e0Y408fqvJ/10395.ts
-
-
+#EXTINF:-1 tvg-ID="" tvg-name="----- NOTIZIE -----" tvg-logo="" group-title="Italiani",----- NOTIZIE -----
+http://iptv.iptvthebest.net:15000/live/idfofaaz/e0Y408fqvJ/138.ts
+#EXTINF:-1 tvg-ID="TG24.it" tvg-name="Sky Tg 24 HD" tvg-logo="http://www.sat-address.com/f/pics/logotipi/Sky-TG-24-Canale-50_o.jpg" group-title="Italiani",Sky Tg 24 HD
+http://iptv.iptvthebest.net:15000/live/idfofaaz/e0Y408fqvJ/139.ts
+#EXTINF:-1 tvg-ID="Tgcom24.it" tvg-name="Tg Com 24" tvg-logo="http://www.sat-address.com/f/pics/logotipi/TG-Mediaset_o.jpg" group-title="Italiani",Tg Com 24
+http://iptv.iptvthebest.net:15000/live/idfofaaz/e0Y408fqvJ/140.ts
+#EXTINF:-1 tvg-ID="RaiNews.it" tvg-name="Rai News 24" tvg-logo="http://www.sat-address.com/f/pics/logotipi/Rai-News-24_o.jpg" group-title="Italiani",Rai News 24
+http://iptv.iptvthebest.net:15000/live/idfofaaz/e0Y408fqvJ/141.ts
+#EXTINF:-1 tvg-ID="TG24Norba.it" tvg-name="TgNorba 24" tvg-logo="" group-title="Italiani",TgNorba 24
+http://iptv.iptvthebest.net:15000/live/idfofaaz/e0Y408fqvJ/10201.ts
+#EXTINF:-1 tvg-ID="" tvg-name="----- SKY PRIMAFILA -----" tvg-logo="" group-title="Italiani",----- SKY PRIMAFILA -----
+http://iptv.iptvthebest.net:15000/live/idfofaaz/e0Y408fqvJ/34.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Vetrina Primafila" tvg-logo="" group-title="PrimaFila Sky OnDemand",Vetrina Primafila
+http://iptv.iptvthebest.net:15000/movie/idfofaaz/e0Y408fqvJ/4063.mp4
+#EXTINF:-1 tvg-ID="" tvg-name="Primafila 1 HD" tvg-logo="" group-title="Italiani",Primafila 1 HD
+http://iptv.iptvthebest.net:15000/live/idfofaaz/e0Y408fqvJ/35.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Primafila 2 Hd" tvg-logo="" group-title="PrimaFila Sky OnDemand",Primafila 2 Hd
+http://iptv.iptvthebest.net:15000/movie/idfofaaz/e0Y408fqvJ/4054.mkv
+#EXTINF:-1 tvg-ID="" tvg-name="Trailer Primafila 1/2" tvg-logo="" group-title="PrimaFila Sky OnDemand",Trailer Primafila 1/2
+http://iptv.iptvthebest.net:15000/movie/idfofaaz/e0Y408fqvJ/12059.mp4
+#EXTINF:-1 tvg-ID="" tvg-name="Primafila 3 HD" tvg-logo="" group-title="Italiani",Primafila 3 HD
+http://iptv.iptvthebest.net:15000/live/idfofaaz/e0Y408fqvJ/37.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Primafila 4 Hd" tvg-logo="" group-title="PrimaFila Sky OnDemand",Primafila 4 Hd
+http://iptv.iptvthebest.net:15000/movie/idfofaaz/e0Y408fqvJ/4055.mkv
+#EXTINF:-1 tvg-ID="" tvg-name="Trailer Primafila 3/4" tvg-logo="" group-title="PrimaFila Sky OnDemand",Trailer Primafila 3/4
+http://iptv.iptvthebest.net:15000/movie/idfofaaz/e0Y408fqvJ/12060.mp4
+#EXTINF:-1 tvg-ID="" tvg-name="Primafila 5 HD" tvg-logo="" group-title="Italiani",Primafila 5 HD
+http://iptv.iptvthebest.net:15000/live/idfofaaz/e0Y408fqvJ/39.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Primafila 6 Hd" tvg-logo="" group-title="PrimaFila Sky OnDemand",Primafila 6 Hd
+http://iptv.iptvthebest.net:15000/movie/idfofaaz/e0Y408fqvJ/4056.mkv
+#EXTINF:-1 tvg-ID="" tvg-name="Trailer Primafila 5/6" tvg-logo="" group-title="PrimaFila Sky OnDemand",Trailer Primafila 5/6
+http://iptv.iptvthebest.net:15000/movie/idfofaaz/e0Y408fqvJ/12061.mp4
+#EXTINF:-1 tvg-ID="" tvg-name="Primafila 7 HD" tvg-logo="" group-title="Italiani",Primafila 7 HD
+http://iptv.iptvthebest.net:15000/live/idfofaaz/e0Y408fqvJ/41.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Primafila 8 Hd" tvg-logo="" group-title="PrimaFila Sky OnDemand",Primafila 8 Hd
+http://iptv.iptvthebest.net:15000/movie/idfofaaz/e0Y408fqvJ/4057.mkv
+#EXTINF:-1 tvg-ID="" tvg-name="Trailer Primafila 7/8" tvg-logo="" group-title="PrimaFila Sky OnDemand",Trailer Primafila 7/8
+http://iptv.iptvthebest.net:15000/movie/idfofaaz/e0Y408fqvJ/12062.mp4
+#EXTINF:-1 tvg-ID="" tvg-name="Primafila 9 HD" tvg-logo="" group-title="Italiani",Primafila 9 HD
+http://iptv.iptvthebest.net:15000/live/idfofaaz/e0Y408fqvJ/43.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Primafila 10 Hd" tvg-logo="" group-title="PrimaFila Sky OnDemand",Primafila 10 Hd
+http://iptv.iptvthebest.net:15000/movie/idfofaaz/e0Y408fqvJ/4058.mkv
+#EXTINF:-1 tvg-ID="" tvg-name="Trailer Primafila 9/10" tvg-logo="" group-title="PrimaFila Sky OnDemand",Trailer Primafila 9/10
+http://iptv.iptvthebest.net:15000/movie/idfofaaz/e0Y408fqvJ/12063.mp4
+#EXTINF:-1 tvg-ID="" tvg-name="Primafila 11 HD" tvg-logo="" group-title="Italiani",Primafila 11 HD
+http://iptv.iptvthebest.net:15000/live/idfofaaz/e0Y408fqvJ/521.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Primafila 12 Hd" tvg-logo="" group-title="PrimaFila Sky OnDemand",Primafila 12 Hd
+http://iptv.iptvthebest.net:15000/movie/idfofaaz/e0Y408fqvJ/4059.mkv
+#EXTINF:-1 tvg-ID="" tvg-name="Trailer Primafila 11/12" tvg-logo="" group-title="PrimaFila Sky OnDemand",Trailer Primafila 11/12
+http://iptv.iptvthebest.net:15000/movie/idfofaaz/e0Y408fqvJ/12064.mp4
+#EXTINF:-1 tvg-ID="" tvg-name="Primafila 13 HD" tvg-logo="" group-title="",Primafila 13 HD
+http://iptv.iptvthebest.net:15000/live/idfofaaz/e0Y408fqvJ/3226.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Primafila 14 Hd" tvg-logo="" group-title="PrimaFila Sky OnDemand",Primafila 14 Hd
+http://iptv.iptvthebest.net:15000/movie/idfofaaz/e0Y408fqvJ/4060.mkv
+#EXTINF:-1 tvg-ID="" tvg-name="Trailer Primafila 13/14" tvg-logo="" group-title="PrimaFila Sky OnDemand",Trailer Primafila 13/14
+http://iptv.iptvthebest.net:15000/movie/idfofaaz/e0Y408fqvJ/12065.mp4
+#EXTINF:-1 tvg-ID="" tvg-name="Primafila 15 HD" tvg-logo="" group-title="",Primafila 15 HD
+http://iptv.iptvthebest.net:15000/live/idfofaaz/e0Y408fqvJ/3227.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Primafila 16 Hd" tvg-logo="" group-title="PrimaFila Sky OnDemand",Primafila 16 Hd
+http://iptv.iptvthebest.net:15000/movie/idfofaaz/e0Y408fqvJ/4061.mkv
+#EXTINF:-1 tvg-ID="" tvg-name="Trailer Primafila 15/16" tvg-logo="" group-title="PrimaFila Sky OnDemand",Trailer Primafila 15/16
+http://iptv.iptvthebest.net:15000/movie/idfofaaz/e0Y408fqvJ/12066.mp4
+#EXTINF:-1 tvg-ID="" tvg-name="Primafila 17 HD" tvg-logo="" group-title="",Primafila 17 HD
+http://iptv.iptvthebest.net:15000/live/idfofaaz/e0Y408fqvJ/3228.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Primafila 18 Hd" tvg-logo="" group-title="PrimaFila Sky OnDemand",Primafila 18 Hd
+http://iptv.iptvthebest.net:15000/movie/idfofaaz/e0Y408fqvJ/4062.mkv
+#EXTINF:-1 tvg-ID="" tvg-name="Trailer Primafila 17/18" tvg-logo="" group-title="PrimaFila Sky OnDemand",Trailer Primafila 17/18
+http://iptv.iptvthebest.net:15000/movie/idfofaaz/e0Y408fqvJ/12067.mp4
 #EXTINF:-1 tvg-ID="" tvg-name="----- MUSICA -----" tvg-logo="" group-title="Italiani",----- MUSICA -----
 http://iptv.iptvthebest.net:15000/live/idfofaaz/e0Y408fqvJ/188.ts
-#EXTINF:-1 tvg-ID="" tvg-name="[MUSICA] MTV Brand New" tvg-logo="" group-title="Musica",[MUSICA] MTV Brand New
-http://iptv.iptvthebest.net:15000/live/idfofaaz/e0Y408fqvJ/11805.ts
-#EXTINF:-1 tvg-ID="" tvg-name="[MUSICA] MTV Live HD" tvg-logo="" group-title="Musica",[MUSICA] MTV Live HD
-http://iptv.iptvthebest.net:15000/live/idfofaaz/e0Y408fqvJ/11796.ts
-#EXTINF:-1 tvg-ID="" tvg-name="[MUSICA] MTV Rocks" tvg-logo="" group-title="Musica",[MUSICA] MTV Rocks
-http://iptv.iptvthebest.net:15000/live/idfofaaz/e0Y408fqvJ/11809.ts
-#EXTINF:-1 tvg-ID="" tvg-name="[MUSICA] Radio Capital TV" tvg-logo="" group-title="Musica",[MUSICA] Radio Capital TV
-http://iptv.iptvthebest.net:15000/live/idfofaaz/e0Y408fqvJ/11810.ts
-#EXTINF:-1 tvg-ID="" tvg-name="[MUSICA] RTL 102.5 TV" tvg-logo="" group-title="Musica",[MUSICA] RTL 102.5 TV
-http://iptv.iptvthebest.net:15000/live/idfofaaz/e0Y408fqvJ/11811.ts
-#EXTINF:-1 tvg-ID="" tvg-name="[MUSICA] VH 1" tvg-logo="" group-title="Musica",[MUSICA] VH 1
-http://iptv.iptvthebest.net:15000/live/idfofaaz/e0Y408fqvJ/11812.ts
 #EXTINF:-1 tvg-ID="" tvg-name="RADIO VIRGIN TV" tvg-logo="" group-title="Solo Scambi",RADIO VIRGIN TV
 http://iptv.iptvthebest.net:15000/live/idfofaaz/e0Y408fqvJ/10563.ts
 #EXTINF:-1 tvg-ID="" tvg-name="Radio Montecarlo TV" tvg-logo="" group-title="Solo Scambi",Radio Montecarlo TV
 http://iptv.iptvthebest.net:15000/live/idfofaaz/e0Y408fqvJ/10562.ts
-#EXTINF:-1 tvg-ID="" tvg-name="[RADIO] Radio 101" tvg-logo="" group-title="Musica",[RADIO] Radio 101
-http://iptv.iptvthebest.net:15000/live/idfofaaz/e0Y408fqvJ/11813.ts
-#EXTINF:-1 tvg-ID="" tvg-name="[RADIO] Radio Capital" tvg-logo="" group-title="Musica",[RADIO] Radio Capital
-http://iptv.iptvthebest.net:15000/live/idfofaaz/e0Y408fqvJ/11814.ts
-#EXTINF:-1 tvg-ID="" tvg-name="[RADIO] Radio Couleur 3" tvg-logo="" group-title="Musica",[RADIO] Radio Couleur 3
-http://iptv.iptvthebest.net:15000/live/idfofaaz/e0Y408fqvJ/11815.ts
-#EXTINF:-1 tvg-ID="" tvg-name="[RADIO] Radio DeeJay" tvg-logo="" group-title="Musica",[RADIO] Radio DeeJay
-http://iptv.iptvthebest.net:15000/live/idfofaaz/e0Y408fqvJ/11816.ts
-#EXTINF:-1 tvg-ID="" tvg-name="[RADIO] Radio Disco" tvg-logo="" group-title="Musica",[RADIO] Radio Disco
-http://iptv.iptvthebest.net:15000/live/idfofaaz/e0Y408fqvJ/11817.ts
-#EXTINF:-1 tvg-ID="" tvg-name="[RADIO] Radio Espace" tvg-logo="" group-title="Musica",[RADIO] Radio Espace
-http://iptv.iptvthebest.net:15000/live/idfofaaz/e0Y408fqvJ/11818.ts
-#EXTINF:-1 tvg-ID="" tvg-name="[RADIO] Radio Fiume Ticino" tvg-logo="" group-title="Musica",[RADIO] Radio Fiume Ticino
-http://iptv.iptvthebest.net:15000/live/idfofaaz/e0Y408fqvJ/11819.ts
-#EXTINF:-1 tvg-ID="" tvg-name="[RADIO] Radio Ibiza" tvg-logo="" group-title="Musica",[RADIO] Radio Ibiza
-http://iptv.iptvthebest.net:15000/live/idfofaaz/e0Y408fqvJ/11820.ts
-#EXTINF:-1 tvg-ID="" tvg-name="[RADIO] Radio Italia SMI" tvg-logo="" group-title="Musica",[RADIO] Radio Italia SMI
-http://iptv.iptvthebest.net:15000/live/idfofaaz/e0Y408fqvJ/11821.ts
-#EXTINF:-1 tvg-ID="" tvg-name="[RADIO] Radio Kiss Kiss" tvg-logo="" group-title="Musica",[RADIO] Radio Kiss Kiss
-http://iptv.iptvthebest.net:15000/live/idfofaaz/e0Y408fqvJ/11822.ts
-#EXTINF:-1 tvg-ID="" tvg-name="[RADIO] Radio M Due O" tvg-logo="" group-title="Musica",[RADIO] Radio M Due O
-http://iptv.iptvthebest.net:15000/live/idfofaaz/e0Y408fqvJ/11823.ts
-#EXTINF:-1 tvg-ID="" tvg-name="[RADIO] Radio Mater" tvg-logo="" group-title="Musica",[RADIO] Radio Mater
-http://iptv.iptvthebest.net:15000/live/idfofaaz/e0Y408fqvJ/11824.ts
-#EXTINF:-1 tvg-ID="" tvg-name="[RADIO] Radio MC2" tvg-logo="" group-title="Musica",[RADIO] Radio MC2
-http://iptv.iptvthebest.net:15000/live/idfofaaz/e0Y408fqvJ/11825.ts
-#EXTINF:-1 tvg-ID="" tvg-name="[RADIO] Radio Onda D'urto" tvg-logo="" group-title="Musica",[RADIO] Radio Onda D'urto
-http://iptv.iptvthebest.net:15000/live/idfofaaz/e0Y408fqvJ/11826.ts
-#EXTINF:-1 tvg-ID="" tvg-name="[RADIO] Radio Option Musik" tvg-logo="" group-title="Musica",[RADIO] Radio Option Musik
-http://iptv.iptvthebest.net:15000/live/idfofaaz/e0Y408fqvJ/11827.ts
-#EXTINF:-1 tvg-ID="" tvg-name="[RADIO] Radio Rete 1" tvg-logo="" group-title="Musica",[RADIO] Radio Rete 1
-http://iptv.iptvthebest.net:15000/live/idfofaaz/e0Y408fqvJ/11828.ts
-#EXTINF:-1 tvg-ID="" tvg-name="[RADIO] Radio Rete 2" tvg-logo="" group-title="Musica",[RADIO] Radio Rete 2
-http://iptv.iptvthebest.net:15000/live/idfofaaz/e0Y408fqvJ/11829.ts
-#EXTINF:-1 tvg-ID="" tvg-name="[RADIO] Radio Rete 3" tvg-logo="" group-title="Musica",[RADIO] Radio Rete 3
-http://iptv.iptvthebest.net:15000/live/idfofaaz/e0Y408fqvJ/11830.ts
-#EXTINF:-1 tvg-ID="" tvg-name="[RADIO] Radio RSF In Blu" tvg-logo="" group-title="Musica",[RADIO] Radio RSF In Blu
-http://iptv.iptvthebest.net:15000/live/idfofaaz/e0Y408fqvJ/11831.ts
-#EXTINF:-1 tvg-ID="" tvg-name="[RADIO] Radio RTL 102" tvg-logo="" group-title="Musica",[RADIO] Radio RTL 102
-http://iptv.iptvthebest.net:15000/live/idfofaaz/e0Y408fqvJ/11832.ts
-#EXTINF:-1 tvg-ID="" tvg-name="[RADIO] Radio RTS 1  Ere" tvg-logo="" group-title="Musica",[RADIO] Radio RTS 1  Ere
-http://iptv.iptvthebest.net:15000/live/idfofaaz/e0Y408fqvJ/11833.ts
-#EXTINF:-1 tvg-ID="" tvg-name="[RADIO] Radio Rumantsch" tvg-logo="" group-title="Musica",[RADIO] Radio Rumantsch
-http://iptv.iptvthebest.net:15000/live/idfofaaz/e0Y408fqvJ/11834.ts
-#EXTINF:-1 tvg-ID="" tvg-name="[RADIO] Radio SRF 1" tvg-logo="" group-title="Musica",[RADIO] Radio SRF 1
-http://iptv.iptvthebest.net:15000/live/idfofaaz/e0Y408fqvJ/11835.ts
-#EXTINF:-1 tvg-ID="" tvg-name="[RADIO] Radio SRF 1 AG SO" tvg-logo="" group-title="Musica",[RADIO] Radio SRF 1 AG SO
-http://iptv.iptvthebest.net:15000/live/idfofaaz/e0Y408fqvJ/11836.ts
-#EXTINF:-1 tvg-ID="" tvg-name="[RADIO] Radio SRF 1 Be Fr Vs" tvg-logo="" group-title="Musica",[RADIO] Radio SRF 1 Be Fr Vs
-http://iptv.iptvthebest.net:15000/live/idfofaaz/e0Y408fqvJ/11837.ts
-#EXTINF:-1 tvg-ID="" tvg-name="[RADIO] Radio SRF 1 Bs" tvg-logo="" group-title="Musica",[RADIO] Radio SRF 1 Bs
-http://iptv.iptvthebest.net:15000/live/idfofaaz/e0Y408fqvJ/11838.ts
-#EXTINF:-1 tvg-ID="" tvg-name="[RADIO] Radio SRF 1 Gr" tvg-logo="" group-title="Musica",[RADIO] Radio SRF 1 Gr
-http://iptv.iptvthebest.net:15000/live/idfofaaz/e0Y408fqvJ/11839.ts
-#EXTINF:-1 tvg-ID="" tvg-name="[RADIO] Radio SRF 1 Lu" tvg-logo="" group-title="Musica",[RADIO] Radio SRF 1 Lu
-http://iptv.iptvthebest.net:15000/live/idfofaaz/e0Y408fqvJ/11840.ts
-#EXTINF:-1 tvg-ID="" tvg-name="[RADIO] Radio SRF 1 Sg" tvg-logo="" group-title="Musica",[RADIO] Radio SRF 1 Sg
-http://iptv.iptvthebest.net:15000/live/idfofaaz/e0Y408fqvJ/11841.ts
-#EXTINF:-1 tvg-ID="" tvg-name="[RADIO] Radio SRF 1 Zh Sh" tvg-logo="" group-title="Musica",[RADIO] Radio SRF 1 Zh Sh
-http://iptv.iptvthebest.net:15000/live/idfofaaz/e0Y408fqvJ/11842.ts
-#EXTINF:-1 tvg-ID="" tvg-name="[RADIO] Radio SRF 2 Kultur" tvg-logo="" group-title="Musica",[RADIO] Radio SRF 2 Kultur
-http://iptv.iptvthebest.net:15000/live/idfofaaz/e0Y408fqvJ/11843.ts
-#EXTINF:-1 tvg-ID="" tvg-name="[RADIO] Radio SRF 3" tvg-logo="" group-title="Musica",[RADIO] Radio SRF 3
-http://iptv.iptvthebest.net:15000/live/idfofaaz/e0Y408fqvJ/11844.ts
-#EXTINF:-1 tvg-ID="" tvg-name="[RADIO] Radio SRF 4 News" tvg-logo="" group-title="Musica",[RADIO] Radio SRF 4 News
-http://iptv.iptvthebest.net:15000/live/idfofaaz/e0Y408fqvJ/11845.ts
-#EXTINF:-1 tvg-ID="" tvg-name="[RADIO] Radio SRF Musikwelle" tvg-logo="" group-title="Musica",[RADIO] Radio SRF Musikwelle
-http://iptv.iptvthebest.net:15000/live/idfofaaz/e0Y408fqvJ/11846.ts
-#EXTINF:-1 tvg-ID="" tvg-name="[RADIO] Radio Swiss Classic" tvg-logo="" group-title="Musica",[RADIO] Radio Swiss Classic
-http://iptv.iptvthebest.net:15000/live/idfofaaz/e0Y408fqvJ/11847.ts
-#EXTINF:-1 tvg-ID="" tvg-name="[RADIO] Radio Swiss Classica" tvg-logo="" group-title="Musica",[RADIO] Radio Swiss Classica
-http://iptv.iptvthebest.net:15000/live/idfofaaz/e0Y408fqvJ/11848.ts
-#EXTINF:-1 tvg-ID="" tvg-name="[RADIO] Radio Swiss Classique" tvg-logo="" group-title="Musica",[RADIO] Radio Swiss Classique
-http://iptv.iptvthebest.net:15000/live/idfofaaz/e0Y408fqvJ/11849.ts
-#EXTINF:-1 tvg-ID="" tvg-name="[RADIO] Radio Swiss Jazz" tvg-logo="" group-title="Musica",[RADIO] Radio Swiss Jazz
-http://iptv.iptvthebest.net:15000/live/idfofaaz/e0Y408fqvJ/11850.ts
-#EXTINF:-1 tvg-ID="" tvg-name="[RADIO] Radio Swiss Pop" tvg-logo="" group-title="Musica",[RADIO] Radio Swiss Pop
-http://iptv.iptvthebest.net:15000/live/idfofaaz/e0Y408fqvJ/11851.ts
-#EXTINF:-1 tvg-ID="" tvg-name="[RADIO] Radio Virgin" tvg-logo="" group-title="Musica",[RADIO] Radio Virgin
-http://iptv.iptvthebest.net:15000/live/idfofaaz/e0Y408fqvJ/11852.ts
-#EXTINF:-1 tvg-ID="" tvg-name="[RADIO] Radio Virus" tvg-logo="" group-title="Musica",[RADIO] Radio Virus
-http://iptv.iptvthebest.net:15000/live/idfofaaz/e0Y408fqvJ/11853.ts
-#EXTINF:-1 tvg-ID="" tvg-name="[RADIO] Radio Zeta Italiana" tvg-logo="" group-title="Musica",[RADIO] Radio Zeta Italiana
-http://iptv.iptvthebest.net:15000/live/idfofaaz/e0Y408fqvJ/11854.ts
 #EXTINF:-1 tvg-ID="" tvg-name="Radio 105" tvg-logo="" group-title="Italiani",Radio 105
 http://iptv.iptvthebest.net:15000/live/idfofaaz/e0Y408fqvJ/190.ts
 #EXTINF:-1 tvg-ID="" tvg-name="Radio Italia TV" tvg-logo="" group-title="Italiani",Radio Italia TV
@@ -735,4 +639,3 @@ http://iptv.iptvthebest.net:15000/live/idfofaaz/e0Y408fqvJ/191.ts
 http://iptv.iptvthebest.net:15000/live/idfofaaz/e0Y408fqvJ/2317.ts
 #EXTINF:-1 tvg-ID="DeejayTV.it" tvg-name="Deejay TV" tvg-logo="http://www.sat-address.com/f/pics/logotipi/DeeJay-TV_o.jpg" group-title="Italiani",Deejay TV
 http://iptv.iptvthebest.net:15000/live/idfofaaz/e0Y408fqvJ/2316.ts
-
