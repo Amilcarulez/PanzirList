@@ -1,7 +1,7 @@
 #EXTINF:-1 tvg-ID="" tvg-name="---- PRIMAVISIONE ----" tvg-logo="" group-title="",---- PRIMAVISIONE ----
 http://iptv.iptvthebest.net:15000/live/idfofaaz/e0Y408fqvJ/435.ts
 #EXTINF:-1 tvg-ID="" tvg-name="Vetrina Primavisione" tvg-logo="" group-title="PrimaVisione",Vetrina Primavisione
-http://iptv.iptvthebest.net:15000/movie/idfofaaz/e0Y408fqvJ/5104.mkv
+http://iptv.iptvthebest.net:15000/movie/idfofaaz/e0Y408fqvJ/5104.mp4
 #EXTINF:-1 tvg-ID="" tvg-name="Prima Visione 1" tvg-logo="http://iptvthebest.ddns.net:15000/images/not-found.jpg" group-title="PrimaVisione",Prima Visione 1
 http://iptv.iptvthebest.net:15000/movie/idfofaaz/e0Y408fqvJ/4319.mkv
 #EXTINF:-1 tvg-ID="" tvg-name="Prima Visione 2" tvg-logo="http://iptvthebest.ddns.net:15000/images/not-found.jpg" group-title="PrimaVisione",Prima Visione 2
@@ -14,75 +14,128 @@ http://iptv.iptvthebest.net:15000/movie/idfofaaz/e0Y408fqvJ/4322.mkv
 http://iptv.iptvthebest.net:15000/movie/idfofaaz/e0Y408fqvJ/4323.mkv
 #EXTINF:-1 tvg-ID="" tvg-name="Prima Visione 6" tvg-logo="http://iptvthebest.ddns.net:15000/images/not-found.jpg" group-title="PrimaVisione",Prima Visione 6
 http://iptv.iptvthebest.net:15000/movie/idfofaaz/e0Y408fqvJ/4324.mkv
-
 #EXTINF:-1 tvg-ID="" tvg-name="----- OnDemand Natalizi -----" tvg-logo="" group-title="",----- OnDemand Natalizi -----
 http://iptv.iptvthebest.net:15000/live/idfofaaz/e0Y408fqvJ/13329.ts
 #EXTINF:-1 tvg-ID="" tvg-name="Il Marchese Del Grillo" tvg-logo="http://cdn01.iptvthebest.net:15000/images/0082714.jpg" group-title="Natalizi",Il Marchese Del Grillo
 http://iptv.iptvthebest.net:15000/movie/idfofaaz/e0Y408fqvJ/13513.mp4
-#EXTINF:-1 tvg-ID="" tvg-name="12 alberi di Natale" tvg-logo="http://cdn01.iptvthebest.net:15000/images/3341268.jpg" group-title="Natalizi",12 alberi di Natale
+#EXTINF:-1 tvg-ID="" tvg-name="12 Alberi Di Natale" tvg-logo="http://cdn01.iptvthebest.net:15000/images/3341268.jpg" group-title="Natalizi",12 Alberi Di Natale
 http://iptv.iptvthebest.net:15000/movie/idfofaaz/e0Y408fqvJ/13549.mp4
-#EXTINF:-1 tvg-ID="" tvg-name="Il Natale di Spongebob" tvg-logo="http://cdn01.iptvthebest.net:15000/images/3341268.jpg" group-title="Natalizi",Il Natale di Spongebob
+#EXTINF:-1 tvg-ID="" tvg-name="Il Natale Di Spongebob" tvg-logo="http://cdn01.iptvthebest.net:15000/images/3341268.jpg" group-title="Natalizi",Il Natale Di Spongebob
 http://iptv.iptvthebest.net:15000/movie/idfofaaz/e0Y408fqvJ/13552.mp4
-#EXTINF:-1 tvg-ID="" tvg-name="L’Era Glaciale presenta: l’Era Natale" tvg-logo="http://cdn01.iptvthebest.net:15000/images/3341268.jpg" group-title="Natalizi",L’Era Glaciale presenta: l’Era Natale
+#EXTINF:-1 tvg-ID="" tvg-name="L’era Glaciale Presenta: L’era Natale" tvg-logo="http://cdn01.iptvthebest.net:15000/images/3341268.jpg" group-title="Natalizi",L’era Glaciale Presenta: L’era Natale
 http://iptv.iptvthebest.net:15000/movie/idfofaaz/e0Y408fqvJ/13553.mp4
-#EXTINF:-1 tvg-ID="" tvg-name="La fabbrica di cioccolato" tvg-logo="http://cdn01.iptvthebest.net:15000/images/0367594.jpg" group-title="Natalizi",La fabbrica di cioccolato
+#EXTINF:-1 tvg-ID="" tvg-name="La Fabbrica Di Cioccolato" tvg-logo="http://cdn01.iptvthebest.net:15000/images/0367594.jpg" group-title="Natalizi",La Fabbrica Di Cioccolato
 http://iptv.iptvthebest.net:15000/movie/idfofaaz/e0Y408fqvJ/13551.mp4
-#EXTINF:-1 tvg-ID="" tvg-name="Natale all’improvviso" tvg-logo="http://cdn01.iptvthebest.net:15000/images/0367594.jpg" group-title="Natalizi",Natale all’improvviso
+#EXTINF:-1 tvg-ID="" tvg-name="Natale All’improvviso" tvg-logo="http://cdn01.iptvthebest.net:15000/images/0367594.jpg" group-title="Natalizi",Natale All’improvviso
 http://iptv.iptvthebest.net:15000/movie/idfofaaz/e0Y408fqvJ/13547.mp4
-#EXTINF:-1 tvg-ID="" tvg-name="S.O.S. Natale" tvg-logo="http://cdn01.iptvthebest.net:15000/images/1935940.jpg" group-title="Natalizi",S.O.S. Natale
+#EXTINF:-1 tvg-ID="" tvg-name="S O S  Natale" tvg-logo="http://cdn01.iptvthebest.net:15000/images/1935940.jpg" group-title="Natalizi",S O S  Natale
 http://iptv.iptvthebest.net:15000/movie/idfofaaz/e0Y408fqvJ/13548.mp4
-#EXTINF:-1 tvg-ID="" tvg-name="Willy Wonka e la fabbrica di cioccolato" tvg-logo="http://cdn01.iptvthebest.net:15000/images/0067992.jpg" group-title="Natalizi",Willy Wonka e la fabbrica di cioccolato
+#EXTINF:-1 tvg-ID="" tvg-name="Willy Wonka E La Fabbrica Di Cioccolato" tvg-logo="http://cdn01.iptvthebest.net:15000/images/0067992.jpg" group-title="Natalizi",Willy Wonka E La Fabbrica Di Cioccolato
 http://iptv.iptvthebest.net:15000/movie/idfofaaz/e0Y408fqvJ/13550.mp4
-#EXTINF:-1 tvg-ID="" tvg-name="Babbo Natale non viene dal nord" tvg-logo="http://cdn01.iptvthebest.net:15000/images/5274528.jpg" group-title="Natalizi",Babbo Natale non viene dal nord
+#EXTINF:-1 tvg-ID="" tvg-name="Babbo Natale Non Viene Dal Nord" tvg-logo="http://cdn01.iptvthebest.net:15000/images/5274528.jpg" group-title="Natalizi",Babbo Natale Non Viene Dal Nord
 http://iptv.iptvthebest.net:15000/movie/idfofaaz/e0Y408fqvJ/13355.mkv
 #EXTINF:-1 tvg-ID="" tvg-name="Il Grinch" tvg-logo="http://cdn01.iptvthebest.net:15000/images/0170016.jpg" group-title="Natalizi",Il Grinch
 http://iptv.iptvthebest.net:15000/movie/idfofaaz/e0Y408fqvJ/13349.mkv
-#EXTINF:-1 tvg-ID="" tvg-name="Indovina chi viene a natale" tvg-logo="http://cdn01.iptvthebest.net:15000/images/3420060.jpg" group-title="Natalizi",Indovina chi viene a natale
+#EXTINF:-1 tvg-ID="" tvg-name="Indovina Chi Viene A Natale" tvg-logo="http://cdn01.iptvthebest.net:15000/images/3420060.jpg" group-title="Natalizi",Indovina Chi Viene A Natale
 http://iptv.iptvthebest.net:15000/movie/idfofaaz/e0Y408fqvJ/13348.mkv
-#EXTINF:-1 tvg-ID="" tvg-name="Mamma ho perso l'aereo" tvg-logo="http://cdn01.iptvthebest.net:15000/images/0099785.jpg" group-title="Natalizi",Mamma ho perso l'aereo
+#EXTINF:-1 tvg-ID="" tvg-name="Mamma Ho Perso L'aereo" tvg-logo="http://cdn01.iptvthebest.net:15000/images/0099785.jpg" group-title="Natalizi",Mamma Ho Perso L'aereo
 http://iptv.iptvthebest.net:15000/movie/idfofaaz/e0Y408fqvJ/13336.mkv
-#EXTINF:-1 tvg-ID="" tvg-name="Mamma ho riperso l'aereo mi sono smarrito a new york" tvg-logo="http://cdn01.iptvthebest.net:15000/images/0099785.jpg" group-title="Natalizi",Mamma ho riperso l'aereo mi sono smarrito a new york
+#EXTINF:-1 tvg-ID="" tvg-name="Mamma Ho Riperso L'aereo Mi Sono Smarrito A New York" tvg-logo="http://cdn01.iptvthebest.net:15000/images/0099785.jpg" group-title="Natalizi",Mamma Ho Riperso L'aereo Mi Sono Smarrito A New York
 http://iptv.iptvthebest.net:15000/movie/idfofaaz/e0Y408fqvJ/13345.mkv
-#EXTINF:-1 tvg-ID="" tvg-name="Miracolo sulla 34° strada" tvg-logo="http://cdn01.iptvthebest.net:15000/images/0099785.jpg" group-title="Natalizi",Miracolo sulla 34° strada
+#EXTINF:-1 tvg-ID="" tvg-name="Miracolo Sulla 34° Strada" tvg-logo="http://cdn01.iptvthebest.net:15000/images/0099785.jpg" group-title="Natalizi",Miracolo Sulla 34° Strada
 http://iptv.iptvthebest.net:15000/movie/idfofaaz/e0Y408fqvJ/13343.mkv
-#EXTINF:-1 tvg-ID="" tvg-name="Natale a 4 zampe" tvg-logo="http://cdn01.iptvthebest.net:15000/images/2654458.jpg" group-title="Natalizi",Natale a 4 zampe
+#EXTINF:-1 tvg-ID="" tvg-name="Natale A 4 Zampe" tvg-logo="http://cdn01.iptvthebest.net:15000/images/2654458.jpg" group-title="Natalizi",Natale A 4 Zampe
 http://iptv.iptvthebest.net:15000/movie/idfofaaz/e0Y408fqvJ/13333.mp4
-#EXTINF:-1 tvg-ID="" tvg-name="Natale a miami" tvg-logo="http://cdn01.iptvthebest.net:15000/images/2654458.jpg" group-title="Natalizi",Natale a miami
+#EXTINF:-1 tvg-ID="" tvg-name="Natale A Miami" tvg-logo="http://cdn01.iptvthebest.net:15000/images/2654458.jpg" group-title="Natalizi",Natale A Miami
 http://iptv.iptvthebest.net:15000/movie/idfofaaz/e0Y408fqvJ/13342.mkv
-#EXTINF:-1 tvg-ID="" tvg-name="Natale a newyork" tvg-logo="http://cdn01.iptvthebest.net:15000/images/0874306.jpg" group-title="Natalizi",Natale a newyork
+#EXTINF:-1 tvg-ID="" tvg-name="Natale A Newyork" tvg-logo="http://cdn01.iptvthebest.net:15000/images/0874306.jpg" group-title="Natalizi",Natale A Newyork
 http://iptv.iptvthebest.net:15000/movie/idfofaaz/e0Y408fqvJ/13340.mkv
-#EXTINF:-1 tvg-ID="" tvg-name="Natale col boss" tvg-logo="http://cdn01.iptvthebest.net:15000/images/5138124.jpg" group-title="Natalizi",Natale col boss
+#EXTINF:-1 tvg-ID="" tvg-name="Natale Col Boss" tvg-logo="http://cdn01.iptvthebest.net:15000/images/5138124.jpg" group-title="Natalizi",Natale Col Boss
 http://iptv.iptvthebest.net:15000/movie/idfofaaz/e0Y408fqvJ/13341.mkv
-#EXTINF:-1 tvg-ID="" tvg-name="Natale in crociera" tvg-logo="http://cdn01.iptvthebest.net:15000/images/1065329.jpg" group-title="Natalizi",Natale in crociera
+#EXTINF:-1 tvg-ID="" tvg-name="Natale In Crociera" tvg-logo="http://cdn01.iptvthebest.net:15000/images/1065329.jpg" group-title="Natalizi",Natale In Crociera
 http://iptv.iptvthebest.net:15000/movie/idfofaaz/e0Y408fqvJ/13334.mkv
-#EXTINF:-1 tvg-ID="" tvg-name="Natale in india" tvg-logo="http://cdn01.iptvthebest.net:15000/images/0392494.jpg" group-title="Natalizi",Natale in india
+#EXTINF:-1 tvg-ID="" tvg-name="Natale In India" tvg-logo="http://cdn01.iptvthebest.net:15000/images/0392494.jpg" group-title="Natalizi",Natale In India
 http://iptv.iptvthebest.net:15000/movie/idfofaaz/e0Y408fqvJ/13332.mkv
-#EXTINF:-1 tvg-ID="" tvg-name="Harold & Kumar - Due amici in fuga" tvg-logo="http://cdn01.iptvthebest.net:15000/images/1041753.jpg" group-title="Natalizi",Harold & Kumar - Due amici in fuga
+#EXTINF:-1 tvg-ID="" tvg-name="Harold & Kumar - Due Amici In Fuga" tvg-logo="http://cdn01.iptvthebest.net:15000/images/1041753.jpg" group-title="Natalizi",Harold & Kumar - Due Amici In Fuga
 http://iptv.iptvthebest.net:15000/movie/idfofaaz/e0Y408fqvJ/13522.mkv
-#EXTINF:-1 tvg-ID="" tvg-name="Il bianco natale di topolino" tvg-logo="http://cdn01.iptvthebest.net:15000/images/1041753.jpg" group-title="Natalizi",Il bianco natale di topolino
+#EXTINF:-1 tvg-ID="" tvg-name="Il Bianco Natale Di Topolino" tvg-logo="http://cdn01.iptvthebest.net:15000/images/1041753.jpg" group-title="Natalizi",Il Bianco Natale Di Topolino
 http://iptv.iptvthebest.net:15000/movie/idfofaaz/e0Y408fqvJ/13520.mkv
-#EXTINF:-1 tvg-ID="" tvg-name="Il segreto di babbo natale" tvg-logo="http://cdn01.iptvthebest.net:15000/images/1041753.jpg" group-title="Natalizi",Il segreto di babbo natale
+#EXTINF:-1 tvg-ID="" tvg-name="Il Segreto Di Babbo Natale" tvg-logo="http://cdn01.iptvthebest.net:15000/images/1041753.jpg" group-title="Natalizi",Il Segreto Di Babbo Natale
 http://iptv.iptvthebest.net:15000/movie/idfofaaz/e0Y408fqvJ/13518.mkv
-#EXTINF:-1 tvg-ID="" tvg-name="Natale a Cortina" tvg-logo="http://cdn01.iptvthebest.net:15000/images/2134193.jpg" group-title="Natalizi",Natale a Cortina
+#EXTINF:-1 tvg-ID="" tvg-name="Natale A Cortina" tvg-logo="http://cdn01.iptvthebest.net:15000/images/2134193.jpg" group-title="Natalizi",Natale A Cortina
 http://iptv.iptvthebest.net:15000/movie/idfofaaz/e0Y408fqvJ/13517.mkv
-#EXTINF:-1 tvg-ID="" tvg-name="Shelby il cane che salvò il natale" tvg-logo="http://cdn01.iptvthebest.net:15000/images/2134193.jpg" group-title="Natalizi",Shelby il cane che salvò il natale
+#EXTINF:-1 tvg-ID="" tvg-name="Shelby Il Cane Che Salvò Il Natale" tvg-logo="http://cdn01.iptvthebest.net:15000/images/2134193.jpg" group-title="Natalizi",Shelby Il Cane Che Salvò Il Natale
 http://iptv.iptvthebest.net:15000/movie/idfofaaz/e0Y408fqvJ/13519.mkv
-#EXTINF:-1 tvg-ID="" tvg-name="Un Natale fortunato" tvg-logo="http://cdn01.iptvthebest.net:15000/images/2134193.jpg" group-title="Natalizi",Un Natale fortunato
+#EXTINF:-1 tvg-ID="" tvg-name="Un Natale Fortunato" tvg-logo="http://cdn01.iptvthebest.net:15000/images/2134193.jpg" group-title="Natalizi",Un Natale Fortunato
 http://iptv.iptvthebest.net:15000/movie/idfofaaz/e0Y408fqvJ/13521.mkv
-#EXTINF:-1 tvg-ID="" tvg-name="Natale in sud africa" tvg-logo="http://cdn01.iptvthebest.net:15000/images/1738298.jpg" group-title="Natalizi",Natale in sud africa
+#EXTINF:-1 tvg-ID="" tvg-name="Natale In Sud Africa" tvg-logo="http://cdn01.iptvthebest.net:15000/images/1738298.jpg" group-title="Natalizi",Natale In Sud Africa
 http://iptv.iptvthebest.net:15000/movie/idfofaaz/e0Y408fqvJ/13335.mkv
-#EXTINF:-1 tvg-ID="" tvg-name="Natale sul nilo" tvg-logo="http://cdn01.iptvthebest.net:15000/images/0337689.jpg" group-title="Natalizi",Natale sul nilo
+#EXTINF:-1 tvg-ID="" tvg-name="Natale Sul Nilo" tvg-logo="http://cdn01.iptvthebest.net:15000/images/0337689.jpg" group-title="Natalizi",Natale Sul Nilo
 http://iptv.iptvthebest.net:15000/movie/idfofaaz/e0Y408fqvJ/13330.mkv
-#EXTINF:-1 tvg-ID="" tvg-name="Polar express" tvg-logo="http://cdn01.iptvthebest.net:15000/images/0338348.jpg" group-title="Natalizi",Polar express
+#EXTINF:-1 tvg-ID="" tvg-name="Polar Express" tvg-logo="http://cdn01.iptvthebest.net:15000/images/0338348.jpg" group-title="Natalizi",Polar Express
 http://iptv.iptvthebest.net:15000/movie/idfofaaz/e0Y408fqvJ/13339.mkv
-#EXTINF:-1 tvg-ID="" tvg-name="The family man" tvg-logo="http://cdn01.iptvthebest.net:15000/images/0218967.jpg" group-title="Natalizi",The family man
+#EXTINF:-1 tvg-ID="" tvg-name="The Family Man" tvg-logo="http://cdn01.iptvthebest.net:15000/images/0218967.jpg" group-title="Natalizi",The Family Man
 http://iptv.iptvthebest.net:15000/movie/idfofaaz/e0Y408fqvJ/13350.mkv
-#EXTINF:-1 tvg-ID="" tvg-name="Un natale coi fiocchi" tvg-logo="http://cdn01.iptvthebest.net:15000/images/not-found.jpg" group-title="Natalizi",Un natale coi fiocchi
+#EXTINF:-1 tvg-ID="" tvg-name="Un Natale Coi Fiocchi" tvg-logo="http://cdn01.iptvthebest.net:15000/images/not-found.jpg" group-title="Natalizi",Un Natale Coi Fiocchi
 http://iptv.iptvthebest.net:15000/movie/idfofaaz/e0Y408fqvJ/13331.mkv
-#EXTINF:-1 tvg-ID="" tvg-name="Una poltrona per due" tvg-logo="http://cdn01.iptvthebest.net:15000/images/0086465.jpg" group-title="Natalizi",Una poltrona per due
+#EXTINF:-1 tvg-ID="" tvg-name="Una Poltrona Per Due" tvg-logo="http://cdn01.iptvthebest.net:15000/images/0086465.jpg" group-title="Natalizi",Una Poltrona Per Due
 http://iptv.iptvthebest.net:15000/movie/idfofaaz/e0Y408fqvJ/13338.mkv
+#EXTINF:-1 tvg-ID="" tvg-name="Natale a Londra" tvg-logo="http://cdn01.iptvthebest.net:15000/images/6095722.jpg" group-title="Natalizi",Natale a Londra
+http://iptv.iptvthebest.net:15000/movie/idfofaaz/e0Y408fqvJ/19046.mkv
 #EXTINF:-1 tvg-ID="" tvg-name="---- Ondemand Bambini ----" tvg-logo="" group-title="Italiani",---- Ondemand Bambini ----
 http://iptv.iptvthebest.net:15000/live/idfofaaz/e0Y408fqvJ/3.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Il Re Leone" tvg-logo="" group-title="Ondemand Bambini",Il Re Leone
+http://iptv.iptvthebest.net:15000/movie/idfofaaz/e0Y408fqvJ/23471.mkv
+#EXTINF:-1 tvg-ID="" tvg-name="Il Re Leone 2" tvg-logo="" group-title="Ondemand Bambini",Il Re Leone 2
+http://iptv.iptvthebest.net:15000/movie/idfofaaz/e0Y408fqvJ/23472.mkv
+#EXTINF:-1 tvg-ID="" tvg-name="Il Re Leone 3" tvg-logo="http://cdn01.iptvthebest.net:15000/images/0318403.jpg" group-title="Ondemand Bambini",Il Re Leone 3
+http://iptv.iptvthebest.net:15000/movie/idfofaaz/e0Y408fqvJ/23473.mkv
+#EXTINF:-1 tvg-ID="" tvg-name="L'Incantesimo Del Lago" tvg-logo="http://cdn01.iptvthebest.net:15000/images/0111333.jpg" group-title="Ondemand Bambini",L'Incantesimo Del Lago
+http://iptv.iptvthebest.net:15000/movie/idfofaaz/e0Y408fqvJ/23482.mkv
+#EXTINF:-1 tvg-ID="" tvg-name="L'Incantesimo Del Lago 2" tvg-logo="http://cdn01.iptvthebest.net:15000/images/0120254.jpg" group-title="Ondemand Bambini",L'Incantesimo Del Lago 2
+http://iptv.iptvthebest.net:15000/movie/idfofaaz/e0Y408fqvJ/23483.mkv
+#EXTINF:-1 tvg-ID="" tvg-name="L'Incantesimo Del Lago 3" tvg-logo="http://cdn01.iptvthebest.net:15000/images/0120254.jpg" group-title="Ondemand Bambini",L'Incantesimo Del Lago 3
+http://iptv.iptvthebest.net:15000/movie/idfofaaz/e0Y408fqvJ/23484.mkv
+#EXTINF:-1 tvg-ID="" tvg-name="La Bella Addormentata nel Bosco" tvg-logo="http://cdn01.iptvthebest.net:15000/images/0053285.jpg" group-title="Ondemand Bambini",La Bella Addormentata nel Bosco
+http://iptv.iptvthebest.net:15000/movie/idfofaaz/e0Y408fqvJ/23492.mkv
+#EXTINF:-1 tvg-ID="" tvg-name="La Carica dei 101" tvg-logo="http://cdn01.iptvthebest.net:15000/images/0053285.jpg" group-title="Ondemand Bambini",La Carica dei 101
+http://iptv.iptvthebest.net:15000/movie/idfofaaz/e0Y408fqvJ/23474.mkv
+#EXTINF:-1 tvg-ID="" tvg-name="La Carica dei 101 2" tvg-logo="http://cdn01.iptvthebest.net:15000/images/0324941.jpg" group-title="Ondemand Bambini",La Carica dei 101 2
+http://iptv.iptvthebest.net:15000/movie/idfofaaz/e0Y408fqvJ/23475.mkv
+#EXTINF:-1 tvg-ID="" tvg-name="La Spada Magica" tvg-logo="http://cdn01.iptvthebest.net:15000/images/0056211.jpg" group-title="Ondemand Bambini",La Spada Magica
+http://iptv.iptvthebest.net:15000/movie/idfofaaz/e0Y408fqvJ/23493.mkv
+#EXTINF:-1 tvg-ID="" tvg-name="La Spada nella Roccia" tvg-logo="http://cdn01.iptvthebest.net:15000/images/0057546.jpg" group-title="Ondemand Bambini",La Spada nella Roccia
+http://iptv.iptvthebest.net:15000/movie/idfofaaz/e0Y408fqvJ/23494.mkv
+#EXTINF:-1 tvg-ID="" tvg-name="Mulan" tvg-logo="http://cdn01.iptvthebest.net:15000/images/0120762.jpg" group-title="Ondemand Bambini",Mulan
+http://iptv.iptvthebest.net:15000/movie/idfofaaz/e0Y408fqvJ/23485.mkv
+#EXTINF:-1 tvg-ID="" tvg-name="Mulan 2" tvg-logo="http://cdn01.iptvthebest.net:15000/images/0279967.jpg" group-title="Ondemand Bambini",Mulan 2
+http://iptv.iptvthebest.net:15000/movie/idfofaaz/e0Y408fqvJ/23486.mkv
+#EXTINF:-1 tvg-ID="" tvg-name="Sirenetta 2" tvg-logo="http://cdn01.iptvthebest.net:15000/images/not-found.jpg" group-title="Ondemand Bambini",Sirenetta 2
+http://iptv.iptvthebest.net:15000/movie/idfofaaz/e0Y408fqvJ/23490.mkv
+#EXTINF:-1 tvg-ID="" tvg-name="Sirenetta 3" tvg-logo="http://cdn01.iptvthebest.net:15000/images/not-found.jpg" group-title="Ondemand Bambini",Sirenetta 3
+http://iptv.iptvthebest.net:15000/movie/idfofaaz/e0Y408fqvJ/23491.mkv
+#EXTINF:-1 tvg-ID="" tvg-name="La Bella e La Bestia Cartone Disney" tvg-logo="http://cdn01.iptvthebest.net:15000/images/2771200.jpg" group-title="Ondemand Bambini",La Bella e La Bestia Cartone Disney
+http://iptv.iptvthebest.net:15000/movie/idfofaaz/e0Y408fqvJ/23185.mkv
+#EXTINF:-1 tvg-ID="" tvg-name="Pinocchio" tvg-logo="http://cdn01.iptvthebest.net:15000/images/0032910.jpg" group-title="Ondemand Bambini",Pinocchio
+http://iptv.iptvthebest.net:15000/movie/idfofaaz/e0Y408fqvJ/23183.mkv
+#EXTINF:-1 tvg-ID="" tvg-name="Robin Hood" tvg-logo="http://cdn01.iptvthebest.net:15000/images/not-found.jpg" group-title="Ondemand Bambini",Robin Hood
+http://iptv.iptvthebest.net:15000/movie/idfofaaz/e0Y408fqvJ/23184.mkv
+#EXTINF:-1 tvg-ID="" tvg-name="Sirenetta" tvg-logo="http://cdn01.iptvthebest.net:15000/images/not-found.jpg" group-title="Ondemand Bambini",Sirenetta
+http://iptv.iptvthebest.net:15000/movie/idfofaaz/e0Y408fqvJ/23186.mkv
+#EXTINF:-1 tvg-ID="" tvg-name="Il GGG Il Grande Gigante Gentile" tvg-logo="http://cdn01.iptvthebest.net:15000/images/3691740.jpg" group-title="Ondemand Bambini",Il GGG Il Grande Gigante Gentile
+http://iptv.iptvthebest.net:15000/movie/idfofaaz/e0Y408fqvJ/19057.mkv
+#EXTINF:-1 tvg-ID="" tvg-name="Il Viaggio Di Arlo" tvg-logo="http://cdn01.iptvthebest.net:15000/images/1979388.jpg" group-title="Ondemand Bambini",Il Viaggio Di Arlo
+http://iptv.iptvthebest.net:15000/movie/idfofaaz/e0Y408fqvJ/19054.mkv
+#EXTINF:-1 tvg-ID="" tvg-name="Oceania" tvg-logo="http://cdn01.iptvthebest.net:15000/images/3521164.jpg" group-title="Ondemand Bambini",Oceania
+http://iptv.iptvthebest.net:15000/movie/idfofaaz/e0Y408fqvJ/18076.mkv
+#EXTINF:-1 tvg-ID="" tvg-name="Sing" tvg-logo="http://cdn01.iptvthebest.net:15000/images/3470600.jpg" group-title="Ondemand Bambini",Sing
+http://iptv.iptvthebest.net:15000/movie/idfofaaz/e0Y408fqvJ/18078.mkv
+#EXTINF:-1 tvg-ID="" tvg-name="Alla Ricerca Di Dory" tvg-logo="http://cdn01.iptvthebest.net:15000/images/3470600.jpg" group-title="Ondemand Bambini",Alla Ricerca Di Dory
+http://iptv.iptvthebest.net:15000/movie/idfofaaz/e0Y408fqvJ/14851.mkv
+#EXTINF:-1 tvg-ID="" tvg-name="Kung Fu Panda 3" tvg-logo="http://iptvthebest.ddns.net:15000/images/2267968.jpg" group-title="OnDemand Misti",Kung Fu Panda 3
+http://iptv.iptvthebest.net:15000/movie/idfofaaz/e0Y408fqvJ/4065.mkv
+#EXTINF:-1 tvg-ID="" tvg-name="Zootropolis" tvg-logo="http://cdn01.iptvthebest.net:15000/images/2948356.jpg" group-title="Ondemand Bambini",Zootropolis
+http://iptv.iptvthebest.net:15000/movie/idfofaaz/e0Y408fqvJ/14852.mkv
 #EXTINF:-1 tvg-ID="" tvg-name="Aladdin" tvg-logo="http://46.21.29.4:15000/images/0103639.jpg" group-title="Ondemand Bambini",Aladdin
 http://iptv.iptvthebest.net:15000/movie/idfofaaz/e0Y408fqvJ/3463.mkv
 #EXTINF:-1 tvg-ID="" tvg-name="Aladdin E Il Ritorno Di Jafar" tvg-logo="http://46.21.29.4:15000/images/0103639.jpg" group-title="Ondemand Bambini",Aladdin E Il Ritorno Di Jafar
@@ -101,7 +154,7 @@ http://iptv.iptvthebest.net:15000/movie/idfofaaz/e0Y408fqvJ/3466.mkv
 http://iptv.iptvthebest.net:15000/movie/idfofaaz/e0Y408fqvJ/3468.mkv
 #EXTINF:-1 tvg-ID="" tvg-name="Animals United" tvg-logo="http://46.21.29.4:15000/images/1620449.jpg" group-title="Ondemand Bambini",Animals United
 http://iptv.iptvthebest.net:15000/movie/idfofaaz/e0Y408fqvJ/3469.mkv
-#EXTINF:-1 tvg-ID="" tvg-name="Asterix e i Vichinghi" tvg-logo="http://46.21.29.4:15000/images/0371552.jpg" group-title="Ondemand Bambini",Asterix e i Vichinghi
+#EXTINF:-1 tvg-ID="" tvg-name="Asterix E I Vichinghi" tvg-logo="http://46.21.29.4:15000/images/0371552.jpg" group-title="Ondemand Bambini",Asterix E I Vichinghi
 http://iptv.iptvthebest.net:15000/movie/idfofaaz/e0Y408fqvJ/3471.mkv
 #EXTINF:-1 tvg-ID="" tvg-name="Asterix E Il Regno Degli Dei" tvg-logo="http://46.21.29.4:15000/images/3759416.jpg" group-title="Ondemand Bambini",Asterix E Il Regno Degli Dei
 http://iptv.iptvthebest.net:15000/movie/idfofaaz/e0Y408fqvJ/3470.mkv
@@ -113,15 +166,15 @@ http://iptv.iptvthebest.net:15000/movie/idfofaaz/e0Y408fqvJ/3473.mkv
 http://iptv.iptvthebest.net:15000/movie/idfofaaz/e0Y408fqvJ/3474.mkv
 #EXTINF:-1 tvg-ID="" tvg-name="Bambi" tvg-logo="http://46.21.29.4:15000/images/0034492.jpg" group-title="Ondemand Bambini",Bambi
 http://iptv.iptvthebest.net:15000/movie/idfofaaz/e0Y408fqvJ/3476.mkv
-#EXTINF:-1 tvg-ID="" tvg-name="Bambi 2 Bambi.E.Il.Grande.Principe.Della.Foresta" tvg-logo="http://46.21.29.4:15000/images/0034492.jpg" group-title="Ondemand Bambini",Bambi 2 Bambi.E.Il.Grande.Principe.Della.Foresta
+#EXTINF:-1 tvg-ID="" tvg-name="Bambi 2 Bambi E Il Grande Principe Della Foresta" tvg-logo="http://46.21.29.4:15000/images/0034492.jpg" group-title="Ondemand Bambini",Bambi 2 Bambi E Il Grande Principe Della Foresta
 http://iptv.iptvthebest.net:15000/movie/idfofaaz/e0Y408fqvJ/3475.mkv
-#EXTINF:-1 tvg-ID="" tvg-name="Barbie e il Cavallo Leggendario" tvg-logo="http://46.21.29.4:15000/images/0034492.jpg" group-title="Ondemand Bambini",Barbie e il Cavallo Leggendario
+#EXTINF:-1 tvg-ID="" tvg-name="Barbie E Il Cavallo Leggendario" tvg-logo="http://46.21.29.4:15000/images/0034492.jpg" group-title="Ondemand Bambini",Barbie E Il Cavallo Leggendario
 http://iptv.iptvthebest.net:15000/movie/idfofaaz/e0Y408fqvJ/3481.mkv
-#EXTINF:-1 tvg-ID="" tvg-name="Barbie e il Regno Segreto" tvg-logo="http://46.21.29.4:15000/images/3921852.jpg" group-title="Ondemand Bambini",Barbie e il Regno Segreto
+#EXTINF:-1 tvg-ID="" tvg-name="Barbie E Il Regno Segreto" tvg-logo="http://46.21.29.4:15000/images/3921852.jpg" group-title="Ondemand Bambini",Barbie E Il Regno Segreto
 http://iptv.iptvthebest.net:15000/movie/idfofaaz/e0Y408fqvJ/3482.mkv
 #EXTINF:-1 tvg-ID="" tvg-name="Barbie E Il Tesoro Dei Cuccioli" tvg-logo="http://46.21.29.4:15000/images/5042426.jpg" group-title="Ondemand Bambini",Barbie E Il Tesoro Dei Cuccioli
 http://iptv.iptvthebest.net:15000/movie/idfofaaz/e0Y408fqvJ/3477.mkv
-#EXTINF:-1 tvg-ID="" tvg-name="Barbie Mariposa E La Principessa Delle Fate.2013" tvg-logo="http://46.21.29.4:15000/images/2946582.jpg" group-title="Ondemand Bambini",Barbie Mariposa E La Principessa Delle Fate.2013
+#EXTINF:-1 tvg-ID="" tvg-name="Barbie Mariposa E La Principessa Delle Fate 2013" tvg-logo="http://46.21.29.4:15000/images/2946582.jpg" group-title="Ondemand Bambini",Barbie Mariposa E La Principessa Delle Fate 2013
 http://iptv.iptvthebest.net:15000/movie/idfofaaz/e0Y408fqvJ/3478.mkv
 #EXTINF:-1 tvg-ID="" tvg-name="Barbie Principessa Rock" tvg-logo="http://46.21.29.4:15000/images/2946582.jpg" group-title="Ondemand Bambini",Barbie Principessa Rock
 http://iptv.iptvthebest.net:15000/movie/idfofaaz/e0Y408fqvJ/3479.mkv
@@ -129,27 +182,27 @@ http://iptv.iptvthebest.net:15000/movie/idfofaaz/e0Y408fqvJ/3479.mkv
 http://iptv.iptvthebest.net:15000/movie/idfofaaz/e0Y408fqvJ/3480.mkv
 #EXTINF:-1 tvg-ID="" tvg-name="Bee Movie" tvg-logo="http://46.21.29.4:15000/images/0389790.jpg" group-title="Ondemand Bambini",Bee Movie
 http://iptv.iptvthebest.net:15000/movie/idfofaaz/e0Y408fqvJ/3483.mkv
-#EXTINF:-1 tvg-ID="" tvg-name="Bianca.E.Bernie.Nella.Terra.Dei.Canguri" tvg-logo="http://46.21.29.4:15000/images/0389790.jpg" group-title="Ondemand Bambini",Bianca.E.Bernie.Nella.Terra.Dei.Canguri
+#EXTINF:-1 tvg-ID="" tvg-name="Bianca E Bernie Nella Terra Dei Canguri" tvg-logo="http://46.21.29.4:15000/images/0389790.jpg" group-title="Ondemand Bambini",Bianca E Bernie Nella Terra Dei Canguri
 http://iptv.iptvthebest.net:15000/movie/idfofaaz/e0Y408fqvJ/3484.mkv
-#EXTINF:-1 tvg-ID="" tvg-name="Bolt Un Eroe a Quattro Zampe" tvg-logo="http://46.21.29.4:15000/images/0397892.jpg" group-title="Ondemand Bambini",Bolt Un Eroe a Quattro Zampe
+#EXTINF:-1 tvg-ID="" tvg-name="Bolt Un Eroe A Quattro Zampe" tvg-logo="http://46.21.29.4:15000/images/0397892.jpg" group-title="Ondemand Bambini",Bolt Un Eroe A Quattro Zampe
 http://iptv.iptvthebest.net:15000/movie/idfofaaz/e0Y408fqvJ/3485.mkv
 #EXTINF:-1 tvg-ID="" tvg-name="Boog & Elliot" tvg-logo="http://46.21.29.4:15000/images/3647998.jpg" group-title="Ondemand Bambini",Boog & Elliot
 http://iptv.iptvthebest.net:15000/movie/idfofaaz/e0Y408fqvJ/3487.mkv
 #EXTINF:-1 tvg-ID="" tvg-name="Boog & Elliot 2" tvg-logo="http://46.21.29.4:15000/images/3647998.jpg" group-title="Ondemand Bambini",Boog & Elliot 2
 http://iptv.iptvthebest.net:15000/movie/idfofaaz/e0Y408fqvJ/3486.mkv
-#EXTINF:-1 tvg-ID="" tvg-name="Canto di Natale di Topolino" tvg-logo="http://46.21.29.4:15000/images/0085936.jpg" group-title="Ondemand Bambini",Canto di Natale di Topolino
+#EXTINF:-1 tvg-ID="" tvg-name="Canto Di Natale Di Topolino" tvg-logo="http://46.21.29.4:15000/images/0085936.jpg" group-title="Ondemand Bambini",Canto Di Natale Di Topolino
 http://iptv.iptvthebest.net:15000/movie/idfofaaz/e0Y408fqvJ/3488.mkv
 #EXTINF:-1 tvg-ID="" tvg-name="Cenerentola" tvg-logo="http://46.21.29.4:15000/images/1661199.jpg" group-title="Ondemand Bambini",Cenerentola
 http://iptv.iptvthebest.net:15000/movie/idfofaaz/e0Y408fqvJ/3491.mkv
-#EXTINF:-1 tvg-ID="" tvg-name="Cenerentola 2 - Quando i Sogni Diventano Realtà" tvg-logo="http://46.21.29.4:15000/images/1661199.jpg" group-title="Ondemand Bambini",Cenerentola 2 - Quando i Sogni Diventano Realtà
+#EXTINF:-1 tvg-ID="" tvg-name="Cenerentola 2 - Quando I Sogni Diventano Realtà" tvg-logo="http://46.21.29.4:15000/images/1661199.jpg" group-title="Ondemand Bambini",Cenerentola 2 - Quando I Sogni Diventano Realtà
 http://iptv.iptvthebest.net:15000/movie/idfofaaz/e0Y408fqvJ/3489.mkv
 #EXTINF:-1 tvg-ID="" tvg-name="Cenerentola 3 - Il Giocolstino" tvg-logo="http://46.21.29.4:15000/images/1661199.jpg" group-title="Ondemand Bambini",Cenerentola 3 - Il Giocolstino
 http://iptv.iptvthebest.net:15000/movie/idfofaaz/e0Y408fqvJ/3490.mkv
-#EXTINF:-1 tvg-ID="" tvg-name="Chicken Little Amici per le penne" tvg-logo="http://46.21.29.4:15000/images/0371606.jpg" group-title="Ondemand Bambini",Chicken Little Amici per le penne
+#EXTINF:-1 tvg-ID="" tvg-name="Chicken Little Amici Per Le Penne" tvg-logo="http://46.21.29.4:15000/images/0371606.jpg" group-title="Ondemand Bambini",Chicken Little Amici Per Le Penne
 http://iptv.iptvthebest.net:15000/movie/idfofaaz/e0Y408fqvJ/3492.mkv
-#EXTINF:-1 tvg-ID="" tvg-name="Come d'incanto" tvg-logo="http://46.21.29.4:15000/images/0461770.jpg" group-title="Ondemand Bambini",Come d'incanto
+#EXTINF:-1 tvg-ID="" tvg-name="Come D'incanto" tvg-logo="http://46.21.29.4:15000/images/0461770.jpg" group-title="Ondemand Bambini",Come D'incanto
 http://iptv.iptvthebest.net:15000/movie/idfofaaz/e0Y408fqvJ/3493.mkv
-#EXTINF:-1 tvg-ID="" tvg-name="Coraline e la Porta Magica" tvg-logo="http://46.21.29.4:15000/images/0327597.jpg" group-title="Ondemand Bambini",Coraline e la Porta Magica
+#EXTINF:-1 tvg-ID="" tvg-name="Coraline E La Porta Magica" tvg-logo="http://46.21.29.4:15000/images/0327597.jpg" group-title="Ondemand Bambini",Coraline E La Porta Magica
 http://iptv.iptvthebest.net:15000/movie/idfofaaz/e0Y408fqvJ/3494.mkv
 #EXTINF:-1 tvg-ID="" tvg-name="Dinosauri" tvg-logo="http://46.21.29.4:15000/images/0130623.jpg" group-title="Ondemand Bambini",Dinosauri
 http://iptv.iptvthebest.net:15000/movie/idfofaaz/e0Y408fqvJ/3495.mkv
@@ -163,17 +216,17 @@ http://iptv.iptvthebest.net:15000/movie/idfofaaz/e0Y408fqvJ/3498.mkv
 http://iptv.iptvthebest.net:15000/movie/idfofaaz/e0Y408fqvJ/3499.mkv
 #EXTINF:-1 tvg-ID="" tvg-name="Felix L Ultima Lince" tvg-logo="http://46.21.29.4:15000/images/0032455.jpg" group-title="Ondemand Bambini",Felix L Ultima Lince
 http://iptv.iptvthebest.net:15000/movie/idfofaaz/e0Y408fqvJ/3500.mkv
-#EXTINF:-1 tvg-ID="" tvg-name="Flinstones VS WWE Smackdown" tvg-logo="http://46.21.29.4:15000/images/2948202.jpg" group-title="Ondemand Bambini",Flinstones VS WWE Smackdown
+#EXTINF:-1 tvg-ID="" tvg-name="Flinstones Vs Wwe Smackdown" tvg-logo="http://46.21.29.4:15000/images/2948202.jpg" group-title="Ondemand Bambini",Flinstones Vs Wwe Smackdown
 http://iptv.iptvthebest.net:15000/movie/idfofaaz/e0Y408fqvJ/3501.mkv
 #EXTINF:-1 tvg-ID="" tvg-name="Free Birds Tacchini In Fuga" tvg-logo="http://46.21.29.4:15000/images/1621039.jpg" group-title="Ondemand Bambini",Free Birds Tacchini In Fuga
 http://iptv.iptvthebest.net:15000/movie/idfofaaz/e0Y408fqvJ/3502.mkv
-#EXTINF:-1 tvg-ID="" tvg-name="Free.Birds.Tacchini.In.Fuga" tvg-logo="http://46.21.29.4:15000/images/1621039.jpg" group-title="Ondemand Bambini",Free.Birds.Tacchini.In.Fuga
+#EXTINF:-1 tvg-ID="" tvg-name="Free Birds Tacchini In Fuga" tvg-logo="http://46.21.29.4:15000/images/1621039.jpg" group-title="Ondemand Bambini",Free Birds Tacchini In Fuga
 http://iptv.iptvthebest.net:15000/movie/idfofaaz/e0Y408fqvJ/3503.mkv
-#EXTINF:-1 tvg-ID="" tvg-name="G-Force - Superspie in missione" tvg-logo="http://46.21.29.4:15000/images/0436339.jpg" group-title="Ondemand Bambini",G-Force - Superspie in missione
+#EXTINF:-1 tvg-ID="" tvg-name="G-force - Superspie In Missione" tvg-logo="http://46.21.29.4:15000/images/0436339.jpg" group-title="Ondemand Bambini",G-force - Superspie In Missione
 http://iptv.iptvthebest.net:15000/movie/idfofaaz/e0Y408fqvJ/3504.mkv
-#EXTINF:-1 tvg-ID="" tvg-name="Galline in Fuga" tvg-logo="http://46.21.29.4:15000/images/0120630.jpg" group-title="Ondemand Bambini",Galline in Fuga
+#EXTINF:-1 tvg-ID="" tvg-name="Galline In Fuga" tvg-logo="http://46.21.29.4:15000/images/0120630.jpg" group-title="Ondemand Bambini",Galline In Fuga
 http://iptv.iptvthebest.net:15000/movie/idfofaaz/e0Y408fqvJ/3505.mkv
-#EXTINF:-1 tvg-ID="" tvg-name="Giù per il tubo" tvg-logo="http://46.21.29.4:15000/images/0424095.jpg" group-title="Ondemand Bambini",Giù per il tubo
+#EXTINF:-1 tvg-ID="" tvg-name="Giù Per Il Tubo" tvg-logo="http://46.21.29.4:15000/images/0424095.jpg" group-title="Ondemand Bambini",Giù Per Il Tubo
 http://iptv.iptvthebest.net:15000/movie/idfofaaz/e0Y408fqvJ/3506.mkv
 #EXTINF:-1 tvg-ID="" tvg-name="Gli Aristogatti" tvg-logo="http://46.21.29.4:15000/images/0065421.jpg" group-title="Ondemand Bambini",Gli Aristogatti
 http://iptv.iptvthebest.net:15000/movie/idfofaaz/e0Y408fqvJ/3507.mkv
@@ -185,17 +238,17 @@ http://iptv.iptvthebest.net:15000/movie/idfofaaz/e0Y408fqvJ/3509.mkv
 http://iptv.iptvthebest.net:15000/movie/idfofaaz/e0Y408fqvJ/3510.mkv
 #EXTINF:-1 tvg-ID="" tvg-name="I Robinson - Una Famiglia Spaziale" tvg-logo="http://46.21.29.4:15000/images/0396555.jpg" group-title="Ondemand Bambini",I Robinson - Una Famiglia Spaziale
 http://iptv.iptvthebest.net:15000/movie/idfofaaz/e0Y408fqvJ/3511.mkv
-#EXTINF:-1 tvg-ID="" tvg-name="I Simpson - Il Film." tvg-logo="http://46.21.29.4:15000/images/0462538.jpg" group-title="Ondemand Bambini",I Simpson - Il Film.
+#EXTINF:-1 tvg-ID="" tvg-name="I Simpson - Il Film " tvg-logo="http://46.21.29.4:15000/images/0462538.jpg" group-title="Ondemand Bambini",I Simpson - Il Film 
 http://iptv.iptvthebest.net:15000/movie/idfofaaz/e0Y408fqvJ/3512.mkv
-#EXTINF:-1 tvg-ID="" tvg-name="I Tre Caballeros." tvg-logo="http://46.21.29.4:15000/images/0038166.jpg" group-title="OnDemand Misti",I Tre Caballeros.
+#EXTINF:-1 tvg-ID="" tvg-name="I Tre Caballeros " tvg-logo="http://46.21.29.4:15000/images/0038166.jpg" group-title="OnDemand Misti",I Tre Caballeros 
 http://iptv.iptvthebest.net:15000/movie/idfofaaz/e0Y408fqvJ/3513.mkv
 #EXTINF:-1 tvg-ID="" tvg-name="Il Gatto Con Gli Stivali" tvg-logo="http://46.21.29.4:15000/images/0448694.jpg" group-title="Ondemand Bambini",Il Gatto Con Gli Stivali
 http://iptv.iptvthebest.net:15000/movie/idfofaaz/e0Y408fqvJ/3514.mkv
-#EXTINF:-1 tvg-ID="" tvg-name="Il gobbo di NotreDame" tvg-logo="http://46.21.29.4:15000/images/not-found.jpg" group-title="Ondemand Bambini",Il gobbo di NotreDame
+#EXTINF:-1 tvg-ID="" tvg-name="Il Gobbo Di Notredame" tvg-logo="http://46.21.29.4:15000/images/not-found.jpg" group-title="Ondemand Bambini",Il Gobbo Di Notredame
 http://iptv.iptvthebest.net:15000/movie/idfofaaz/e0Y408fqvJ/3516.mkv
-#EXTINF:-1 tvg-ID="" tvg-name="Il Libro della Vita" tvg-logo="http://46.21.29.4:15000/images/2262227.jpg" group-title="Ondemand Bambini",Il Libro della Vita
+#EXTINF:-1 tvg-ID="" tvg-name="Il Libro Della Vita" tvg-logo="http://46.21.29.4:15000/images/2262227.jpg" group-title="Ondemand Bambini",Il Libro Della Vita
 http://iptv.iptvthebest.net:15000/movie/idfofaaz/e0Y408fqvJ/3515.mkv
-#EXTINF:-1 tvg-ID="" tvg-name="Il.Libro.Della.Vita" tvg-logo="http://46.21.29.4:15000/images/not-found.jpg" group-title="Ondemand Bambini",Il.Libro.Della.Vita
+#EXTINF:-1 tvg-ID="" tvg-name="Il Libro Della Vita" tvg-logo="http://46.21.29.4:15000/images/not-found.jpg" group-title="Ondemand Bambini",Il Libro Della Vita
 http://iptv.iptvthebest.net:15000/movie/idfofaaz/e0Y408fqvJ/3517.mkv
 #EXTINF:-1 tvg-ID="" tvg-name="Monster High Bu York Bu York" tvg-logo="http://46.21.29.4:15000/images/4779496.jpg" group-title="Ondemand Bambini",Monster High Bu York Bu York
 http://iptv.iptvthebest.net:15000/movie/idfofaaz/e0Y408fqvJ/3518.mkv
@@ -209,7 +262,7 @@ http://iptv.iptvthebest.net:15000/movie/idfofaaz/e0Y408fqvJ/3521.mkv
 http://iptv.iptvthebest.net:15000/movie/idfofaaz/e0Y408fqvJ/3522.mkv
 #EXTINF:-1 tvg-ID="" tvg-name="Naruto Il Film La Leggenda Della Pietra Di Gelel" tvg-logo="http://46.21.29.4:15000/images/0791188.jpg" group-title="Ondemand Bambini",Naruto Il Film La Leggenda Della Pietra Di Gelel
 http://iptv.iptvthebest.net:15000/movie/idfofaaz/e0Y408fqvJ/3523.mkv
-#EXTINF:-1 tvg-ID="" tvg-name="Nut Job Operazione Noccioline da riscaricare" tvg-logo="http://46.21.29.4:15000/images/0791188.jpg" group-title="Ondemand Bambini",Nut Job Operazione Noccioline da riscaricare
+#EXTINF:-1 tvg-ID="" tvg-name="Nut Job Operazione Noccioline Da Riscaricare" tvg-logo="http://46.21.29.4:15000/images/0791188.jpg" group-title="Ondemand Bambini",Nut Job Operazione Noccioline Da Riscaricare
 http://iptv.iptvthebest.net:15000/movie/idfofaaz/e0Y408fqvJ/3524.mkv
 #EXTINF:-1 tvg-ID="" tvg-name="Oliver E Company" tvg-logo="http://46.21.29.4:15000/images/0095776.jpg" group-title="Ondemand Bambini",Oliver E Company
 http://iptv.iptvthebest.net:15000/movie/idfofaaz/e0Y408fqvJ/3525.mkv
@@ -221,7 +274,7 @@ http://iptv.iptvthebest.net:15000/movie/idfofaaz/e0Y408fqvJ/3528.mkv
 http://iptv.iptvthebest.net:15000/movie/idfofaaz/e0Y408fqvJ/3527.mkv
 #EXTINF:-1 tvg-ID="" tvg-name="Pocahontas" tvg-logo="http://46.21.29.4:15000/images/0114148.jpg" group-title="Ondemand Bambini",Pocahontas
 http://iptv.iptvthebest.net:15000/movie/idfofaaz/e0Y408fqvJ/3530.mkv
-#EXTINF:-1 tvg-ID="" tvg-name="Pocahontas 2 Viaggio Nel Nuovo.Mondo" tvg-logo="http://46.21.29.4:15000/images/0114148.jpg" group-title="Ondemand Bambini",Pocahontas 2 Viaggio Nel Nuovo.Mondo
+#EXTINF:-1 tvg-ID="" tvg-name="Pocahontas 2 Viaggio Nel Nuovo Mondo" tvg-logo="http://46.21.29.4:15000/images/0114148.jpg" group-title="Ondemand Bambini",Pocahontas 2 Viaggio Nel Nuovo Mondo
 http://iptv.iptvthebest.net:15000/movie/idfofaaz/e0Y408fqvJ/3529.mkv
 #EXTINF:-1 tvg-ID="" tvg-name="Principessa Mononoke" tvg-logo="http://46.21.29.4:15000/images/0119698.jpg" group-title="Ondemand Bambini",Principessa Mononoke
 http://iptv.iptvthebest.net:15000/movie/idfofaaz/e0Y408fqvJ/3531.mkv
@@ -231,7 +284,7 @@ http://iptv.iptvthebest.net:15000/movie/idfofaaz/e0Y408fqvJ/3532.mkv
 http://iptv.iptvthebest.net:15000/movie/idfofaaz/e0Y408fqvJ/3534.mkv
 #EXTINF:-1 tvg-ID="" tvg-name="Tarzan 2" tvg-logo="http://46.21.29.4:15000/images/0437503.jpg" group-title="Ondemand Bambini",Tarzan 2
 http://iptv.iptvthebest.net:15000/movie/idfofaaz/e0Y408fqvJ/3533.mkv
-#EXTINF:-1 tvg-ID="" tvg-name="Topolino e i cattivi" tvg-logo="http://46.21.29.4:15000/images/0437503.jpg" group-title="Ondemand Bambini",Topolino e i cattivi
+#EXTINF:-1 tvg-ID="" tvg-name="Topolino E I Cattivi" tvg-logo="http://46.21.29.4:15000/images/0437503.jpg" group-title="Ondemand Bambini",Topolino E I Cattivi
 http://iptv.iptvthebest.net:15000/movie/idfofaaz/e0Y408fqvJ/3535.mkv
 #EXTINF:-1 tvg-ID="" tvg-name="Violetta Il Concerto Live Mediolanum Forum Di Assago" tvg-logo="http://46.21.29.4:15000/images/0437503.jpg" group-title="Documentari",Violetta Il Concerto Live Mediolanum Forum Di Assago
 http://iptv.iptvthebest.net:15000/movie/idfofaaz/e0Y408fqvJ/3536.mkv
@@ -239,25 +292,25 @@ http://iptv.iptvthebest.net:15000/movie/idfofaaz/e0Y408fqvJ/3536.mkv
 http://iptv.iptvthebest.net:15000/movie/idfofaaz/e0Y408fqvJ/3537.mkv
 #EXTINF:-1 tvg-ID="" tvg-name="----DOCUMENTARI----" tvg-logo="" group-title="",----DOCUMENTARI----
 http://iptv.iptvthebest.net:15000/live/idfofaaz/e0Y408fqvJ/348.ts
-#EXTINF:-1 tvg-ID="" tvg-name="11.Metri" tvg-logo="http://46.21.29.4:15000/images/not-found.jpg" group-title="OnDemand Misti",11.Metri
+#EXTINF:-1 tvg-ID="" tvg-name="11 Metri" tvg-logo="http://46.21.29.4:15000/images/not-found.jpg" group-title="OnDemand Misti",11 Metri
 http://iptv.iptvthebest.net:15000/movie/idfofaaz/e0Y408fqvJ/3538.mkv
-#EXTINF:-1 tvg-ID="" tvg-name="Alla Ricerca del Limite" tvg-logo="http://46.21.29.4:15000/images/not-found.jpg" group-title="OnDemand Misti",Alla Ricerca del Limite
+#EXTINF:-1 tvg-ID="" tvg-name="Alla Ricerca Del Limite" tvg-logo="http://46.21.29.4:15000/images/not-found.jpg" group-title="OnDemand Misti",Alla Ricerca Del Limite
 http://iptv.iptvthebest.net:15000/movie/idfofaaz/e0Y408fqvJ/3539.mkv
 #EXTINF:-1 tvg-ID="" tvg-name="Amazonia" tvg-logo="http://46.21.29.4:15000/images/1240899.jpg" group-title="OnDemand Misti",Amazonia
 http://iptv.iptvthebest.net:15000/movie/idfofaaz/e0Y408fqvJ/3540.mkv
-#EXTINF:-1 tvg-ID="" tvg-name="Correva l Anno Bill Gates e Steve Jobs I Duellanti" tvg-logo="http://46.21.29.4:15000/images/1240899.jpg" group-title="Documentari",Correva l Anno Bill Gates e Steve Jobs I Duellanti
+#EXTINF:-1 tvg-ID="" tvg-name="Correva L Anno Bill Gates E Steve Jobs I Duellanti" tvg-logo="http://46.21.29.4:15000/images/1240899.jpg" group-title="Documentari",Correva L Anno Bill Gates E Steve Jobs I Duellanti
 http://iptv.iptvthebest.net:15000/movie/idfofaaz/e0Y408fqvJ/3541.mkv
 #EXTINF:-1 tvg-ID="" tvg-name="Egitto La Citta Sommersa" tvg-logo="http://46.21.29.4:15000/images/1240899.jpg" group-title="Documentari",Egitto La Citta Sommersa
 http://iptv.iptvthebest.net:15000/movie/idfofaaz/e0Y408fqvJ/3542.mkv
-#EXTINF:-1 tvg-ID="" tvg-name="Fuga dall Isis" tvg-logo="http://46.21.29.4:15000/images/not-found.jpg" group-title="Documentari",Fuga dall Isis
+#EXTINF:-1 tvg-ID="" tvg-name="Fuga Dall Isis" tvg-logo="http://46.21.29.4:15000/images/not-found.jpg" group-title="Documentari",Fuga Dall Isis
 http://iptv.iptvthebest.net:15000/movie/idfofaaz/e0Y408fqvJ/3543.mkv
-#EXTINF:-1 tvg-ID="" tvg-name="Gino Bartali Il Campione e L Eroe" tvg-logo="http://46.21.29.4:15000/images/not-found.jpg" group-title="Documentari",Gino Bartali Il Campione e L Eroe
+#EXTINF:-1 tvg-ID="" tvg-name="Gino Bartali Il Campione E L Eroe" tvg-logo="http://46.21.29.4:15000/images/not-found.jpg" group-title="Documentari",Gino Bartali Il Campione E L Eroe
 http://iptv.iptvthebest.net:15000/movie/idfofaaz/e0Y408fqvJ/3544.mkv
-#EXTINF:-1 tvg-ID="" tvg-name="History Channel Charlie Hedbo morte a Parigi" tvg-logo="http://46.21.29.4:15000/images/not-found.jpg" group-title="Documentari",History Channel Charlie Hedbo morte a Parigi
+#EXTINF:-1 tvg-ID="" tvg-name="History Channel Charlie Hedbo Morte A Parigi" tvg-logo="http://46.21.29.4:15000/images/not-found.jpg" group-title="Documentari",History Channel Charlie Hedbo Morte A Parigi
 http://iptv.iptvthebest.net:15000/movie/idfofaaz/e0Y408fqvJ/3545.mkv
 #EXTINF:-1 tvg-ID="" tvg-name="I Bambini Sanno" tvg-logo="http://46.21.29.4:15000/images/4522716.jpg" group-title="OnDemand Misti",I Bambini Sanno
 http://iptv.iptvthebest.net:15000/movie/idfofaaz/e0Y408fqvJ/3546.mkv
-#EXTINF:-1 tvg-ID="" tvg-name="I Drogati del Sesso" tvg-logo="http://46.21.29.4:15000/images/4522716.jpg" group-title="OnDemand Misti",I Drogati del Sesso
+#EXTINF:-1 tvg-ID="" tvg-name="I Drogati Del Sesso" tvg-logo="http://46.21.29.4:15000/images/4522716.jpg" group-title="OnDemand Misti",I Drogati Del Sesso
 http://iptv.iptvthebest.net:15000/movie/idfofaaz/e0Y408fqvJ/3547.mkv
 #EXTINF:-1 tvg-ID="" tvg-name="Il Figlio Di Hamas" tvg-logo="http://46.21.29.4:15000/images/2304915.jpg" group-title="OnDemand Misti",Il Figlio Di Hamas
 http://iptv.iptvthebest.net:15000/movie/idfofaaz/e0Y408fqvJ/3548.mkv
@@ -267,69 +320,305 @@ http://iptv.iptvthebest.net:15000/movie/idfofaaz/e0Y408fqvJ/3549.mkv
 http://iptv.iptvthebest.net:15000/movie/idfofaaz/e0Y408fqvJ/3550.mkv
 #EXTINF:-1 tvg-ID="" tvg-name="La Grande Passione" tvg-logo="http://46.21.29.4:15000/images/2814362.jpg" group-title="OnDemand Misti",La Grande Passione
 http://iptv.iptvthebest.net:15000/movie/idfofaaz/e0Y408fqvJ/3551.mkv
-#EXTINF:-1 tvg-ID="" tvg-name="La Grande Storia Giubileo la storia e la fede" tvg-logo="http://46.21.29.4:15000/images/2814362.jpg" group-title="Documentari",La Grande Storia Giubileo la storia e la fede
+#EXTINF:-1 tvg-ID="" tvg-name="La Grande Storia Giubileo La Storia E La Fede" tvg-logo="http://46.21.29.4:15000/images/2814362.jpg" group-title="Documentari",La Grande Storia Giubileo La Storia E La Fede
 http://iptv.iptvthebest.net:15000/movie/idfofaaz/e0Y408fqvJ/3552.mkv
-#EXTINF:-1 tvg-ID="" tvg-name="La rivoluzione di Papa Francesco" tvg-logo="http://46.21.29.4:15000/images/2814362.jpg" group-title="Documentari",La rivoluzione di Papa Francesco
+#EXTINF:-1 tvg-ID="" tvg-name="La Rivoluzione Di Papa Francesco" tvg-logo="http://46.21.29.4:15000/images/2814362.jpg" group-title="Documentari",La Rivoluzione Di Papa Francesco
 http://iptv.iptvthebest.net:15000/movie/idfofaaz/e0Y408fqvJ/3553.mkv
-#EXTINF:-1 tvg-ID="" tvg-name="La verita sul desiderio femminile" tvg-logo="http://46.21.29.4:15000/images/2814362.jpg" group-title="Documentari",La verita sul desiderio femminile
+#EXTINF:-1 tvg-ID="" tvg-name="La Verita Sul Desiderio Femminile" tvg-logo="http://46.21.29.4:15000/images/2814362.jpg" group-title="Documentari",La Verita Sul Desiderio Femminile
 http://iptv.iptvthebest.net:15000/movie/idfofaaz/e0Y408fqvJ/3554.mkv
-
-#EXTINF:-1 tvg-ID="" tvg-name="Ligabue il Giro del Mondo da Tokio a Campovolo   parte 1" tvg-logo="http://46.21.29.4:15000/images/2814362.jpg" group-title="Documentari",Ligabue il Giro del Mondo da Tokio a Campovolo   parte 1
+#EXTINF:-1 tvg-ID="" tvg-name="Le Ali Di Tyson 1x01" tvg-logo="http://46.21.29.4:15000/images/2814362.jpg" group-title="Serie TV",Le Ali Di Tyson 1x01
+http://iptv.iptvthebest.net:15000/movie/idfofaaz/e0Y408fqvJ/3555.mkv
+#EXTINF:-1 tvg-ID="" tvg-name="Le Ali Di Tyson 1x02" tvg-logo="http://46.21.29.4:15000/images/2814362.jpg" group-title="Serie TV",Le Ali Di Tyson 1x02
+http://iptv.iptvthebest.net:15000/movie/idfofaaz/e0Y408fqvJ/3556.mkv
+#EXTINF:-1 tvg-ID="" tvg-name="Le Ali Di Tyson 1x03" tvg-logo="http://46.21.29.4:15000/images/2814362.jpg" group-title="Serie TV",Le Ali Di Tyson 1x03
+http://iptv.iptvthebest.net:15000/movie/idfofaaz/e0Y408fqvJ/3557.mkv
+#EXTINF:-1 tvg-ID="" tvg-name="Le Ali Di Tyson 1x04" tvg-logo="http://46.21.29.4:15000/images/2814362.jpg" group-title="Serie TV",Le Ali Di Tyson 1x04
+http://iptv.iptvthebest.net:15000/movie/idfofaaz/e0Y408fqvJ/3558.mkv
+#EXTINF:-1 tvg-ID="" tvg-name="Le Ali Di Tyson 1x05" tvg-logo="http://46.21.29.4:15000/images/2814362.jpg" group-title="Serie TV",Le Ali Di Tyson 1x05
+http://iptv.iptvthebest.net:15000/movie/idfofaaz/e0Y408fqvJ/3559.mkv
+#EXTINF:-1 tvg-ID="" tvg-name="Le Ali Di Tyson 1x06" tvg-logo="http://46.21.29.4:15000/images/2814362.jpg" group-title="Serie TV",Le Ali Di Tyson 1x06
+http://iptv.iptvthebest.net:15000/movie/idfofaaz/e0Y408fqvJ/3560.mkv
+#EXTINF:-1 tvg-ID="" tvg-name="Ligabue Il Giro Del Mondo Da Tokio A Campovolo   Parte 1" tvg-logo="http://46.21.29.4:15000/images/2814362.jpg" group-title="Documentari",Ligabue Il Giro Del Mondo Da Tokio A Campovolo   Parte 1
 http://iptv.iptvthebest.net:15000/movie/idfofaaz/e0Y408fqvJ/3561.mkv
-#EXTINF:-1 tvg-ID="" tvg-name="Ligabue il Giro del Mondo da Tokio a Campovolo   parte 2" tvg-logo="http://46.21.29.4:15000/images/2814362.jpg" group-title="Documentari",Ligabue il Giro del Mondo da Tokio a Campovolo   parte 2
+#EXTINF:-1 tvg-ID="" tvg-name="Ligabue Il Giro Del Mondo Da Tokio A Campovolo   Parte 2" tvg-logo="http://46.21.29.4:15000/images/2814362.jpg" group-title="Documentari",Ligabue Il Giro Del Mondo Da Tokio A Campovolo   Parte 2
 http://iptv.iptvthebest.net:15000/movie/idfofaaz/e0Y408fqvJ/3562.mkv
-#EXTINF:-1 tvg-ID="" tvg-name="Mein Kampf era tutto scritto" tvg-logo="http://46.21.29.4:15000/images/2814362.jpg" group-title="Documentari",Mein Kampf era tutto scritto
+#EXTINF:-1 tvg-ID="" tvg-name="Mein Kampf Era Tutto Scritto" tvg-logo="http://46.21.29.4:15000/images/2814362.jpg" group-title="Documentari",Mein Kampf Era Tutto Scritto
 http://iptv.iptvthebest.net:15000/movie/idfofaaz/e0Y408fqvJ/3563.mkv
 #EXTINF:-1 tvg-ID="" tvg-name="Mennea Segreto" tvg-logo="http://46.21.29.4:15000/images/2814362.jpg" group-title="Documentari",Mennea Segreto
 http://iptv.iptvthebest.net:15000/movie/idfofaaz/e0Y408fqvJ/3564.mkv
-#EXTINF:-1 tvg-ID="" tvg-name="Messi Storia Di Un.Campione" tvg-logo="http://46.21.29.4:15000/images/2814362.jpg" group-title="Documentari",Messi Storia Di Un.Campione
+#EXTINF:-1 tvg-ID="" tvg-name="Messi Storia Di Un Campione" tvg-logo="http://46.21.29.4:15000/images/2814362.jpg" group-title="Documentari",Messi Storia Di Un Campione
 http://iptv.iptvthebest.net:15000/movie/idfofaaz/e0Y408fqvJ/3565.mkv
-#EXTINF:-1 tvg-ID="" tvg-name="Mike Tyson tutta la verita" tvg-logo="http://46.21.29.4:15000/images/3009336.jpg" group-title="Documentari",Mike Tyson tutta la verita
+#EXTINF:-1 tvg-ID="" tvg-name="Mike Tyson Tutta La Verita" tvg-logo="http://46.21.29.4:15000/images/3009336.jpg" group-title="Documentari",Mike Tyson Tutta La Verita
 http://iptv.iptvthebest.net:15000/movie/idfofaaz/e0Y408fqvJ/3566.mkv
 #EXTINF:-1 tvg-ID="" tvg-name="Monkey Kingdom" tvg-logo="http://46.21.29.4:15000/images/3660770.jpg" group-title="OnDemand Misti",Monkey Kingdom
 http://iptv.iptvthebest.net:15000/movie/idfofaaz/e0Y408fqvJ/3567.mkv
-#EXTINF:-1 tvg-ID="" tvg-name="Nat Geo HD L Impero della Droga Cocaina" tvg-logo="http://46.21.29.4:15000/images/3660770.jpg" group-title="Documentari",Nat Geo HD L Impero della Droga Cocaina
+#EXTINF:-1 tvg-ID="" tvg-name="Nat Geo Hd L Impero Della Droga Cocaina" tvg-logo="http://46.21.29.4:15000/images/3660770.jpg" group-title="Documentari",Nat Geo Hd L Impero Della Droga Cocaina
 http://iptv.iptvthebest.net:15000/movie/idfofaaz/e0Y408fqvJ/3568.mkv
-#EXTINF:-1 tvg-ID="" tvg-name="Nat Geo HD L Impero della Droga Droga e Motori" tvg-logo="http://46.21.29.4:15000/images/3660770.jpg" group-title="Documentari",Nat Geo HD L Impero della Droga Droga e Motori
+#EXTINF:-1 tvg-ID="" tvg-name="Nat Geo Hd L Impero Della Droga Droga E Motori" tvg-logo="http://46.21.29.4:15000/images/3660770.jpg" group-title="Documentari",Nat Geo Hd L Impero Della Droga Droga E Motori
 http://iptv.iptvthebest.net:15000/movie/idfofaaz/e0Y408fqvJ/3569.mkv
-#EXTINF:-1 tvg-ID="" tvg-name="Nat Geo HD L Impero della Droga Droghe Legali" tvg-logo="http://46.21.29.4:15000/images/3660770.jpg" group-title="Documentari",Nat Geo HD L Impero della Droga Droghe Legali
+#EXTINF:-1 tvg-ID="" tvg-name="Nat Geo Hd L Impero Della Droga Droghe Legali" tvg-logo="http://46.21.29.4:15000/images/3660770.jpg" group-title="Documentari",Nat Geo Hd L Impero Della Droga Droghe Legali
 http://iptv.iptvthebest.net:15000/movie/idfofaaz/e0Y408fqvJ/3570.mkv
-#EXTINF:-1 tvg-ID="" tvg-name="Nat Geo HD L Impero della Droga Eroina" tvg-logo="http://46.21.29.4:15000/images/3660770.jpg" group-title="Documentari",Nat Geo HD L Impero della Droga Eroina
+#EXTINF:-1 tvg-ID="" tvg-name="Nat Geo Hd L Impero Della Droga Eroina" tvg-logo="http://46.21.29.4:15000/images/3660770.jpg" group-title="Documentari",Nat Geo Hd L Impero Della Droga Eroina
 http://iptv.iptvthebest.net:15000/movie/idfofaaz/e0Y408fqvJ/3571.mkv
-#EXTINF:-1 tvg-ID="" tvg-name="Nat Geo HD L Impero della Droga Metanfetamina" tvg-logo="http://46.21.29.4:15000/images/3660770.jpg" group-title="Documentari",Nat Geo HD L Impero della Droga Metanfetamina
+#EXTINF:-1 tvg-ID="" tvg-name="Nat Geo Hd L Impero Della Droga Metanfetamina" tvg-logo="http://46.21.29.4:15000/images/3660770.jpg" group-title="Documentari",Nat Geo Hd L Impero Della Droga Metanfetamina
 http://iptv.iptvthebest.net:15000/movie/idfofaaz/e0Y408fqvJ/3572.mkv
-#EXTINF:-1 tvg-ID="" tvg-name="Nata in un campo di concentramento" tvg-logo="http://46.21.29.4:15000/images/3660770.jpg" group-title="OnDemand Misti",Nata in un campo di concentramento
+#EXTINF:-1 tvg-ID="" tvg-name="Nata In Un Campo Di Concentramento" tvg-logo="http://46.21.29.4:15000/images/3660770.jpg" group-title="OnDemand Misti",Nata In Un Campo Di Concentramento
 http://iptv.iptvthebest.net:15000/movie/idfofaaz/e0Y408fqvJ/3573.mkv
 #EXTINF:-1 tvg-ID="" tvg-name="Roger Waters The Wall Eng Sub Ita" tvg-logo="http://46.21.29.4:15000/images/3660770.jpg" group-title="OnDemand Misti",Roger Waters The Wall Eng Sub Ita
 http://iptv.iptvthebest.net:15000/movie/idfofaaz/e0Y408fqvJ/3574.mkv
-#EXTINF:-1 tvg-ID="" tvg-name="Ronaldo  ENG Sub ITA" tvg-logo="http://46.21.29.4:15000/images/3660770.jpg" group-title="OnDemand Misti",Ronaldo  ENG Sub ITA
+#EXTINF:-1 tvg-ID="" tvg-name="Ronaldo  Eng Sub Ita" tvg-logo="http://46.21.29.4:15000/images/3660770.jpg" group-title="OnDemand Misti",Ronaldo  Eng Sub Ita
 http://iptv.iptvthebest.net:15000/movie/idfofaaz/e0Y408fqvJ/3575.mkv
-#EXTINF:-1 tvg-ID="" tvg-name="Steve Jobs The man in the machine sub ita" tvg-logo="http://46.21.29.4:15000/images/4425064.jpg" group-title="OnDemand Misti",Steve Jobs The man in the machine sub ita
+#EXTINF:-1 tvg-ID="" tvg-name="Steve Jobs The Man In The Machine Sub Ita" tvg-logo="http://46.21.29.4:15000/images/4425064.jpg" group-title="OnDemand Misti",Steve Jobs The Man In The Machine Sub Ita
 http://iptv.iptvthebest.net:15000/movie/idfofaaz/e0Y408fqvJ/3576.mkv
 #EXTINF:-1 tvg-ID="" tvg-name="Taxi Teheran" tvg-logo="http://46.21.29.4:15000/images/4359416.jpg" group-title="OnDemand Misti",Taxi Teheran
 http://iptv.iptvthebest.net:15000/movie/idfofaaz/e0Y408fqvJ/3577.mkv
-#EXTINF:-1 tvg-ID="" tvg-name="Tolkien Creatore di Mondi" tvg-logo="http://46.21.29.4:15000/images/4359416.jpg" group-title="OnDemand Misti",Tolkien Creatore di Mondi
+#EXTINF:-1 tvg-ID="" tvg-name="Tolkien Creatore Di Mondi" tvg-logo="http://46.21.29.4:15000/images/4359416.jpg" group-title="OnDemand Misti",Tolkien Creatore Di Mondi
 http://iptv.iptvthebest.net:15000/movie/idfofaaz/e0Y408fqvJ/3578.mkv
-#EXTINF:-1 tvg-ID="" tvg-name="Tut Il Destino Di Un Faraone 1P" tvg-logo="http://46.21.29.4:15000/images/4359416.jpg" group-title="OnDemand Misti",Tut Il Destino Di Un Faraone 1P
+#EXTINF:-1 tvg-ID="" tvg-name="Tut Il Destino Di Un Faraone 1p" tvg-logo="http://46.21.29.4:15000/images/4359416.jpg" group-title="OnDemand Misti",Tut Il Destino Di Un Faraone 1p
 http://iptv.iptvthebest.net:15000/movie/idfofaaz/e0Y408fqvJ/3579.mkv
-#EXTINF:-1 tvg-ID="" tvg-name="Tut Il Destino Di Un Faraone 2P" tvg-logo="http://46.21.29.4:15000/images/4359416.jpg" group-title="OnDemand Misti",Tut Il Destino Di Un Faraone 2P
+#EXTINF:-1 tvg-ID="" tvg-name="Tut Il Destino Di Un Faraone 2p" tvg-logo="http://46.21.29.4:15000/images/4359416.jpg" group-title="OnDemand Misti",Tut Il Destino Di Un Faraone 2p
 http://iptv.iptvthebest.net:15000/movie/idfofaaz/e0Y408fqvJ/3580.mkv
-#EXTINF:-1 tvg-ID="" tvg-name="Tut Il Destino Di Un Faraone 3P" tvg-logo="http://46.21.29.4:15000/images/4359416.jpg" group-title="OnDemand Misti",Tut Il Destino Di Un Faraone 3P
+#EXTINF:-1 tvg-ID="" tvg-name="Tut Il Destino Di Un Faraone 3p" tvg-logo="http://46.21.29.4:15000/images/4359416.jpg" group-title="OnDemand Misti",Tut Il Destino Di Un Faraone 3p
 http://iptv.iptvthebest.net:15000/movie/idfofaaz/e0Y408fqvJ/3581.mkv
 #EXTINF:-1 tvg-ID="" tvg-name="Zanetti Story" tvg-logo="http://46.21.29.4:15000/images/3592542.jpg" group-title="OnDemand Misti",Zanetti Story
 http://iptv.iptvthebest.net:15000/movie/idfofaaz/e0Y408fqvJ/3582.mkv
-
+#EXTINF:-1 tvg-ID="" tvg-name="---- 3D Ondemand ----" tvg-logo="" group-title="",---- 3D Ondemand ----
+http://iptv.iptvthebest.net:15000/live/idfofaaz/e0Y408fqvJ/374.ts
+#EXTINF:-1 tvg-ID="" tvg-name="X-men Apocalisse [3d]" tvg-logo="http://iptv.iptvthebest.net:15000/images/5686782.jpg" group-title="3D OnDemand",X-men Apocalisse [3d]
+http://iptv.iptvthebest.net:15000/movie/idfofaaz/e0Y408fqvJ/10385.mkv
+#EXTINF:-1 tvg-ID="" tvg-name="La Tigre E Il Dragone 2 [3d]" tvg-logo="http://iptv.iptvthebest.net:15000/images/5686782.jpg" group-title="3D OnDemand",La Tigre E Il Dragone 2 [3d]
+http://iptv.iptvthebest.net:15000/movie/idfofaaz/e0Y408fqvJ/10384.mkv
+#EXTINF:-1 tvg-ID="" tvg-name="Il Libro Della Giungla [3d]" tvg-logo="http://iptv.iptvthebest.net:15000/images/5686782.jpg" group-title="3D OnDemand",Il Libro Della Giungla [3d]
+http://iptv.iptvthebest.net:15000/movie/idfofaaz/e0Y408fqvJ/10383.mkv
+#EXTINF:-1 tvg-ID="" tvg-name="Il Cacciatore E La Regina Di Ghiaccio [3d]" tvg-logo="http://iptv.iptvthebest.net:15000/images/5686782.jpg" group-title="3D OnDemand",Il Cacciatore E La Regina Di Ghiaccio [3d]
+http://iptv.iptvthebest.net:15000/movie/idfofaaz/e0Y408fqvJ/10380.mkv
+#EXTINF:-1 tvg-ID="" tvg-name="God Of Egypt [3d]" tvg-logo="http://iptv.iptvthebest.net:15000/images/5686782.jpg" group-title="3D OnDemand",God Of Egypt [3d]
+http://iptv.iptvthebest.net:15000/movie/idfofaaz/e0Y408fqvJ/10382.mkv
+#EXTINF:-1 tvg-ID="" tvg-name="Captain America 3 The Civil War [3d]" tvg-logo="http://iptv.iptvthebest.net:15000/images/3498820.jpg" group-title="3D OnDemand",Captain America 3 The Civil War [3d]
+http://iptv.iptvthebest.net:15000/movie/idfofaaz/e0Y408fqvJ/10381.mkv
+#EXTINF:-1 tvg-ID="" tvg-name="Batman Vs Superman [3d]" tvg-logo="http://iptv.iptvthebest.net:15000/images/2975590.jpg" group-title="3D OnDemand",Batman Vs Superman [3d]
+http://iptv.iptvthebest.net:15000/movie/idfofaaz/e0Y408fqvJ/10379.mkv
+#EXTINF:-1 tvg-ID="" tvg-name="The Walk [3d]" tvg-logo="http://iptv.iptvthebest.net:15000/images/1520211.jpg" group-title="3D OnDemand",The Walk [3d]
+http://iptv.iptvthebest.net:15000/movie/idfofaaz/e0Y408fqvJ/5172.mkv
+#EXTINF:-1 tvg-ID="" tvg-name="Terminator: Genisys [3d]" tvg-logo="http://iptv.iptvthebest.net:15000/images/1340138.jpg" group-title="3D OnDemand",Terminator: Genisys [3d]
+http://iptv.iptvthebest.net:15000/movie/idfofaaz/e0Y408fqvJ/5174.mkv
+#EXTINF:-1 tvg-ID="" tvg-name="Sopravvissuto - The Martian [3d]" tvg-logo="http://iptv.iptvthebest.net:15000/images/3659388.jpg" group-title="3D OnDemand",Sopravvissuto - The Martian [3d]
+http://iptv.iptvthebest.net:15000/movie/idfofaaz/e0Y408fqvJ/5173.mkv
+#EXTINF:-1 tvg-ID="" tvg-name="San Andreas [3d]" tvg-logo="http://iptv.iptvthebest.net:15000/images/2126355.jpg" group-title="3D OnDemand",San Andreas [3d]
+http://iptv.iptvthebest.net:15000/movie/idfofaaz/e0Y408fqvJ/5177.mkv
+#EXTINF:-1 tvg-ID="" tvg-name="Poltergeist [3d]" tvg-logo="http://iptv.iptvthebest.net:15000/images/0084516.jpg" group-title="3D OnDemand",Poltergeist [3d]
+http://iptv.iptvthebest.net:15000/movie/idfofaaz/e0Y408fqvJ/5175.mkv
+#EXTINF:-1 tvg-ID="" tvg-name="Point Break [3d]" tvg-logo="http://iptv.iptvthebest.net:15000/images/2058673.jpg" group-title="3D OnDemand",Point Break [3d]
+http://iptv.iptvthebest.net:15000/movie/idfofaaz/e0Y408fqvJ/5168.mkv
+#EXTINF:-1 tvg-ID="" tvg-name="Piccoli Brividi [3d]" tvg-logo="http://iptv.iptvthebest.net:15000/images/2058673.jpg" group-title="3D OnDemand",Piccoli Brividi [3d]
+http://iptv.iptvthebest.net:15000/movie/idfofaaz/e0Y408fqvJ/5169.mkv
+#EXTINF:-1 tvg-ID="" tvg-name="Jurassic World [3d]" tvg-logo="http://iptv.iptvthebest.net:15000/images/0369610.jpg" group-title="3D OnDemand",Jurassic World [3d]
+http://iptv.iptvthebest.net:15000/movie/idfofaaz/e0Y408fqvJ/5176.mkv
+#EXTINF:-1 tvg-ID="" tvg-name="Il Viaggio Di Arlo [3d]" tvg-logo="http://iptv.iptvthebest.net:15000/images/0369610.jpg" group-title="3D OnDemand",Il Viaggio Di Arlo [3d]
+http://iptv.iptvthebest.net:15000/movie/idfofaaz/e0Y408fqvJ/5170.mkv
+#EXTINF:-1 tvg-ID="" tvg-name="Hunger Games Il Canto Della Rivolta Parte 2 [3d]" tvg-logo="http://iptv.iptvthebest.net:15000/images/0369610.jpg" group-title="3D OnDemand",Hunger Games Il Canto Della Rivolta Parte 2 [3d]
+http://iptv.iptvthebest.net:15000/movie/idfofaaz/e0Y408fqvJ/5171.mkv
+#EXTINF:-1 tvg-ID="" tvg-name="Avengers Grimm 3d" tvg-logo="http://46.21.29.4:15000/images/4296026.jpg" group-title="3D OnDemand",Avengers Grimm 3d
+http://iptv.iptvthebest.net:15000/movie/idfofaaz/e0Y408fqvJ/3372.mkv
 #EXTINF:-1 tvg-ID="" tvg-name="---- OnDEMAND MISTI ----" tvg-logo="" group-title="",---- OnDEMAND MISTI ----
 http://iptv.iptvthebest.net:15000/live/idfofaaz/e0Y408fqvJ/12095.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Maradona : La mano de Dios" tvg-logo="http://cdn01.iptvthebest.net:15000/images/0465737.jpg" group-title="OnDemand Misti",Maradona : La mano de Dios
+http://iptv.iptvthebest.net:15000/movie/idfofaaz/e0Y408fqvJ/23505.mkv
+#EXTINF:-1 tvg-ID="" tvg-name="8 Mile" tvg-logo="http://cdn01.iptvthebest.net:15000/images/0298203.jpg" group-title="OnDemand Misti",8 Mile
+http://iptv.iptvthebest.net:15000/movie/idfofaaz/e0Y408fqvJ/23501.mkv
+#EXTINF:-1 tvg-ID="" tvg-name="Green Street Hooligans" tvg-logo="http://cdn01.iptvthebest.net:15000/images/0385002.jpg" group-title="OnDemand Misti",Green Street Hooligans
+http://iptv.iptvthebest.net:15000/movie/idfofaaz/e0Y408fqvJ/23502.mkv
+#EXTINF:-1 tvg-ID="" tvg-name="La Cura dal Benessere" tvg-logo="http://cdn01.iptvthebest.net:15000/images/4731136.jpg" group-title="OnDemand Misti",La Cura dal Benessere
+http://iptv.iptvthebest.net:15000/movie/idfofaaz/e0Y408fqvJ/23503.mkv
+#EXTINF:-1 tvg-ID="" tvg-name="Kill 'Em All" tvg-logo="http://cdn01.iptvthebest.net:15000/images/4731136.jpg" group-title="OnDemand Misti",Kill 'Em All
+http://iptv.iptvthebest.net:15000/movie/idfofaaz/e0Y408fqvJ/23479.mkv
+#EXTINF:-1 tvg-ID="" tvg-name="La Bella e La Bestia" tvg-logo="http://cdn01.iptvthebest.net:15000/images/2771200.jpg" group-title="OnDemand Misti",La Bella e La Bestia
+http://iptv.iptvthebest.net:15000/movie/idfofaaz/e0Y408fqvJ/23476.mkv
+#EXTINF:-1 tvg-ID="" tvg-name="Aftermath" tvg-logo="http://cdn01.iptvthebest.net:15000/images/4581576.jpg" group-title="OnDemand Misti",Aftermath
+http://iptv.iptvthebest.net:15000/movie/idfofaaz/e0Y408fqvJ/23508.mkv
+#EXTINF:-1 tvg-ID="" tvg-name="Explorer" tvg-logo="http://cdn01.iptvthebest.net:15000/images/3013160.jpg" group-title="OnDemand Misti",Explorer
+http://iptv.iptvthebest.net:15000/movie/idfofaaz/e0Y408fqvJ/23509.mkv
+#EXTINF:-1 tvg-ID="" tvg-name="John Wick 2" tvg-logo="http://cdn01.iptvthebest.net:15000/images/4425200.jpg" group-title="OnDemand Misti",John Wick 2
+http://iptv.iptvthebest.net:15000/movie/idfofaaz/e0Y408fqvJ/23513.mkv
+#EXTINF:-1 tvg-ID="" tvg-name="Kong Skull Island" tvg-logo="http://cdn01.iptvthebest.net:15000/images/not-found.jpg" group-title="OnDemand Misti",Kong Skull Island
+http://iptv.iptvthebest.net:15000/movie/idfofaaz/e0Y408fqvJ/23507.mkv
+#EXTINF:-1 tvg-ID="" tvg-name="Life Non Oltrepassare Quel Limite" tvg-logo="http://cdn01.iptvthebest.net:15000/images/not-found.jpg" group-title="OnDemand Misti",Life Non Oltrepassare Quel Limite
+http://iptv.iptvthebest.net:15000/movie/idfofaaz/e0Y408fqvJ/23511.mkv
+#EXTINF:-1 tvg-ID="" tvg-name="Non è Un Paese Per Giovani" tvg-logo="http://cdn01.iptvthebest.net:15000/images/5205256.jpg" group-title="OnDemand Misti",Non è Un Paese Per Giovani
+http://iptv.iptvthebest.net:15000/movie/idfofaaz/e0Y408fqvJ/23512.mkv
+#EXTINF:-1 tvg-ID="" tvg-name="Notorius B.I.G." tvg-logo="http://cdn01.iptvthebest.net:15000/images/not-found.jpg" group-title="OnDemand Misti",Notorius B.I.G.
+http://iptv.iptvthebest.net:15000/movie/idfofaaz/e0Y408fqvJ/23514.mkv
+#EXTINF:-1 tvg-ID="" tvg-name="Questione di Karma" tvg-logo="http://cdn01.iptvthebest.net:15000/images/6409994.jpg" group-title="OnDemand Misti",Questione di Karma
+http://iptv.iptvthebest.net:15000/movie/idfofaaz/e0Y408fqvJ/23506.mkv
+#EXTINF:-1 tvg-ID="" tvg-name="XX Donne Da Morire" tvg-logo="http://cdn01.iptvthebest.net:15000/images/3322892.jpg" group-title="OnDemand Misti",XX Donne Da Morire
+http://iptv.iptvthebest.net:15000/movie/idfofaaz/e0Y408fqvJ/23510.mkv
+#EXTINF:-1 tvg-ID="" tvg-name="McLaren" tvg-logo="http://cdn01.iptvthebest.net:15000/images/3322892.jpg" group-title="OnDemand Misti",McLaren
+http://iptv.iptvthebest.net:15000/movie/idfofaaz/e0Y408fqvJ/23477.mkv
+#EXTINF:-1 tvg-ID="" tvg-name="Omicidio All'Italiana" tvg-logo="http://cdn01.iptvthebest.net:15000/images/3322892.jpg" group-title="OnDemand Misti",Omicidio All'Italiana
+http://iptv.iptvthebest.net:15000/movie/idfofaaz/e0Y408fqvJ/23480.mkv
+#EXTINF:-1 tvg-ID="" tvg-name="Cinquanta sfumature di nero" tvg-logo="http://cdn01.iptvthebest.net:15000/images/4465564.jpg" group-title="OnDemand Misti",Cinquanta sfumature di nero
+http://iptv.iptvthebest.net:15000/movie/idfofaaz/e0Y408fqvJ/23384.mkv
+#EXTINF:-1 tvg-ID="" tvg-name="La Legge Della Notte" tvg-logo="http://cdn01.iptvthebest.net:15000/images/2361317.jpg" group-title="OnDemand Misti",La Legge Della Notte
+http://iptv.iptvthebest.net:15000/movie/idfofaaz/e0Y408fqvJ/23386.mkv
+#EXTINF:-1 tvg-ID="" tvg-name="Logan" tvg-logo="http://cdn01.iptvthebest.net:15000/images/3315342.jpg" group-title="OnDemand Misti",Logan
+http://iptv.iptvthebest.net:15000/movie/idfofaaz/e0Y408fqvJ/23385.mkv
+#EXTINF:-1 tvg-ID="" tvg-name="Mamma o Papà" tvg-logo="n/A" group-title="OnDemand Misti",Mamma o Papà
+http://iptv.iptvthebest.net:15000/movie/idfofaaz/e0Y408fqvJ/23413.mkv
+#EXTINF:-1 tvg-ID="" tvg-name="Moonlight" tvg-logo="n/A" group-title="OnDemand Misti",Moonlight
+http://iptv.iptvthebest.net:15000/movie/idfofaaz/e0Y408fqvJ/23414.mkv
+#EXTINF:-1 tvg-ID="" tvg-name="Sleepless  Il Giustiziere" tvg-logo="http://cdn01.iptvthebest.net:15000/images/2072233.jpg" group-title="OnDemand Misti",Sleepless  Il Giustiziere
+http://iptv.iptvthebest.net:15000/movie/idfofaaz/e0Y408fqvJ/23382.mkv
+#EXTINF:-1 tvg-ID="" tvg-name="Smetto quando voglio 2  Masterclass" tvg-logo="http://cdn01.iptvthebest.net:15000/images/5897288.jpg" group-title="OnDemand Misti",Smetto quando voglio 2  Masterclass
+http://iptv.iptvthebest.net:15000/movie/idfofaaz/e0Y408fqvJ/23383.mkv
+#EXTINF:-1 tvg-ID="" tvg-name="The Marine 5" tvg-logo="http://cdn01.iptvthebest.net:15000/images/5781798.jpg" group-title="OnDemand Misti",The Marine 5
+http://iptv.iptvthebest.net:15000/movie/idfofaaz/e0Y408fqvJ/23387.mkv
+#EXTINF:-1 tvg-ID="" tvg-name="End of Gun" tvg-logo="http://cdn01.iptvthebest.net:15000/images/2268433.jpg" group-title="OnDemand Misti",End of Gun
+http://iptv.iptvthebest.net:15000/movie/idfofaaz/e0Y408fqvJ/23234.mkv
+#EXTINF:-1 tvg-ID="" tvg-name="Kung Fu Yoga" tvg-logo="http://cdn01.iptvthebest.net:15000/images/4217392.jpg" group-title="OnDemand Misti",Kung Fu Yoga
+http://iptv.iptvthebest.net:15000/movie/idfofaaz/e0Y408fqvJ/23230.mkv
+#EXTINF:-1 tvg-ID="" tvg-name="L'ora Legale" tvg-logo="http://cdn01.iptvthebest.net:15000/images/6137734.jpg" group-title="OnDemand Misti",L'ora Legale
+http://iptv.iptvthebest.net:15000/movie/idfofaaz/e0Y408fqvJ/23187.mkv
+#EXTINF:-1 tvg-ID="" tvg-name="La La Land" tvg-logo="http://cdn01.iptvthebest.net:15000/images/3783958.jpg" group-title="OnDemand Misti",La La Land
+http://iptv.iptvthebest.net:15000/movie/idfofaaz/e0Y408fqvJ/23233.mkv
+#EXTINF:-1 tvg-ID="" tvg-name="Monster Trucks" tvg-logo="http://cdn01.iptvthebest.net:15000/images/3095734.jpg" group-title="OnDemand Misti",Monster Trucks
+http://iptv.iptvthebest.net:15000/movie/idfofaaz/e0Y408fqvJ/23188.mkv
+#EXTINF:-1 tvg-ID="" tvg-name="Mothers and Daughters" tvg-logo="http://cdn01.iptvthebest.net:15000/images/2395339.jpg" group-title="OnDemand Misti",Mothers and Daughters
+http://iptv.iptvthebest.net:15000/movie/idfofaaz/e0Y408fqvJ/23228.mkv
+#EXTINF:-1 tvg-ID="" tvg-name="Split" tvg-logo="http://cdn01.iptvthebest.net:15000/images/4972582.jpg" group-title="OnDemand Misti",Split
+http://iptv.iptvthebest.net:15000/movie/idfofaaz/e0Y408fqvJ/23232.mkv
+#EXTINF:-1 tvg-ID="" tvg-name="The Founder" tvg-logo="http://cdn01.iptvthebest.net:15000/images/4276820.jpg" group-title="OnDemand Misti",The Founder
+http://iptv.iptvthebest.net:15000/movie/idfofaaz/e0Y408fqvJ/23227.mkv
+#EXTINF:-1 tvg-ID="" tvg-name="The Great Wall" tvg-logo="http://cdn01.iptvthebest.net:15000/images/2034800.jpg" group-title="OnDemand Misti",The Great Wall
+http://iptv.iptvthebest.net:15000/movie/idfofaaz/e0Y408fqvJ/23231.mkv
+#EXTINF:-1 tvg-ID="" tvg-name="xXx: Il ritorno di Xander Cage" tvg-logo="http://cdn01.iptvthebest.net:15000/images/1293847.jpg" group-title="OnDemand Misti",xXx: Il ritorno di Xander Cage
+http://iptv.iptvthebest.net:15000/movie/idfofaaz/e0Y408fqvJ/23229.mkv
+#EXTINF:-1 tvg-ID="" tvg-name="Mister Felicità" tvg-logo="n/A" group-title="OnDemand Misti",Mister Felicità
+http://iptv.iptvthebest.net:15000/movie/idfofaaz/e0Y408fqvJ/19055.mkv
+#EXTINF:-1 tvg-ID="" tvg-name="The Birth Of A Nation" tvg-logo="http://cdn01.iptvthebest.net:15000/images/4196450.jpg" group-title="OnDemand Misti",The Birth Of A Nation
+http://iptv.iptvthebest.net:15000/movie/idfofaaz/e0Y408fqvJ/19056.mkv
+#EXTINF:-1 tvg-ID="" tvg-name="Collateral Beauty" tvg-logo="http://cdn01.iptvthebest.net:15000/images/4682786.jpg" group-title="OnDemand Misti",Collateral Beauty
+http://iptv.iptvthebest.net:15000/movie/idfofaaz/e0Y408fqvJ/19053.mkv
+#EXTINF:-1 tvg-ID="" tvg-name="Arsenal" tvg-logo="http://cdn01.iptvthebest.net:15000/images/5580536.jpg" group-title="OnDemand Misti",Arsenal
+http://iptv.iptvthebest.net:15000/movie/idfofaaz/e0Y408fqvJ/15277.mkv
+#EXTINF:-1 tvg-ID="" tvg-name="Falchi" tvg-logo="http://cdn01.iptvthebest.net:15000/images/6536312.jpg" group-title="OnDemand Misti",Falchi
+http://iptv.iptvthebest.net:15000/movie/idfofaaz/e0Y408fqvJ/15278.mkv
+#EXTINF:-1 tvg-ID="" tvg-name="Passengers" tvg-logo="http://cdn01.iptvthebest.net:15000/images/1355644.jpg" group-title="OnDemand Misti",Passengers
+http://iptv.iptvthebest.net:15000/movie/idfofaaz/e0Y408fqvJ/15276.mkv
+#EXTINF:-1 tvg-ID="" tvg-name="Proprio Lui?" tvg-logo="http://cdn01.iptvthebest.net:15000/images/4501244.jpg" group-title="OnDemand Misti",Proprio Lui?
+http://iptv.iptvthebest.net:15000/movie/idfofaaz/e0Y408fqvJ/18077.mkv
+#EXTINF:-1 tvg-ID="" tvg-name="Rogue One: A Star Wars Story" tvg-logo="http://cdn01.iptvthebest.net:15000/images/3748528.jpg" group-title="OnDemand Misti",Rogue One: A Star Wars Story
+http://iptv.iptvthebest.net:15000/movie/idfofaaz/e0Y408fqvJ/15279.mkv
+#EXTINF:-1 tvg-ID="" tvg-name="Underworld: Blood Wars" tvg-logo="http://cdn01.iptvthebest.net:15000/images/3717252.jpg" group-title="OnDemand Misti",Underworld: Blood Wars
+http://iptv.iptvthebest.net:15000/movie/idfofaaz/e0Y408fqvJ/15280.mkv
+#EXTINF:-1 tvg-ID="" tvg-name="Arrival" tvg-logo="http://cdn01.iptvthebest.net:15000/images/2543164.jpg" group-title="OnDemand Misti",Arrival
+http://iptv.iptvthebest.net:15000/movie/idfofaaz/e0Y408fqvJ/15042.mkv
+#EXTINF:-1 tvg-ID="" tvg-name="Allied" tvg-logo="http://cdn01.iptvthebest.net:15000/images/3640424.jpg" group-title="OnDemand Misti",Allied
+http://iptv.iptvthebest.net:15000/movie/idfofaaz/e0Y408fqvJ/14998.mkv
+#EXTINF:-1 tvg-ID="" tvg-name="Animali Fantastici E Dove Trovarli" tvg-logo="http://cdn01.iptvthebest.net:15000/images/3183660.jpg" group-title="OnDemand Misti",Animali Fantastici E Dove Trovarli
+http://iptv.iptvthebest.net:15000/movie/idfofaaz/e0Y408fqvJ/14997.mkv
+#EXTINF:-1 tvg-ID="" tvg-name="Assassin's Creed" tvg-logo="http://cdn01.iptvthebest.net:15000/images/2094766.jpg" group-title="OnDemand Misti",Assassin's Creed
+http://iptv.iptvthebest.net:15000/movie/idfofaaz/e0Y408fqvJ/14995.mkv
+#EXTINF:-1 tvg-ID="" tvg-name="Babbo Bastardo 2" tvg-logo="http://cdn01.iptvthebest.net:15000/images/1798603.jpg" group-title="OnDemand Misti",Babbo Bastardo 2
+http://iptv.iptvthebest.net:15000/movie/idfofaaz/e0Y408fqvJ/14996.mkv
+#EXTINF:-1 tvg-ID="" tvg-name="La Cena Di Natale" tvg-logo="http://cdn01.iptvthebest.net:15000/images/6281650.jpg" group-title="OnDemand Misti",La Cena Di Natale
+http://iptv.iptvthebest.net:15000/movie/idfofaaz/e0Y408fqvJ/15002.mkv
+#EXTINF:-1 tvg-ID="" tvg-name="La Verità Negata" tvg-logo="http://cdn01.iptvthebest.net:15000/images/6281650.jpg" group-title="OnDemand Misti",La Verità Negata
+http://iptv.iptvthebest.net:15000/movie/idfofaaz/e0Y408fqvJ/15001.mkv
+#EXTINF:-1 tvg-ID="" tvg-name="Le Spie Della Porta Accanto" tvg-logo="http://cdn01.iptvthebest.net:15000/images/2387499.jpg" group-title="OnDemand Misti",Le Spie Della Porta Accanto
+http://iptv.iptvthebest.net:15000/movie/idfofaaz/e0Y408fqvJ/15000.mkv
+#EXTINF:-1 tvg-ID="" tvg-name="Qualcosa Di Nuovo" tvg-logo="http://cdn01.iptvthebest.net:15000/images/6085308.jpg" group-title="OnDemand Misti",Qualcosa Di Nuovo
+http://iptv.iptvthebest.net:15000/movie/idfofaaz/e0Y408fqvJ/14999.mkv
+#EXTINF:-1 tvg-ID="" tvg-name="Animali Notturni" tvg-logo="http://cdn01.iptvthebest.net:15000/images/4550098.jpg" group-title="OnDemand Misti",Animali Notturni
+http://iptv.iptvthebest.net:15000/movie/idfofaaz/e0Y408fqvJ/14994.mkv
+#EXTINF:-1 tvg-ID="" tvg-name="Escobar" tvg-logo="http://cdn01.iptvthebest.net:15000/images/4682788.jpg" group-title="OnDemand Misti",Escobar
+http://iptv.iptvthebest.net:15000/movie/idfofaaz/e0Y408fqvJ/14989.mkv
+#EXTINF:-1 tvg-ID="" tvg-name="Mechanic Resurrection" tvg-logo="http://cdn01.iptvthebest.net:15000/images/6004262.jpg" group-title="OnDemand Misti",Mechanic Resurrection
+http://iptv.iptvthebest.net:15000/movie/idfofaaz/e0Y408fqvJ/14992.mkv
+#EXTINF:-1 tvg-ID="" tvg-name="Snowden" tvg-logo="http://cdn01.iptvthebest.net:15000/images/3774114.jpg" group-title="OnDemand Misti",Snowden
+http://iptv.iptvthebest.net:15000/movie/idfofaaz/e0Y408fqvJ/14991.mkv
+#EXTINF:-1 tvg-ID="" tvg-name="Sully" tvg-logo="http://cdn01.iptvthebest.net:15000/images/3263904.jpg" group-title="OnDemand Misti",Sully
+http://iptv.iptvthebest.net:15000/movie/idfofaaz/e0Y408fqvJ/14993.mkv
+#EXTINF:-1 tvg-ID="" tvg-name="Trolls" tvg-logo="http://cdn01.iptvthebest.net:15000/images/1679335.jpg" group-title="OnDemand Misti",Trolls
+http://iptv.iptvthebest.net:15000/movie/idfofaaz/e0Y408fqvJ/14990.mkv
+#EXTINF:-1 tvg-ID="" tvg-name="Doctor Strange" tvg-logo="http://cdn01.iptvthebest.net:15000/images/1211837.jpg" group-title="OnDemand Misti",Doctor Strange
+http://iptv.iptvthebest.net:15000/movie/idfofaaz/e0Y408fqvJ/14952.mkv
+#EXTINF:-1 tvg-ID="" tvg-name="Genius" tvg-logo="http://cdn01.iptvthebest.net:15000/images/5673782.jpg" group-title="OnDemand Misti",Genius
+http://iptv.iptvthebest.net:15000/movie/idfofaaz/e0Y408fqvJ/14953.mkv
+#EXTINF:-1 tvg-ID="" tvg-name="La Ragazza Del Treno" tvg-logo="http://cdn01.iptvthebest.net:15000/images/5673782.jpg" group-title="OnDemand Misti",La Ragazza Del Treno
+http://iptv.iptvthebest.net:15000/movie/idfofaaz/e0Y408fqvJ/14956.mkv
+#EXTINF:-1 tvg-ID="" tvg-name="La Ragazza Senza Nome" tvg-logo="http://cdn01.iptvthebest.net:15000/images/4630550.jpg" group-title="OnDemand Misti",La Ragazza Senza Nome
+http://iptv.iptvthebest.net:15000/movie/idfofaaz/e0Y408fqvJ/14954.mkv
+#EXTINF:-1 tvg-ID="" tvg-name="Masterminds  I Geni Della Truffa" tvg-logo="http://cdn01.iptvthebest.net:15000/images/2461150.jpg" group-title="OnDemand Misti",Masterminds  I Geni Della Truffa
+http://iptv.iptvthebest.net:15000/movie/idfofaaz/e0Y408fqvJ/14957.mkv
+#EXTINF:-1 tvg-ID="" tvg-name="Pay The Ghost" tvg-logo="http://cdn01.iptvthebest.net:15000/images/3733778.jpg" group-title="OnDemand Misti",Pay The Ghost
+http://iptv.iptvthebest.net:15000/movie/idfofaaz/e0Y408fqvJ/14955.mkv
+#EXTINF:-1 tvg-ID="" tvg-name="Bad Moms" tvg-logo="http://cdn01.iptvthebest.net:15000/images/4651520.jpg" group-title="OnDemand Misti",Bad Moms
+http://iptv.iptvthebest.net:15000/movie/idfofaaz/e0Y408fqvJ/14932.mkv
+#EXTINF:-1 tvg-ID="" tvg-name="Bianconeri Juventus Story" tvg-logo="http://cdn01.iptvthebest.net:15000/images/2091245.jpg" group-title="OnDemand Misti",Bianconeri Juventus Story
+http://iptv.iptvthebest.net:15000/movie/idfofaaz/e0Y408fqvJ/14930.mkv
+#EXTINF:-1 tvg-ID="" tvg-name="I Magnifici 7" tvg-logo="http://cdn01.iptvthebest.net:15000/images/2404435.jpg" group-title="OnDemand Misti",I Magnifici 7
+http://iptv.iptvthebest.net:15000/movie/idfofaaz/e0Y408fqvJ/14931.mkv
+#EXTINF:-1 tvg-ID="" tvg-name="Inferno" tvg-logo="http://cdn01.iptvthebest.net:15000/images/3062096.jpg" group-title="OnDemand Misti",Inferno
+http://iptv.iptvthebest.net:15000/movie/idfofaaz/e0Y408fqvJ/14933.mkv
+#EXTINF:-1 tvg-ID="" tvg-name="Jack Reacher 2 Punto Di Non Ritorno" tvg-logo="http://cdn01.iptvthebest.net:15000/images/3393786.jpg" group-title="OnDemand Misti",Jack Reacher 2 Punto Di Non Ritorno
+http://iptv.iptvthebest.net:15000/movie/idfofaaz/e0Y408fqvJ/14935.mkv
+#EXTINF:-1 tvg-ID="" tvg-name="Mike & Dave  Un Matrimonio Da Sballo" tvg-logo="http://cdn01.iptvthebest.net:15000/images/2823054.jpg" group-title="OnDemand Misti",Mike & Dave  Un Matrimonio Da Sballo
+http://iptv.iptvthebest.net:15000/movie/idfofaaz/e0Y408fqvJ/14934.mkv
+#EXTINF:-1 tvg-ID="" tvg-name="The Accountant" tvg-logo="http://cdn01.iptvthebest.net:15000/images/2140479.jpg" group-title="OnDemand Misti",The Accountant
+http://iptv.iptvthebest.net:15000/movie/idfofaaz/e0Y408fqvJ/14942.mkv
+#EXTINF:-1 tvg-ID="" tvg-name="Blow" tvg-logo="http://cdn01.iptvthebest.net:15000/images/0221027.jpg" group-title="OnDemand Misti",Blow
+http://iptv.iptvthebest.net:15000/movie/idfofaaz/e0Y408fqvJ/14928.mkv
+#EXTINF:-1 tvg-ID="" tvg-name="Hunger Games: Il Canto Della Rivolta" tvg-logo="http://iptvthebest.ddns.net:15000/images/1951266.jpg" group-title="OnDemand Misti",Hunger Games: Il Canto Della Rivolta
+http://iptv.iptvthebest.net:15000/movie/idfofaaz/e0Y408fqvJ/4069.avi
+#EXTINF:-1 tvg-ID="" tvg-name="John Wick" tvg-logo="http://cdn01.iptvthebest.net:15000/images/2911666.jpg" group-title="OnDemand Misti",John Wick
+http://iptv.iptvthebest.net:15000/movie/idfofaaz/e0Y408fqvJ/14926.mkv
+#EXTINF:-1 tvg-ID="" tvg-name="Mine" tvg-logo="http://cdn01.iptvthebest.net:15000/images/3707104.jpg" group-title="OnDemand Misti",Mine
+http://iptv.iptvthebest.net:15000/movie/idfofaaz/e0Y408fqvJ/14929.mkv
+#EXTINF:-1 tvg-ID="" tvg-name="Point Break" tvg-logo="http://iptvthebest.ddns.net:15000/images/2058673.jpg" group-title="OnDemand Misti",Point Break
+http://iptv.iptvthebest.net:15000/movie/idfofaaz/e0Y408fqvJ/4066.mkv
+#EXTINF:-1 tvg-ID="" tvg-name="Room" tvg-logo="http://iptvthebest.ddns.net:15000/images/3170832.jpg" group-title="OnDemand Misti",Room
+http://iptv.iptvthebest.net:15000/movie/idfofaaz/e0Y408fqvJ/4064.mkv
+#EXTINF:-1 tvg-ID="" tvg-name="Tutta Colpa Di Freud" tvg-logo="http://cdn01.iptvthebest.net:15000/images/3237406.jpg" group-title="OnDemand Misti",Tutta Colpa Di Freud
+http://iptv.iptvthebest.net:15000/movie/idfofaaz/e0Y408fqvJ/14927.mkv
+#EXTINF:-1 tvg-ID="" tvg-name="Iron Man" tvg-logo="http://cdn01.iptvthebest.net:15000/images/0371746.jpg" group-title="OnDemand Misti",Iron Man
+http://iptv.iptvthebest.net:15000/movie/idfofaaz/e0Y408fqvJ/14795.mkv
+#EXTINF:-1 tvg-ID="" tvg-name="Iron Man 2" tvg-logo="http://cdn01.iptvthebest.net:15000/images/1228705.jpg" group-title="OnDemand Misti",Iron Man 2
+http://iptv.iptvthebest.net:15000/movie/idfofaaz/e0Y408fqvJ/14796.mkv
+#EXTINF:-1 tvg-ID="" tvg-name="Iron Man 3" tvg-logo="http://cdn01.iptvthebest.net:15000/images/1228705.jpg" group-title="OnDemand Misti",Iron Man 3
+http://iptv.iptvthebest.net:15000/movie/idfofaaz/e0Y408fqvJ/14797.mkv
+#EXTINF:-1 tvg-ID="" tvg-name="The Avengers" tvg-logo="http://cdn01.iptvthebest.net:15000/images/0848228.jpg" group-title="OnDemand Misti",The Avengers
+http://iptv.iptvthebest.net:15000/movie/idfofaaz/e0Y408fqvJ/14793.mkv
+#EXTINF:-1 tvg-ID="" tvg-name="The Avengers 2 Age Of Ultron" tvg-logo="http://cdn01.iptvthebest.net:15000/images/2395427.jpg" group-title="OnDemand Misti",The Avengers 2 Age Of Ultron
+http://iptv.iptvthebest.net:15000/movie/idfofaaz/e0Y408fqvJ/14794.mkv
+#EXTINF:-1 tvg-ID="" tvg-name="Bridget Jones's Baby" tvg-logo="http://cdn01.iptvthebest.net:15000/images/1473832.jpg" group-title="3D OnDemand",Bridget Jones's Baby
+http://iptv.iptvthebest.net:15000/movie/idfofaaz/e0Y408fqvJ/13627.mkv
+#EXTINF:-1 tvg-ID="" tvg-name="Forever Young" tvg-logo="http://cdn01.iptvthebest.net:15000/images/1473832.jpg" group-title="OnDemand Misti",Forever Young
+http://iptv.iptvthebest.net:15000/movie/idfofaaz/e0Y408fqvJ/13635.mkv
+#EXTINF:-1 tvg-ID="" tvg-name="Il Libro Della Giungla" tvg-logo="http://cdn01.iptvthebest.net:15000/images/3040964.jpg" group-title="OnDemand Misti",Il Libro Della Giungla
+http://iptv.iptvthebest.net:15000/movie/idfofaaz/e0Y408fqvJ/13629.mkv
+#EXTINF:-1 tvg-ID="" tvg-name="Independence Day  Rigenerazione" tvg-logo="http://cdn01.iptvthebest.net:15000/images/1628841.jpg" group-title="OnDemand Misti",Independence Day  Rigenerazione
+http://iptv.iptvthebest.net:15000/movie/idfofaaz/e0Y408fqvJ/13628.mkv
+#EXTINF:-1 tvg-ID="" tvg-name="L'estate Addosso" tvg-logo="http://cdn01.iptvthebest.net:15000/images/4650414.jpg" group-title="OnDemand Misti",L'estate Addosso
+http://iptv.iptvthebest.net:15000/movie/idfofaaz/e0Y408fqvJ/13636.mkv
+#EXTINF:-1 tvg-ID="" tvg-name="L'uomo Che Vide L'infinito" tvg-logo="http://cdn01.iptvthebest.net:15000/images/0787524.jpg" group-title="OnDemand Misti",L'uomo Che Vide L'infinito
+http://iptv.iptvthebest.net:15000/movie/idfofaaz/e0Y408fqvJ/13634.mkv
+#EXTINF:-1 tvg-ID="" tvg-name="La Notte Del Giudizio  Election Year" tvg-logo="http://cdn01.iptvthebest.net:15000/images/4094724.jpg" group-title="OnDemand Misti",La Notte Del Giudizio  Election Year
+http://iptv.iptvthebest.net:15000/movie/idfofaaz/e0Y408fqvJ/13632.mkv
+#EXTINF:-1 tvg-ID="" tvg-name="Lights Out - Terrore Nel Buio" tvg-logo="http://cdn01.iptvthebest.net:15000/images/4786282.jpg" group-title="OnDemand Misti",Lights Out - Terrore Nel Buio
+http://iptv.iptvthebest.net:15000/movie/idfofaaz/e0Y408fqvJ/13630.mkv
+#EXTINF:-1 tvg-ID="" tvg-name="Man In The Dark" tvg-logo="http://cdn01.iptvthebest.net:15000/images/4160708.jpg" group-title="OnDemand Misti",Man In The Dark
+http://iptv.iptvthebest.net:15000/movie/idfofaaz/e0Y408fqvJ/13631.mkv
+#EXTINF:-1 tvg-ID="" tvg-name="Trafficanti" tvg-logo="http://cdn01.iptvthebest.net:15000/images/2005151.jpg" group-title="OnDemand Misti",Trafficanti
+http://iptv.iptvthebest.net:15000/movie/idfofaaz/e0Y408fqvJ/13633.mkv
 #EXTINF:-1 tvg-ID="" tvg-name="Ben Hur" tvg-logo="http://cdn01.iptvthebest.net:15000/images/2638144.jpg" group-title="OnDemand Misti",Ben Hur
 http://iptv.iptvthebest.net:15000/movie/idfofaaz/e0Y408fqvJ/13354.mkv
 #EXTINF:-1 tvg-ID="" tvg-name="Cell" tvg-logo="http://cdn01.iptvthebest.net:15000/images/0775440.jpg" group-title="OnDemand Misti",Cell
 http://iptv.iptvthebest.net:15000/movie/idfofaaz/e0Y408fqvJ/13353.mkv
 #EXTINF:-1 tvg-ID="" tvg-name="Deadpool" tvg-logo="http://iptvthebest.ddns.net:15000/images/1431045.jpg" group-title="OnDemand Misti",Deadpool
 http://iptv.iptvthebest.net:15000/movie/idfofaaz/e0Y408fqvJ/4070.avi
-#EXTINF:-1 tvg-ID="" tvg-name="Il drago invisibile" tvg-logo="http://cdn01.iptvthebest.net:15000/images/2788732.jpg" group-title="OnDemand Misti",Il drago invisibile
+#EXTINF:-1 tvg-ID="" tvg-name="Il Drago Invisibile" tvg-logo="http://cdn01.iptvthebest.net:15000/images/2788732.jpg" group-title="OnDemand Misti",Il Drago Invisibile
 http://iptv.iptvthebest.net:15000/movie/idfofaaz/e0Y408fqvJ/13352.mkv
-#EXTINF:-1 tvg-ID="" tvg-name="Il duello" tvg-logo="http://cdn01.iptvthebest.net:15000/images/2436682.jpg" group-title="OnDemand Misti",Il duello
+#EXTINF:-1 tvg-ID="" tvg-name="Il Duello" tvg-logo="http://cdn01.iptvthebest.net:15000/images/2436682.jpg" group-title="OnDemand Misti",Il Duello
 http://iptv.iptvthebest.net:15000/movie/idfofaaz/e0Y408fqvJ/13351.mkv
 #EXTINF:-1 tvg-ID="" tvg-name="Il Ministro" tvg-logo="http://cdn01.iptvthebest.net:15000/images/5707720.jpg" group-title="OnDemand Misti",Il Ministro
 http://iptv.iptvthebest.net:15000/movie/idfofaaz/e0Y408fqvJ/13344.mkv
@@ -339,7 +628,7 @@ http://iptv.iptvthebest.net:15000/movie/idfofaaz/e0Y408fqvJ/13346.mkv
 http://iptv.iptvthebest.net:15000/movie/idfofaaz/e0Y408fqvJ/13347.mkv
 #EXTINF:-1 tvg-ID="" tvg-name="Suicide Squad" tvg-logo="http://cdn01.iptvthebest.net:15000/images/1386697.jpg" group-title="OnDemand Misti",Suicide Squad
 http://iptv.iptvthebest.net:15000/movie/idfofaaz/e0Y408fqvJ/13337.mkv
-#EXTINF:-1 tvg-ID="" tvg-name="Tutti vogliono qualcosa" tvg-logo="http://cdn01.iptvthebest.net:15000/images/2937696.jpg" group-title="OnDemand Misti",Tutti vogliono qualcosa
+#EXTINF:-1 tvg-ID="" tvg-name="Tutti Vogliono Qualcosa" tvg-logo="http://cdn01.iptvthebest.net:15000/images/2937696.jpg" group-title="OnDemand Misti",Tutti Vogliono Qualcosa
 http://iptv.iptvthebest.net:15000/movie/idfofaaz/e0Y408fqvJ/12545.mkv
 #EXTINF:-1 tvg-ID="" tvg-name="Troppo Napoletano" tvg-logo="http://cdn01.iptvthebest.net:15000/images/5654282.jpg" group-title="OnDemand Misti",Troppo Napoletano
 http://iptv.iptvthebest.net:15000/movie/idfofaaz/e0Y408fqvJ/12546.mkv
@@ -355,23 +644,23 @@ http://iptv.iptvthebest.net:15000/movie/idfofaaz/e0Y408fqvJ/12587.mkv
 http://iptv.iptvthebest.net:15000/movie/idfofaaz/e0Y408fqvJ/12589.mkv
 #EXTINF:-1 tvg-ID="" tvg-name="Bastille Day" tvg-logo="http://cdn01.iptvthebest.net:15000/images/2368619.jpg" group-title="OnDemand Misti",Bastille Day
 http://iptv.iptvthebest.net:15000/movie/idfofaaz/e0Y408fqvJ/12588.mkv
-#EXTINF:-1 tvg-ID="" tvg-name="Una spia e mezzo" tvg-logo="http://cdn01.iptvthebest.net:15000/images/1489889.jpg" group-title="OnDemand Misti",Una spia e mezzo
+#EXTINF:-1 tvg-ID="" tvg-name="Una Spia E Mezzo" tvg-logo="http://cdn01.iptvthebest.net:15000/images/1489889.jpg" group-title="OnDemand Misti",Una Spia E Mezzo
 http://iptv.iptvthebest.net:15000/movie/idfofaaz/e0Y408fqvJ/12540.mkv
-#EXTINF:-1 tvg-ID="" tvg-name="Un poliziotto ancora in prova" tvg-logo="http://cdn01.iptvthebest.net:15000/images/2869728.jpg" group-title="OnDemand Misti",Un poliziotto ancora in prova
+#EXTINF:-1 tvg-ID="" tvg-name="Un Poliziotto Ancora In Prova" tvg-logo="http://cdn01.iptvthebest.net:15000/images/2869728.jpg" group-title="OnDemand Misti",Un Poliziotto Ancora In Prova
 http://iptv.iptvthebest.net:15000/movie/idfofaaz/e0Y408fqvJ/12539.mkv
-#EXTINF:-1 tvg-ID="" tvg-name="The Legend of Tarzan" tvg-logo="http://cdn01.iptvthebest.net:15000/images/0918940.jpg" group-title="OnDemand Misti",The Legend of Tarzan
+#EXTINF:-1 tvg-ID="" tvg-name="The Legend Of Tarzan" tvg-logo="http://cdn01.iptvthebest.net:15000/images/0918940.jpg" group-title="OnDemand Misti",The Legend Of Tarzan
 http://iptv.iptvthebest.net:15000/movie/idfofaaz/e0Y408fqvJ/12542.mkv
 #EXTINF:-1 tvg-ID="" tvg-name="Star Trek Beyond" tvg-logo="http://cdn01.iptvthebest.net:15000/images/2660888.jpg" group-title="OnDemand Misti",Star Trek Beyond
 http://iptv.iptvthebest.net:15000/movie/idfofaaz/e0Y408fqvJ/12541.mkv
-#EXTINF:-1 tvg-ID="" tvg-name="Nemiche per la pelle" tvg-logo="http://cdn01.iptvthebest.net:15000/images/5662556.jpg" group-title="OnDemand Misti",Nemiche per la pelle
+#EXTINF:-1 tvg-ID="" tvg-name="Nemiche Per La Pelle" tvg-logo="http://cdn01.iptvthebest.net:15000/images/5662556.jpg" group-title="OnDemand Misti",Nemiche Per La Pelle
 http://iptv.iptvthebest.net:15000/movie/idfofaaz/e0Y408fqvJ/12538.mkv
 #EXTINF:-1 tvg-ID="" tvg-name="Mother's Day" tvg-logo="http://cdn01.iptvthebest.net:15000/images/4824302.jpg" group-title="OnDemand Misti",Mother's Day
 http://iptv.iptvthebest.net:15000/movie/idfofaaz/e0Y408fqvJ/12537.mkv
-#EXTINF:-1 tvg-ID="" tvg-name="Jarhead 3 - Sotto assedio" tvg-logo="http://cdn01.iptvthebest.net:15000/images/4616014.jpg" group-title="OnDemand Misti",Jarhead 3 - Sotto assedio
+#EXTINF:-1 tvg-ID="" tvg-name="Jarhead 3 - Sotto Assedio" tvg-logo="http://cdn01.iptvthebest.net:15000/images/4616014.jpg" group-title="OnDemand Misti",Jarhead 3 - Sotto Assedio
 http://iptv.iptvthebest.net:15000/movie/idfofaaz/e0Y408fqvJ/12536.mkv
-#EXTINF:-1 tvg-ID="" tvg-name="Friend Request - La morte ha il tuo profilo" tvg-logo="http://cdn01.iptvthebest.net:15000/images/3352390.jpg" group-title="OnDemand Misti",Friend Request - La morte ha il tuo profilo
+#EXTINF:-1 tvg-ID="" tvg-name="Friend Request - La Morte Ha Il Tuo Profilo" tvg-logo="http://cdn01.iptvthebest.net:15000/images/3352390.jpg" group-title="OnDemand Misti",Friend Request - La Morte Ha Il Tuo Profilo
 http://iptv.iptvthebest.net:15000/movie/idfofaaz/e0Y408fqvJ/12535.mkv
-#EXTINF:-1 tvg-ID="" tvg-name="Alice attraverso lo specchio" tvg-logo="http://cdn01.iptvthebest.net:15000/images/2567026.jpg" group-title="OnDemand Misti",Alice attraverso lo specchio
+#EXTINF:-1 tvg-ID="" tvg-name="Alice Attraverso Lo Specchio" tvg-logo="http://cdn01.iptvthebest.net:15000/images/2567026.jpg" group-title="OnDemand Misti",Alice Attraverso Lo Specchio
 http://iptv.iptvthebest.net:15000/movie/idfofaaz/e0Y408fqvJ/12534.mkv
 #EXTINF:-1 tvg-ID="" tvg-name="Vita Cuore Battito" tvg-logo="http://iptv.iptvthebest.net:15000/images/5100628.jpg" group-title="OnDemand Misti",Vita Cuore Battito
 http://iptv.iptvthebest.net:15000/movie/idfofaaz/e0Y408fqvJ/12074.mkv
@@ -381,21 +670,21 @@ http://iptv.iptvthebest.net:15000/movie/idfofaaz/e0Y408fqvJ/12073.mkv
 http://iptv.iptvthebest.net:15000/movie/idfofaaz/e0Y408fqvJ/12068.mkv
 #EXTINF:-1 tvg-ID="" tvg-name="Tartarughe Ninja 2" tvg-logo="http://iptv.iptvthebest.net:15000/images/3949660.jpg" group-title="OnDemand Misti",Tartarughe Ninja 2
 http://iptv.iptvthebest.net:15000/movie/idfofaaz/e0Y408fqvJ/12075.mkv
-#EXTINF:-1 tvg-ID="" tvg-name="sherlock la sposa abominevole" tvg-logo="http://iptv.iptvthebest.net:15000/images/3949660.jpg" group-title="OnDemand Misti",sherlock la sposa abominevole
+#EXTINF:-1 tvg-ID="" tvg-name="Sherlock La Sposa Abominevole" tvg-logo="http://iptv.iptvthebest.net:15000/images/3949660.jpg" group-title="OnDemand Misti",Sherlock La Sposa Abominevole
 http://iptv.iptvthebest.net:15000/movie/idfofaaz/e0Y408fqvJ/12071.mkv
 #EXTINF:-1 tvg-ID="" tvg-name="Miracoli Dal Cielo" tvg-logo="http://iptv.iptvthebest.net:15000/images/4257926.jpg" group-title="OnDemand Misti",Miracoli Dal Cielo
 http://iptv.iptvthebest.net:15000/movie/idfofaaz/e0Y408fqvJ/12078.mkv
 #EXTINF:-1 tvg-ID="" tvg-name="Miami Beach" tvg-logo="http://iptv.iptvthebest.net:15000/images/5663624.jpg" group-title="OnDemand Misti",Miami Beach
 http://iptv.iptvthebest.net:15000/movie/idfofaaz/e0Y408fqvJ/12070.mkv
-#EXTINF:-1 tvg-ID="" tvg-name="Io Prima di Te" tvg-logo="http://iptv.iptvthebest.net:15000/images/2674426.jpg" group-title="OnDemand Misti",Io Prima di Te
+#EXTINF:-1 tvg-ID="" tvg-name="Io Prima Di Te" tvg-logo="http://iptv.iptvthebest.net:15000/images/2674426.jpg" group-title="OnDemand Misti",Io Prima Di Te
 http://iptv.iptvthebest.net:15000/movie/idfofaaz/e0Y408fqvJ/12077.mkv
 #EXTINF:-1 tvg-ID="" tvg-name="Independence Day: Rigenerazione" tvg-logo="http://iptv.iptvthebest.net:15000/images/1087455.jpg" group-title="OnDemand Misti",Independence Day: Rigenerazione
 http://iptv.iptvthebest.net:15000/movie/idfofaaz/e0Y408fqvJ/12076.mkv
-#EXTINF:-1 tvg-ID="" tvg-name="Conspiracy - La cospirazione" tvg-logo="http://iptv.iptvthebest.net:15000/images/3658772.jpg" group-title="OnDemand Misti",Conspiracy - La cospirazione
+#EXTINF:-1 tvg-ID="" tvg-name="Conspiracy - La Cospirazione" tvg-logo="http://iptv.iptvthebest.net:15000/images/3658772.jpg" group-title="OnDemand Misti",Conspiracy - La Cospirazione
 http://iptv.iptvthebest.net:15000/movie/idfofaaz/e0Y408fqvJ/12069.mkv
 #EXTINF:-1 tvg-ID="" tvg-name="Cattivi Vicini 2" tvg-logo="http://iptv.iptvthebest.net:15000/images/4438848.jpg" group-title="OnDemand Misti",Cattivi Vicini 2
 http://iptv.iptvthebest.net:15000/movie/idfofaaz/e0Y408fqvJ/12072.mkv
-#EXTINF:-1 tvg-ID="" tvg-name="X-Men: Apocalypse" tvg-logo="http://iptv.iptvthebest.net:15000/images/3385516.jpg" group-title="OnDemand Misti",X-Men: Apocalypse
+#EXTINF:-1 tvg-ID="" tvg-name="X-men: Apocalypse" tvg-logo="http://iptv.iptvthebest.net:15000/images/3385516.jpg" group-title="OnDemand Misti",X-men: Apocalypse
 http://iptv.iptvthebest.net:15000/movie/idfofaaz/e0Y408fqvJ/10209.mkv
 #EXTINF:-1 tvg-ID="" tvg-name="Warcraft" tvg-logo="http://iptv.iptvthebest.net:15000/images/0803096.jpg" group-title="OnDemand Misti",Warcraft
 http://iptv.iptvthebest.net:15000/movie/idfofaaz/e0Y408fqvJ/10208.mkv
@@ -407,7 +696,7 @@ http://iptv.iptvthebest.net:15000/movie/idfofaaz/e0Y408fqvJ/10204.mkv
 http://iptv.iptvthebest.net:15000/movie/idfofaaz/e0Y408fqvJ/10203.mkv
 #EXTINF:-1 tvg-ID="" tvg-name="Sniper Ghost Shooter" tvg-logo="http://iptv.iptvthebest.net:15000/images/5090828.jpg" group-title="OnDemand Misti",Sniper Ghost Shooter
 http://iptv.iptvthebest.net:15000/movie/idfofaaz/e0Y408fqvJ/10210.mkv
-#EXTINF:-1 tvg-ID="" tvg-name="La Coppia dei Campioni" tvg-logo="http://iptv.iptvthebest.net:15000/images/5198944.jpg" group-title="OnDemand Misti",La Coppia dei Campioni
+#EXTINF:-1 tvg-ID="" tvg-name="La Coppia Dei Campioni" tvg-logo="http://iptv.iptvthebest.net:15000/images/5198944.jpg" group-title="OnDemand Misti",La Coppia Dei Campioni
 http://iptv.iptvthebest.net:15000/movie/idfofaaz/e0Y408fqvJ/10205.mkv
 #EXTINF:-1 tvg-ID="" tvg-name="Honey 3" tvg-logo="http://iptv.iptvthebest.net:15000/images/4677938.jpg" group-title="OnDemand Misti",Honey 3
 http://iptv.iptvthebest.net:15000/movie/idfofaaz/e0Y408fqvJ/10206.mkv
@@ -415,11 +704,11 @@ http://iptv.iptvthebest.net:15000/movie/idfofaaz/e0Y408fqvJ/10206.mkv
 http://iptv.iptvthebest.net:15000/movie/idfofaaz/e0Y408fqvJ/10202.mkv
 #EXTINF:-1 tvg-ID="" tvg-name="The Vatican Tapes" tvg-logo="http://iptv.iptvthebest.net:15000/images/1524575.jpg" group-title="OnDemand Misti",The Vatican Tapes
 http://iptv.iptvthebest.net:15000/movie/idfofaaz/e0Y408fqvJ/9431.mkv
-#EXTINF:-1 tvg-ID="" tvg-name="Poliziotto Ancora in prova" tvg-logo="http://iptv.iptvthebest.net:15000/images/2869728.jpg" group-title="OnDemand Misti",Poliziotto Ancora in prova
+#EXTINF:-1 tvg-ID="" tvg-name="Poliziotto Ancora In Prova" tvg-logo="http://iptv.iptvthebest.net:15000/images/2869728.jpg" group-title="OnDemand Misti",Poliziotto Ancora In Prova
 http://iptv.iptvthebest.net:15000/movie/idfofaaz/e0Y408fqvJ/9433.mkv
 #EXTINF:-1 tvg-ID="" tvg-name="Nonno Scatenato" tvg-logo="http://iptv.iptvthebest.net:15000/images/1860213.jpg" group-title="OnDemand Misti",Nonno Scatenato
 http://iptv.iptvthebest.net:15000/movie/idfofaaz/e0Y408fqvJ/9429.mkv
-#EXTINF:-1 tvg-ID="" tvg-name="Il Cacciatore e la Regina di Ghiaccio" tvg-logo="http://iptv.iptvthebest.net:15000/images/2381991.jpg" group-title="OnDemand Misti",Il Cacciatore e la Regina di Ghiaccio
+#EXTINF:-1 tvg-ID="" tvg-name="Il Cacciatore E La Regina Di Ghiaccio" tvg-logo="http://iptv.iptvthebest.net:15000/images/2381991.jpg" group-title="OnDemand Misti",Il Cacciatore E La Regina Di Ghiaccio
 http://iptv.iptvthebest.net:15000/movie/idfofaaz/e0Y408fqvJ/9430.mkv
 #EXTINF:-1 tvg-ID="" tvg-name="Captain America 3 The Civil War" tvg-logo="http://iptv.iptvthebest.net:15000/images/3498820.jpg" group-title="OnDemand Misti",Captain America 3 The Civil War
 http://iptv.iptvthebest.net:15000/movie/idfofaaz/e0Y408fqvJ/9432.mkv
@@ -427,7 +716,7 @@ http://iptv.iptvthebest.net:15000/movie/idfofaaz/e0Y408fqvJ/9432.mkv
 http://iptv.iptvthebest.net:15000/movie/idfofaaz/e0Y408fqvJ/8305.mkv
 #EXTINF:-1 tvg-ID="" tvg-name="Regression" tvg-logo="http://iptv.iptvthebest.net:15000/images/3319920.jpg" group-title="OnDemand Misti",Regression
 http://iptv.iptvthebest.net:15000/movie/idfofaaz/e0Y408fqvJ/8306.mkv
-#EXTINF:-1 tvg-ID="" tvg-name="Race - il colore della vittoria" tvg-logo="http://iptv.iptvthebest.net:15000/images/3499096.jpg" group-title="OnDemand Misti",Race - il colore della vittoria
+#EXTINF:-1 tvg-ID="" tvg-name="Race - Il Colore Della Vittoria" tvg-logo="http://iptv.iptvthebest.net:15000/images/3499096.jpg" group-title="OnDemand Misti",Race - Il Colore Della Vittoria
 http://iptv.iptvthebest.net:15000/movie/idfofaaz/e0Y408fqvJ/8307.mkv
 #EXTINF:-1 tvg-ID="" tvg-name="Macbeth" tvg-logo="http://iptv.iptvthebest.net:15000/images/2884018.jpg" group-title="OnDemand Misti",Macbeth
 http://iptv.iptvthebest.net:15000/movie/idfofaaz/e0Y408fqvJ/8308.mkv
@@ -435,7 +724,7 @@ http://iptv.iptvthebest.net:15000/movie/idfofaaz/e0Y408fqvJ/8308.mkv
 http://iptv.iptvthebest.net:15000/movie/idfofaaz/e0Y408fqvJ/8309.mkv
 #EXTINF:-1 tvg-ID="" tvg-name="Never Back Down 3" tvg-logo="http://iptv.iptvthebest.net:15000/images/4790268.jpg" group-title="OnDemand Misti",Never Back Down 3
 http://iptv.iptvthebest.net:15000/movie/idfofaaz/e0Y408fqvJ/8133.mkv
-#EXTINF:-1 tvg-ID="" tvg-name="Matrimonio al Sud.avi" tvg-logo="http://iptv.iptvthebest.net:15000/images/5138018.jpg" group-title="OnDemand Misti",Matrimonio al Sud.avi
+#EXTINF:-1 tvg-ID="" tvg-name="Matrimonio Al Sud Avi" tvg-logo="http://iptv.iptvthebest.net:15000/images/5138018.jpg" group-title="OnDemand Misti",Matrimonio Al Sud Avi
 http://iptv.iptvthebest.net:15000/movie/idfofaaz/e0Y408fqvJ/8137.mkv
 #EXTINF:-1 tvg-ID="" tvg-name="Legend" tvg-logo="http://iptv.iptvthebest.net:15000/images/3569230.jpg" group-title="OnDemand Misti",Legend
 http://iptv.iptvthebest.net:15000/movie/idfofaaz/e0Y408fqvJ/8132.mkv
@@ -447,7 +736,7 @@ http://iptv.iptvthebest.net:15000/movie/idfofaaz/e0Y408fqvJ/8136.mkv
 http://iptv.iptvthebest.net:15000/movie/idfofaaz/e0Y408fqvJ/8129.mkv
 #EXTINF:-1 tvg-ID="" tvg-name="Good Kill" tvg-logo="http://iptv.iptvthebest.net:15000/images/3297330.jpg" group-title="OnDemand Misti",Good Kill
 http://iptv.iptvthebest.net:15000/movie/idfofaaz/e0Y408fqvJ/8131.mkv
-#EXTINF:-1 tvg-ID="" tvg-name="Dark Places-Nei luoghi oscuri" tvg-logo="http://iptv.iptvthebest.net:15000/images/2402101.jpg" group-title="OnDemand Misti",Dark Places-Nei luoghi oscuri
+#EXTINF:-1 tvg-ID="" tvg-name="Dark Places-nei Luoghi Oscuri" tvg-logo="http://iptv.iptvthebest.net:15000/images/2402101.jpg" group-title="OnDemand Misti",Dark Places-nei Luoghi Oscuri
 http://iptv.iptvthebest.net:15000/movie/idfofaaz/e0Y408fqvJ/8127.mkv
 #EXTINF:-1 tvg-ID="" tvg-name="Daddy's Home" tvg-logo="http://iptv.iptvthebest.net:15000/images/2402101.jpg" group-title="OnDemand Misti",Daddy's Home
 http://iptv.iptvthebest.net:15000/movie/idfofaaz/e0Y408fqvJ/8126.mkv
@@ -461,19 +750,19 @@ http://iptv.iptvthebest.net:15000/movie/idfofaaz/e0Y408fqvJ/8125.mkv
 http://iptv.iptvthebest.net:15000/movie/idfofaaz/e0Y408fqvJ/8135.mkv
 #EXTINF:-1 tvg-ID="" tvg-name="Assediati In Casa" tvg-logo="http://iptv.iptvthebest.net:15000/images/5351000.jpg" group-title="OnDemand Misti",Assediati In Casa
 http://iptv.iptvthebest.net:15000/movie/idfofaaz/e0Y408fqvJ/8130.mkv
-#EXTINF:-1 tvg-ID="" tvg-name="Fast and Furious" tvg-logo="http://iptv.iptvthebest.net:15000/images/0232500.jpg" group-title="OnDemand Misti",Fast and Furious
+#EXTINF:-1 tvg-ID="" tvg-name="Fast And Furious" tvg-logo="http://iptv.iptvthebest.net:15000/images/0232500.jpg" group-title="OnDemand Misti",Fast And Furious
 http://iptv.iptvthebest.net:15000/movie/idfofaaz/e0Y408fqvJ/7501.mkv
 #EXTINF:-1 tvg-ID="" tvg-name="2 Fast  2 Furious" tvg-logo="http://iptv.iptvthebest.net:15000/images/0322259.jpg" group-title="OnDemand Misti",2 Fast  2 Furious
 http://iptv.iptvthebest.net:15000/movie/idfofaaz/e0Y408fqvJ/7502.mkv
-#EXTINF:-1 tvg-ID="" tvg-name="Fast and Furious 3 Tokyo Drift" tvg-logo="http://iptv.iptvthebest.net:15000/images/0322259.jpg" group-title="OnDemand Misti",Fast and Furious 3 Tokyo Drift
+#EXTINF:-1 tvg-ID="" tvg-name="Fast And Furious 3 Tokyo Drift" tvg-logo="http://iptv.iptvthebest.net:15000/images/0322259.jpg" group-title="OnDemand Misti",Fast And Furious 3 Tokyo Drift
 http://iptv.iptvthebest.net:15000/movie/idfofaaz/e0Y408fqvJ/7503.mkv
-#EXTINF:-1 tvg-ID="" tvg-name="Fast and Furious 4 Solo Parti Originali" tvg-logo="http://iptv.iptvthebest.net:15000/images/0322259.jpg" group-title="OnDemand Misti",Fast and Furious 4 Solo Parti Originali
+#EXTINF:-1 tvg-ID="" tvg-name="Fast And Furious 4 Solo Parti Originali" tvg-logo="http://iptv.iptvthebest.net:15000/images/0322259.jpg" group-title="OnDemand Misti",Fast And Furious 4 Solo Parti Originali
 http://iptv.iptvthebest.net:15000/movie/idfofaaz/e0Y408fqvJ/7504.mkv
-#EXTINF:-1 tvg-ID="" tvg-name="Fast and Furious 5" tvg-logo="http://iptv.iptvthebest.net:15000/images/0322259.jpg" group-title="OnDemand Misti",Fast and Furious 5
+#EXTINF:-1 tvg-ID="" tvg-name="Fast And Furious 5" tvg-logo="http://iptv.iptvthebest.net:15000/images/0322259.jpg" group-title="OnDemand Misti",Fast And Furious 5
 http://iptv.iptvthebest.net:15000/movie/idfofaaz/e0Y408fqvJ/7505.mkv
-#EXTINF:-1 tvg-ID="" tvg-name="Fast and Furious 6" tvg-logo="http://iptv.iptvthebest.net:15000/images/0322259.jpg" group-title="OnDemand Misti",Fast and Furious 6
+#EXTINF:-1 tvg-ID="" tvg-name="Fast And Furious 6" tvg-logo="http://iptv.iptvthebest.net:15000/images/0322259.jpg" group-title="OnDemand Misti",Fast And Furious 6
 http://iptv.iptvthebest.net:15000/movie/idfofaaz/e0Y408fqvJ/7506.mkv
-#EXTINF:-1 tvg-ID="" tvg-name="Fast and Furious 7" tvg-logo="http://iptv.iptvthebest.net:15000/images/0322259.jpg" group-title="OnDemand Misti",Fast and Furious 7
+#EXTINF:-1 tvg-ID="" tvg-name="Fast And Furious 7" tvg-logo="http://iptv.iptvthebest.net:15000/images/0322259.jpg" group-title="OnDemand Misti",Fast And Furious 7
 http://iptv.iptvthebest.net:15000/movie/idfofaaz/e0Y408fqvJ/7507.mkv
 #EXTINF:-1 tvg-ID="" tvg-name="Ali" tvg-logo="http://iptv.iptvthebest.net:15000/images/0248667.jpg" group-title="OnDemand Misti",Ali
 http://iptv.iptvthebest.net:15000/movie/idfofaaz/e0Y408fqvJ/6494.mkv
@@ -481,51 +770,51 @@ http://iptv.iptvthebest.net:15000/movie/idfofaaz/e0Y408fqvJ/6494.mkv
 http://iptv.iptvthebest.net:15000/movie/idfofaaz/e0Y408fqvJ/6492.mkv
 #EXTINF:-1 tvg-ID="" tvg-name="Zoolander 2" tvg-logo="http://iptv.iptvthebest.net:15000/images/1608290.jpg" group-title="OnDemand Misti",Zoolander 2
 http://iptv.iptvthebest.net:15000/movie/idfofaaz/e0Y408fqvJ/6491.mkv
-#EXTINF:-1 tvg-ID="" tvg-name="Heart of the Sea – Le origini di Moby Dick" tvg-logo="http://iptv.iptvthebest.net:15000/images/1608290.jpg" group-title="OnDemand Misti",Heart of the Sea – Le origini di Moby Dick
+#EXTINF:-1 tvg-ID="" tvg-name="Heart Of The Sea – Le Origini Di Moby Dick" tvg-logo="http://iptv.iptvthebest.net:15000/images/1608290.jpg" group-title="OnDemand Misti",Heart Of The Sea – Le Origini Di Moby Dick
 http://iptv.iptvthebest.net:15000/movie/idfofaaz/e0Y408fqvJ/6485.mkv
-#EXTINF:-1 tvg-ID="" tvg-name="Focus – Niente è come sembra" tvg-logo="http://iptv.iptvthebest.net:15000/images/1608290.jpg" group-title="OnDemand Misti",Focus – Niente è come sembra
+#EXTINF:-1 tvg-ID="" tvg-name="Focus – Niente è Come Sembra" tvg-logo="http://iptv.iptvthebest.net:15000/images/1608290.jpg" group-title="OnDemand Misti",Focus – Niente è Come Sembra
 http://iptv.iptvthebest.net:15000/movie/idfofaaz/e0Y408fqvJ/6484.mkv
 #EXTINF:-1 tvg-ID="" tvg-name="Crimson Peak" tvg-logo="http://iptv.iptvthebest.net:15000/images/1608290.jpg" group-title="OnDemand Misti",Crimson Peak
 http://iptv.iptvthebest.net:15000/movie/idfofaaz/e0Y408fqvJ/6483.mkv
-#EXTINF:-1 tvg-ID="" tvg-name="Come ti rovino le vacanze" tvg-logo="http://iptv.iptvthebest.net:15000/images/1524930.jpg" group-title="OnDemand Misti",Come ti rovino le vacanze
+#EXTINF:-1 tvg-ID="" tvg-name="Come Ti Rovino Le Vacanze" tvg-logo="http://iptv.iptvthebest.net:15000/images/1524930.jpg" group-title="OnDemand Misti",Come Ti Rovino Le Vacanze
 http://iptv.iptvthebest.net:15000/movie/idfofaaz/e0Y408fqvJ/6482.mkv
-#EXTINF:-1 tvg-ID="" tvg-name="Cinquanta sfumature di grigio" tvg-logo="http://iptv.iptvthebest.net:15000/images/1524930.jpg" group-title="OnDemand Misti",Cinquanta sfumature di grigio
+#EXTINF:-1 tvg-ID="" tvg-name="Cinquanta Sfumature Di Grigio" tvg-logo="http://iptv.iptvthebest.net:15000/images/1524930.jpg" group-title="OnDemand Misti",Cinquanta Sfumature Di Grigio
 http://iptv.iptvthebest.net:15000/movie/idfofaaz/e0Y408fqvJ/6481.mkv
-#EXTINF:-1 tvg-ID="" tvg-name="Belli di Papà" tvg-logo="http://iptv.iptvthebest.net:15000/images/1524930.jpg" group-title="OnDemand Misti",Belli di Papà
+#EXTINF:-1 tvg-ID="" tvg-name="Belli Di Papà" tvg-logo="http://iptv.iptvthebest.net:15000/images/1524930.jpg" group-title="OnDemand Misti",Belli Di Papà
 http://iptv.iptvthebest.net:15000/movie/idfofaaz/e0Y408fqvJ/6480.mkv
 #EXTINF:-1 tvg-ID="" tvg-name="Babadook" tvg-logo="http://iptv.iptvthebest.net:15000/images/2321549.jpg" group-title="OnDemand Misti",Babadook
 http://iptv.iptvthebest.net:15000/movie/idfofaaz/e0Y408fqvJ/6479.mkv
 #EXTINF:-1 tvg-ID="" tvg-name="Un Poliziotto Alle Elementari 2" tvg-logo="http://iptv.iptvthebest.net:15000/images/4763168.jpg" group-title="OnDemand Misti",Un Poliziotto Alle Elementari 2
 http://iptv.iptvthebest.net:15000/movie/idfofaaz/e0Y408fqvJ/6197.mkv
-#EXTINF:-1 tvg-ID="" tvg-name="Se mi lascia non vale" tvg-logo="http://iptv.iptvthebest.net:15000/images/5458458.jpg" group-title="OnDemand Misti",Se mi lascia non vale
+#EXTINF:-1 tvg-ID="" tvg-name="Se Mi Lascia Non Vale" tvg-logo="http://iptv.iptvthebest.net:15000/images/5458458.jpg" group-title="OnDemand Misti",Se Mi Lascia Non Vale
 http://iptv.iptvthebest.net:15000/movie/idfofaaz/e0Y408fqvJ/6196.mkv
-#EXTINF:-1 tvg-ID="" tvg-name="La quinta onda" tvg-logo="http://iptv.iptvthebest.net:15000/images/2304933.jpg" group-title="OnDemand Misti",La quinta onda
+#EXTINF:-1 tvg-ID="" tvg-name="La Quinta Onda" tvg-logo="http://iptv.iptvthebest.net:15000/images/2304933.jpg" group-title="OnDemand Misti",La Quinta Onda
 http://iptv.iptvthebest.net:15000/movie/idfofaaz/e0Y408fqvJ/6195.mkv
-#EXTINF:-1 tvg-ID="" tvg-name="L'abbiamo fatta grossa" tvg-logo="http://iptv.iptvthebest.net:15000/images/4778106.jpg" group-title="OnDemand Misti",L'abbiamo fatta grossa
+#EXTINF:-1 tvg-ID="" tvg-name="L'abbiamo Fatta Grossa" tvg-logo="http://iptv.iptvthebest.net:15000/images/4778106.jpg" group-title="OnDemand Misti",L'abbiamo Fatta Grossa
 http://iptv.iptvthebest.net:15000/movie/idfofaaz/e0Y408fqvJ/6194.mkv
 #EXTINF:-1 tvg-ID="" tvg-name="Steve Jobs" tvg-logo="http://iptvthebest.ddns.net:15000/images/2080374.jpg" group-title="OnDemand Misti",Steve Jobs
 http://iptv.iptvthebest.net:15000/movie/idfofaaz/e0Y408fqvJ/5103.mkv
-#EXTINF:-1 tvg-ID="" tvg-name="La grande scommessa" tvg-logo="http://iptvthebest.ddns.net:15000/images/1596363.jpg" group-title="OnDemand Misti",La grande scommessa
+#EXTINF:-1 tvg-ID="" tvg-name="La Grande Scommessa" tvg-logo="http://iptvthebest.ddns.net:15000/images/1596363.jpg" group-title="OnDemand Misti",La Grande Scommessa
 http://iptv.iptvthebest.net:15000/movie/idfofaaz/e0Y408fqvJ/5102.mkv
 #EXTINF:-1 tvg-ID="" tvg-name="Joy" tvg-logo="http://iptv.iptvthebest.net:15000/images/2446980.jpg" group-title="OnDemand Misti",Joy
 http://iptv.iptvthebest.net:15000/movie/idfofaaz/e0Y408fqvJ/5105.mkv
-#EXTINF:-1 tvg-ID="" tvg-name="Creed – Nato per combattere" tvg-logo="http://iptv.iptvthebest.net:15000/images/2446980.jpg" group-title="OnDemand Misti",Creed – Nato per combattere
+#EXTINF:-1 tvg-ID="" tvg-name="Creed – Nato Per Combattere" tvg-logo="http://iptv.iptvthebest.net:15000/images/2446980.jpg" group-title="OnDemand Misti",Creed – Nato Per Combattere
 http://iptv.iptvthebest.net:15000/movie/idfofaaz/e0Y408fqvJ/5101.mkv
 #EXTINF:-1 tvg-ID="" tvg-name="Brooklyn" tvg-logo="http://iptv.iptvthebest.net:15000/images/2381111.jpg" group-title="OnDemand Misti",Brooklyn
 http://iptv.iptvthebest.net:15000/movie/idfofaaz/e0Y408fqvJ/5129.mkv
 #EXTINF:-1 tvg-ID="" tvg-name="Vice" tvg-logo="http://iptvthebest.ddns.net:15000/images/1759761.jpg" group-title="OnDemand Misti",Vice
 http://iptv.iptvthebest.net:15000/movie/idfofaaz/e0Y408fqvJ/5015.mkv
-#EXTINF:-1 tvg-ID="" tvg-name="The Last Witch Hunter – L’ultimo cacciatore di streghe" tvg-logo="http://iptvthebest.ddns.net:15000/images/1759761.jpg" group-title="OnDemand Misti",The Last Witch Hunter – L’ultimo cacciatore di streghe
+#EXTINF:-1 tvg-ID="" tvg-name="The Last Witch Hunter – L’ultimo Cacciatore Di Streghe" tvg-logo="http://iptvthebest.ddns.net:15000/images/1759761.jpg" group-title="OnDemand Misti",The Last Witch Hunter – L’ultimo Cacciatore Di Streghe
 http://iptv.iptvthebest.net:15000/movie/idfofaaz/e0Y408fqvJ/5013.mkv
-#EXTINF:-1 tvg-ID="" tvg-name="Revenant - redivivo" tvg-logo="http://iptvthebest.ddns.net:15000/images/1663202.jpg" group-title="OnDemand Misti",Revenant - redivivo
+#EXTINF:-1 tvg-ID="" tvg-name="Revenant - Redivivo" tvg-logo="http://iptvthebest.ddns.net:15000/images/1663202.jpg" group-title="OnDemand Misti",Revenant - Redivivo
 http://iptv.iptvthebest.net:15000/movie/idfofaaz/e0Y408fqvJ/5026.mkv
-#EXTINF:-1 tvg-ID="" tvg-name="Quo vado?" tvg-logo="http://iptvthebest.ddns.net:15000/images/5290524.jpg" group-title="OnDemand Misti",Quo vado?
+#EXTINF:-1 tvg-ID="" tvg-name="Quo Vado?" tvg-logo="http://iptvthebest.ddns.net:15000/images/5290524.jpg" group-title="OnDemand Misti",Quo Vado?
 http://iptv.iptvthebest.net:15000/movie/idfofaaz/e0Y408fqvJ/5012.mkv
-#EXTINF:-1 tvg-ID="" tvg-name="Dio esiste e vive a Bruxelles" tvg-logo="http://iptvthebest.ddns.net:15000/images/5290524.jpg" group-title="OnDemand Misti",Dio esiste e vive a Bruxelles
+#EXTINF:-1 tvg-ID="" tvg-name="Dio Esiste E Vive A Bruxelles" tvg-logo="http://iptvthebest.ddns.net:15000/images/5290524.jpg" group-title="OnDemand Misti",Dio Esiste E Vive A Bruxelles
 http://iptv.iptvthebest.net:15000/movie/idfofaaz/e0Y408fqvJ/5014.mkv
 #EXTINF:-1 tvg-ID="" tvg-name="Tracers" tvg-logo="http://iptvthebest.ddns.net:15000/images/2401097.jpg" group-title="OnDemand Misti",Tracers
 http://iptv.iptvthebest.net:15000/movie/idfofaaz/e0Y408fqvJ/4403.mkv
-#EXTINF:-1 tvg-ID="" tvg-name="Pan – Viaggio sull’isola che non c’è" tvg-logo="http://iptvthebest.ddns.net:15000/images/2401097.jpg" group-title="OnDemand Misti",Pan – Viaggio sull’isola che non c’è
+#EXTINF:-1 tvg-ID="" tvg-name="Pan – Viaggio Sull’isola Che Non C’è" tvg-logo="http://iptvthebest.ddns.net:15000/images/2401097.jpg" group-title="OnDemand Misti",Pan – Viaggio Sull’isola Che Non C’è
 http://iptv.iptvthebest.net:15000/movie/idfofaaz/e0Y408fqvJ/4402.mkv
 #EXTINF:-1 tvg-ID="" tvg-name="La Teoria Del Tutto" tvg-logo="http://iptvthebest.ddns.net:15000/images/2980516.jpg" group-title="OnDemand Misti",La Teoria Del Tutto
 http://iptv.iptvthebest.net:15000/movie/idfofaaz/e0Y408fqvJ/4401.mkv
@@ -539,7 +828,7 @@ http://iptv.iptvthebest.net:15000/movie/idfofaaz/e0Y408fqvJ/4205.mp4
 http://iptv.iptvthebest.net:15000/movie/idfofaaz/e0Y408fqvJ/4206.mkv
 #EXTINF:-1 tvg-ID="" tvg-name="Selfless" tvg-logo="http://iptvthebest.ddns.net:15000/images/2140379.jpg" group-title="OnDemand Misti",Selfless
 http://iptv.iptvthebest.net:15000/movie/idfofaaz/e0Y408fqvJ/4199.mp4
-#EXTINF:-1 tvg-ID="" tvg-name="Non ci resta che piangere" tvg-logo="http://iptvthebest.ddns.net:15000/images/0087814.jpg" group-title="Serie TV",Non ci resta che piangere
+#EXTINF:-1 tvg-ID="" tvg-name="Non Ci Resta Che Piangere" tvg-logo="http://iptvthebest.ddns.net:15000/images/0087814.jpg" group-title="Serie TV",Non Ci Resta Che Piangere
 http://iptv.iptvthebest.net:15000/movie/idfofaaz/e0Y408fqvJ/4198.mp4
 #EXTINF:-1 tvg-ID="" tvg-name="Jurassic World" tvg-logo="http://iptvthebest.ddns.net:15000/images/0369610.jpg" group-title="OnDemand Misti",Jurassic World
 http://iptv.iptvthebest.net:15000/movie/idfofaaz/e0Y408fqvJ/4200.mp4
@@ -555,7 +844,7 @@ http://iptv.iptvthebest.net:15000/movie/idfofaaz/e0Y408fqvJ/3584.mkv
 http://iptv.iptvthebest.net:15000/movie/idfofaaz/e0Y408fqvJ/3585.mkv
 #EXTINF:-1 tvg-ID="" tvg-name="22 Minutes" tvg-logo="http://46.21.29.4:15000/images/not-found.jpg" group-title="OnDemand Misti",22 Minutes
 http://iptv.iptvthebest.net:15000/movie/idfofaaz/e0Y408fqvJ/3586.mkv
-#EXTINF:-1 tvg-ID="" tvg-name="436 La Profezia." tvg-logo="http://46.21.29.4:15000/images/not-found.jpg" group-title="OnDemand Misti",436 La Profezia.
+#EXTINF:-1 tvg-ID="" tvg-name="436 La Profezia " tvg-logo="http://46.21.29.4:15000/images/not-found.jpg" group-title="OnDemand Misti",436 La Profezia 
 http://iptv.iptvthebest.net:15000/movie/idfofaaz/e0Y408fqvJ/3587.mkv
 #EXTINF:-1 tvg-ID="" tvg-name="5 Anni Di Fidanzamento" tvg-logo="http://46.21.29.4:15000/images/1195478.jpg" group-title="OnDemand Misti",5 Anni Di Fidanzamento
 http://iptv.iptvthebest.net:15000/movie/idfofaaz/e0Y408fqvJ/3588.mkv
@@ -579,7 +868,7 @@ http://iptv.iptvthebest.net:15000/movie/idfofaaz/e0Y408fqvJ/3596.mkv
 http://iptv.iptvthebest.net:15000/movie/idfofaaz/e0Y408fqvJ/3597.mkv
 #EXTINF:-1 tvg-ID="" tvg-name="Affare Fatto" tvg-logo="http://46.21.29.4:15000/images/2358925.jpg" group-title="OnDemand Misti",Affare Fatto
 http://iptv.iptvthebest.net:15000/movie/idfofaaz/e0Y408fqvJ/3598.mkv
-#EXTINF:-1 tvg-ID="" tvg-name="After the Ball" tvg-logo="http://46.21.29.4:15000/images/3717016.jpg" group-title="OnDemand Misti",After the Ball
+#EXTINF:-1 tvg-ID="" tvg-name="After The Ball" tvg-logo="http://46.21.29.4:15000/images/3717016.jpg" group-title="OnDemand Misti",After The Ball
 http://iptv.iptvthebest.net:15000/movie/idfofaaz/e0Y408fqvJ/3599.mkv
 #EXTINF:-1 tvg-ID="" tvg-name="Age Of Ice" tvg-logo="http://46.21.29.4:15000/images/3924510.jpg" group-title="OnDemand Misti",Age Of Ice
 http://iptv.iptvthebest.net:15000/movie/idfofaaz/e0Y408fqvJ/3600.mkv
@@ -599,15 +888,15 @@ http://iptv.iptvthebest.net:15000/movie/idfofaaz/e0Y408fqvJ/3606.mkv
 http://iptv.iptvthebest.net:15000/movie/idfofaaz/e0Y408fqvJ/3607.mkv
 #EXTINF:-1 tvg-ID="" tvg-name="Amici Miei" tvg-logo="http://46.21.29.4:15000/images/0072637.jpg" group-title="OnDemand Misti",Amici Miei
 http://iptv.iptvthebest.net:15000/movie/idfofaaz/e0Y408fqvJ/3610.mkv
-#EXTINF:-1 tvg-ID="" tvg-name="Amici Miei Atto II" tvg-logo="http://46.21.29.4:15000/images/not-found.jpg" group-title="OnDemand Misti",Amici Miei Atto II
+#EXTINF:-1 tvg-ID="" tvg-name="Amici Miei Atto Ii" tvg-logo="http://46.21.29.4:15000/images/not-found.jpg" group-title="OnDemand Misti",Amici Miei Atto Ii
 http://iptv.iptvthebest.net:15000/movie/idfofaaz/e0Y408fqvJ/3608.mkv
-#EXTINF:-1 tvg-ID="" tvg-name="Amici Miei Atto III" tvg-logo="http://46.21.29.4:15000/images/not-found.jpg" group-title="OnDemand Misti",Amici Miei Atto III
+#EXTINF:-1 tvg-ID="" tvg-name="Amici Miei Atto Iii" tvg-logo="http://46.21.29.4:15000/images/not-found.jpg" group-title="OnDemand Misti",Amici Miei Atto Iii
 http://iptv.iptvthebest.net:15000/movie/idfofaaz/e0Y408fqvJ/3609.mkv
 #EXTINF:-1 tvg-ID="" tvg-name="Angeli" tvg-logo="http://46.21.29.4:15000/images/2892340.jpg" group-title="OnDemand Misti",Angeli
 http://iptv.iptvthebest.net:15000/movie/idfofaaz/e0Y408fqvJ/3611.mkv
 #EXTINF:-1 tvg-ID="" tvg-name="Annie La Felicita E Contagiosa" tvg-logo="http://46.21.29.4:15000/images/1823664.jpg" group-title="OnDemand Misti",Annie La Felicita E Contagiosa
 http://iptv.iptvthebest.net:15000/movie/idfofaaz/e0Y408fqvJ/3612.mkv
-#EXTINF:-1 tvg-ID="" tvg-name="Ant-Man" tvg-logo="http://46.21.29.4:15000/images/0478970.jpg" group-title="OnDemand Misti",Ant-Man
+#EXTINF:-1 tvg-ID="" tvg-name="Ant-man" tvg-logo="http://46.21.29.4:15000/images/0478970.jpg" group-title="OnDemand Misti",Ant-man
 http://iptv.iptvthebest.net:15000/movie/idfofaaz/e0Y408fqvJ/3613.mkv
 #EXTINF:-1 tvg-ID="" tvg-name="Any Day Now" tvg-logo="http://46.21.29.4:15000/images/2066176.jpg" group-title="OnDemand Misti",Any Day Now
 http://iptv.iptvthebest.net:15000/movie/idfofaaz/e0Y408fqvJ/3614.mkv
@@ -617,17 +906,17 @@ http://iptv.iptvthebest.net:15000/movie/idfofaaz/e0Y408fqvJ/3615.mkv
 http://iptv.iptvthebest.net:15000/movie/idfofaaz/e0Y408fqvJ/3616.mkv
 #EXTINF:-1 tvg-ID="" tvg-name="Bad Country" tvg-logo="http://46.21.29.4:15000/images/2350892.jpg" group-title="OnDemand Misti",Bad Country
 http://iptv.iptvthebest.net:15000/movie/idfofaaz/e0Y408fqvJ/3617.mkv
-#EXTINF:-1 tvg-ID="" tvg-name="Bad.Asses 2 - Giustizieri.Da.Strapazzo in Louisiana" tvg-logo="http://46.21.29.4:15000/images/2350892.jpg" group-title="OnDemand Misti",Bad.Asses 2 - Giustizieri.Da.Strapazzo in Louisiana
+#EXTINF:-1 tvg-ID="" tvg-name="Bad Asses 2 - Giustizieri Da Strapazzo In Louisiana" tvg-logo="http://46.21.29.4:15000/images/2350892.jpg" group-title="OnDemand Misti",Bad Asses 2 - Giustizieri Da Strapazzo In Louisiana
 http://iptv.iptvthebest.net:15000/movie/idfofaaz/e0Y408fqvJ/3619.mkv
 #EXTINF:-1 tvg-ID="" tvg-name="Batman Begins" tvg-logo="http://46.21.29.4:15000/images/0372784.jpg" group-title="OnDemand Misti",Batman Begins
 http://iptv.iptvthebest.net:15000/movie/idfofaaz/e0Y408fqvJ/3621.mkv
-#EXTINF:-1 tvg-ID="" tvg-name="Batman e Robin" tvg-logo="http://46.21.29.4:15000/images/0118688.jpg" group-title="OnDemand Misti",Batman e Robin
+#EXTINF:-1 tvg-ID="" tvg-name="Batman E Robin" tvg-logo="http://46.21.29.4:15000/images/0118688.jpg" group-title="OnDemand Misti",Batman E Robin
 http://iptv.iptvthebest.net:15000/movie/idfofaaz/e0Y408fqvJ/3622.mkv
-#EXTINF:-1 tvg-ID="" tvg-name="Batman il Cavaliere Oscuro" tvg-logo="http://46.21.29.4:15000/images/0468569.jpg" group-title="OnDemand Misti",Batman il Cavaliere Oscuro
+#EXTINF:-1 tvg-ID="" tvg-name="Batman Il Cavaliere Oscuro" tvg-logo="http://46.21.29.4:15000/images/0468569.jpg" group-title="OnDemand Misti",Batman Il Cavaliere Oscuro
 http://iptv.iptvthebest.net:15000/movie/idfofaaz/e0Y408fqvJ/3623.mkv
 #EXTINF:-1 tvg-ID="" tvg-name="Bears" tvg-logo="http://46.21.29.4:15000/images/0328880.jpg" group-title="OnDemand Misti",Bears
 http://iptv.iptvthebest.net:15000/movie/idfofaaz/e0Y408fqvJ/3624.mkv
-#EXTINF:-1 tvg-ID="" tvg-name="Beasts of No Nation" tvg-logo="http://46.21.29.4:15000/images/1365050.jpg" group-title="OnDemand Misti",Beasts of No Nation
+#EXTINF:-1 tvg-ID="" tvg-name="Beasts Of No Nation" tvg-logo="http://46.21.29.4:15000/images/1365050.jpg" group-title="OnDemand Misti",Beasts Of No Nation
 http://iptv.iptvthebest.net:15000/movie/idfofaaz/e0Y408fqvJ/3625.mkv
 #EXTINF:-1 tvg-ID="" tvg-name="Before We Go" tvg-logo="http://46.21.29.4:15000/images/0443465.jpg" group-title="OnDemand Misti",Before We Go
 http://iptv.iptvthebest.net:15000/movie/idfofaaz/e0Y408fqvJ/3626.mkv
@@ -635,15 +924,15 @@ http://iptv.iptvthebest.net:15000/movie/idfofaaz/e0Y408fqvJ/3626.mkv
 http://iptv.iptvthebest.net:15000/movie/idfofaaz/e0Y408fqvJ/3627.mkv
 #EXTINF:-1 tvg-ID="" tvg-name="Big Game" tvg-logo="http://46.21.29.4:15000/images/2088003.jpg" group-title="OnDemand Misti",Big Game
 http://iptv.iptvthebest.net:15000/movie/idfofaaz/e0Y408fqvJ/3628.mkv
-#EXTINF:-1 tvg-ID="" tvg-name="Black Mass l Ultimo Gangster" tvg-logo="http://46.21.29.4:15000/images/2088003.jpg" group-title="OnDemand Misti",Black Mass l Ultimo Gangster
+#EXTINF:-1 tvg-ID="" tvg-name="Black Mass L Ultimo Gangster" tvg-logo="http://46.21.29.4:15000/images/2088003.jpg" group-title="OnDemand Misti",Black Mass L Ultimo Gangster
 http://iptv.iptvthebest.net:15000/movie/idfofaaz/e0Y408fqvJ/3629.mkv
 #EXTINF:-1 tvg-ID="" tvg-name="Black Sea" tvg-logo="http://46.21.29.4:15000/images/2261331.jpg" group-title="OnDemand Misti",Black Sea
 http://iptv.iptvthebest.net:15000/movie/idfofaaz/e0Y408fqvJ/3630.mkv
-#EXTINF:-1 tvg-ID="" tvg-name="Blackhat" tvg-logo="http://46.21.29.4:15000/images/2717822.jpg" group-title="OnDemand HOT",Blackhat
+#EXTINF:-1 tvg-ID="" tvg-name="Blackhat" tvg-logo="http://46.21.29.4:15000/images/2717822.jpg" group-title="OnDemand Misti",Blackhat
 http://iptv.iptvthebest.net:15000/movie/idfofaaz/e0Y408fqvJ/3631.mkv
 #EXTINF:-1 tvg-ID="" tvg-name="Breaking Dance" tvg-logo="http://46.21.29.4:15000/images/3676370.jpg" group-title="OnDemand Misti",Breaking Dance
 http://iptv.iptvthebest.net:15000/movie/idfofaaz/e0Y408fqvJ/3632.mkv
-#EXTINF:-1 tvg-ID="" tvg-name="Burqa." tvg-logo="http://46.21.29.4:15000/images/not-found.jpg" group-title="OnDemand Misti",Burqa.
+#EXTINF:-1 tvg-ID="" tvg-name="Burqa " tvg-logo="http://46.21.29.4:15000/images/not-found.jpg" group-title="OnDemand Misti",Burqa 
 http://iptv.iptvthebest.net:15000/movie/idfofaaz/e0Y408fqvJ/3633.mkv
 #EXTINF:-1 tvg-ID="" tvg-name="Cam Girl" tvg-logo="http://46.21.29.4:15000/images/3796120.jpg" group-title="OnDemand Misti",Cam Girl
 http://iptv.iptvthebest.net:15000/movie/idfofaaz/e0Y408fqvJ/3634.mkv
@@ -651,7 +940,7 @@ http://iptv.iptvthebest.net:15000/movie/idfofaaz/e0Y408fqvJ/3634.mkv
 http://iptv.iptvthebest.net:15000/movie/idfofaaz/e0Y408fqvJ/3635.mkv
 #EXTINF:-1 tvg-ID="" tvg-name="Cappuccetto Rosso Sangue" tvg-logo="http://46.21.29.4:15000/images/1486185.jpg" group-title="OnDemand Misti",Cappuccetto Rosso Sangue
 http://iptv.iptvthebest.net:15000/movie/idfofaaz/e0Y408fqvJ/3636.mkv
-#EXTINF:-1 tvg-ID="" tvg-name="Captain Sciabola Il tesoro di Lama Rama" tvg-logo="http://46.21.29.4:15000/images/2664712.jpg" group-title="OnDemand Misti",Captain Sciabola Il tesoro di Lama Rama
+#EXTINF:-1 tvg-ID="" tvg-name="Captain Sciabola Il Tesoro Di Lama Rama" tvg-logo="http://46.21.29.4:15000/images/2664712.jpg" group-title="OnDemand Misti",Captain Sciabola Il Tesoro Di Lama Rama
 http://iptv.iptvthebest.net:15000/movie/idfofaaz/e0Y408fqvJ/3637.mkv
 #EXTINF:-1 tvg-ID="" tvg-name="Charlie Countryman Deve Morire" tvg-logo="http://46.21.29.4:15000/images/1196948.jpg" group-title="OnDemand Misti",Charlie Countryman Deve Morire
 http://iptv.iptvthebest.net:15000/movie/idfofaaz/e0Y408fqvJ/3638.mkv
@@ -659,11 +948,11 @@ http://iptv.iptvthebest.net:15000/movie/idfofaaz/e0Y408fqvJ/3638.mkv
 http://iptv.iptvthebest.net:15000/movie/idfofaaz/e0Y408fqvJ/3639.mkv
 #EXTINF:-1 tvg-ID="" tvg-name="Che L Argentino" tvg-logo="http://46.21.29.4:15000/images/not-found.jpg" group-title="OnDemand Misti",Che L Argentino
 http://iptv.iptvthebest.net:15000/movie/idfofaaz/e0Y408fqvJ/3640.mkv
-#EXTINF:-1 tvg-ID="" tvg-name="Child 44 Il Bambino N.44." tvg-logo="http://46.21.29.4:15000/images/1014763.jpg" group-title="OnDemand Misti",Child 44 Il Bambino N.44.
+#EXTINF:-1 tvg-ID="" tvg-name="Child 44 Il Bambino N 44 " tvg-logo="http://46.21.29.4:15000/images/1014763.jpg" group-title="OnDemand Misti",Child 44 Il Bambino N 44 
 http://iptv.iptvthebest.net:15000/movie/idfofaaz/e0Y408fqvJ/3641.mkv
 #EXTINF:-1 tvg-ID="" tvg-name="Chinese Zodiac" tvg-logo="http://46.21.29.4:15000/images/1424310.jpg" group-title="OnDemand Misti",Chinese Zodiac
 http://iptv.iptvthebest.net:15000/movie/idfofaaz/e0Y408fqvJ/3642.mkv
-#EXTINF:-1 tvg-ID="" tvg-name="Citta di carta" tvg-logo="http://46.21.29.4:15000/images/3622592.jpg" group-title="OnDemand Misti",Citta di carta
+#EXTINF:-1 tvg-ID="" tvg-name="Citta Di Carta" tvg-logo="http://46.21.29.4:15000/images/3622592.jpg" group-title="OnDemand Misti",Citta Di Carta
 http://iptv.iptvthebest.net:15000/movie/idfofaaz/e0Y408fqvJ/3643.mkv
 #EXTINF:-1 tvg-ID="" tvg-name="Clas Enemy" tvg-logo="http://46.21.29.4:15000/images/not-found.jpg" group-title="OnDemand Misti",Clas Enemy
 http://iptv.iptvthebest.net:15000/movie/idfofaaz/e0Y408fqvJ/3644.mkv
@@ -671,13 +960,13 @@ http://iptv.iptvthebest.net:15000/movie/idfofaaz/e0Y408fqvJ/3644.mkv
 http://iptv.iptvthebest.net:15000/movie/idfofaaz/e0Y408fqvJ/3645.mkv
 #EXTINF:-1 tvg-ID="" tvg-name="Cold Eyes" tvg-logo="http://46.21.29.4:15000/images/2969656.jpg" group-title="OnDemand Misti",Cold Eyes
 http://iptv.iptvthebest.net:15000/movie/idfofaaz/e0Y408fqvJ/3646.mkv
-#EXTINF:-1 tvg-ID="" tvg-name="Come Un Tuono." tvg-logo="http://46.21.29.4:15000/images/1817273.jpg" group-title="OnDemand Misti",Come Un Tuono.
+#EXTINF:-1 tvg-ID="" tvg-name="Come Un Tuono " tvg-logo="http://46.21.29.4:15000/images/1817273.jpg" group-title="OnDemand Misti",Come Un Tuono 
 http://iptv.iptvthebest.net:15000/movie/idfofaaz/e0Y408fqvJ/3647.mkv
-#EXTINF:-1 tvg-ID="" tvg-name="Con gli Occhi dell Assassino" tvg-logo="http://46.21.29.4:15000/images/not-found.jpg" group-title="OnDemand Misti",Con gli Occhi dell Assassino
+#EXTINF:-1 tvg-ID="" tvg-name="Con Gli Occhi Dell Assassino" tvg-logo="http://46.21.29.4:15000/images/not-found.jpg" group-title="OnDemand Misti",Con Gli Occhi Dell Assassino
 http://iptv.iptvthebest.net:15000/movie/idfofaaz/e0Y408fqvJ/3648.mkv
 #EXTINF:-1 tvg-ID="" tvg-name="Creatura Maligna" tvg-logo="http://46.21.29.4:15000/images/1078931.jpg" group-title="OnDemand Misti",Creatura Maligna
 http://iptv.iptvthebest.net:15000/movie/idfofaaz/e0Y408fqvJ/3649.mkv
-#EXTINF:-1 tvg-ID="" tvg-name="Crushed lives Il Sesso Dopo I Figli" tvg-logo="http://46.21.29.4:15000/images/not-found.jpg" group-title="OnDemand Misti",Crushed lives Il Sesso Dopo I Figli
+#EXTINF:-1 tvg-ID="" tvg-name="Crushed Lives Il Sesso Dopo I Figli" tvg-logo="http://46.21.29.4:15000/images/not-found.jpg" group-title="OnDemand Misti",Crushed Lives Il Sesso Dopo I Figli
 http://iptv.iptvthebest.net:15000/movie/idfofaaz/e0Y408fqvJ/3650.mkv
 #EXTINF:-1 tvg-ID="" tvg-name="Curve - Insidia Mortale" tvg-logo="http://46.21.29.4:15000/images/3212904.jpg" group-title="OnDemand Misti",Curve - Insidia Mortale
 http://iptv.iptvthebest.net:15000/movie/idfofaaz/e0Y408fqvJ/3651.mkv
@@ -691,11 +980,11 @@ http://iptv.iptvthebest.net:15000/movie/idfofaaz/e0Y408fqvJ/3656.mkv
 http://iptv.iptvthebest.net:15000/movie/idfofaaz/e0Y408fqvJ/3654.mkv
 #EXTINF:-1 tvg-ID="" tvg-name="Diario Di Una Schiappa 3" tvg-logo="http://46.21.29.4:15000/images/2023453.jpg" group-title="OnDemand Misti",Diario Di Una Schiappa 3
 http://iptv.iptvthebest.net:15000/movie/idfofaaz/e0Y408fqvJ/3655.mkv
-#EXTINF:-1 tvg-ID="" tvg-name="Don Jon." tvg-logo="http://46.21.29.4:15000/images/2229499.jpg" group-title="OnDemand Misti",Don Jon.
+#EXTINF:-1 tvg-ID="" tvg-name="Don Jon " tvg-logo="http://46.21.29.4:15000/images/2229499.jpg" group-title="OnDemand Misti",Don Jon 
 http://iptv.iptvthebest.net:15000/movie/idfofaaz/e0Y408fqvJ/3657.mkv
-#EXTINF:-1 tvg-ID="" tvg-name="Dove Eravamo Rimasti" tvg-logo="http://46.21.29.4:15000/images/3623726.jpg" group-title="OnDemand HOT",Dove Eravamo Rimasti
+#EXTINF:-1 tvg-ID="" tvg-name="Dove Eravamo Rimasti" tvg-logo="http://46.21.29.4:15000/images/3623726.jpg" group-title="OnDemand Misti",Dove Eravamo Rimasti
 http://iptv.iptvthebest.net:15000/movie/idfofaaz/e0Y408fqvJ/3658.mkv
-#EXTINF:-1 tvg-ID="" tvg-name="Duri si Diventa" tvg-logo="http://46.21.29.4:15000/images/2561572.jpg" group-title="OnDemand Misti",Duri si Diventa
+#EXTINF:-1 tvg-ID="" tvg-name="Duri Si Diventa" tvg-logo="http://46.21.29.4:15000/images/2561572.jpg" group-title="OnDemand Misti",Duri Si Diventa
 http://iptv.iptvthebest.net:15000/movie/idfofaaz/e0Y408fqvJ/3659.mkv
 #EXTINF:-1 tvg-ID="" tvg-name="E Arrivata Mia Figlia" tvg-logo="http://46.21.29.4:15000/images/3742378.jpg" group-title="OnDemand Misti",E Arrivata Mia Figlia
 http://iptv.iptvthebest.net:15000/movie/idfofaaz/e0Y408fqvJ/3660.mkv
@@ -707,9 +996,9 @@ http://iptv.iptvthebest.net:15000/movie/idfofaaz/e0Y408fqvJ/3662.mkv
 http://iptv.iptvthebest.net:15000/movie/idfofaaz/e0Y408fqvJ/3663.mkv
 #EXTINF:-1 tvg-ID="" tvg-name="Entourage" tvg-logo="http://46.21.29.4:15000/images/1674771.jpg" group-title="OnDemand Misti",Entourage
 http://iptv.iptvthebest.net:15000/movie/idfofaaz/e0Y408fqvJ/3665.mkv
-#EXTINF:-1 tvg-ID="" tvg-name="Entourage.2015.iTALiAN.BDRip.XviD-TRL" tvg-logo="http://46.21.29.4:15000/images/1674771.jpg" group-title="OnDemand Misti",Entourage.2015.iTALiAN.BDRip.XviD-TRL
+#EXTINF:-1 tvg-ID="" tvg-name="Entourage 2015 Italian Bdrip Xvid-trl" tvg-logo="http://46.21.29.4:15000/images/1674771.jpg" group-title="OnDemand Misti",Entourage 2015 Italian Bdrip Xvid-trl
 http://iptv.iptvthebest.net:15000/movie/idfofaaz/e0Y408fqvJ/3664.mkv
-#EXTINF:-1 tvg-ID="" tvg-name="Estate a Staten Island." tvg-logo="http://46.21.29.4:15000/images/3137764.jpg" group-title="OnDemand Misti",Estate a Staten Island.
+#EXTINF:-1 tvg-ID="" tvg-name="Estate A Staten Island " tvg-logo="http://46.21.29.4:15000/images/3137764.jpg" group-title="OnDemand Misti",Estate A Staten Island 
 http://iptv.iptvthebest.net:15000/movie/idfofaaz/e0Y408fqvJ/3666.mkv
 #EXTINF:-1 tvg-ID="" tvg-name="Eva Braun" tvg-logo="http://46.21.29.4:15000/images/3519192.jpg" group-title="OnDemand Misti",Eva Braun
 http://iptv.iptvthebest.net:15000/movie/idfofaaz/e0Y408fqvJ/3667.mkv
@@ -721,9 +1010,9 @@ http://iptv.iptvthebest.net:15000/movie/idfofaaz/e0Y408fqvJ/3669.mkv
 http://iptv.iptvthebest.net:15000/movie/idfofaaz/e0Y408fqvJ/3670.mkv
 #EXTINF:-1 tvg-ID="" tvg-name="Fantastic 4 - I Fantastici Quattro" tvg-logo="http://46.21.29.4:15000/images/1502712.jpg" group-title="OnDemand Misti",Fantastic 4 - I Fantastici Quattro
 http://iptv.iptvthebest.net:15000/movie/idfofaaz/e0Y408fqvJ/3671.mkv
-#EXTINF:-1 tvg-ID="" tvg-name="Febbre da cavallo 2 La mandrakata" tvg-logo="http://46.21.29.4:15000/images/0338998.jpg" group-title="OnDemand Misti",Febbre da cavallo 2 La mandrakata
+#EXTINF:-1 tvg-ID="" tvg-name="Febbre Da Cavallo 2 La Mandrakata" tvg-logo="http://46.21.29.4:15000/images/0338998.jpg" group-title="OnDemand Misti",Febbre Da Cavallo 2 La Mandrakata
 http://iptv.iptvthebest.net:15000/movie/idfofaaz/e0Y408fqvJ/3672.mkv
-#EXTINF:-1 tvg-ID="" tvg-name="Foxcatcher Una Storia Americana" tvg-logo="http://46.21.29.4:15000/images/1100089.jpg" group-title="OnDemand HOT",Foxcatcher Una Storia Americana
+#EXTINF:-1 tvg-ID="" tvg-name="Foxcatcher Una Storia Americana" tvg-logo="http://46.21.29.4:15000/images/1100089.jpg" group-title="OnDemand Misti",Foxcatcher Una Storia Americana
 http://iptv.iptvthebest.net:15000/movie/idfofaaz/e0Y408fqvJ/3674.mkv
 #EXTINF:-1 tvg-ID="" tvg-name="Fuga In Tacchi A Spillo" tvg-logo="http://46.21.29.4:15000/images/2967224.jpg" group-title="OnDemand Misti",Fuga In Tacchi A Spillo
 http://iptv.iptvthebest.net:15000/movie/idfofaaz/e0Y408fqvJ/3675.mkv
@@ -733,7 +1022,7 @@ http://iptv.iptvthebest.net:15000/movie/idfofaaz/e0Y408fqvJ/3676.mkv
 http://iptv.iptvthebest.net:15000/movie/idfofaaz/e0Y408fqvJ/3679.mkv
 #EXTINF:-1 tvg-ID="" tvg-name="Ghostbusters 2" tvg-logo="http://46.21.29.4:15000/images/0097428.jpg" group-title="OnDemand Misti",Ghostbusters 2
 http://iptv.iptvthebest.net:15000/movie/idfofaaz/e0Y408fqvJ/3677.mkv
-#EXTINF:-1 tvg-ID="" tvg-name="Ghostbusters II" tvg-logo="http://46.21.29.4:15000/images/0097428.jpg" group-title="OnDemand Misti",Ghostbusters II
+#EXTINF:-1 tvg-ID="" tvg-name="Ghostbusters Ii" tvg-logo="http://46.21.29.4:15000/images/0097428.jpg" group-title="OnDemand Misti",Ghostbusters Ii
 http://iptv.iptvthebest.net:15000/movie/idfofaaz/e0Y408fqvJ/3678.mkv
 #EXTINF:-1 tvg-ID="" tvg-name="Giovani Si Diventa" tvg-logo="http://46.21.29.4:15000/images/1791682.jpg" group-title="OnDemand Misti",Giovani Si Diventa
 http://iptv.iptvthebest.net:15000/movie/idfofaaz/e0Y408fqvJ/3680.mkv
@@ -743,25 +1032,25 @@ http://iptv.iptvthebest.net:15000/movie/idfofaaz/e0Y408fqvJ/3681.mkv
 http://iptv.iptvthebest.net:15000/movie/idfofaaz/e0Y408fqvJ/3682.mkv
 #EXTINF:-1 tvg-ID="" tvg-name="Growth" tvg-logo="http://46.21.29.4:15000/images/1300159.jpg" group-title="OnDemand Misti",Growth
 http://iptv.iptvthebest.net:15000/movie/idfofaaz/e0Y408fqvJ/3683.mkv
-#EXTINF:-1 tvg-ID="" tvg-name="Harry Potter e i Doni Della Morte Parte I" tvg-logo="http://46.21.29.4:15000/images/1201607.jpg" group-title="OnDemand Misti",Harry Potter e i Doni Della Morte Parte I
+#EXTINF:-1 tvg-ID="" tvg-name="Harry Potter E I Doni Della Morte Parte I" tvg-logo="http://46.21.29.4:15000/images/1201607.jpg" group-title="OnDemand Misti",Harry Potter E I Doni Della Morte Parte I
 http://iptv.iptvthebest.net:15000/movie/idfofaaz/e0Y408fqvJ/3684.mkv
-#EXTINF:-1 tvg-ID="" tvg-name="Harry Potter e i Doni Della Morte Parte II" tvg-logo="http://46.21.29.4:15000/images/1201607.jpg" group-title="OnDemand Misti",Harry Potter e i Doni Della Morte Parte II
+#EXTINF:-1 tvg-ID="" tvg-name="Harry Potter E I Doni Della Morte Parte Ii" tvg-logo="http://46.21.29.4:15000/images/1201607.jpg" group-title="OnDemand Misti",Harry Potter E I Doni Della Morte Parte Ii
 http://iptv.iptvthebest.net:15000/movie/idfofaaz/e0Y408fqvJ/3685.mkv
-#EXTINF:-1 tvg-ID="" tvg-name="Harry Potter e il Calice di Fuoco" tvg-logo="http://46.21.29.4:15000/images/0330373.jpg" group-title="OnDemand Misti",Harry Potter e il Calice di Fuoco
+#EXTINF:-1 tvg-ID="" tvg-name="Harry Potter E Il Calice Di Fuoco" tvg-logo="http://46.21.29.4:15000/images/0330373.jpg" group-title="OnDemand Misti",Harry Potter E Il Calice Di Fuoco
 http://iptv.iptvthebest.net:15000/movie/idfofaaz/e0Y408fqvJ/3686.mkv
-#EXTINF:-1 tvg-ID="" tvg-name="Harry Potter e il Prigioniero di Azkaban" tvg-logo="http://46.21.29.4:15000/images/0304141.jpg" group-title="OnDemand Misti",Harry Potter e il Prigioniero di Azkaban
+#EXTINF:-1 tvg-ID="" tvg-name="Harry Potter E Il Prigioniero Di Azkaban" tvg-logo="http://46.21.29.4:15000/images/0304141.jpg" group-title="OnDemand Misti",Harry Potter E Il Prigioniero Di Azkaban
 http://iptv.iptvthebest.net:15000/movie/idfofaaz/e0Y408fqvJ/3687.mkv
-#EXTINF:-1 tvg-ID="" tvg-name="Harry Potter e il Principe Mezzosangue" tvg-logo="http://46.21.29.4:15000/images/0417741.jpg" group-title="OnDemand Misti",Harry Potter e il Principe Mezzosangue
+#EXTINF:-1 tvg-ID="" tvg-name="Harry Potter E Il Principe Mezzosangue" tvg-logo="http://46.21.29.4:15000/images/0417741.jpg" group-title="OnDemand Misti",Harry Potter E Il Principe Mezzosangue
 http://iptv.iptvthebest.net:15000/movie/idfofaaz/e0Y408fqvJ/3688.mkv
-#EXTINF:-1 tvg-ID="" tvg-name="Harry Potter e l'ordine della Fenice" tvg-logo="http://46.21.29.4:15000/images/0373889.jpg" group-title="OnDemand Misti",Harry Potter e l'ordine della Fenice
+#EXTINF:-1 tvg-ID="" tvg-name="Harry Potter E L'ordine Della Fenice" tvg-logo="http://46.21.29.4:15000/images/0373889.jpg" group-title="OnDemand Misti",Harry Potter E L'ordine Della Fenice
 http://iptv.iptvthebest.net:15000/movie/idfofaaz/e0Y408fqvJ/3689.mkv
-#EXTINF:-1 tvg-ID="" tvg-name="Harry Potter e la Camera dei Segreti" tvg-logo="http://46.21.29.4:15000/images/0295297.jpg" group-title="OnDemand Misti",Harry Potter e la Camera dei Segreti
+#EXTINF:-1 tvg-ID="" tvg-name="Harry Potter E La Camera Dei Segreti" tvg-logo="http://46.21.29.4:15000/images/0295297.jpg" group-title="OnDemand Misti",Harry Potter E La Camera Dei Segreti
 http://iptv.iptvthebest.net:15000/movie/idfofaaz/e0Y408fqvJ/3690.mkv
 #EXTINF:-1 tvg-ID="" tvg-name="Hatchet" tvg-logo="http://46.21.29.4:15000/images/0422401.jpg" group-title="OnDemand Misti",Hatchet
 http://iptv.iptvthebest.net:15000/movie/idfofaaz/e0Y408fqvJ/3691.mkv
 #EXTINF:-1 tvg-ID="" tvg-name="Hellboy" tvg-logo="http://46.21.29.4:15000/images/0167190.jpg" group-title="OnDemand Misti",Hellboy
 http://iptv.iptvthebest.net:15000/movie/idfofaaz/e0Y408fqvJ/3693.mkv
-#EXTINF:-1 tvg-ID="" tvg-name="Hellboy II" tvg-logo="http://46.21.29.4:15000/images/0167190.jpg" group-title="OnDemand Misti",Hellboy II
+#EXTINF:-1 tvg-ID="" tvg-name="Hellboy Ii" tvg-logo="http://46.21.29.4:15000/images/0167190.jpg" group-title="OnDemand Misti",Hellboy Ii
 http://iptv.iptvthebest.net:15000/movie/idfofaaz/e0Y408fqvJ/3692.mkv
 #EXTINF:-1 tvg-ID="" tvg-name="Hitman Agent 47" tvg-logo="http://46.21.29.4:15000/images/2679042.jpg" group-title="OnDemand Misti",Hitman Agent 47
 http://iptv.iptvthebest.net:15000/movie/idfofaaz/e0Y408fqvJ/3694.mkv
@@ -777,15 +1066,15 @@ http://iptv.iptvthebest.net:15000/movie/idfofaaz/e0Y408fqvJ/3699.mkv
 http://iptv.iptvthebest.net:15000/movie/idfofaaz/e0Y408fqvJ/3698.mkv
 #EXTINF:-1 tvg-ID="" tvg-name="I Origins" tvg-logo="http://46.21.29.4:15000/images/2884206.jpg" group-title="OnDemand Misti",I Origins
 http://iptv.iptvthebest.net:15000/movie/idfofaaz/e0Y408fqvJ/3700.mkv
-#EXTINF:-1 tvg-ID="" tvg-name="I Segni del Male" tvg-logo="http://46.21.29.4:15000/images/0444682.jpg" group-title="OnDemand Misti",I Segni del Male
+#EXTINF:-1 tvg-ID="" tvg-name="I Segni Del Male" tvg-logo="http://46.21.29.4:15000/images/0444682.jpg" group-title="OnDemand Misti",I Segni Del Male
 http://iptv.iptvthebest.net:15000/movie/idfofaaz/e0Y408fqvJ/3701.mkv
 #EXTINF:-1 tvg-ID="" tvg-name="Il Cartaio" tvg-logo="http://46.21.29.4:15000/images/0330691.jpg" group-title="OnDemand Misti",Il Cartaio
 http://iptv.iptvthebest.net:15000/movie/idfofaaz/e0Y408fqvJ/3702.mkv
-#EXTINF:-1 tvg-ID="" tvg-name="Il Diario del Diavolo" tvg-logo="http://46.21.29.4:15000/images/1018820.jpg" group-title="OnDemand Misti",Il Diario del Diavolo
+#EXTINF:-1 tvg-ID="" tvg-name="Il Diario Del Diavolo" tvg-logo="http://46.21.29.4:15000/images/1018820.jpg" group-title="OnDemand Misti",Il Diario Del Diavolo
 http://iptv.iptvthebest.net:15000/movie/idfofaaz/e0Y408fqvJ/3703.mkv
-#EXTINF:-1 tvg-ID="" tvg-name="Il Fantasma Dell Opera" tvg-logo="http://46.21.29.4:15000/images/not-found.jpg" group-title="OnDemand HOT",Il Fantasma Dell Opera
+#EXTINF:-1 tvg-ID="" tvg-name="Il Fantasma Dell Opera" tvg-logo="http://46.21.29.4:15000/images/not-found.jpg" group-title="OnDemand Misti",Il Fantasma Dell Opera
 http://iptv.iptvthebest.net:15000/movie/idfofaaz/e0Y408fqvJ/3704.mkv
-#EXTINF:-1 tvg-ID="" tvg-name="Il Fidanzato di Mia Sorella." tvg-logo="http://46.21.29.4:15000/images/1725986.jpg" group-title="OnDemand Misti",Il Fidanzato di Mia Sorella.
+#EXTINF:-1 tvg-ID="" tvg-name="Il Fidanzato Di Mia Sorella " tvg-logo="http://46.21.29.4:15000/images/1725986.jpg" group-title="OnDemand Misti",Il Fidanzato Di Mia Sorella 
 http://iptv.iptvthebest.net:15000/movie/idfofaaz/e0Y408fqvJ/3705.mkv
 #EXTINF:-1 tvg-ID="" tvg-name="Il Giovane Favoloso" tvg-logo="http://46.21.29.4:15000/images/3152602.jpg" group-title="OnDemand Misti",Il Giovane Favoloso
 http://iptv.iptvthebest.net:15000/movie/idfofaaz/e0Y408fqvJ/3706.mkv
@@ -801,15 +1090,15 @@ http://iptv.iptvthebest.net:15000/movie/idfofaaz/e0Y408fqvJ/3710.mkv
 http://iptv.iptvthebest.net:15000/movie/idfofaaz/e0Y408fqvJ/3711.mkv
 #EXTINF:-1 tvg-ID="" tvg-name="Il Padre" tvg-logo="http://46.21.29.4:15000/images/2245171.jpg" group-title="OnDemand Misti",Il Padre
 http://iptv.iptvthebest.net:15000/movie/idfofaaz/e0Y408fqvJ/3712.mkv
-#EXTINF:-1 tvg-ID="" tvg-name="Il Peggior Natale della Mia Vita" tvg-logo="http://46.21.29.4:15000/images/2550838.jpg" group-title="OnDemand Misti",Il Peggior Natale della Mia Vita
+#EXTINF:-1 tvg-ID="" tvg-name="Il Peggior Natale Della Mia Vita" tvg-logo="http://46.21.29.4:15000/images/2550838.jpg" group-title="OnDemand Misti",Il Peggior Natale Della Mia Vita
 http://iptv.iptvthebest.net:15000/movie/idfofaaz/e0Y408fqvJ/3713.mkv
 #EXTINF:-1 tvg-ID="" tvg-name="Il Racconto Dei Racconti" tvg-logo="http://46.21.29.4:15000/images/3278330.jpg" group-title="OnDemand Misti",Il Racconto Dei Racconti
 http://iptv.iptvthebest.net:15000/movie/idfofaaz/e0Y408fqvJ/3714.mkv
 #EXTINF:-1 tvg-ID="" tvg-name="Il Ragazzo Della Porta Accanto" tvg-logo="http://46.21.29.4:15000/images/3181822.jpg" group-title="OnDemand Misti",Il Ragazzo Della Porta Accanto
 http://iptv.iptvthebest.net:15000/movie/idfofaaz/e0Y408fqvJ/3715.mkv
-#EXTINF:-1 tvg-ID="" tvg-name="Il Signore degli Anelli Il Ritorno del Re" tvg-logo="http://46.21.29.4:15000/images/0167260.jpg" group-title="OnDemand Misti",Il Signore degli Anelli Il Ritorno del Re
+#EXTINF:-1 tvg-ID="" tvg-name="Il Signore Degli Anelli Il Ritorno Del Re" tvg-logo="http://46.21.29.4:15000/images/0167260.jpg" group-title="OnDemand Misti",Il Signore Degli Anelli Il Ritorno Del Re
 http://iptv.iptvthebest.net:15000/movie/idfofaaz/e0Y408fqvJ/3718.mkv
-#EXTINF:-1 tvg-ID="" tvg-name="Il Signore degli Anelli La Compagnia dell'Anello" tvg-logo="http://46.21.29.4:15000/images/0120737.jpg" group-title="OnDemand Misti",Il Signore degli Anelli La Compagnia dell'Anello
+#EXTINF:-1 tvg-ID="" tvg-name="Il Signore Degli Anelli La Compagnia Dell'anello" tvg-logo="http://46.21.29.4:15000/images/0120737.jpg" group-title="OnDemand Misti",Il Signore Degli Anelli La Compagnia Dell'anello
 http://iptv.iptvthebest.net:15000/movie/idfofaaz/e0Y408fqvJ/3719.mkv
 #EXTINF:-1 tvg-ID="" tvg-name="Il Signore Degli Anelli Le Due Torri" tvg-logo="http://46.21.29.4:15000/images/0167261.jpg" group-title="OnDemand Misti",Il Signore Degli Anelli Le Due Torri
 http://iptv.iptvthebest.net:15000/movie/idfofaaz/e0Y408fqvJ/3716.mkv
@@ -829,25 +1118,25 @@ http://iptv.iptvthebest.net:15000/movie/idfofaaz/e0Y408fqvJ/3724.mkv
 http://iptv.iptvthebest.net:15000/movie/idfofaaz/e0Y408fqvJ/3725.mkv
 #EXTINF:-1 tvg-ID="" tvg-name="Io Sono Mateusz" tvg-logo="http://46.21.29.4:15000/images/3092552.jpg" group-title="OnDemand Misti",Io Sono Mateusz
 http://iptv.iptvthebest.net:15000/movie/idfofaaz/e0Y408fqvJ/3747.mkv
-#EXTINF:-1 tvg-ID="" tvg-name="Italiano Medio." tvg-logo="http://cdn01.iptvthebest.net:15000/images/4142022.jpg" group-title="OnDemand Misti",Italiano Medio.
+#EXTINF:-1 tvg-ID="" tvg-name="Italiano Medio " tvg-logo="http://cdn01.iptvthebest.net:15000/images/4142022.jpg" group-title="OnDemand Misti",Italiano Medio 
 http://iptv.iptvthebest.net:15000/movie/idfofaaz/e0Y408fqvJ/3769.mkv
 #EXTINF:-1 tvg-ID="" tvg-name="Janara" tvg-logo="http://46.21.29.4:15000/images/3600550.jpg" group-title="OnDemand Misti",Janara
 http://iptv.iptvthebest.net:15000/movie/idfofaaz/e0Y408fqvJ/3793.mkv
-#EXTINF:-1 tvg-ID="" tvg-name="L A.S.S.O. nella manica" tvg-logo="http://46.21.29.4:15000/images/3600550.jpg" group-title="OnDemand Misti",L A.S.S.O. nella manica
+#EXTINF:-1 tvg-ID="" tvg-name="L A S S O  Nella Manica" tvg-logo="http://46.21.29.4:15000/images/3600550.jpg" group-title="OnDemand Misti",L A S S O  Nella Manica
 http://iptv.iptvthebest.net:15000/movie/idfofaaz/e0Y408fqvJ/3726.mkv
-#EXTINF:-1 tvg-ID="" tvg-name="L Altra Faccia del Diavolo" tvg-logo="http://46.21.29.4:15000/images/3600550.jpg" group-title="OnDemand Misti",L Altra Faccia del Diavolo
+#EXTINF:-1 tvg-ID="" tvg-name="L Altra Faccia Del Diavolo" tvg-logo="http://46.21.29.4:15000/images/3600550.jpg" group-title="OnDemand Misti",L Altra Faccia Del Diavolo
 http://iptv.iptvthebest.net:15000/movie/idfofaaz/e0Y408fqvJ/3748.mkv
 #EXTINF:-1 tvg-ID="" tvg-name="L Attesa" tvg-logo="http://46.21.29.4:15000/images/3715122.jpg" group-title="OnDemand Misti",L Attesa
 http://iptv.iptvthebest.net:15000/movie/idfofaaz/e0Y408fqvJ/3794.mkv
-#EXTINF:-1 tvg-ID="" tvg-name="L Esigenza di Unirmi Ogni Volta Con Te" tvg-logo="http://46.21.29.4:15000/images/4115786.jpg" group-title="OnDemand Misti",L Esigenza di Unirmi Ogni Volta Con Te
+#EXTINF:-1 tvg-ID="" tvg-name="L Esigenza Di Unirmi Ogni Volta Con Te" tvg-logo="http://46.21.29.4:15000/images/4115786.jpg" group-title="OnDemand Misti",L Esigenza Di Unirmi Ogni Volta Con Te
 http://iptv.iptvthebest.net:15000/movie/idfofaaz/e0Y408fqvJ/3727.mkv
 #EXTINF:-1 tvg-ID="" tvg-name="L Opera Della Mia Vita" tvg-logo="http://46.21.29.4:15000/images/0069094.jpg" group-title="OnDemand Misti",L Opera Della Mia Vita
 http://iptv.iptvthebest.net:15000/movie/idfofaaz/e0Y408fqvJ/3728.mkv
-#EXTINF:-1 tvg-ID="" tvg-name="L'Ultimo Lupo" tvg-logo="http://46.21.29.4:15000/images/2909116.jpg" group-title="OnDemand Misti",L'Ultimo Lupo
+#EXTINF:-1 tvg-ID="" tvg-name="L'ultimo Lupo" tvg-logo="http://46.21.29.4:15000/images/2909116.jpg" group-title="OnDemand Misti",L'ultimo Lupo
 http://iptv.iptvthebest.net:15000/movie/idfofaaz/e0Y408fqvJ/3796.mkv
 #EXTINF:-1 tvg-ID="" tvg-name="La Figlia Della Sciamana" tvg-logo="http://46.21.29.4:15000/images/3022458.jpg" group-title="OnDemand Misti",La Figlia Della Sciamana
 http://iptv.iptvthebest.net:15000/movie/idfofaaz/e0Y408fqvJ/3797.mkv
-#EXTINF:-1 tvg-ID="" tvg-name="La Foresta Di.Ghiaccio." tvg-logo="http://cdn01.iptvthebest.net:15000/images/2559786.jpg" group-title="OnDemand Misti",La Foresta Di.Ghiaccio.
+#EXTINF:-1 tvg-ID="" tvg-name="La Foresta Di Ghiaccio " tvg-logo="http://cdn01.iptvthebest.net:15000/images/2559786.jpg" group-title="OnDemand Misti",La Foresta Di Ghiaccio 
 http://iptv.iptvthebest.net:15000/movie/idfofaaz/e0Y408fqvJ/3749.mkv
 #EXTINF:-1 tvg-ID="" tvg-name="La Liceale Al Mare Con L Amica Di Papa 1980" tvg-logo="http://46.21.29.4:15000/images/0081047.jpg" group-title="OnDemand Misti",La Liceale Al Mare Con L Amica Di Papa 1980
 http://iptv.iptvthebest.net:15000/movie/idfofaaz/e0Y408fqvJ/3798.mkv
@@ -859,13 +1148,13 @@ http://iptv.iptvthebest.net:15000/movie/idfofaaz/e0Y408fqvJ/3800.mkv
 http://iptv.iptvthebest.net:15000/movie/idfofaaz/e0Y408fqvJ/3801.mkv
 #EXTINF:-1 tvg-ID="" tvg-name="La Moglie Del Sarto" tvg-logo="http://46.21.29.4:15000/images/not-found.jpg" group-title="OnDemand Misti",La Moglie Del Sarto
 http://iptv.iptvthebest.net:15000/movie/idfofaaz/e0Y408fqvJ/3729.mkv
-#EXTINF:-1 tvg-ID="" tvg-name="La Prima Volta di Mia Figlia" tvg-logo="http://46.21.29.4:15000/images/3400630.jpg" group-title="OnDemand Misti",La Prima Volta di Mia Figlia
+#EXTINF:-1 tvg-ID="" tvg-name="La Prima Volta Di Mia Figlia" tvg-logo="http://46.21.29.4:15000/images/3400630.jpg" group-title="OnDemand Misti",La Prima Volta Di Mia Figlia
 http://iptv.iptvthebest.net:15000/movie/idfofaaz/e0Y408fqvJ/3802.mkv
 #EXTINF:-1 tvg-ID="" tvg-name="La Regola Del Gioco" tvg-logo="http://46.21.29.4:15000/images/1216491.jpg" group-title="OnDemand Misti",La Regola Del Gioco
 http://iptv.iptvthebest.net:15000/movie/idfofaaz/e0Y408fqvJ/3803.mkv
 #EXTINF:-1 tvg-ID="" tvg-name="La Scelta" tvg-logo="http://46.21.29.4:15000/images/0080114.jpg" group-title="OnDemand Misti",La Scelta
 http://iptv.iptvthebest.net:15000/movie/idfofaaz/e0Y408fqvJ/3804.mkv
-#EXTINF:-1 tvg-ID="" tvg-name="la Spada della Vendetta" tvg-logo="http://46.21.29.4:15000/images/3622332.jpg" group-title="OnDemand Misti",la Spada della Vendetta
+#EXTINF:-1 tvg-ID="" tvg-name="La Spada Della Vendetta" tvg-logo="http://46.21.29.4:15000/images/3622332.jpg" group-title="OnDemand Misti",La Spada Della Vendetta
 http://iptv.iptvthebest.net:15000/movie/idfofaaz/e0Y408fqvJ/3792.mkv
 #EXTINF:-1 tvg-ID="" tvg-name="La Vita E Facile Ad Occhi Chiusi" tvg-logo="http://46.21.29.4:15000/images/2896036.jpg" group-title="OnDemand Misti",La Vita E Facile Ad Occhi Chiusi
 http://iptv.iptvthebest.net:15000/movie/idfofaaz/e0Y408fqvJ/3805.mkv
@@ -875,11 +1164,11 @@ http://iptv.iptvthebest.net:15000/movie/idfofaaz/e0Y408fqvJ/3770.mkv
 http://iptv.iptvthebest.net:15000/movie/idfofaaz/e0Y408fqvJ/3806.mkv
 #EXTINF:-1 tvg-ID="" tvg-name="Living Hell Le Radici Del Terrore" tvg-logo="http://46.21.29.4:15000/images/0479201.jpg" group-title="OnDemand Misti",Living Hell Le Radici Del Terrore
 http://iptv.iptvthebest.net:15000/movie/idfofaaz/e0Y408fqvJ/3807.mkv
-#EXTINF:-1 tvg-ID="" tvg-name="Lo Hobbit la battaglia delle cinque armate" tvg-logo="http://46.21.29.4:15000/images/2310332.jpg" group-title="OnDemand Misti",Lo Hobbit la battaglia delle cinque armate
+#EXTINF:-1 tvg-ID="" tvg-name="Lo Hobbit La Battaglia Delle Cinque Armate" tvg-logo="http://46.21.29.4:15000/images/2310332.jpg" group-title="OnDemand Misti",Lo Hobbit La Battaglia Delle Cinque Armate
 http://iptv.iptvthebest.net:15000/movie/idfofaaz/e0Y408fqvJ/3809.mkv
-#EXTINF:-1 tvg-ID="" tvg-name="Lo Hobbit Un Viaggio.Inaspettato" tvg-logo="http://46.21.29.4:15000/images/2310332.jpg" group-title="OnDemand Misti",Lo Hobbit Un Viaggio.Inaspettato
+#EXTINF:-1 tvg-ID="" tvg-name="Lo Hobbit Un Viaggio Inaspettato" tvg-logo="http://46.21.29.4:15000/images/2310332.jpg" group-title="OnDemand Misti",Lo Hobbit Un Viaggio Inaspettato
 http://iptv.iptvthebest.net:15000/movie/idfofaaz/e0Y408fqvJ/3808.mkv
-#EXTINF:-1 tvg-ID="" tvg-name="Lo.Hobbit La.Desolazione.di.Smaug" tvg-logo="http://46.21.29.4:15000/images/2310332.jpg" group-title="OnDemand Misti",Lo.Hobbit La.Desolazione.di.Smaug
+#EXTINF:-1 tvg-ID="" tvg-name="Lo Hobbit La Desolazione Di Smaug" tvg-logo="http://46.21.29.4:15000/images/2310332.jpg" group-title="OnDemand Misti",Lo Hobbit La Desolazione Di Smaug
 http://iptv.iptvthebest.net:15000/movie/idfofaaz/e0Y408fqvJ/3810.mkv
 #EXTINF:-1 tvg-ID="" tvg-name="Lone Survivor" tvg-logo="http://46.21.29.4:15000/images/1091191.jpg" group-title="OnDemand Misti",Lone Survivor
 http://iptv.iptvthebest.net:15000/movie/idfofaaz/e0Y408fqvJ/3811.mkv
@@ -889,7 +1178,7 @@ http://iptv.iptvthebest.net:15000/movie/idfofaaz/e0Y408fqvJ/3771.mkv
 http://iptv.iptvthebest.net:15000/movie/idfofaaz/e0Y408fqvJ/3812.mkv
 #EXTINF:-1 tvg-ID="" tvg-name="Ma Che Bella Sorpresa" tvg-logo="http://46.21.29.4:15000/images/3916378.jpg" group-title="OnDemand Misti",Ma Che Bella Sorpresa
 http://iptv.iptvthebest.net:15000/movie/idfofaaz/e0Y408fqvJ/3813.mkv
-#EXTINF:-1 tvg-ID="" tvg-name="Magic Mike XXL" tvg-logo="http://46.21.29.4:15000/images/2268016.jpg" group-title="OnDemand Misti",Magic Mike XXL
+#EXTINF:-1 tvg-ID="" tvg-name="Magic Mike Xxl" tvg-logo="http://46.21.29.4:15000/images/2268016.jpg" group-title="OnDemand Misti",Magic Mike Xxl
 http://iptv.iptvthebest.net:15000/movie/idfofaaz/e0Y408fqvJ/3730.mkv
 #EXTINF:-1 tvg-ID="" tvg-name="Maicol Jecson" tvg-logo="http://46.21.29.4:15000/images/3337188.jpg" group-title="OnDemand Misti",Maicol Jecson
 http://iptv.iptvthebest.net:15000/movie/idfofaaz/e0Y408fqvJ/3772.mkv
@@ -903,13 +1192,13 @@ http://iptv.iptvthebest.net:15000/movie/idfofaaz/e0Y408fqvJ/3815.mkv
 http://iptv.iptvthebest.net:15000/movie/idfofaaz/e0Y408fqvJ/3816.mkv
 #EXTINF:-1 tvg-ID="" tvg-name="Mister Bugia" tvg-logo="http://46.21.29.4:15000/images/0059453.jpg" group-title="OnDemand Misti",Mister Bugia
 http://iptv.iptvthebest.net:15000/movie/idfofaaz/e0Y408fqvJ/3817.mkv
-#EXTINF:-1 tvg-ID="" tvg-name="Momenti di Gloria" tvg-logo="http://46.21.29.4:15000/images/0082158.jpg" group-title="OnDemand Misti",Momenti di Gloria
+#EXTINF:-1 tvg-ID="" tvg-name="Momenti Di Gloria" tvg-logo="http://46.21.29.4:15000/images/0082158.jpg" group-title="OnDemand Misti",Momenti Di Gloria
 http://iptv.iptvthebest.net:15000/movie/idfofaaz/e0Y408fqvJ/3818.mkv
 #EXTINF:-1 tvg-ID="" tvg-name="Momentum" tvg-logo="http://46.21.29.4:15000/images/3181776.jpg" group-title="OnDemand Misti",Momentum
 http://iptv.iptvthebest.net:15000/movie/idfofaaz/e0Y408fqvJ/3819.mkv
-#EXTINF:-1 tvg-ID="" tvg-name="Motel.2014.iTALiAN.BDRip.XviD-TRL" tvg-logo="http://46.21.29.4:15000/images/3181776.jpg" group-title="OnDemand Misti",Motel.2014.iTALiAN.BDRip.XviD-TRL
+#EXTINF:-1 tvg-ID="" tvg-name="Motel 2014 Italian Bdrip Xvid-trl" tvg-logo="http://46.21.29.4:15000/images/3181776.jpg" group-title="OnDemand Misti",Motel 2014 Italian Bdrip Xvid-trl
 http://iptv.iptvthebest.net:15000/movie/idfofaaz/e0Y408fqvJ/3937.mkv
-#EXTINF:-1 tvg-ID="" tvg-name="Mr Holmes Il Mistero del Caso Irrisolto" tvg-logo="http://46.21.29.4:15000/images/3168230.jpg" group-title="OnDemand Misti",Mr Holmes Il Mistero del Caso Irrisolto
+#EXTINF:-1 tvg-ID="" tvg-name="Mr Holmes Il Mistero Del Caso Irrisolto" tvg-logo="http://46.21.29.4:15000/images/3168230.jpg" group-title="OnDemand Misti",Mr Holmes Il Mistero Del Caso Irrisolto
 http://iptv.iptvthebest.net:15000/movie/idfofaaz/e0Y408fqvJ/3820.mkv
 #EXTINF:-1 tvg-ID="" tvg-name="Much Loved" tvg-logo="http://46.21.29.4:15000/images/4685750.jpg" group-title="OnDemand Misti",Much Loved
 http://iptv.iptvthebest.net:15000/movie/idfofaaz/e0Y408fqvJ/3731.mkv
@@ -937,7 +1226,7 @@ http://iptv.iptvthebest.net:15000/movie/idfofaaz/e0Y408fqvJ/3825.mkv
 http://iptv.iptvthebest.net:15000/movie/idfofaaz/e0Y408fqvJ/3753.mkv
 #EXTINF:-1 tvg-ID="" tvg-name="Outcast" tvg-logo="http://46.21.29.4:15000/images/4229954.jpg" group-title="OnDemand Misti",Outcast
 http://iptv.iptvthebest.net:15000/movie/idfofaaz/e0Y408fqvJ/3826.mkv
-#EXTINF:-1 tvg-ID="" tvg-name="Parigi a tutti i costi" tvg-logo="http://46.21.29.4:15000/images/2420886.jpg" group-title="OnDemand Misti",Parigi a tutti i costi
+#EXTINF:-1 tvg-ID="" tvg-name="Parigi A Tutti I Costi" tvg-logo="http://46.21.29.4:15000/images/2420886.jpg" group-title="OnDemand Misti",Parigi A Tutti I Costi
 http://iptv.iptvthebest.net:15000/movie/idfofaaz/e0Y408fqvJ/3733.mkv
 #EXTINF:-1 tvg-ID="" tvg-name="Pasto Umano" tvg-logo="http://46.21.29.4:15000/images/0481280.jpg" group-title="OnDemand Misti",Pasto Umano
 http://iptv.iptvthebest.net:15000/movie/idfofaaz/e0Y408fqvJ/3827.mkv
@@ -951,29 +1240,29 @@ http://iptv.iptvthebest.net:15000/movie/idfofaaz/e0Y408fqvJ/3829.mkv
 http://iptv.iptvthebest.net:15000/movie/idfofaaz/e0Y408fqvJ/3830.mkv
 #EXTINF:-1 tvg-ID="" tvg-name="Pierino Contro Tutti" tvg-logo="http://46.21.29.4:15000/images/0082904.jpg" group-title="OnDemand Misti",Pierino Contro Tutti
 http://iptv.iptvthebest.net:15000/movie/idfofaaz/e0Y408fqvJ/3831.mkv
-#EXTINF:-1 tvg-ID="" tvg-name="Pierino medico della SAUB" tvg-logo="http://46.21.29.4:15000/images/not-found.jpg" group-title="OnDemand Misti",Pierino medico della SAUB
+#EXTINF:-1 tvg-ID="" tvg-name="Pierino Medico Della Saub" tvg-logo="http://46.21.29.4:15000/images/not-found.jpg" group-title="OnDemand Misti",Pierino Medico Della Saub
 http://iptv.iptvthebest.net:15000/movie/idfofaaz/e0Y408fqvJ/3832.mkv
-#EXTINF:-1 tvg-ID="" tvg-name="Pierino torna a scuola" tvg-logo="http://46.21.29.4:15000/images/0100365.jpg" group-title="OnDemand Misti",Pierino torna a scuola
+#EXTINF:-1 tvg-ID="" tvg-name="Pierino Torna A Scuola" tvg-logo="http://46.21.29.4:15000/images/0100365.jpg" group-title="OnDemand Misti",Pierino Torna A Scuola
 http://iptv.iptvthebest.net:15000/movie/idfofaaz/e0Y408fqvJ/3833.mkv
 #EXTINF:-1 tvg-ID="" tvg-name="Pioggia Di Ricordi" tvg-logo="http://46.21.29.4:15000/images/0102587.jpg" group-title="OnDemand Misti",Pioggia Di Ricordi
 http://iptv.iptvthebest.net:15000/movie/idfofaaz/e0Y408fqvJ/3775.mkv
-#EXTINF:-1 tvg-ID="" tvg-name="Pirati dei Caraibi  Ai Confini del Mondo" tvg-logo="http://46.21.29.4:15000/images/0449088.jpg" group-title="OnDemand Misti",Pirati dei Caraibi  Ai Confini del Mondo
+#EXTINF:-1 tvg-ID="" tvg-name="Pirati Dei Caraibi  Ai Confini Del Mondo" tvg-logo="http://46.21.29.4:15000/images/0449088.jpg" group-title="OnDemand Misti",Pirati Dei Caraibi  Ai Confini Del Mondo
 http://iptv.iptvthebest.net:15000/movie/idfofaaz/e0Y408fqvJ/3735.mkv
-#EXTINF:-1 tvg-ID="" tvg-name="Pirati dei Caraibi  La Maledizione del Forziere Fantasma" tvg-logo="http://46.21.29.4:15000/images/0383574.jpg" group-title="OnDemand Misti",Pirati dei Caraibi  La Maledizione del Forziere Fantasma
+#EXTINF:-1 tvg-ID="" tvg-name="Pirati Dei Caraibi  La Maledizione Del Forziere Fantasma" tvg-logo="http://46.21.29.4:15000/images/0383574.jpg" group-title="OnDemand Misti",Pirati Dei Caraibi  La Maledizione Del Forziere Fantasma
 http://iptv.iptvthebest.net:15000/movie/idfofaaz/e0Y408fqvJ/3834.mkv
-#EXTINF:-1 tvg-ID="" tvg-name="Pirati dei Caraibi  La Maledizione della Prima Luna" tvg-logo="http://46.21.29.4:15000/images/0325980.jpg" group-title="OnDemand Misti",Pirati dei Caraibi  La Maledizione della Prima Luna
+#EXTINF:-1 tvg-ID="" tvg-name="Pirati Dei Caraibi  La Maledizione Della Prima Luna" tvg-logo="http://46.21.29.4:15000/images/0325980.jpg" group-title="OnDemand Misti",Pirati Dei Caraibi  La Maledizione Della Prima Luna
 http://iptv.iptvthebest.net:15000/movie/idfofaaz/e0Y408fqvJ/3835.mkv
-#EXTINF:-1 tvg-ID="" tvg-name="Pirati dei Caraibi  Oltre I Confini del Mare" tvg-logo="http://46.21.29.4:15000/images/1298650.jpg" group-title="OnDemand Misti",Pirati dei Caraibi  Oltre I Confini del Mare
+#EXTINF:-1 tvg-ID="" tvg-name="Pirati Dei Caraibi  Oltre I Confini Del Mare" tvg-logo="http://46.21.29.4:15000/images/1298650.jpg" group-title="OnDemand Misti",Pirati Dei Caraibi  Oltre I Confini Del Mare
 http://iptv.iptvthebest.net:15000/movie/idfofaaz/e0Y408fqvJ/3836.mkv
-#EXTINF:-1 tvg-ID="" tvg-name="Pitza e Datteri" tvg-logo="http://46.21.29.4:15000/images/4000442.jpg" group-title="OnDemand Misti",Pitza e Datteri
+#EXTINF:-1 tvg-ID="" tvg-name="Pitza E Datteri" tvg-logo="http://46.21.29.4:15000/images/4000442.jpg" group-title="OnDemand Misti",Pitza E Datteri
 http://iptv.iptvthebest.net:15000/movie/idfofaaz/e0Y408fqvJ/3837.mkv
 #EXTINF:-1 tvg-ID="" tvg-name="Piu Buio Di Mezzanotte" tvg-logo="http://46.21.29.4:15000/images/3177504.jpg" group-title="OnDemand Misti",Piu Buio Di Mezzanotte
 http://iptv.iptvthebest.net:15000/movie/idfofaaz/e0Y408fqvJ/3838.mkv
 #EXTINF:-1 tvg-ID="" tvg-name="Pixels" tvg-logo="http://46.21.29.4:15000/images/2120120.jpg" group-title="OnDemand Misti",Pixels
 http://iptv.iptvthebest.net:15000/movie/idfofaaz/e0Y408fqvJ/3839.mkv
-#EXTINF:-1 tvg-ID="" tvg-name="Pound of Flesh" tvg-logo="http://46.21.29.4:15000/images/3488328.jpg" group-title="OnDemand Misti",Pound of Flesh
+#EXTINF:-1 tvg-ID="" tvg-name="Pound Of Flesh" tvg-logo="http://46.21.29.4:15000/images/3488328.jpg" group-title="OnDemand Misti",Pound Of Flesh
 http://iptv.iptvthebest.net:15000/movie/idfofaaz/e0Y408fqvJ/3776.mkv
-#EXTINF:-1 tvg-ID="" tvg-name="Predestination." tvg-logo="http://46.21.29.4:15000/images/2397535.jpg" group-title="OnDemand Misti",Predestination.
+#EXTINF:-1 tvg-ID="" tvg-name="Predestination " tvg-logo="http://46.21.29.4:15000/images/2397535.jpg" group-title="OnDemand Misti",Predestination 
 http://iptv.iptvthebest.net:15000/movie/idfofaaz/e0Y408fqvJ/3777.mkv
 #EXTINF:-1 tvg-ID="" tvg-name="Pressure" tvg-logo="http://46.21.29.4:15000/images/3029476.jpg" group-title="OnDemand Misti",Pressure
 http://iptv.iptvthebest.net:15000/movie/idfofaaz/e0Y408fqvJ/3736.mkv
@@ -981,15 +1270,15 @@ http://iptv.iptvthebest.net:15000/movie/idfofaaz/e0Y408fqvJ/3736.mkv
 http://iptv.iptvthebest.net:15000/movie/idfofaaz/e0Y408fqvJ/3737.mkv
 #EXTINF:-1 tvg-ID="" tvg-name="Project Almanac Benvenuti A Ieri" tvg-logo="http://46.21.29.4:15000/images/2436386.jpg" group-title="OnDemand Misti",Project Almanac Benvenuti A Ieri
 http://iptv.iptvthebest.net:15000/movie/idfofaaz/e0Y408fqvJ/3840.mkv
-#EXTINF:-1 tvg-ID="" tvg-name="Prossima Fermata L inferno" tvg-logo="http://46.21.29.4:15000/images/2436386.jpg" group-title="OnDemand Misti",Prossima Fermata L inferno
+#EXTINF:-1 tvg-ID="" tvg-name="Prossima Fermata L Inferno" tvg-logo="http://46.21.29.4:15000/images/2436386.jpg" group-title="OnDemand Misti",Prossima Fermata L Inferno
 http://iptv.iptvthebest.net:15000/movie/idfofaaz/e0Y408fqvJ/3841.mkv
 #EXTINF:-1 tvg-ID="" tvg-name="Qualcosa Di Buono" tvg-logo="http://46.21.29.4:15000/images/1198156.jpg" group-title="OnDemand Misti",Qualcosa Di Buono
 http://iptv.iptvthebest.net:15000/movie/idfofaaz/e0Y408fqvJ/3842.mkv
 #EXTINF:-1 tvg-ID="" tvg-name="Quando C Era Marnie" tvg-logo="http://46.21.29.4:15000/images/1198156.jpg" group-title="OnDemand Misti",Quando C Era Marnie
 http://iptv.iptvthebest.net:15000/movie/idfofaaz/e0Y408fqvJ/3843.mkv
-#EXTINF:-1 tvg-ID="" tvg-name="Quel Gran Pezzo dell Ubalda Tutta Nuda E Tutta Calda" tvg-logo="http://46.21.29.4:15000/images/0070583.jpg" group-title="OnDemand Misti",Quel Gran Pezzo dell Ubalda Tutta Nuda E Tutta Calda
+#EXTINF:-1 tvg-ID="" tvg-name="Quel Gran Pezzo Dell Ubalda Tutta Nuda E Tutta Calda" tvg-logo="http://46.21.29.4:15000/images/0070583.jpg" group-title="OnDemand Misti",Quel Gran Pezzo Dell Ubalda Tutta Nuda E Tutta Calda
 http://iptv.iptvthebest.net:15000/movie/idfofaaz/e0Y408fqvJ/3844.mkv
-#EXTINF:-1 tvg-ID="" tvg-name="REC 4 Apocalypse." tvg-logo="http://46.21.29.4:15000/images/1649443.jpg" group-title="OnDemand Misti",REC 4 Apocalypse.
+#EXTINF:-1 tvg-ID="" tvg-name="Rec 4 Apocalypse " tvg-logo="http://46.21.29.4:15000/images/1649443.jpg" group-title="OnDemand Misti",Rec 4 Apocalypse 
 http://iptv.iptvthebest.net:15000/movie/idfofaaz/e0Y408fqvJ/3845.mkv
 #EXTINF:-1 tvg-ID="" tvg-name="Results" tvg-logo="http://46.21.29.4:15000/images/3824412.jpg" group-title="OnDemand Misti",Results
 http://iptv.iptvthebest.net:15000/movie/idfofaaz/e0Y408fqvJ/3846.mkv
@@ -999,13 +1288,13 @@ http://iptv.iptvthebest.net:15000/movie/idfofaaz/e0Y408fqvJ/3738.mkv
 http://iptv.iptvthebest.net:15000/movie/idfofaaz/e0Y408fqvJ/3754.mkv
 #EXTINF:-1 tvg-ID="" tvg-name="Ritorno Al Marigold Hotel" tvg-logo="http://46.21.29.4:15000/images/2555736.jpg" group-title="OnDemand Misti",Ritorno Al Marigold Hotel
 http://iptv.iptvthebest.net:15000/movie/idfofaaz/e0Y408fqvJ/3847.mkv
-#EXTINF:-1 tvg-ID="" tvg-name="Ritorno Alla Vita." tvg-logo="http://46.21.29.4:15000/images/1707380.jpg" group-title="OnDemand Misti",Ritorno Alla Vita.
+#EXTINF:-1 tvg-ID="" tvg-name="Ritorno Alla Vita " tvg-logo="http://46.21.29.4:15000/images/1707380.jpg" group-title="OnDemand Misti",Ritorno Alla Vita 
 http://iptv.iptvthebest.net:15000/movie/idfofaaz/e0Y408fqvJ/3778.mkv
-#EXTINF:-1 tvg-ID="" tvg-name="Ritorno dalle acque maledette" tvg-logo="http://46.21.29.4:15000/images/0252649.jpg" group-title="OnDemand Misti",Ritorno dalle acque maledette
+#EXTINF:-1 tvg-ID="" tvg-name="Ritorno Dalle Acque Maledette" tvg-logo="http://46.21.29.4:15000/images/0252649.jpg" group-title="OnDemand Misti",Ritorno Dalle Acque Maledette
 http://iptv.iptvthebest.net:15000/movie/idfofaaz/e0Y408fqvJ/3848.mkv
 #EXTINF:-1 tvg-ID="" tvg-name="Samba" tvg-logo="http://46.21.29.4:15000/images/3399024.jpg" group-title="OnDemand Misti",Samba
 http://iptv.iptvthebest.net:15000/movie/idfofaaz/e0Y408fqvJ/3739.mkv
-#EXTINF:-1 tvg-ID="" tvg-name="San Valentino di Sangue" tvg-logo="http://46.21.29.4:15000/images/1179891.jpg" group-title="OnDemand Misti",San Valentino di Sangue
+#EXTINF:-1 tvg-ID="" tvg-name="San Valentino Di Sangue" tvg-logo="http://46.21.29.4:15000/images/1179891.jpg" group-title="OnDemand Misti",San Valentino Di Sangue
 http://iptv.iptvthebest.net:15000/movie/idfofaaz/e0Y408fqvJ/3849.mkv
 #EXTINF:-1 tvg-ID="" tvg-name="Scrivimi Ancora" tvg-logo="http://46.21.29.4:15000/images/1179891.jpg" group-title="OnDemand Misti",Scrivimi Ancora
 http://iptv.iptvthebest.net:15000/movie/idfofaaz/e0Y408fqvJ/3850.mkv
@@ -1021,19 +1310,19 @@ http://iptv.iptvthebest.net:15000/movie/idfofaaz/e0Y408fqvJ/3779.mkv
 http://iptv.iptvthebest.net:15000/movie/idfofaaz/e0Y408fqvJ/3755.mkv
 #EXTINF:-1 tvg-ID="" tvg-name="Sopravvissuto The Martian" tvg-logo="http://46.21.29.4:15000/images/3659388.jpg" group-title="OnDemand Misti",Sopravvissuto The Martian
 http://iptv.iptvthebest.net:15000/movie/idfofaaz/e0Y408fqvJ/3854.mkv
-#EXTINF:-1 tvg-ID="" tvg-name="Sorority Row Patto di Sangue" tvg-logo="http://46.21.29.4:15000/images/1232783.jpg" group-title="OnDemand Misti",Sorority Row Patto di Sangue
+#EXTINF:-1 tvg-ID="" tvg-name="Sorority Row Patto Di Sangue" tvg-logo="http://46.21.29.4:15000/images/1232783.jpg" group-title="OnDemand Misti",Sorority Row Patto Di Sangue
 http://iptv.iptvthebest.net:15000/movie/idfofaaz/e0Y408fqvJ/3855.mkv
 #EXTINF:-1 tvg-ID="" tvg-name="Southpaw L Ultima Sfida" tvg-logo="http://46.21.29.4:15000/images/1232783.jpg" group-title="OnDemand Misti",Southpaw L Ultima Sfida
 http://iptv.iptvthebest.net:15000/movie/idfofaaz/e0Y408fqvJ/3756.mkv
 #EXTINF:-1 tvg-ID="" tvg-name="Space Station 76" tvg-logo="http://46.21.29.4:15000/images/2369317.jpg" group-title="OnDemand Misti",Space Station 76
 http://iptv.iptvthebest.net:15000/movie/idfofaaz/e0Y408fqvJ/3780.mkv
-#EXTINF:-1 tvg-ID="" tvg-name="SpiderMan 2" tvg-logo="http://46.21.29.4:15000/images/0316654.jpg" group-title="OnDemand Misti",SpiderMan 2
+#EXTINF:-1 tvg-ID="" tvg-name="Spiderman 2" tvg-logo="http://46.21.29.4:15000/images/0316654.jpg" group-title="OnDemand Misti",Spiderman 2
 http://iptv.iptvthebest.net:15000/movie/idfofaaz/e0Y408fqvJ/3856.mkv
-#EXTINF:-1 tvg-ID="" tvg-name="SpiderMan 3" tvg-logo="http://46.21.29.4:15000/images/0413300.jpg" group-title="OnDemand Misti",SpiderMan 3
+#EXTINF:-1 tvg-ID="" tvg-name="Spiderman 3" tvg-logo="http://46.21.29.4:15000/images/0413300.jpg" group-title="OnDemand Misti",Spiderman 3
 http://iptv.iptvthebest.net:15000/movie/idfofaaz/e0Y408fqvJ/3857.mkv
 #EXTINF:-1 tvg-ID="" tvg-name="Spring" tvg-logo="http://46.21.29.4:15000/images/3395184.jpg" group-title="OnDemand Misti",Spring
 http://iptv.iptvthebest.net:15000/movie/idfofaaz/e0Y408fqvJ/3781.mkv
-#EXTINF:-1 tvg-ID="" tvg-name="Spring Breakers Una Vacanza da Sballo" tvg-logo="http://46.21.29.4:15000/images/2101441.jpg" group-title="OnDemand Misti",Spring Breakers Una Vacanza da Sballo
+#EXTINF:-1 tvg-ID="" tvg-name="Spring Breakers Una Vacanza Da Sballo" tvg-logo="http://46.21.29.4:15000/images/2101441.jpg" group-title="OnDemand Misti",Spring Breakers Una Vacanza Da Sballo
 http://iptv.iptvthebest.net:15000/movie/idfofaaz/e0Y408fqvJ/3757.mkv
 #EXTINF:-1 tvg-ID="" tvg-name="Star Trek   Into Darkness" tvg-logo="http://46.21.29.4:15000/images/1408101.jpg" group-title="OnDemand Misti",Star Trek   Into Darkness
 http://iptv.iptvthebest.net:15000/movie/idfofaaz/e0Y408fqvJ/3858.mkv
@@ -1043,37 +1332,37 @@ http://iptv.iptvthebest.net:15000/movie/idfofaaz/e0Y408fqvJ/3758.mkv
 http://iptv.iptvthebest.net:15000/movie/idfofaaz/e0Y408fqvJ/3859.mkv
 #EXTINF:-1 tvg-ID="" tvg-name="Star Trek I The Motion Picture" tvg-logo="http://46.21.29.4:15000/images/0079945.jpg" group-title="OnDemand Misti",Star Trek I The Motion Picture
 http://iptv.iptvthebest.net:15000/movie/idfofaaz/e0Y408fqvJ/3860.mkv
-#EXTINF:-1 tvg-ID="" tvg-name="Star Trek II L'ira.di.Khan" tvg-logo="http://46.21.29.4:15000/images/0079945.jpg" group-title="OnDemand Misti",Star Trek II L'ira.di.Khan
+#EXTINF:-1 tvg-ID="" tvg-name="Star Trek Ii L'ira Di Khan" tvg-logo="http://46.21.29.4:15000/images/0079945.jpg" group-title="OnDemand Misti",Star Trek Ii L'ira Di Khan
 http://iptv.iptvthebest.net:15000/movie/idfofaaz/e0Y408fqvJ/3759.mkv
-#EXTINF:-1 tvg-ID="" tvg-name="Star Trek III Alla ricerca di Spock" tvg-logo="http://46.21.29.4:15000/images/0088170.jpg" group-title="OnDemand Misti",Star Trek III Alla ricerca di Spock
+#EXTINF:-1 tvg-ID="" tvg-name="Star Trek Iii Alla Ricerca Di Spock" tvg-logo="http://46.21.29.4:15000/images/0088170.jpg" group-title="OnDemand Misti",Star Trek Iii Alla Ricerca Di Spock
 http://iptv.iptvthebest.net:15000/movie/idfofaaz/e0Y408fqvJ/3861.mkv
-#EXTINF:-1 tvg-ID="" tvg-name="Star Trek IV Rotta.verso.la.Terra" tvg-logo="http://46.21.29.4:15000/images/0088170.jpg" group-title="OnDemand Misti",Star Trek IV Rotta.verso.la.Terra
+#EXTINF:-1 tvg-ID="" tvg-name="Star Trek Iv Rotta Verso La Terra" tvg-logo="http://46.21.29.4:15000/images/0088170.jpg" group-title="OnDemand Misti",Star Trek Iv Rotta Verso La Terra
 http://iptv.iptvthebest.net:15000/movie/idfofaaz/e0Y408fqvJ/3782.mkv
-#EXTINF:-1 tvg-ID="" tvg-name="Star Trek IX L'insurrezione" tvg-logo="http://46.21.29.4:15000/images/0120844.jpg" group-title="OnDemand Misti",Star Trek IX L'insurrezione
+#EXTINF:-1 tvg-ID="" tvg-name="Star Trek Ix L'insurrezione" tvg-logo="http://46.21.29.4:15000/images/0120844.jpg" group-title="OnDemand Misti",Star Trek Ix L'insurrezione
 http://iptv.iptvthebest.net:15000/movie/idfofaaz/e0Y408fqvJ/3862.mkv
-#EXTINF:-1 tvg-ID="" tvg-name="Star Trek V L'ultima.Frontiera" tvg-logo="http://46.21.29.4:15000/images/0120844.jpg" group-title="OnDemand Misti",Star Trek V L'ultima.Frontiera
+#EXTINF:-1 tvg-ID="" tvg-name="Star Trek V L'ultima Frontiera" tvg-logo="http://46.21.29.4:15000/images/0120844.jpg" group-title="OnDemand Misti",Star Trek V L'ultima Frontiera
 http://iptv.iptvthebest.net:15000/movie/idfofaaz/e0Y408fqvJ/3863.mkv
-#EXTINF:-1 tvg-ID="" tvg-name="Star Trek VI.-.Rotta.verso.l'ignoto" tvg-logo="http://46.21.29.4:15000/images/0120844.jpg" group-title="OnDemand Misti",Star Trek VI.-.Rotta.verso.l'ignoto
+#EXTINF:-1 tvg-ID="" tvg-name="Star Trek Vi - Rotta Verso L'ignoto" tvg-logo="http://46.21.29.4:15000/images/0120844.jpg" group-title="OnDemand Misti",Star Trek Vi - Rotta Verso L'ignoto
 http://iptv.iptvthebest.net:15000/movie/idfofaaz/e0Y408fqvJ/3783.mkv
-#EXTINF:-1 tvg-ID="" tvg-name="Star Trek VII.-.Generazioni" tvg-logo="http://46.21.29.4:15000/images/0111280.jpg" group-title="OnDemand Misti",Star Trek VII.-.Generazioni
+#EXTINF:-1 tvg-ID="" tvg-name="Star Trek Vii - Generazioni" tvg-logo="http://46.21.29.4:15000/images/0111280.jpg" group-title="OnDemand Misti",Star Trek Vii - Generazioni
 http://iptv.iptvthebest.net:15000/movie/idfofaaz/e0Y408fqvJ/3760.mkv
-#EXTINF:-1 tvg-ID="" tvg-name="Star Trek VIII Primo.Contatto" tvg-logo="http://46.21.29.4:15000/images/0111280.jpg" group-title="OnDemand Misti",Star Trek VIII Primo.Contatto
+#EXTINF:-1 tvg-ID="" tvg-name="Star Trek Viii Primo Contatto" tvg-logo="http://46.21.29.4:15000/images/0111280.jpg" group-title="OnDemand Misti",Star Trek Viii Primo Contatto
 http://iptv.iptvthebest.net:15000/movie/idfofaaz/e0Y408fqvJ/3740.mkv
-#EXTINF:-1 tvg-ID="" tvg-name="Star Trek X La.Nemesi" tvg-logo="http://46.21.29.4:15000/images/0111280.jpg" group-title="OnDemand Misti",Star Trek X La.Nemesi
+#EXTINF:-1 tvg-ID="" tvg-name="Star Trek X La Nemesi" tvg-logo="http://46.21.29.4:15000/images/0111280.jpg" group-title="OnDemand Misti",Star Trek X La Nemesi
 http://iptv.iptvthebest.net:15000/movie/idfofaaz/e0Y408fqvJ/3864.mkv
 #EXTINF:-1 tvg-ID="" tvg-name="Star Wars  The Clone Wars-cartoon" tvg-logo="http://46.21.29.4:15000/images/0111280.jpg" group-title="OnDemand Misti",Star Wars  The Clone Wars-cartoon
 http://iptv.iptvthebest.net:15000/movie/idfofaaz/e0Y408fqvJ/3865.mkv
 #EXTINF:-1 tvg-ID="" tvg-name="Star Wars Episodio I La Minaccia Fantasma" tvg-logo="http://46.21.29.4:15000/images/0120915.jpg" group-title="OnDemand Misti",Star Wars Episodio I La Minaccia Fantasma
 http://iptv.iptvthebest.net:15000/movie/idfofaaz/e0Y408fqvJ/3866.mkv
-#EXTINF:-1 tvg-ID="" tvg-name="Star Wars Episodio II  L'attacco Dei Cloni" tvg-logo="http://46.21.29.4:15000/images/0121765.jpg" group-title="OnDemand Misti",Star Wars Episodio II  L'attacco Dei Cloni
+#EXTINF:-1 tvg-ID="" tvg-name="Star Wars Episodio Ii  L'attacco Dei Cloni" tvg-logo="http://46.21.29.4:15000/images/0121765.jpg" group-title="OnDemand Misti",Star Wars Episodio Ii  L'attacco Dei Cloni
 http://iptv.iptvthebest.net:15000/movie/idfofaaz/e0Y408fqvJ/3867.mkv
-#EXTINF:-1 tvg-ID="" tvg-name="Star Wars Episodio III La Vendetta Dei Sith" tvg-logo="http://46.21.29.4:15000/images/0121766.jpg" group-title="OnDemand Misti",Star Wars Episodio III La Vendetta Dei Sith
+#EXTINF:-1 tvg-ID="" tvg-name="Star Wars Episodio Iii La Vendetta Dei Sith" tvg-logo="http://46.21.29.4:15000/images/0121766.jpg" group-title="OnDemand Misti",Star Wars Episodio Iii La Vendetta Dei Sith
 http://iptv.iptvthebest.net:15000/movie/idfofaaz/e0Y408fqvJ/3868.mkv
-#EXTINF:-1 tvg-ID="" tvg-name="Star Wars Episodio IV  Una nuova speranza" tvg-logo="http://46.21.29.4:15000/images/0076759.jpg" group-title="OnDemand Misti",Star Wars Episodio IV  Una nuova speranza
+#EXTINF:-1 tvg-ID="" tvg-name="Star Wars Episodio Iv  Una Nuova Speranza" tvg-logo="http://46.21.29.4:15000/images/0076759.jpg" group-title="OnDemand Misti",Star Wars Episodio Iv  Una Nuova Speranza
 http://iptv.iptvthebest.net:15000/movie/idfofaaz/e0Y408fqvJ/3869.mkv
 #EXTINF:-1 tvg-ID="" tvg-name="Star Wars Episodio V L'impero Colpisce Ancora" tvg-logo="http://46.21.29.4:15000/images/0080684.jpg" group-title="OnDemand Misti",Star Wars Episodio V L'impero Colpisce Ancora
 http://iptv.iptvthebest.net:15000/movie/idfofaaz/e0Y408fqvJ/3784.mkv
-#EXTINF:-1 tvg-ID="" tvg-name="Star Wars Episodio VI Il Ritorno Dello Jedi" tvg-logo="http://46.21.29.4:15000/images/0086190.jpg" group-title="OnDemand Misti",Star Wars Episodio VI Il Ritorno Dello Jedi
+#EXTINF:-1 tvg-ID="" tvg-name="Star Wars Episodio Vi Il Ritorno Dello Jedi" tvg-logo="http://46.21.29.4:15000/images/0086190.jpg" group-title="OnDemand Misti",Star Wars Episodio Vi Il Ritorno Dello Jedi
 http://iptv.iptvthebest.net:15000/movie/idfofaaz/e0Y408fqvJ/3870.mkv
 #EXTINF:-1 tvg-ID="" tvg-name="Storie Pazzesche" tvg-logo="http://46.21.29.4:15000/images/3011894.jpg" group-title="OnDemand Misti",Storie Pazzesche
 http://iptv.iptvthebest.net:15000/movie/idfofaaz/e0Y408fqvJ/3761.mkv
@@ -1081,7 +1370,7 @@ http://iptv.iptvthebest.net:15000/movie/idfofaaz/e0Y408fqvJ/3761.mkv
 http://iptv.iptvthebest.net:15000/movie/idfofaaz/e0Y408fqvJ/3741.mkv
 #EXTINF:-1 tvg-ID="" tvg-name="Suburra" tvg-logo="http://46.21.29.4:15000/images/4025514.jpg" group-title="OnDemand Misti",Suburra
 http://iptv.iptvthebest.net:15000/movie/idfofaaz/e0Y408fqvJ/3785.mkv
-#EXTINF:-1 tvg-ID="" tvg-name="Suite Francese." tvg-logo="http://46.21.29.4:15000/images/0900387.jpg" group-title="OnDemand Misti",Suite Francese.
+#EXTINF:-1 tvg-ID="" tvg-name="Suite Francese " tvg-logo="http://46.21.29.4:15000/images/0900387.jpg" group-title="OnDemand Misti",Suite Francese 
 http://iptv.iptvthebest.net:15000/movie/idfofaaz/e0Y408fqvJ/3871.mkv
 #EXTINF:-1 tvg-ID="" tvg-name="Ted" tvg-logo="http://46.21.29.4:15000/images/1637725.jpg" group-title="OnDemand Misti",Ted
 http://iptv.iptvthebest.net:15000/movie/idfofaaz/e0Y408fqvJ/3873.mkv
@@ -1089,7 +1378,7 @@ http://iptv.iptvthebest.net:15000/movie/idfofaaz/e0Y408fqvJ/3873.mkv
 http://iptv.iptvthebest.net:15000/movie/idfofaaz/e0Y408fqvJ/3872.mkv
 #EXTINF:-1 tvg-ID="" tvg-name="Teen Beach" tvg-logo="http://46.21.29.4:15000/images/3764966.jpg" group-title="OnDemand Misti",Teen Beach
 http://iptv.iptvthebest.net:15000/movie/idfofaaz/e0Y408fqvJ/3874.mkv
-#EXTINF:-1 tvg-ID="" tvg-name="Tempo Variabile con Probabili Schiarite" tvg-logo="http://46.21.29.4:15000/images/3625354.jpg" group-title="OnDemand Misti",Tempo Variabile con Probabili Schiarite
+#EXTINF:-1 tvg-ID="" tvg-name="Tempo Variabile Con Probabili Schiarite" tvg-logo="http://46.21.29.4:15000/images/3625354.jpg" group-title="OnDemand Misti",Tempo Variabile Con Probabili Schiarite
 http://iptv.iptvthebest.net:15000/movie/idfofaaz/e0Y408fqvJ/3875.mkv
 #EXTINF:-1 tvg-ID="" tvg-name="Teneramente Folle" tvg-logo="http://46.21.29.4:15000/images/1969062.jpg" group-title="OnDemand Misti",Teneramente Folle
 http://iptv.iptvthebest.net:15000/movie/idfofaaz/e0Y408fqvJ/3876.mkv
@@ -1125,7 +1414,7 @@ http://iptv.iptvthebest.net:15000/movie/idfofaaz/e0Y408fqvJ/3886.mkv
 http://iptv.iptvthebest.net:15000/movie/idfofaaz/e0Y408fqvJ/3743.mkv
 #EXTINF:-1 tvg-ID="" tvg-name="The Water Diviner" tvg-logo="http://46.21.29.4:15000/images/3007512.jpg" group-title="OnDemand Misti",The Water Diviner
 http://iptv.iptvthebest.net:15000/movie/idfofaaz/e0Y408fqvJ/3887.mkv
-#EXTINF:-1 tvg-ID="" tvg-name="The.Tribe" tvg-logo="http://46.21.29.4:15000/images/0274988.jpg" group-title="OnDemand Misti",The.Tribe
+#EXTINF:-1 tvg-ID="" tvg-name="The Tribe" tvg-logo="http://46.21.29.4:15000/images/0274988.jpg" group-title="OnDemand Misti",The Tribe
 http://iptv.iptvthebest.net:15000/movie/idfofaaz/e0Y408fqvJ/3888.mkv
 #EXTINF:-1 tvg-ID="" tvg-name="Torneranno I Prati" tvg-logo="http://46.21.29.4:15000/images/3478140.jpg" group-title="OnDemand Misti",Torneranno I Prati
 http://iptv.iptvthebest.net:15000/movie/idfofaaz/e0Y408fqvJ/3889.mkv
@@ -1141,27 +1430,27 @@ http://iptv.iptvthebest.net:15000/movie/idfofaaz/e0Y408fqvJ/3763.mkv
 http://iptv.iptvthebest.net:15000/movie/idfofaaz/e0Y408fqvJ/3893.mkv
 #EXTINF:-1 tvg-ID="" tvg-name="Un Natale Stupefacente" tvg-logo="http://46.21.29.4:15000/images/3985572.jpg" group-title="OnDemand Misti",Un Natale Stupefacente
 http://iptv.iptvthebest.net:15000/movie/idfofaaz/e0Y408fqvJ/3894.mkv
-#EXTINF:-1 tvg-ID="" tvg-name="Un piccione seduto su un ramo riflette sull esistenza" tvg-logo="http://46.21.29.4:15000/images/3985572.jpg" group-title="OnDemand Misti",Un piccione seduto su un ramo riflette sull esistenza
+#EXTINF:-1 tvg-ID="" tvg-name="Un Piccione Seduto Su Un Ramo Riflette Sull Esistenza" tvg-logo="http://46.21.29.4:15000/images/3985572.jpg" group-title="OnDemand Misti",Un Piccione Seduto Su Un Ramo Riflette Sull Esistenza
 http://iptv.iptvthebest.net:15000/movie/idfofaaz/e0Y408fqvJ/3896.mkv
 #EXTINF:-1 tvg-ID="" tvg-name="Un Testimone In Affitto" tvg-logo="http://46.21.29.4:15000/images/0884732.jpg" group-title="OnDemand Misti",Un Testimone In Affitto
 http://iptv.iptvthebest.net:15000/movie/idfofaaz/e0Y408fqvJ/3895.mkv
-#EXTINF:-1 tvg-ID="" tvg-name="Una notte al museo 1" tvg-logo="http://46.21.29.4:15000/images/0884732.jpg" group-title="OnDemand Misti",Una notte al museo 1
+#EXTINF:-1 tvg-ID="" tvg-name="Una Notte Al Museo 1" tvg-logo="http://46.21.29.4:15000/images/0884732.jpg" group-title="OnDemand Misti",Una Notte Al Museo 1
 http://iptv.iptvthebest.net:15000/movie/idfofaaz/e0Y408fqvJ/3766.mkv
-#EXTINF:-1 tvg-ID="" tvg-name="Una notte al museo 2 - La fuga" tvg-logo="http://46.21.29.4:15000/images/1078912.jpg" group-title="OnDemand Misti",Una notte al museo 2 - La fuga
+#EXTINF:-1 tvg-ID="" tvg-name="Una Notte Al Museo 2 - La Fuga" tvg-logo="http://46.21.29.4:15000/images/1078912.jpg" group-title="OnDemand Misti",Una Notte Al Museo 2 - La Fuga
 http://iptv.iptvthebest.net:15000/movie/idfofaaz/e0Y408fqvJ/3897.mkv
-#EXTINF:-1 tvg-ID="" tvg-name="Una notte al museo 3 - Il segreto del faraone" tvg-logo="http://46.21.29.4:15000/images/2692250.jpg" group-title="OnDemand Misti",Una notte al museo 3 - Il segreto del faraone
+#EXTINF:-1 tvg-ID="" tvg-name="Una Notte Al Museo 3 - Il Segreto Del Faraone" tvg-logo="http://46.21.29.4:15000/images/2692250.jpg" group-title="OnDemand Misti",Una Notte Al Museo 3 - Il Segreto Del Faraone
 http://iptv.iptvthebest.net:15000/movie/idfofaaz/e0Y408fqvJ/3898.mkv
-#EXTINF:-1 tvg-ID="" tvg-name="Una Notte da Leoni 1" tvg-logo="http://46.21.29.4:15000/images/not-found.jpg" group-title="OnDemand Misti",Una Notte da Leoni 1
+#EXTINF:-1 tvg-ID="" tvg-name="Una Notte Da Leoni 1" tvg-logo="http://46.21.29.4:15000/images/not-found.jpg" group-title="OnDemand Misti",Una Notte Da Leoni 1
 http://iptv.iptvthebest.net:15000/movie/idfofaaz/e0Y408fqvJ/3744.mkv
-#EXTINF:-1 tvg-ID="" tvg-name="Una Notte da Leoni 2" tvg-logo="http://46.21.29.4:15000/images/1411697.jpg" group-title="OnDemand Misti",Una Notte da Leoni 2
+#EXTINF:-1 tvg-ID="" tvg-name="Una Notte Da Leoni 2" tvg-logo="http://46.21.29.4:15000/images/1411697.jpg" group-title="OnDemand Misti",Una Notte Da Leoni 2
 http://iptv.iptvthebest.net:15000/movie/idfofaaz/e0Y408fqvJ/3789.mkv
-#EXTINF:-1 tvg-ID="" tvg-name="Una Notte da Leoni 3" tvg-logo="http://46.21.29.4:15000/images/1951261.jpg" group-title="OnDemand Misti",Una Notte da Leoni 3
+#EXTINF:-1 tvg-ID="" tvg-name="Una Notte Da Leoni 3" tvg-logo="http://46.21.29.4:15000/images/1951261.jpg" group-title="OnDemand Misti",Una Notte Da Leoni 3
 http://iptv.iptvthebest.net:15000/movie/idfofaaz/e0Y408fqvJ/3764.mkv
-#EXTINF:-1 tvg-ID="" tvg-name="Una Notte da Matricole" tvg-logo="http://46.21.29.4:15000/images/3534602.jpg" group-title="OnDemand Misti",Una Notte da Matricole
+#EXTINF:-1 tvg-ID="" tvg-name="Una Notte Da Matricole" tvg-logo="http://46.21.29.4:15000/images/3534602.jpg" group-title="OnDemand Misti",Una Notte Da Matricole
 http://iptv.iptvthebest.net:15000/movie/idfofaaz/e0Y408fqvJ/3765.mkv
 #EXTINF:-1 tvg-ID="" tvg-name="Unfriended" tvg-logo="http://46.21.29.4:15000/images/3713166.jpg" group-title="OnDemand Misti",Unfriended
 http://iptv.iptvthebest.net:15000/movie/idfofaaz/e0Y408fqvJ/3899.mkv
-#EXTINF:-1 tvg-ID="" tvg-name="Va a Finire che Ti Amo" tvg-logo="http://46.21.29.4:15000/images/3282858.jpg" group-title="OnDemand Misti",Va a Finire che Ti Amo
+#EXTINF:-1 tvg-ID="" tvg-name="Va A Finire Che Ti Amo" tvg-logo="http://46.21.29.4:15000/images/3282858.jpg" group-title="OnDemand Misti",Va A Finire Che Ti Amo
 http://iptv.iptvthebest.net:15000/movie/idfofaaz/e0Y408fqvJ/3767.mkv
 #EXTINF:-1 tvg-ID="" tvg-name="We Are Your Friends" tvg-logo="http://46.21.29.4:15000/images/3787590.jpg" group-title="OnDemand Misti",We Are Your Friends
 http://iptv.iptvthebest.net:15000/movie/idfofaaz/e0Y408fqvJ/3900.mkv
