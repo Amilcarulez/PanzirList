@@ -265,10 +265,10 @@ http://178.132.7.100:15000/live/fqrrbxjl/w709Ks3Ghd/95.ts
 http://178.132.7.100:15000/live/fqrrbxjl/w709Ks3Ghd/96.ts
 #EXTINF:-1 tvg-ID="SkyCalcio8.it" tvg-name="SKY Calcio 8 HD" tvg-logo="http://www.sat-address.com/f/pics/logotipi/Sky-Calcio-8_o.jpg" group-title="SKY CALCIO",SKY Calcio 8 HD
 http://178.132.7.100:15000/live/fqrrbxjl/w709Ks3Ghd/97.ts
-#EXTINF:-1 tvg-ID="" tvg-name="Sky Calcio 9 HD" tvg-logo="" group-title="SKY CALCIO",Sky Calcio 9 HD
-http://178.132.7.100:15000/live/fqrrbxjl/w709Ks3Ghd/21125.ts
-#EXTINF:-1 tvg-ID="" tvg-name="Sky Calcio 10 HD" tvg-logo="" group-title="SKY CALCIO",Sky Calcio 10 HD
-http://178.132.7.100:15000/live/fqrrbxjl/w709Ks3Ghd/21126.ts
+#EXTINF:-1 tvg-ID="SkyCalcio9.it" tvg-name="SKY Calcio 9 HD" tvg-logo="http://www.sat-address.com/f/pics/logotipi/Sky-Calcio-9_o.jpg" group-title="Italiani",SKY Calcio 9 HD
+http://178.132.7.100:15000/live/fqrrbxjl/w709Ks3Ghd/98.ts
+#EXTINF:-1 tvg-ID="SkyCalcio10.it" tvg-name="SKY Calcio 10 HD" tvg-logo="http://www.sat-address.com/f/pics/logotipi/Sky-Calcio-10_o.jpg" group-title="Italiani",SKY Calcio 10 HD
+http://178.132.7.100:15000/live/fqrrbxjl/w709Ks3Ghd/99.ts
 #EXTINF:-1 tvg-ID="SkyCalcio9.it" tvg-name="Lazio Tv" tvg-logo="" group-title="SKY CALCIO",Lazio Tv
 http://178.132.7.100:15000/live/fqrrbxjl/w709Ks3Ghd/98.ts
 #EXTINF:-1 tvg-ID="JuventusChannel.it" tvg-name="Juventus TV" tvg-logo="http://www.lyngsat-logo.com/logo/tv/jj/juventus_tv_it.png" group-title="SKY CALCIO",Juventus TV
