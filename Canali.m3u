@@ -1,661 +1,678 @@
 #EXTM3U
 #EXTINF:-1 tvg-ID="Rai1.it" tvg-name="Rai 1 HD" tvg-logo="http://www.lyngsat-logo.com/hires/rr/rai_1_hd.png" group-title="Italiani",Rai 1 HD
-http://190.2.138.110:15000/live/fqrrbxjl/w709Ks3Ghd/12.ts
+http://190.2.138.110:15000/live/bwcspenz/Ekw8532xqB/12.ts
 #EXTINF:-1 tvg-ID="Rai1Plus1.it" tvg-name="Rai 1 HD +1" tvg-logo="" group-title="Canali +1 e +2",Rai 1 HD +1
-http://190.2.138.110:15000/live/fqrrbxjl/w709Ks3Ghd/13094.ts
+http://190.2.138.110:15000/live/bwcspenz/Ekw8532xqB/13094.ts
 #EXTINF:-1 tvg-ID="Rai2.it" tvg-name="Rai 2 HD" tvg-logo="http://www.lyngsat-logo.com/hires/rr/rai_2_hd.png" group-title="Italiani",Rai 2 HD
-http://190.2.138.110:15000/live/fqrrbxjl/w709Ks3Ghd/13.ts
+http://190.2.138.110:15000/live/bwcspenz/Ekw8532xqB/13.ts
 #EXTINF:-1 tvg-ID="Rai2Plus1.it" tvg-name="Rai 2 HD +1" tvg-logo="" group-title="Canali +1 e +2",Rai 2 HD +1
-http://190.2.138.110:15000/live/fqrrbxjl/w709Ks3Ghd/13095.ts
+http://190.2.138.110:15000/live/bwcspenz/Ekw8532xqB/13095.ts
 #EXTINF:-1 tvg-ID="Rai3.it" tvg-name="Rai 3 HD" tvg-logo="http://www.lyngsat-logo.com/hires/rr/rai_3_hd.png" group-title="Italiani",Rai 3 HD
-http://190.2.138.110:15000/live/fqrrbxjl/w709Ks3Ghd/14.ts
+http://190.2.138.110:15000/live/bwcspenz/Ekw8532xqB/14.ts
 #EXTINF:-1 tvg-ID="Rai3Plus1.it" tvg-name="Rai 3 HD +1" tvg-logo="" group-title="Canali +1 e +2",Rai 3 HD +1
-http://190.2.138.110:15000/live/fqrrbxjl/w709Ks3Ghd/13096.ts
+http://190.2.138.110:15000/live/bwcspenz/Ekw8532xqB/13096.ts
 #EXTINF:-1 tvg-ID="Rete4.it" tvg-name="Rete 4 HD" tvg-logo="http://www.sat-address.com/f/pics/logotipi/Rete-4_o.jpg" group-title="Italiani",Rete 4 HD
-http://190.2.138.110:15000/live/fqrrbxjl/w709Ks3Ghd/15.ts
+http://190.2.138.110:15000/live/bwcspenz/Ekw8532xqB/15.ts
 #EXTINF:-1 tvg-ID="Rete4Plus1.it" tvg-name="Rete 4 HD +1" tvg-logo="" group-title="Canali +1 e +2",Rete 4 HD +1
-http://190.2.138.110:15000/live/fqrrbxjl/w709Ks3Ghd/13097.ts
+http://190.2.138.110:15000/live/bwcspenz/Ekw8532xqB/13097.ts
 #EXTINF:-1 tvg-ID="Canale5.it" tvg-name="Canale 5 HD" tvg-logo="http://www.sat-address.com/f/pics/logotipi/Canale-5_o.jpg" group-title="Italiani",Canale 5 HD
-http://190.2.138.110:15000/live/fqrrbxjl/w709Ks3Ghd/16.ts
+http://190.2.138.110:15000/live/bwcspenz/Ekw8532xqB/16.ts
 #EXTINF:-1 tvg-ID="Canale5Plus1.it" tvg-name="Canale 5 HD +1" tvg-logo="" group-title="Canali +1 e +2",Canale 5 HD +1
-http://190.2.138.110:15000/live/fqrrbxjl/w709Ks3Ghd/13098.ts
+http://190.2.138.110:15000/live/bwcspenz/Ekw8532xqB/13098.ts
 #EXTINF:-1 tvg-ID="Italia1.it" tvg-name="Italia 1 HD" tvg-logo="http://www.sat-address.com/f/pics/logotipi/Italia-1_o.jpg" group-title="Italiani",Italia 1 HD
-http://190.2.138.110:15000/live/fqrrbxjl/w709Ks3Ghd/17.ts
+http://190.2.138.110:15000/live/bwcspenz/Ekw8532xqB/17.ts
 #EXTINF:-1 tvg-ID="" tvg-name="Italia 1 HD +1" tvg-logo="" group-title="Canali +1 e +2",Italia 1 HD +1
-http://190.2.138.110:15000/live/fqrrbxjl/w709Ks3Ghd/13099.ts
+http://190.2.138.110:15000/live/bwcspenz/Ekw8532xqB/13099.ts
 #EXTINF:-1 tvg-ID="La7.it" tvg-name="La 7" tvg-logo="http://www.sat-address.com/f/pics/logotipi/La-7_o.jpg" group-title="Italiani",La 7
-http://190.2.138.110:15000/live/fqrrbxjl/w709Ks3Ghd/18.ts
+http://190.2.138.110:15000/live/bwcspenz/Ekw8532xqB/18.ts
 #EXTINF:-1 tvg-ID="" tvg-name="LA 7 +1" tvg-logo="" group-title="Canali +1 e +2",LA 7 +1
-http://190.2.138.110:15000/live/fqrrbxjl/w709Ks3Ghd/13100.ts
+http://190.2.138.110:15000/live/bwcspenz/Ekw8532xqB/13100.ts
 #EXTINF:-1 tvg-ID="La7d.it" tvg-name="La7d" tvg-logo="http://www.sat-address.com/f/pics/logotipi/La-7-D_o.jpg" group-title="Italiani",La7d
-http://190.2.138.110:15000/live/fqrrbxjl/w709Ks3Ghd/19.ts
+http://190.2.138.110:15000/live/bwcspenz/Ekw8532xqB/19.ts
 #EXTINF:-1 tvg-ID="" tvg-name="La7d +1" tvg-logo="" group-title="Canali +1 e +2",La7d +1
-http://190.2.138.110:15000/live/fqrrbxjl/w709Ks3Ghd/13166.ts
+http://190.2.138.110:15000/live/bwcspenz/Ekw8532xqB/13166.ts
 #EXTINF:-1 tvg-ID="Rai4.it" tvg-name="Rai 4 HD" tvg-logo="http://www.sat-address.com/f/pics/logotipi/RAI-4_o.jpg" group-title="Italiani",Rai 4 HD
-http://190.2.138.110:15000/live/fqrrbxjl/w709Ks3Ghd/147.ts
+http://190.2.138.110:15000/live/bwcspenz/Ekw8532xqB/147.ts
 #EXTINF:-1 tvg-ID="Rai5.it" tvg-name="Rai 5 HD" tvg-logo="http://www.sat-address.com/f/pics/logotipi/RAI-5_o.jpg" group-title="Italiani",Rai 5 HD
-http://190.2.138.110:15000/live/fqrrbxjl/w709Ks3Ghd/148.ts
+http://190.2.138.110:15000/live/bwcspenz/Ekw8532xqB/148.ts
 #EXTINF:-1 tvg-ID="RaiMovie.it" tvg-name="Rai Movie HD" tvg-logo="http://www.sat-address.com/f/pics/logotipi/RAI-Movie_o.jpg" group-title="Italiani",Rai Movie HD
-http://190.2.138.110:15000/live/fqrrbxjl/w709Ks3Ghd/146.ts
+http://190.2.138.110:15000/live/bwcspenz/Ekw8532xqB/146.ts
 #EXTINF:-1 tvg-ID="RaisatPremium.it" tvg-name="Rai Premium HD" tvg-logo="http://www.sat-address.com/f/pics/logotipi/RAI-Premium_o.jpg" group-title="Italiani",Rai Premium HD
-http://190.2.138.110:15000/live/fqrrbxjl/w709Ks3Ghd/145.ts
+http://190.2.138.110:15000/live/bwcspenz/Ekw8532xqB/145.ts
 #EXTINF:-1 tvg-ID="LA5.it" tvg-name="La 5" tvg-logo="http://www.sat-address.com/f/pics/logotipi/La-5-Mediaset_o.jpg" group-title="Italiani",La 5
-http://190.2.138.110:15000/live/fqrrbxjl/w709Ks3Ghd/20.ts
+http://190.2.138.110:15000/live/bwcspenz/Ekw8532xqB/20.ts
 #EXTINF:-1 tvg-ID="" tvg-name="La 5 +1" tvg-logo="" group-title="Canali +1 e +2",La 5 +1
-http://190.2.138.110:15000/live/fqrrbxjl/w709Ks3Ghd/13167.ts
+http://190.2.138.110:15000/live/bwcspenz/Ekw8532xqB/13167.ts
 #EXTINF:-1 tvg-ID="MediasetExtra.it" tvg-name="Mediaset Extra" tvg-logo="http://www.sat-address.com/f/pics/logotipi/Mediaset-Extra_o.jpg" group-title="Italiani",Mediaset Extra
-http://190.2.138.110:15000/live/fqrrbxjl/w709Ks3Ghd/142.ts
+http://190.2.138.110:15000/live/bwcspenz/Ekw8532xqB/142.ts
 #EXTINF:-1 tvg-ID="Cielo.it" tvg-name="Cielo HD" tvg-logo="http://www.sat-address.com/f/pics/logotipi/Cielo-TV_o.jpg" group-title="Italiani",Cielo HD
-http://190.2.138.110:15000/live/fqrrbxjl/w709Ks3Ghd/55.ts
+http://190.2.138.110:15000/live/bwcspenz/Ekw8532xqB/55.ts
 #EXTINF:-1 tvg-ID="Iris.it" tvg-name="Iris" tvg-logo="http://www.sat-address.com/f/pics/logotipi/Iris-TV-IT_o.jpg" group-title="Italiani",Iris
-http://190.2.138.110:15000/live/fqrrbxjl/w709Ks3Ghd/159.ts
+http://190.2.138.110:15000/live/bwcspenz/Ekw8532xqB/159.ts
 #EXTINF:-1 tvg-ID="Spike.it" tvg-name="Spike" tvg-logo="" group-title="Italiani",Spike
-http://190.2.138.110:15000/live/fqrrbxjl/w709Ks3Ghd/25138.ts
+http://190.2.138.110:15000/live/bwcspenz/Ekw8532xqB/25138.ts
 #EXTINF:-1 tvg-ID="DMAX.it" tvg-name="DMAX" tvg-logo="http://www.sat-address.com/f/pics/logotipi/DMAX-IT_o.jpg" group-title="Italiani",DMAX
-http://190.2.138.110:15000/live/fqrrbxjl/w709Ks3Ghd/115.ts
+http://190.2.138.110:15000/live/bwcspenz/Ekw8532xqB/115.ts
 #EXTINF:-1 tvg-ID="RealTime.it" tvg-name="Real Time HD" tvg-logo="http://www.sat-address.com/f/pics/logotipi/Discovery-Real-Time-IT_o.jpg" group-title="Italiani",Real Time HD
-http://190.2.138.110:15000/live/fqrrbxjl/w709Ks3Ghd/57.ts
+http://190.2.138.110:15000/live/bwcspenz/Ekw8532xqB/57.ts
 #EXTINF:-1 tvg-ID="RealTimePlus1.it" tvg-name="Real Time +1" tvg-logo="http://www.sat-address.com/f/pics/logotipi/Discovery-Real-Time-IT-Plus1_o.jpg" group-title="Italiani",Real Time +1
-http://190.2.138.110:15000/live/fqrrbxjl/w709Ks3Ghd/7945.ts
+http://190.2.138.110:15000/live/bwcspenz/Ekw8532xqB/7945.ts
 #EXTINF:-1 tvg-ID="Tv8.it" tvg-name="TV8" tvg-logo="" group-title="Italiani",TV8
-http://190.2.138.110:15000/live/fqrrbxjl/w709Ks3Ghd/10401.ts
+http://190.2.138.110:15000/live/bwcspenz/Ekw8532xqB/10401.ts
 #EXTINF:-1 tvg-ID="" tvg-name="TV8 +1" tvg-logo="" group-title="Canali +1 e +2",TV8 +1
-http://190.2.138.110:15000/live/fqrrbxjl/w709Ks3Ghd/13101.ts
+http://190.2.138.110:15000/live/bwcspenz/Ekw8532xqB/13101.ts
 #EXTINF:-1 tvg-ID="Nove.it" tvg-name="Nove HD" tvg-logo="" group-title="Italiani",Nove HD
-http://190.2.138.110:15000/live/fqrrbxjl/w709Ks3Ghd/23676.ts
+http://190.2.138.110:15000/live/bwcspenz/Ekw8532xqB/23676.ts
 #EXTINF:-1 tvg-ID="" tvg-name="Nove" tvg-logo="" group-title="Italiani",Nove
-http://190.2.138.110:15000/live/fqrrbxjl/w709Ks3Ghd/25357.ts
+http://190.2.138.110:15000/live/bwcspenz/Ekw8532xqB/25357.ts
 #EXTINF:-1 tvg-ID="TV2000.it" tvg-name="TV 2000" tvg-logo="http://www.lyngsat-logo.com/logo/tv/tt/tv_2000_it.png" group-title="",TV 2000
-http://190.2.138.110:15000/live/fqrrbxjl/w709Ks3Ghd/154.ts
+http://190.2.138.110:15000/live/bwcspenz/Ekw8532xqB/154.ts
 #EXTINF:-1 tvg-ID="RSILa1.ch" tvg-name="RSI La 1" tvg-logo="http://www.lyngsat-logo.com/hires/rr/rsi_la1_hd.png" group-title="Italiani",RSI La 1
-http://190.2.138.110:15000/live/fqrrbxjl/w709Ks3Ghd/151.ts
+http://190.2.138.110:15000/live/bwcspenz/Ekw8532xqB/151.ts
 #EXTINF:-1 tvg-ID="" tvg-name="RSI LA 1 +1" tvg-logo="" group-title="Canali +1 e +2",RSI LA 1 +1
-http://190.2.138.110:15000/live/fqrrbxjl/w709Ks3Ghd/13102.ts
+http://190.2.138.110:15000/live/bwcspenz/Ekw8532xqB/13102.ts
 #EXTINF:-1 tvg-ID="RSILa2.ch" tvg-name="RSI La 2" tvg-logo="http://www.lyngsat-logo.com/hires/rr/rsi_la2_hd.png" group-title="Italiani",RSI La 2
-http://190.2.138.110:15000/live/fqrrbxjl/w709Ks3Ghd/152.ts
+http://190.2.138.110:15000/live/bwcspenz/Ekw8532xqB/152.ts
 #EXTINF:-1 tvg-ID="" tvg-name="RSI LA 2 +1" tvg-logo="" group-title="Canali +1 e +2",RSI LA 2 +1
-http://190.2.138.110:15000/live/fqrrbxjl/w709Ks3Ghd/13103.ts
+http://190.2.138.110:15000/live/bwcspenz/Ekw8532xqB/13103.ts
 #EXTINF:-1 tvg-ID="" tvg-name="POP Italy" tvg-logo="" group-title="Italiani",POP Italy
-http://190.2.138.110:15000/live/fqrrbxjl/w709Ks3Ghd/23557.ts
+http://190.2.138.110:15000/live/bwcspenz/Ekw8532xqB/23557.ts
 #EXTINF:-1 tvg-ID="" tvg-name="Antenna 3" tvg-logo="" group-title="Italiani",Antenna 3
-http://190.2.138.110:15000/live/fqrrbxjl/w709Ks3Ghd/25353.ts
+http://190.2.138.110:15000/live/bwcspenz/Ekw8532xqB/25353.ts
 #EXTINF:-1 tvg-ID="" tvg-name="Alpha" tvg-logo="" group-title="Italiani",Alpha
-http://190.2.138.110:15000/live/fqrrbxjl/w709Ks3Ghd/25354.ts
+http://190.2.138.110:15000/live/bwcspenz/Ekw8532xqB/25354.ts
 #EXTINF:-1 tvg-ID="" tvg-name="Cine Sony" tvg-logo="" group-title="Italiani",Cine Sony
-http://190.2.138.110:15000/live/fqrrbxjl/w709Ks3Ghd/25350.ts
+http://190.2.138.110:15000/live/bwcspenz/Ekw8532xqB/25350.ts
 #EXTINF:-1 tvg-ID="" tvg-name="Telelombardia" tvg-logo="" group-title="Italiani",Telelombardia
-http://190.2.138.110:15000/live/fqrrbxjl/w709Ks3Ghd/25369.ts
+http://190.2.138.110:15000/live/bwcspenz/Ekw8532xqB/25369.ts
 #EXTINF:-1 tvg-ID="" tvg-name="Padre Pio" tvg-logo="" group-title="Italiani",Padre Pio
-http://190.2.138.110:15000/live/fqrrbxjl/w709Ks3Ghd/25355.ts
+http://190.2.138.110:15000/live/bwcspenz/Ekw8532xqB/25355.ts
 #EXTINF:-1 tvg-ID="" tvg-name="20 Mediaset Full HD" tvg-logo="" group-title="Italiani",20 Mediaset Full HD
-http://190.2.138.110:15000/live/fqrrbxjl/w709Ks3Ghd/25431.ts
+http://190.2.138.110:15000/live/bwcspenz/Ekw8532xqB/25431.ts
 
-#EXTINF:-1 tvg-ID="" tvg-name="----- SKY CINEMA -----" tvg-logo="" group-title="SKY CINEMA",----- SKY CINEMA -----
-http://190.2.138.110:15000/live/fqrrbxjl/w709Ks3Ghd/21.ts
+#EXTINF:-1 tvg-ID="" tvg-name="----- SKY CINEMA -----" tvg-logo="" group-title="Italiani",----- SKY CINEMA -----
+http://190.2.138.110:15000/live/bwcspenz/Ekw8532xqB/21.ts
 #EXTINF:-1 tvg-ID="SkyCinemaUno.it" tvg-name="Cinema 1 HD" tvg-logo="http://www.sat-address.com/f/pics/logotipi/Sky-Cinema-1-Italia_o.jpg" group-title="SKY CINEMA",Cinema 1 HD
-http://190.2.138.110:15000/live/fqrrbxjl/w709Ks3Ghd/22.ts
+http://190.2.138.110:15000/live/bwcspenz/Ekw8532xqB/22.ts
 #EXTINF:-1 tvg-ID="SkyCinemaPlus1.it" tvg-name="Cinema +1 HD" tvg-logo="http://guidatv.sky.it/app/guidatv/images/epgimages/channels/home/722_home.png" group-title="SKY CINEMA",Cinema +1 HD
-http://190.2.138.110:15000/live/fqrrbxjl/w709Ks3Ghd/23.ts
+http://190.2.138.110:15000/live/bwcspenz/Ekw8532xqB/23.ts
 #EXTINF:-1 tvg-ID="SkyCinemaPlus24.it" tvg-name="Cinema +24 HD" tvg-logo="http://guidatv.sky.it/app/guidatv/images/epgimages/channels/home/452_home.png" group-title="SKY CINEMA",Cinema +24 HD
-http://190.2.138.110:15000/live/fqrrbxjl/w709Ks3Ghd/24.ts
+http://190.2.138.110:15000/live/bwcspenz/Ekw8532xqB/24.ts
 #EXTINF:-1 tvg-ID="SkyCinemaHits.it" tvg-name="Cinema Hits HD" tvg-logo="http://vignette1.wikia.nocookie.net/logopedia/images/4/4f/Sky_it_cinema_hits.jpg" group-title="SKY CINEMA",Cinema Hits HD
-http://190.2.138.110:15000/live/fqrrbxjl/w709Ks3Ghd/25.ts
+http://190.2.138.110:15000/live/bwcspenz/Ekw8532xqB/25.ts
 #EXTINF:-1 tvg-ID="" tvg-name="Cinema Hits +1" tvg-logo="" group-title="SKY CINEMA",Cinema Hits +1
-http://190.2.138.110:15000/live/fqrrbxjl/w709Ks3Ghd/10388.ts
+http://190.2.138.110:15000/live/bwcspenz/Ekw8532xqB/10388.ts
 #EXTINF:-1 tvg-ID="SkyCinemaFamily.it" tvg-name="Cinema Family HD" tvg-logo="http://www.lyngsat-logo.com/logo/tv/ss/sky_it_cinema_family_hd.png" group-title="SKY CINEMA",Cinema Family HD
-http://190.2.138.110:15000/live/fqrrbxjl/w709Ks3Ghd/26.ts
+http://190.2.138.110:15000/live/bwcspenz/Ekw8532xqB/26.ts
 #EXTINF:-1 tvg-ID="SkyCinemaFamilyPlus1.it" tvg-name="Cinema Family +1 HD" tvg-logo="http://www.sat-address.com/f/pics/logotipi/Sky-Cinema-Family-Plus1_o.jpg" group-title="SKY CINEMA",Cinema Family +1 HD
-http://190.2.138.110:15000/live/fqrrbxjl/w709Ks3Ghd/2695.ts
+http://190.2.138.110:15000/live/bwcspenz/Ekw8532xqB/2695.ts
 #EXTINF:-1 tvg-ID="SkyCinemaMax.it" tvg-name="Cinema Max HD" tvg-logo="http://www.sat-address.com/f/pics/logotipi/Sky-Cinema-Max_o.jpg" group-title="SKY CINEMA",Cinema Max HD
-http://190.2.138.110:15000/live/fqrrbxjl/w709Ks3Ghd/29.ts
+http://190.2.138.110:15000/live/bwcspenz/Ekw8532xqB/29.ts
 #EXTINF:-1 tvg-ID="SkyCinemaMaxPlus1.it" tvg-name="Cinema Max +1 HD" tvg-logo="http://www.sat-address.com/f/pics/logotipi/Sky-Cinema-Max-Plus1_o.jpg" group-title="SKY CINEMA",Cinema Max +1 HD
-http://190.2.138.110:15000/live/fqrrbxjl/w709Ks3Ghd/30.ts
+http://190.2.138.110:15000/live/bwcspenz/Ekw8532xqB/30.ts
 #EXTINF:-1 tvg-ID="SkyCinemaPassionHD.it" tvg-name="Cinema Passion HD" tvg-logo="http://www.sat-address.com/f/pics/logotipi/Sky-Cinema-Passion_o.jpg" group-title="SKY CINEMA",Cinema Passion HD
-http://190.2.138.110:15000/live/fqrrbxjl/w709Ks3Ghd/27.ts
+http://190.2.138.110:15000/live/bwcspenz/Ekw8532xqB/27.ts
 #EXTINF:-1 tvg-ID="SkyCinemaPlus1.it" tvg-name="Cinema Passion +1" tvg-logo="" group-title="SKY CINEMA",Cinema Passion +1
-http://190.2.138.110:15000/live/fqrrbxjl/w709Ks3Ghd/10389.ts
+http://190.2.138.110:15000/live/bwcspenz/Ekw8532xqB/10389.ts
 #EXTINF:-1 tvg-ID="SkyCinemaCult.it" tvg-name="Cinema Cult HD" tvg-logo="http://www.sat-address.com/f/pics/logotipi/Sky-Cinema-Cult_o.jpg" group-title="SKY CINEMA",Cinema Cult HD
-http://190.2.138.110:15000/live/fqrrbxjl/w709Ks3Ghd/31.ts
-#EXTINF:-1 tvg-ID="" tvg-name="Cinema Cult +1 HD" tvg-logo="" group-title="",Cinema Cult +1 HD
-http://190.2.138.110:15000/live/fqrrbxjl/w709Ks3Ghd/11964.ts
+http://190.2.138.110:15000/live/bwcspenz/Ekw8532xqB/31.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Cinema Cult +1 HD" tvg-logo="" group-title=“SKY CINEMA“,Cinema Cult +1 HD
+http://190.2.138.110:15000/live/bwcspenz/Ekw8532xqB/11964.ts
 #EXTINF:-1 tvg-ID="SkyCinemaClassic.it" tvg-name="Cinema Classic HD" tvg-logo="http://www.sat-address.com/f/pics/logotipi/Sky-Cinema-Classics_o.jpg" group-title="SKY CINEMA",Cinema Classic HD
-http://190.2.138.110:15000/live/fqrrbxjl/w709Ks3Ghd/32.ts
+http://190.2.138.110:15000/live/bwcspenz/Ekw8532xqB/32.ts
 #EXTINF:-1 tvg-ID="" tvg-name="Cinema Classic +1" tvg-logo="" group-title="Canali +1 e +2",Cinema Classic +1
-http://190.2.138.110:15000/live/fqrrbxjl/w709Ks3Ghd/13110.ts
+http://190.2.138.110:15000/live/bwcspenz/Ekw8532xqB/13110.ts
 #EXTINF:-1 tvg-ID="SkyCinemaComedyHD.it" tvg-name="Cinema Comedy HD" tvg-logo="http://www.sat-address.com/f/pics/logotipi/Sky-Cinema-Comedy-IT_o.jpg" group-title="SKY CINEMA",Cinema Comedy HD
-http://190.2.138.110:15000/live/fqrrbxjl/w709Ks3Ghd/28.ts
+http://190.2.138.110:15000/live/bwcspenz/Ekw8532xqB/28.ts
 #EXTINF:-1 tvg-ID="" tvg-name="Cinema Comedy +1" tvg-logo="" group-title="SKY CINEMA",Cinema Comedy +1
-http://190.2.138.110:15000/live/fqrrbxjl/w709Ks3Ghd/10390.ts
+http://190.2.138.110:15000/live/bwcspenz/Ekw8532xqB/10390.ts
 
 
 
-#EXTINF:-1 tvg-ID="" tvg-name="----- INTRATTENIMENTO -----" tvg-logo="" group-title="SKY",----- INTRATTENIMENTO -----
-http://190.2.138.110:15000/live/fqrrbxjl/w709Ks3Ghd/47.ts
-#EXTINF:-1 tvg-ID="SKYUno.it" tvg-name="Sky Uno HD" tvg-logo="http://www.sat-address.com/f/pics/logotipi/Sky-Uno_o.jpg" group-title="SKY",Sky Uno HD
-http://190.2.138.110:15000/live/fqrrbxjl/w709Ks3Ghd/48.ts
-#EXTINF:-1 tvg-ID="SKYUnoPlus1.it" tvg-name="SKY UNO +1 HD" tvg-logo="http://www.lyngsat-logo.com/logo/tv/ss/sky_it_uno_plus1.png" group-title="SKY",SKY UNO +1 HD
-http://190.2.138.110:15000/live/fqrrbxjl/w709Ks3Ghd/6517.ts
-#EXTINF:-1 tvg-ID="SkyAtlantic.it" tvg-name="Sky Atlantic HD" tvg-logo="http://www.sat-address.com/f/pics/logotipi/Sky-Atlantic-HD-Italia_o.jpg" group-title="SKY",Sky Atlantic HD
-http://190.2.138.110:15000/live/fqrrbxjl/w709Ks3Ghd/699.ts
+#EXTINF:-1 tvg-ID="" tvg-name="----- INTRATTENIMENTO -----" tvg-logo="" group-title="SKY ",----- INTRATTENIMENTO -----
+http://190.2.138.110:15000/live/bwcspenz/Ekw8532xqB/47.ts
+#EXTINF:-1 tvg-ID="SKYUno.it" tvg-name="Sky Uno HD" tvg-logo="http://www.sat-address.com/f/pics/logotipi/Sky-Uno_o.jpg" group-title="SKY ",Sky Uno HD
+http://190.2.138.110:15000/live/bwcspenz/Ekw8532xqB/48.ts
+#EXTINF:-1 tvg-ID="SKYUnoPlus1.it" tvg-name="SKY UNO +1 HD" tvg-logo="http://www.lyngsat-logo.com/logo/tv/ss/sky_it_uno_plus1.png" group-title=“SKY”,SKY UNO +1 HD
+http://190.2.138.110:15000/live/bwcspenz/Ekw8532xqB/6517.ts
+#EXTINF:-1 tvg-ID="SkyAtlantic.it" tvg-name="Sky Atlantic HD" tvg-logo="http://www.sat-address.com/f/pics/logotipi/Sky-Atlantic-HD-Italia_o.jpg" group-title="SKY ",Sky Atlantic HD
+http://190.2.138.110:15000/live/bwcspenz/Ekw8532xqB/699.ts
 #EXTINF:-1 tvg-ID="SkyAtlanticPlus1.it" tvg-name="Sky Atlantic +1 HD" tvg-logo="http://www.lyngsat-logo.com/logo/tv/ss/sky_it_atlantic_hd_plus1.png" group-title="Canali +1 e +2",Sky Atlantic +1 HD
-http://190.2.138.110:15000/live/fqrrbxjl/w709Ks3Ghd/6523.ts
-#EXTINF:-1 tvg-ID="Fox.it" tvg-name="Fox HD" tvg-logo="http://www.sat-address.com/f/pics/logotipi/Fox-Italia_o.jpg" group-title="SKY",Fox HD
-http://190.2.138.110:15000/live/fqrrbxjl/w709Ks3Ghd/49.ts
-#EXTINF:-1 tvg-ID="FoxPlus1.it" tvg-name="Fox +1" tvg-logo="" group-title="SKY",Fox +1
-http://190.2.138.110:15000/live/fqrrbxjl/w709Ks3Ghd/10391.ts
-#EXTINF:-1 tvg-ID="FoxLife.it" tvg-name="Fox Life HD" tvg-logo="http://www.sat-address.com/f/pics/logotipi/Fox-Life-IT_o.jpg" group-title="SKY",Fox Life HD
-http://190.2.138.110:15000/live/fqrrbxjl/w709Ks3Ghd/50.ts
-#EXTINF:-1 tvg-ID="FoxLifePlus1.it" tvg-name="Fox Life +1" tvg-logo="" group-title="SKY",Fox Life +1
-http://190.2.138.110:15000/live/fqrrbxjl/w709Ks3Ghd/10392.ts
-#EXTINF:-1 tvg-ID="FoxCrime.it" tvg-name="Fox Crime HD" tvg-logo="http://www.sat-address.com/f/pics/logotipi/Fox-Crime-Italia_o.jpg" group-title="SKY",Fox Crime HD
-http://190.2.138.110:15000/live/fqrrbxjl/w709Ks3Ghd/52.ts
+http://190.2.138.110:15000/live/bwcspenz/Ekw8532xqB/6523.ts
+#EXTINF:-1 tvg-ID="Fox.it" tvg-name="Fox HD" tvg-logo="http://www.sat-address.com/f/pics/logotipi/Fox-Italia_o.jpg" group-title="SKY ",Fox HD
+http://190.2.138.110:15000/live/bwcspenz/Ekw8532xqB/49.ts
+#EXTINF:-1 tvg-ID="FoxPlus1.it" tvg-name="Fox +1" tvg-logo="" group-title="SKY ",Fox +1
+http://190.2.138.110:15000/live/bwcspenz/Ekw8532xqB/10391.ts
+#EXTINF:-1 tvg-ID="FoxLife.it" tvg-name="Fox Life HD" tvg-logo="http://www.sat-address.com/f/pics/logotipi/Fox-Life-IT_o.jpg" group-title="SKY ",Fox Life HD
+http://190.2.138.110:15000/live/bwcspenz/Ekw8532xqB/50.ts
+#EXTINF:-1 tvg-ID="FoxLifePlus1.it" tvg-name="Fox Life +1" tvg-logo="" group-title="SKY ",Fox Life +1
+http://190.2.138.110:15000/live/bwcspenz/Ekw8532xqB/10392.ts
+#EXTINF:-1 tvg-ID="FoxCrime.it" tvg-name="Fox Crime HD" tvg-logo="http://www.sat-address.com/f/pics/logotipi/Fox-Crime-Italia_o.jpg" group-title="SKY ",Fox Crime HD
+http://190.2.138.110:15000/live/bwcspenz/Ekw8532xqB/52.ts
 #EXTINF:-1 tvg-ID="FoxCrimePlus1.it" tvg-name="Fox Crime +1" tvg-logo="" group-title="Canali +1 e +2",Fox Crime +1
-http://190.2.138.110:15000/live/fqrrbxjl/w709Ks3Ghd/10393.ts
-#EXTINF:-1 tvg-ID="FoxComedy.it" tvg-name="Fox Comedy HD" tvg-logo="http://www.sat-address.com/f/pics/logotipi/Fox-Comedy-Italia_o.jpg" group-title="SKY",Fox Comedy HD
-http://190.2.138.110:15000/live/fqrrbxjl/w709Ks3Ghd/51.ts
+http://190.2.138.110:15000/live/bwcspenz/Ekw8532xqB/10393.ts
+#EXTINF:-1 tvg-ID="FoxComedy.it" tvg-name="Fox Comedy HD" tvg-logo="http://www.sat-address.com/f/pics/logotipi/Fox-Comedy-Italia_o.jpg" group-title="SKY ",Fox Comedy HD
+http://190.2.138.110:15000/live/bwcspenz/Ekw8532xqB/51.ts
 #EXTINF:-1 tvg-ID="" tvg-name="Fox Comedy HD +1" tvg-logo="" group-title="Canali +1 e +2",Fox Comedy HD +1
-http://190.2.138.110:15000/live/fqrrbxjl/w709Ks3Ghd/13117.ts
-#EXTINF:-1 tvg-ID="FoxAnimation.it" tvg-name="Fox Animation HD" tvg-logo="http://www.sat-address.com/f/pics/logotipi/Fox-Animation-Italia_o.jpg" group-title="SKY",Fox Animation HD
-http://190.2.138.110:15000/live/fqrrbxjl/w709Ks3Ghd/53.ts
+http://190.2.138.110:15000/live/bwcspenz/Ekw8532xqB/13117.ts
+#EXTINF:-1 tvg-ID="FoxAnimation.it" tvg-name="Fox Animation HD" tvg-logo="http://www.sat-address.com/f/pics/logotipi/Fox-Animation-Italia_o.jpg" group-title="SKY ",Fox Animation HD
+http://190.2.138.110:15000/live/bwcspenz/Ekw8532xqB/53.ts
 #EXTINF:-1 tvg-ID="" tvg-name="Fox Animation +1" tvg-logo="" group-title="Canali +1 e +2",Fox Animation +1
-http://190.2.138.110:15000/live/fqrrbxjl/w709Ks3Ghd/13118.ts
-#EXTINF:-1 tvg-ID="ComedyCentral.it" tvg-name="Comedy Central" tvg-logo="" group-title="SKY",Comedy Central
-http://190.2.138.110:15000/live/fqrrbxjl/w709Ks3Ghd/12175.ts
-#EXTINF:-1 tvg-ID="" tvg-name="Comedy Central +1" tvg-logo="" group-title="SKY",Comedy Central +1
-http://190.2.138.110:15000/live/fqrrbxjl/w709Ks3Ghd/12176.ts
-#EXTINF:-1 tvg-ID="Blaze.it" tvg-name="Sky Blaze HD" tvg-logo="" group-title="SKY",Sky Blaze HD
-http://190.2.138.110:15000/live/fqrrbxjl/w709Ks3Ghd/23649.ts
+http://190.2.138.110:15000/live/bwcspenz/Ekw8532xqB/13118.ts
+#EXTINF:-1 tvg-ID="ComedyCentral.it" tvg-name="Comedy Central" tvg-logo="" group-title="SKY ",Comedy Central
+http://190.2.138.110:15000/live/bwcspenz/Ekw8532xqB/12175.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Comedy Central +1" tvg-logo="" group-title="SKY ",Comedy Central +1
+http://190.2.138.110:15000/live/bwcspenz/Ekw8532xqB/12176.ts
+#EXTINF:-1 tvg-ID="Blaze.it" tvg-name="Sky Blaze HD" tvg-logo="" group-title=“SKY”,Sky Blaze HD
+http://190.2.138.110:15000/live/bwcspenz/Ekw8532xqB/23649.ts
 #EXTINF:-1 tvg-ID="" tvg-name="Sky Blaze HD +1" tvg-logo="" group-title="Canali +1 e +2",Sky Blaze HD +1
-http://190.2.138.110:15000/live/fqrrbxjl/w709Ks3Ghd/25458.ts
-#EXTINF:-1 tvg-ID="" tvg-name="Sky LaEffe" tvg-logo="" group-title="SKY",Sky LaEffe
-http://190.2.138.110:15000/live/fqrrbxjl/w709Ks3Ghd/24415.ts
-#EXTINF:-1 tvg-ID="" tvg-name="Sky Lei" tvg-logo="" group-title="SKY",Sky Lei
-http://190.2.138.110:15000/live/fqrrbxjl/w709Ks3Ghd/23515.ts
-#EXTINF:-1 tvg-ID="" tvg-name="Auto Moto TV" tvg-logo="" group-title="SKY",Auto Moto TV
-http://190.2.138.110:15000/live/fqrrbxjl/w709Ks3Ghd/12177.ts
-#EXTINF:-1 tvg-ID="Classica.it" tvg-name="Classica HD" tvg-logo="" group-title="SKY",Classica HD
-http://190.2.138.110:15000/live/fqrrbxjl/w709Ks3Ghd/10145.ts
-#EXTINF:-1 tvg-ID="" tvg-name="Zelig TV" tvg-logo="" group-title="SKY",Zelig TV
-http://190.2.138.110:15000/live/fqrrbxjl/w709Ks3Ghd/25715.ts
+http://190.2.138.110:15000/live/bwcspenz/Ekw8532xqB/25458.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Sky Lei" tvg-logo="" group-title="SKY ",Sky Lei
+http://190.2.138.110:15000/live/bwcspenz/Ekw8532xqB/23515.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Auto Moto TV" tvg-logo="" group-title="SKY ",Auto Moto TV
+http://190.2.138.110:15000/live/bwcspenz/Ekw8532xqB/12177.ts
+#EXTINF:-1 tvg-ID="Classica.it" tvg-name="Classica HD" tvg-logo="" group-title="SKY ",Classica HD
+http://190.2.138.110:15000/live/bwcspenz/Ekw8532xqB/10145.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Zelig TV" tvg-logo="" group-title="SKY ",Zelig TV
+http://190.2.138.110:15000/live/bwcspenz/Ekw8532xqB/25715.ts
+
+
 
 #EXTINF:-1 tvg-ID="" tvg-name="----- SPORT -----" tvg-logo="" group-title="SKY SPORT",----- SPORT -----
-http://190.2.138.110:15000/live/fqrrbxjl/w709Ks3Ghd/62.ts
-#EXTINF:-1 tvg-ID="" tvg-name="Sport Mix" tvg-logo="" group-title="SKY SPORT",Sport Mix
-http://190.2.138.110:15000/live/fqrrbxjl/w709Ks3Ghd/13327.ts
+http://190.2.138.110:15000/live/bwcspenz/Ekw8532xqB/62.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Sport Mix" tvg-logo="" group-title=“SKY SPORT”,Sport Mix
+http://190.2.138.110:15000/live/bwcspenz/Ekw8532xqB/13327.ts
 #EXTINF:-1 tvg-ID="SKYSport24.it" tvg-name="Sky Sport 24 HD" tvg-logo="http://www.sat-address.com/f/pics/logotipi/Sky-Sport-24_o.jpg" group-title="SKY SPORT",Sky Sport 24 HD
-http://190.2.138.110:15000/live/fqrrbxjl/w709Ks3Ghd/64.ts
+http://190.2.138.110:15000/live/bwcspenz/Ekw8532xqB/64.ts
 #EXTINF:-1 tvg-ID="" tvg-name="Sky Sport 24 +1" tvg-logo="" group-title="Canali +1 e +2",Sky Sport 24 +1
-http://190.2.138.110:15000/live/fqrrbxjl/w709Ks3Ghd/13122.ts
+http://190.2.138.110:15000/live/bwcspenz/Ekw8532xqB/13122.ts
 #EXTINF:-1 tvg-ID="SkySportPlus.it" tvg-name="Sky Sport NBA HD" tvg-logo="http://www.sat-address.com/f/pics/logotipi/Sky-Sport-Plus-IT_o.jpg" group-title="SKY SPORT",Sky Sport NBA HD
-http://190.2.138.110:15000/live/fqrrbxjl/w709Ks3Ghd/73.ts
+http://190.2.138.110:15000/live/bwcspenz/Ekw8532xqB/73.ts
 #EXTINF:-1 tvg-ID="" tvg-name="Fox Sport NBA +1" tvg-logo="" group-title="Canali +1 e +2",Fox Sport NBA +1
-http://190.2.138.110:15000/live/fqrrbxjl/w709Ks3Ghd/13127.ts
+http://190.2.138.110:15000/live/bwcspenz/Ekw8532xqB/13127.ts
 #EXTINF:-1 tvg-ID="SKYSport1.it" tvg-name="Sky Sport 1 HD" tvg-logo="http://www.sat-address.com/f/pics/logotipi/Sky-Sport-1_o.jpg" group-title="SKY SPORT",Sky Sport 1 HD
-http://190.2.138.110:15000/live/fqrrbxjl/w709Ks3Ghd/66.ts
+http://190.2.138.110:15000/live/bwcspenz/Ekw8532xqB/66.ts
 #EXTINF:-1 tvg-ID="" tvg-name="Sky Sport 1 +1" tvg-logo="" group-title="Canali +1 e +2",Sky Sport 1 +1
-http://190.2.138.110:15000/live/fqrrbxjl/w709Ks3Ghd/13123.ts
+http://190.2.138.110:15000/live/bwcspenz/Ekw8532xqB/13123.ts
 #EXTINF:-1 tvg-ID="SKYSport2.it" tvg-name="Sky Sport Football HD" tvg-logo="http://www.sat-address.com/f/pics/logotipi/Sky-Sport-2_o.jpg" group-title="SKY SPORT",Sky Sport Football HD
-http://190.2.138.110:15000/live/fqrrbxjl/w709Ks3Ghd/68.ts
+http://190.2.138.110:15000/live/bwcspenz/Ekw8532xqB/68.ts
 #EXTINF:-1 tvg-ID="" tvg-name="Sky Sport Football +1" tvg-logo="" group-title="Canali +1 e +2",Sky Sport Football +1
-http://190.2.138.110:15000/live/fqrrbxjl/w709Ks3Ghd/13124.ts
+http://190.2.138.110:15000/live/bwcspenz/Ekw8532xqB/13124.ts
 #EXTINF:-1 tvg-ID="SKYSport3.it" tvg-name="Sky Sport Arena HD" tvg-logo="http://www.sat-address.com/f/pics/logotipi/Sky-Sport-3_o.jpg" group-title="SKY SPORT",Sky Sport Arena HD
-http://190.2.138.110:15000/live/fqrrbxjl/w709Ks3Ghd/70.ts
+http://190.2.138.110:15000/live/bwcspenz/Ekw8532xqB/70.ts
 #EXTINF:-1 tvg-ID="" tvg-name="Sky Sport Arena +1" tvg-logo="" group-title="Canali +1 e +2",Sky Sport Arena +1
-http://190.2.138.110:15000/live/fqrrbxjl/w709Ks3Ghd/13125.ts
+http://190.2.138.110:15000/live/bwcspenz/Ekw8532xqB/13125.ts
 #EXTINF:-1 tvg-ID="FoxSports.it" tvg-name="Sky Sport Golf HD" tvg-logo="http://www.sat-address.com/f/pics/logotipi/Fox-Sports-Italia_o.jpg" group-title="SKY SPORT",Sky Sport Golf HD
-http://190.2.138.110:15000/live/fqrrbxjl/w709Ks3Ghd/71.ts
+http://190.2.138.110:15000/live/bwcspenz/Ekw8532xqB/71.ts
 #EXTINF:-1 tvg-ID="" tvg-name="Sky Sport Golf +1" tvg-logo="" group-title="Canali +1 e +2",Sky Sport Golf +1
-http://190.2.138.110:15000/live/fqrrbxjl/w709Ks3Ghd/13126.ts
+http://190.2.138.110:15000/live/bwcspenz/Ekw8532xqB/13126.ts
 #EXTINF:-1 tvg-ID="SkySportF1.it" tvg-name="Sky Sport F1 HD" tvg-logo="http://www.sat-address.com/f/pics/logotipi/Sky-Sport-F1-HD-Italia_o.jpg" group-title="SKY SPORT",Sky Sport F1 HD
-http://190.2.138.110:15000/live/fqrrbxjl/w709Ks3Ghd/75.ts
+http://190.2.138.110:15000/live/bwcspenz/Ekw8532xqB/75.ts
 #EXTINF:-1 tvg-ID="" tvg-name="Sky Sport F1 +1" tvg-logo="" group-title="Canali +1 e +2",Sky Sport F1 +1
-http://190.2.138.110:15000/live/fqrrbxjl/w709Ks3Ghd/13128.ts
+http://190.2.138.110:15000/live/bwcspenz/Ekw8532xqB/13128.ts
 #EXTINF:-1 tvg-ID="SkySportMotoGP.it" tvg-name="Sky Motogp HD" tvg-logo="http://www.sat-address.com/f/pics/logotipi/Sky-Sport-Moto-GP-HD_o.jpg" group-title="SKY SPORT",Sky Motogp HD
-http://190.2.138.110:15000/live/fqrrbxjl/w709Ks3Ghd/76.ts
+http://190.2.138.110:15000/live/bwcspenz/Ekw8532xqB/76.ts
 #EXTINF:-1 tvg-ID="" tvg-name="Sky MotoGP +1" tvg-logo="" group-title="Canali +1 e +2",Sky MotoGP +1
-http://190.2.138.110:15000/live/fqrrbxjl/w709Ks3Ghd/13129.ts
+http://190.2.138.110:15000/live/bwcspenz/Ekw8532xqB/13129.ts
 #EXTINF:-1 tvg-ID="RaiSport1.it" tvg-name="Rai Sport+ HD" tvg-logo="http://www.sat-address.com/f/pics/logotipi/RAI-Sport-1_o.jpg" group-title="SKY SPORT",Rai Sport+ HD
-http://190.2.138.110:15000/live/fqrrbxjl/w709Ks3Ghd/3343.ts
-#EXTINF:-1 tvg-ID="Sportitalia.it" tvg-name="Sport Italia" tvg-logo="http://www.lyngsat-logo.com/logo/tv/ss/sport_italia_it.png" group-title="SKY SPORT",Sport Italia
-http://190.2.138.110:15000/live/fqrrbxjl/w709Ks3Ghd/2324.ts
+http://190.2.138.110:15000/live/bwcspenz/Ekw8532xqB/3343.ts
+#EXTINF:-1 tvg-ID="Sportitalia.it" tvg-name="Sport Italia" tvg-logo="http://www.lyngsat-logo.com/logo/tv/ss/sport_italia_it.png" group-title=“SKY SPORT”,Sport Italia
+http://190.2.138.110:15000/live/bwcspenz/Ekw8532xqB/2324.ts
 #EXTINF:-1 tvg-ID="" tvg-name="Super tennis HD" tvg-logo="http://www.sat-address.com/f/pics/logotipi/SuperTennis-TV_o.jpg" group-title="SKY SPORT",Super tennis HD
-http://190.2.138.110:15000/live/fqrrbxjl/w709Ks3Ghd/78.ts
+http://190.2.138.110:15000/live/bwcspenz/Ekw8532xqB/78.ts
 #EXTINF:-1 tvg-ID="BikeChannel.it" tvg-name="BIKE CHANNEL" tvg-logo="http://www.sat-address.com/f/pics/logotipi/Bike-Channel-Italia_o.jpg" group-title="SKY SPORT",BIKE CHANNEL
-http://190.2.138.110:15000/live/fqrrbxjl/w709Ks3Ghd/2319.ts
+http://190.2.138.110:15000/live/bwcspenz/Ekw8532xqB/2319.ts
 #EXTINF:-1 tvg-ID="" tvg-name="Bike Channel +1" tvg-logo="" group-title="Canali +1 e +2",Bike Channel +1
-http://190.2.138.110:15000/live/fqrrbxjl/w709Ks3Ghd/13134.ts
+http://190.2.138.110:15000/live/bwcspenz/Ekw8532xqB/13134.ts
 #EXTINF:-1 tvg-ID="ClassHorse.it" tvg-name="Class Horse TV" tvg-logo="" group-title="SKY SPORT",Class Horse TV
+http://190.2.138.110:15000/live/bwcspenz/Ekw8532xqB/10149.ts
+#EXTINF:-1 tvg-ID="" tvg-name="My Sport 1 FHD" tvg-logo="" group-title="SKY SPORT",My Sport 1 FHD
+http://190.2.138.110:15000/live/bwcspenz/Ekw8532xqB/25277.ts
+#EXTINF:-1 tvg-ID="" tvg-name="My Sport 2 FHD" tvg-logo="" group-title="SKY SPORT",My Sport 2 FHD
+http://190.2.138.110:15000/live/bwcspenz/Ekw8532xqB/25276.ts
+#EXTINF:-1 tvg-ID="" tvg-name="My Sport 3 FHD" tvg-logo="" group-title="SKY SPORT",My Sport 3 FHD
+http://190.2.138.110:15000/live/bwcspenz/Ekw8532xqB/25275.ts
+#EXTINF:-1 tvg-ID="" tvg-name="My Sport 4 FHD" tvg-logo="" group-title="SKY SPORT",My Sport 4 FHD
+http://190.2.138.110:15000/live/bwcspenz/Ekw8532xqB/25274.ts
+#EXTINF:-1 tvg-ID="" tvg-name="My Sport 5 FHD" tvg-logo="" group-title="SKY SPORT",My Sport 5 FHD
+http://190.2.138.110:15000/live/bwcspenz/Ekw8532xqB/25273.ts
+#EXTINF:-1 tvg-ID="" tvg-name="My Sport 6 FHD" tvg-logo="" group-title="SKY SPORT",My Sport 6 FHD
+http://190.2.138.110:15000/live/bwcspenz/Ekw8532xqB/25272.ts
+#EXTINF:-1 tvg-ID="" tvg-name="My Sport 7 FHD" tvg-logo="" group-title="SKY SPORT",My Sport 7 FHD
+http://190.2.138.110:15000/live/bwcspenz/Ekw8532xqB/25271.ts
+#EXTINF:-1 tvg-ID="" tvg-name="My Sport 8 FHD" tvg-logo="" group-title="SKY SPORT",My Sport 8 FHD
+http://190.2.138.110:15000/live/bwcspenz/Ekw8532xqB/25270.ts
 
-http://190.2.138.110:15000/live/fqrrbxjl/w709Ks3Ghd/10149.ts
-#EXTINF:-1 tvg-ID="" tvg-name="My Sport 1 FHD" tvg-logo="" group-title="Svizzera",My Sport 1 FHD
-http://190.2.138.110:15000/live/fqrrbxjl/w709Ks3Ghd/25277.ts
-#EXTINF:-1 tvg-ID="" tvg-name="My Sport 2 FHD" tvg-logo="" group-title="Svizzera",My Sport 2 FHD
-http://190.2.138.110:15000/live/fqrrbxjl/w709Ks3Ghd/25276.ts
-#EXTINF:-1 tvg-ID="" tvg-name="My Sport 3 FHD" tvg-logo="" group-title="Svizzera",My Sport 3 FHD
-http://190.2.138.110:15000/live/fqrrbxjl/w709Ks3Ghd/25275.ts
-#EXTINF:-1 tvg-ID="" tvg-name="My Sport 4 FHD" tvg-logo="" group-title="Svizzera",My Sport 4 FHD
-http://190.2.138.110:15000/live/fqrrbxjl/w709Ks3Ghd/25274.ts
-#EXTINF:-1 tvg-ID="" tvg-name="My Sport 5 FHD" tvg-logo="" group-title="Svizzera",My Sport 5 FHD
-http://190.2.138.110:15000/live/fqrrbxjl/w709Ks3Ghd/25273.ts
-#EXTINF:-1 tvg-ID="" tvg-name="My Sport 6 FHD" tvg-logo="" group-title="Svizzera",My Sport 6 FHD
-http://190.2.138.110:15000/live/fqrrbxjl/w709Ks3Ghd/25272.ts
-#EXTINF:-1 tvg-ID="" tvg-name="My Sport 7 FHD" tvg-logo="" group-title="Svizzera",My Sport 7 FHD
-http://190.2.138.110:15000/live/fqrrbxjl/w709Ks3Ghd/25271.ts
-#EXTINF:-1 tvg-ID="" tvg-name="My Sport 8 FHD" tvg-logo="" group-title="Svizzera",My Sport 8 FHD
-http://190.2.138.110:15000/live/fqrrbxjl/w709Ks3Ghd/25270.ts
-#EXTINF:-1 tvg-ID="" tvg-name="----- CALCIO -----" tvg-logo="" group-title="SKY CALCIO",----- CALCIO -----
-http://190.2.138.110:15000/live/fqrrbxjl/w709Ks3Ghd/83.ts
+
+
+#EXTINF:-1 tvg-ID="" tvg-name="----- CALCIO -----" tvg-logo="" group-title="SKY Calcio”,—— CALCIO -----
+http://190.2.138.110:15000/live/bwcspenz/Ekw8532xqB/83.ts
 #EXTINF:-1 tvg-ID="" tvg-name="Sky Info. Calcio" tvg-logo="" group-title="SKY CALCIO",Sky Info. Calcio
-http://190.2.138.110:15000/live/fqrrbxjl/w709Ks3Ghd/25104.ts
+http://190.2.138.110:15000/live/bwcspenz/Ekw8532xqB/25104.ts
 #EXTINF:-1 tvg-ID="SkySupercalcio.it" tvg-name="Sky Sport Serie A HD" tvg-logo="http://www.sat-address.com/f/pics/logotipi/Sky-SuperCalcio_o.jpg" group-title="SKY CALCIO",Sky Sport Serie A HD
-http://190.2.138.110:15000/live/fqrrbxjl/w709Ks3Ghd/85.ts
+http://190.2.138.110:15000/live/bwcspenz/Ekw8532xqB/85.ts
 #EXTINF:-1 tvg-ID="SkyCalcio1.it" tvg-name="Sky Calcio 1 HD" tvg-logo="http://www.sat-address.com/f/pics/logotipi/Sky-Calcio_o.jpg" group-title="SKY CALCIO",Sky Calcio 1 HD
-http://190.2.138.110:15000/live/fqrrbxjl/w709Ks3Ghd/87.ts
+http://190.2.138.110:15000/live/bwcspenz/Ekw8532xqB/87.ts
 #EXTINF:-1 tvg-ID="SkyCalcio2.it" tvg-name="Sky Calcio 2 HD" tvg-logo="http://www.sat-address.com/f/pics/logotipi/Sky-Calcio-2_o.jpg" group-title="SKY CALCIO",Sky Calcio 2 HD
-http://190.2.138.110:15000/live/fqrrbxjl/w709Ks3Ghd/88.ts
+http://190.2.138.110:15000/live/bwcspenz/Ekw8532xqB/88.ts
 #EXTINF:-1 tvg-ID="SkyCalcio3.it" tvg-name="Sky Calcio 3 HD" tvg-logo="http://www.sat-address.com/f/pics/logotipi/Sky-Calcio-3_o.jpg" group-title="SKY CALCIO",Sky Calcio 3 HD
-http://190.2.138.110:15000/live/fqrrbxjl/w709Ks3Ghd/90.ts
+http://190.2.138.110:15000/live/bwcspenz/Ekw8532xqB/90.ts
 #EXTINF:-1 tvg-ID="SkyCalcio4.it" tvg-name="Sky Calcio 4 HD" tvg-logo="http://www.sat-address.com/f/pics/logotipi/Sky-Calcio-4_o.jpg" group-title="SKY CALCIO",Sky Calcio 4 HD
-http://190.2.138.110:15000/live/fqrrbxjl/w709Ks3Ghd/92.ts
+http://190.2.138.110:15000/live/bwcspenz/Ekw8532xqB/92.ts
 #EXTINF:-1 tvg-ID="SkyCalcio5.it" tvg-name="Sky Calcio 5 HD" tvg-logo="http://www.sat-address.com/f/pics/logotipi/Sky-Calcio-5_o.jpg" group-title="SKY CALCIO",Sky Calcio 5 HD
-http://190.2.138.110:15000/live/fqrrbxjl/w709Ks3Ghd/94.ts
+http://190.2.138.110:15000/live/bwcspenz/Ekw8532xqB/94.ts
 #EXTINF:-1 tvg-ID="SkyCalcio6.it" tvg-name="Sky Calcio 6 HD" tvg-logo="http://www.sat-address.com/f/pics/logotipi/Sky-Calcio-6_o.jpg" group-title="SKY CALCIO",Sky Calcio 6 HD
-http://190.2.138.110:15000/live/fqrrbxjl/w709Ks3Ghd/95.ts
+http://190.2.138.110:15000/live/bwcspenz/Ekw8532xqB/95.ts
 #EXTINF:-1 tvg-ID="SkyCalcio7.it" tvg-name="SKY Calcio 7 HD" tvg-logo="http://www.sat-address.com/f/pics/logotipi/Sky-Calcio-7_o.jpg" group-title="SKY CALCIO",SKY Calcio 7 HD
-http://190.2.138.110:15000/live/fqrrbxjl/w709Ks3Ghd/96.ts
+http://190.2.138.110:15000/live/bwcspenz/Ekw8532xqB/96.ts
 #EXTINF:-1 tvg-ID="SkyCalcio8.it" tvg-name="SKY Calcio 8 HD" tvg-logo="http://www.sat-address.com/f/pics/logotipi/Sky-Calcio-8_o.jpg" group-title="SKY CALCIO",SKY Calcio 8 HD
-http://190.2.138.110:15000/live/fqrrbxjl/w709Ks3Ghd/97.ts
+http://190.2.138.110:15000/live/bwcspenz/Ekw8532xqB/97.ts
 #EXTINF:-1 tvg-ID="" tvg-name="Sky Calcio 9 HD" tvg-logo="" group-title="SKY CALCIO",Sky Calcio 9 HD
-http://190.2.138.110:15000/live/fqrrbxjl/w709Ks3Ghd/21125.ts
+http://190.2.138.110:15000/live/bwcspenz/Ekw8532xqB/21125.ts
 #EXTINF:-1 tvg-ID="" tvg-name="Sky Calcio 10 HD" tvg-logo="" group-title="SKY CALCIO",Sky Calcio 10 HD
-http://190.2.138.110:15000/live/fqrrbxjl/w709Ks3Ghd/21126.ts
+http://190.2.138.110:15000/live/bwcspenz/Ekw8532xqB/21126.ts
 #EXTINF:-1 tvg-ID="SkyCalcio9.it" tvg-name="Lazio Tv" tvg-logo="" group-title="SKY CALCIO",Lazio Tv
-http://190.2.138.110:15000/live/fqrrbxjl/w709Ks3Ghd/98.ts
-#EXTINF:-1 tvg-ID="JuventusChannel.it" tvg-name="Juventus TV" tvg-logo="http://www.lyngsat-logo.com/logo/tv/jj/juventus_tv_it.png" group-title="SKY CALCIO",Juventus TV
-http://190.2.138.110:15000/live/fqrrbxjl/w709Ks3Ghd/8315.ts
+http://190.2.138.110:15000/live/bwcspenz/Ekw8532xqB/98.ts
 #EXTINF:-1 tvg-ID="RomaChannel.it" tvg-name="Roma Channel" tvg-logo="" group-title="SKY CALCIO",Roma Channel
-http://190.2.138.110:15000/live/fqrrbxjl/w709Ks3Ghd/8735.ts
+http://190.2.138.110:15000/live/bwcspenz/Ekw8532xqB/8735.ts
 #EXTINF:-1 tvg-ID="MilanTV.it" tvg-name="Milan Channel" tvg-logo="" group-title="SKY CALCIO",Milan Channel
-http://190.2.138.110:15000/live/fqrrbxjl/w709Ks3Ghd/8737.ts
+http://190.2.138.110:15000/live/bwcspenz/Ekw8532xqB/8737.ts
 #EXTINF:-1 tvg-ID="InterChannel.it" tvg-name="Inter Channel" tvg-logo="" group-title="SKY CALCIO",Inter Channel
-http://190.2.138.110:15000/live/fqrrbxjl/w709Ks3Ghd/8736.ts
+http://190.2.138.110:15000/live/bwcspenz/Ekw8532xqB/8736.ts
 #EXTINF:-1 tvg-ID="" tvg-name="Torino Channel" tvg-logo="" group-title="SKY CALCIO",Torino Channel
-http://190.2.138.110:15000/live/fqrrbxjl/w709Ks3Ghd/23415.ts
+http://190.2.138.110:15000/live/bwcspenz/Ekw8532xqB/23415.ts
 #EXTINF:-1 tvg-ID="" tvg-name="Top Calcio 24" tvg-logo="" group-title="SKY CALCIO",Top Calcio 24
-http://190.2.138.110:15000/live/fqrrbxjl/w709Ks3Ghd/23487.ts
+http://190.2.138.110:15000/live/bwcspenz/Ekw8532xqB/23487.ts
 #EXTINF:-1 tvg-ID="" tvg-name="Top Planet" tvg-logo="" group-title="SKY CALCIO",Top Planet
-http://190.2.138.110:15000/live/fqrrbxjl/w709Ks3Ghd/23488.ts
+http://190.2.138.110:15000/live/bwcspenz/Ekw8532xqB/23488.ts
 
 
-#EXTINF:-1 tvg-ID="" tvg-name="----- CULTURA -----" tvg-logo="" group-title="SKY Cultura",----- CULTURA -----
-http://190.2.138.110:15000/live/fqrrbxjl/w709Ks3Ghd/104.ts
-#EXTINF:-1 tvg-ID="NationalGeo.it" tvg-name="Nat Geo HD" tvg-logo="http://www.sat-address.com/f/pics/logotipi/NGC-HD-Italia_o.jpg" group-title="SKY Cultura",Nat Geo HD
-http://190.2.138.110:15000/live/fqrrbxjl/w709Ks3Ghd/106.ts
+
+
+#EXTINF:-1 tvg-ID="" tvg-name="----- CULTURA -----" tvg-logo="" group-title="SKY DOC",----- CULTURA -----
+http://190.2.138.110:15000/live/bwcspenz/Ekw8532xqB/104.ts
+#EXTINF:-1 tvg-ID="NationalGeo.it" tvg-name="Nat Geo HD" tvg-logo="http://www.sat-address.com/f/pics/logotipi/NGC-HD-Italia_o.jpg" group-title="SKY DOC",Nat Geo HD
+http://190.2.138.110:15000/live/bwcspenz/Ekw8532xqB/106.ts
 #EXTINF:-1 tvg-ID="" tvg-name="Nat Geo HD +1" tvg-logo="" group-title="Canali +1 e +2",Nat Geo HD +1
-http://190.2.138.110:15000/live/fqrrbxjl/w709Ks3Ghd/13143.ts
-#EXTINF:-1 tvg-ID="NatGeoPeople.it" tvg-name="Nat Geo People HD" tvg-logo="http://www.sat-address.com/f/pics/logotipi/Nat-Geo-People-Italia_o.jpg" group-title="SKY Cultura",Nat Geo People HD
-http://190.2.138.110:15000/live/fqrrbxjl/w709Ks3Ghd/110.ts
+http://190.2.138.110:15000/live/bwcspenz/Ekw8532xqB/13143.ts
+#EXTINF:-1 tvg-ID="NatGeoPeople.it" tvg-name="Nat Geo People HD" tvg-logo="http://www.sat-address.com/f/pics/logotipi/Nat-Geo-People-Italia_o.jpg" group-title="SKY DOC",Nat Geo People HD
+http://190.2.138.110:15000/live/bwcspenz/Ekw8532xqB/110.ts
 #EXTINF:-1 tvg-ID="" tvg-name="Nat Geo People HD +1" tvg-logo="" group-title="Canali +1 e +2",Nat Geo People HD +1
-http://190.2.138.110:15000/live/fqrrbxjl/w709Ks3Ghd/13144.ts
-#EXTINF:-1 tvg-ID="NatGeoWild.it" tvg-name="Nat Geo Wild HD" tvg-logo="http://www.sat-address.com/f/pics/logotipi/NG-Wild-IT_o.jpg" group-title="SKY Cultura",Nat Geo Wild HD
-http://190.2.138.110:15000/live/fqrrbxjl/w709Ks3Ghd/111.ts
+http://190.2.138.110:15000/live/bwcspenz/Ekw8532xqB/13144.ts
+#EXTINF:-1 tvg-ID="NatGeoWild.it" tvg-name="Nat Geo Wild HD" tvg-logo="http://www.sat-address.com/f/pics/logotipi/NG-Wild-IT_o.jpg" group-title="SKY DOC",Nat Geo Wild HD
+http://190.2.138.110:15000/live/bwcspenz/Ekw8532xqB/111.ts
 #EXTINF:-1 tvg-ID="" tvg-name="Nat Geo Wild HD +1" tvg-logo="" group-title="Canali +1 e +2",Nat Geo Wild HD +1
-http://190.2.138.110:15000/live/fqrrbxjl/w709Ks3Ghd/13145.ts
-#EXTINF:-1 tvg-ID="" tvg-name="Sky Arte" tvg-logo="" group-title="SKY Cultura",Sky Arte
-http://190.2.138.110:15000/live/fqrrbxjl/w709Ks3Ghd/13357.ts
-#EXTINF:-1 tvg-ID="AnimalPlanet.it" tvg-name="Animal Planet" tvg-logo="http://www.sat-address.com/f/pics/logotipi/Animal-Planet-Italia_o.jpg" group-title="SKY Cultura",Animal Planet
-http://190.2.138.110:15000/live/fqrrbxjl/w709Ks3Ghd/118.ts
+http://190.2.138.110:15000/live/bwcspenz/Ekw8532xqB/13145.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Sky Arte" tvg-logo="" group-title="SKY DOC",Sky Arte
+http://190.2.138.110:15000/live/bwcspenz/Ekw8532xqB/13357.ts
+#EXTINF:-1 tvg-ID="AnimalPlanet.it" tvg-name="Animal Planet" tvg-logo="http://www.sat-address.com/f/pics/logotipi/Animal-Planet-Italia_o.jpg" group-title="SKY DOC",Animal Planet
+http://190.2.138.110:15000/live/bwcspenz/Ekw8532xqB/118.ts
 #EXTINF:-1 tvg-ID="" tvg-name="Animal Planet +1" tvg-logo="" group-title="Canali +1 e +2",Animal Planet +1
-http://190.2.138.110:15000/live/fqrrbxjl/w709Ks3Ghd/13135.ts
-#EXTINF:-1 tvg-ID="CrimeInvestigation.it" tvg-name="CI Crime Investigation HD" tvg-logo="http://www.sat-address.com/f/pics/logotipi/Crime-Investigation-Network-Italia_o.jpg" group-title="SKY Cultura",CI Crime Investigation HD
-http://190.2.138.110:15000/live/fqrrbxjl/w709Ks3Ghd/107.ts
+http://190.2.138.110:15000/live/bwcspenz/Ekw8532xqB/13135.ts
+#EXTINF:-1 tvg-ID="CrimeInvestigation.it" tvg-name="CI Crime Investigation HD" tvg-logo="http://www.sat-address.com/f/pics/logotipi/Crime-Investigation-Network-Italia_o.jpg" group-title="SKY DOC",CI Crime Investigation HD
+http://190.2.138.110:15000/live/bwcspenz/Ekw8532xqB/107.ts
 #EXTINF:-1 tvg-ID="" tvg-name="CI Crime Investigation +1" tvg-logo="" group-title="Canali +1 e +2",CI Crime Investigation +1
-http://190.2.138.110:15000/live/fqrrbxjl/w709Ks3Ghd/13116.ts
-#EXTINF:-1 tvg-ID="CacciaePesca.it" tvg-name="Caccia e Pesca" tvg-logo="http://www.sat-address.com/f/pics/logotipi/Caccia-Pesca_o.jpg" group-title="SKY Cultura",Caccia e Pesca
-http://190.2.138.110:15000/live/fqrrbxjl/w709Ks3Ghd/450.ts
+http://190.2.138.110:15000/live/bwcspenz/Ekw8532xqB/13116.ts
+#EXTINF:-1 tvg-ID="CacciaePesca.it" tvg-name="Caccia e Pesca" tvg-logo="http://www.sat-address.com/f/pics/logotipi/Caccia-Pesca_o.jpg" group-title="SKY DOC",Caccia e Pesca
+http://190.2.138.110:15000/live/bwcspenz/Ekw8532xqB/450.ts
 #EXTINF:-1 tvg-ID="" tvg-name="Caccia Pesca +1" tvg-logo="" group-title="Canali +1 e +2",Caccia Pesca +1
-http://190.2.138.110:15000/live/fqrrbxjl/w709Ks3Ghd/13132.ts
-#EXTINF:-1 tvg-ID="PescaeCaccia.it" tvg-name="Pesca e Caccia" tvg-logo="http://www.sat-address.com/f/pics/logotipi/Caccia-Pesca_o.jpg" group-title="",Pesca e Caccia
-http://190.2.138.110:15000/live/fqrrbxjl/w709Ks3Ghd/243.ts
+http://190.2.138.110:15000/live/bwcspenz/Ekw8532xqB/13132.ts
+#EXTINF:-1 tvg-ID="PescaeCaccia.it" tvg-name="Pesca e Caccia" tvg-logo="http://www.sat-address.com/f/pics/logotipi/Caccia-Pesca_o.jpg" group-title="SKY DOC",Pesca e Caccia
+http://190.2.138.110:15000/live/bwcspenz/Ekw8532xqB/243.ts
 #EXTINF:-1 tvg-ID="" tvg-name="Pesca Caccia +1" tvg-logo="" group-title="Canali +1 e +2",Pesca Caccia +1
-http://190.2.138.110:15000/live/fqrrbxjl/w709Ks3Ghd/13133.ts
-#EXTINF:-1 tvg-ID="GamberoRosso.it" tvg-name="Gambero Rosso HD" tvg-logo="http://www.sat-address.com/f/pics/logotipi/Gambero-Rosso_o.jpg" group-title="",Gambero Rosso HD
-http://190.2.138.110:15000/live/fqrrbxjl/w709Ks3Ghd/116.ts
+http://190.2.138.110:15000/live/bwcspenz/Ekw8532xqB/13133.ts
+#EXTINF:-1 tvg-ID="GamberoRosso.it" tvg-name="Gambero Rosso HD" tvg-logo="http://www.sat-address.com/f/pics/logotipi/Gambero-Rosso_o.jpg" group-title="SKY DOC",Gambero Rosso HD
+http://190.2.138.110:15000/live/bwcspenz/Ekw8532xqB/116.ts
 #EXTINF:-1 tvg-ID="" tvg-name="Gambero Rosso +1" tvg-logo="" group-title="Canali +1 e +2",Gambero Rosso +1
-http://190.2.138.110:15000/live/fqrrbxjl/w709Ks3Ghd/13146.ts
-#EXTINF:-1 tvg-ID="" tvg-name="Food Network" tvg-logo="" group-title="SKY Cultura",Food Network
-http://190.2.138.110:15000/live/fqrrbxjl/w709Ks3Ghd/23489.ts
-#EXTINF:-1 tvg-ID="Alice.it" tvg-name="Alice" tvg-logo="http://www.sat-address.com/f/pics/logotipi/Alice_o.jpg" group-title="SKY Cultura",Alice
-http://190.2.138.110:15000/live/fqrrbxjl/w709Ks3Ghd/119.ts
-#EXTINF:-1 tvg-ID="" tvg-name="Rai Scuola HD" tvg-logo="" group-title="SKY Cultura",Rai Scuola HD
-http://190.2.138.110:15000/live/fqrrbxjl/w709Ks3Ghd/25318.ts
-#EXTINF:-1 tvg-ID="" tvg-name="Rai Storia HD" tvg-logo="" group-title="SKY Cultura",Rai Storia HD
-http://190.2.138.110:15000/live/fqrrbxjl/w709Ks3Ghd/25313.ts
-#EXTINF:-1 tvg-ID="Marcopolo.it" tvg-name="MarcoPolo" tvg-logo="http://www.sat-address.com/f/pics/logotipi/Marco-Polo_o.jpg" group-title="SKY Cultura",MarcoPolo
-http://190.2.138.110:15000/live/fqrrbxjl/w709Ks3Ghd/122.ts
-#EXTINF:-1 tvg-ID="Giallo.it" tvg-name="Giallo" tvg-logo="http://www.lyngsat-logo.com/hires/gg/giallo_it.png" group-title="SKY Cultura",Giallo
-http://190.2.138.110:15000/live/fqrrbxjl/w709Ks3Ghd/160.ts
-#EXTINF:-1 tvg-ID="Focus.it" tvg-name="Focus" tvg-logo="http://www.sat-address.com/f/pics/logotipi/Focus-IT_o.jpg" group-title="SKY Cultura",Focus
-http://190.2.138.110:15000/live/fqrrbxjl/w709Ks3Ghd/113.ts
+http://190.2.138.110:15000/live/bwcspenz/Ekw8532xqB/13146.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Food Network" tvg-logo="" group-title="SKY DOC",Food Network
+http://190.2.138.110:15000/live/bwcspenz/Ekw8532xqB/23489.ts
+#EXTINF:-1 tvg-ID="Alice.it" tvg-name="Alice" tvg-logo="http://www.sat-address.com/f/pics/logotipi/Alice_o.jpg" group-title="SKY DOC",Alice
+http://190.2.138.110:15000/live/bwcspenz/Ekw8532xqB/119.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Rai Scuola HD" tvg-logo="" group-title="SKY DOC",Rai Scuola HD
+http://190.2.138.110:15000/live/bwcspenz/Ekw8532xqB/25318.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Rai Storia HD" tvg-logo="" group-title="SKY DOC",Rai Storia HD
+http://190.2.138.110:15000/live/bwcspenz/Ekw8532xqB/25313.ts
+#EXTINF:-1 tvg-ID="Marcopolo.it" tvg-name="MarcoPolo" tvg-logo="http://www.sat-address.com/f/pics/logotipi/Marco-Polo_o.jpg" group-title="SKY DOC",MarcoPolo
+http://190.2.138.110:15000/live/bwcspenz/Ekw8532xqB/122.ts
+#EXTINF:-1 tvg-ID="Giallo.it" tvg-name="Giallo" tvg-logo="http://www.lyngsat-logo.com/hires/gg/giallo_it.png" group-title="SKY DOC",Giallo
+http://190.2.138.110:15000/live/bwcspenz/Ekw8532xqB/160.ts
+#EXTINF:-1 tvg-ID="Focus.it" tvg-name="Focus" tvg-logo="http://www.sat-address.com/f/pics/logotipi/Focus-IT_o.jpg" group-title="SKY DOC",Focus
+http://190.2.138.110:15000/live/bwcspenz/Ekw8532xqB/113.ts
 #EXTINF:-1 tvg-ID="" tvg-name="Focus +1" tvg-logo="" group-title="Canali +1 e +2",Focus +1
-http://190.2.138.110:15000/live/fqrrbxjl/w709Ks3Ghd/13137.ts
-#EXTINF:-1 tvg-ID="DiscoveryTravel.it" tvg-name="Discovery T&L HD" tvg-logo="http://www.sat-address.com/f/pics/logotipi/Discovery-Travel-Living-Italia_o.jpg" group-title="SKY Cultura",Discovery T&L HD
-http://190.2.138.110:15000/live/fqrrbxjl/w709Ks3Ghd/1531.ts
+http://190.2.138.110:15000/live/bwcspenz/Ekw8532xqB/13137.ts
+#EXTINF:-1 tvg-ID="DiscoveryTravel.it" tvg-name="Discovery T&L HD" tvg-logo="http://www.sat-address.com/f/pics/logotipi/Discovery-Travel-Living-Italia_o.jpg" group-title="SKY DOC",Discovery T&L HD
+http://190.2.138.110:15000/live/bwcspenz/Ekw8532xqB/1531.ts
 #EXTINF:-1 tvg-ID="" tvg-name="Discovery T&L +1" tvg-logo="" group-title="Canali +1 e +2",Discovery T&L +1
-http://190.2.138.110:15000/live/fqrrbxjl/w709Ks3Ghd/13139.ts
-#EXTINF:-1 tvg-ID="History.it" tvg-name="History HD" tvg-logo="http://www.sat-address.com/f/pics/logotipi/History-Channel-Italia_o.jpg" group-title="SKY Cultura",History HD
-http://190.2.138.110:15000/live/fqrrbxjl/w709Ks3Ghd/120.ts
+http://190.2.138.110:15000/live/bwcspenz/Ekw8532xqB/13139.ts
+#EXTINF:-1 tvg-ID="History.it" tvg-name="History HD" tvg-logo="http://www.sat-address.com/f/pics/logotipi/History-Channel-Italia_o.jpg" group-title="SKY DOC",History HD
+http://190.2.138.110:15000/live/bwcspenz/Ekw8532xqB/120.ts
 #EXTINF:-1 tvg-ID="" tvg-name="History Channel +1" tvg-logo="" group-title="Canali +1 e +2",History Channel +1
-http://190.2.138.110:15000/live/fqrrbxjl/w709Ks3Ghd/13142.ts
-#EXTINF:-1 tvg-ID="DiscoverySci.it" tvg-name="Discovery Sci HD" tvg-logo="http://www.sat-address.com/f/pics/logotipi/Discovery-Science-Italia_o.jpg" group-title="SKY Cultura",Discovery Sci HD
-http://190.2.138.110:15000/live/fqrrbxjl/w709Ks3Ghd/108.ts
+http://190.2.138.110:15000/live/bwcspenz/Ekw8532xqB/13142.ts
+#EXTINF:-1 tvg-ID="DiscoverySci.it" tvg-name="Discovery Sci HD" tvg-logo="http://www.sat-address.com/f/pics/logotipi/Discovery-Science-Italia_o.jpg" group-title="SKY DOC",Discovery Sci HD
+http://190.2.138.110:15000/live/bwcspenz/Ekw8532xqB/108.ts
 #EXTINF:-1 tvg-ID="" tvg-name="Discovery Sci +1" tvg-logo="" group-title="Canali +1 e +2",Discovery Sci +1
-http://190.2.138.110:15000/live/fqrrbxjl/w709Ks3Ghd/13140.ts
-#EXTINF:-1 tvg-ID="Discovery.it" tvg-name="Discovery HD" tvg-logo="http://www.sat-address.com/f/pics/logotipi/Discovery-Ch-Italia_o.jpg" group-title="SKY Cultura",Discovery HD
-http://190.2.138.110:15000/live/fqrrbxjl/w709Ks3Ghd/109.ts
+http://190.2.138.110:15000/live/bwcspenz/Ekw8532xqB/13140.ts
+#EXTINF:-1 tvg-ID="Discovery.it" tvg-name="Discovery HD" tvg-logo="http://www.sat-address.com/f/pics/logotipi/Discovery-Ch-Italia_o.jpg" group-title="SKY DOC",Discovery HD
+http://190.2.138.110:15000/live/bwcspenz/Ekw8532xqB/109.ts
 #EXTINF:-1 tvg-ID="" tvg-name="Discovery +1" tvg-logo="" group-title="Canali +1 e +2",Discovery +1
-http://190.2.138.110:15000/live/fqrrbxjl/w709Ks3Ghd/13141.ts
+http://190.2.138.110:15000/live/bwcspenz/Ekw8532xqB/13141.ts
 
-#EXTINF:-1 tvg-ID="" tvg-name="----- PREMIUM CINEMA -----" tvg-logo="" group-title="PREMIUM CINEMA",----- PREMIUM CINEMA -----
-http://190.2.138.110:15000/live/fqrrbxjl/w709Ks3Ghd/25142.ts
+
+
+
+#EXTINF:-1 tvg-ID="" tvg-name="----- PREMIUM CINEMA -----" tvg-logo="" group-title="",----- PREMIUM CINEMA -----
+http://190.2.138.110:15000/live/bwcspenz/Ekw8532xqB/25142.ts
 #EXTINF:-1 tvg-ID="PremiumCinema.it" tvg-name="Premium Cinema HD" tvg-logo="" group-title="PREMIUM CINEMA",Premium Cinema HD
-http://190.2.138.110:15000/live/fqrrbxjl/w709Ks3Ghd/25650.ts
+http://190.2.138.110:15000/live/bwcspenz/Ekw8532xqB/25650.ts
 #EXTINF:-1 tvg-ID="PremiumCinema.it" tvg-name="Premium Cinema" tvg-logo="http://www.sat-address.com/f/pics/logotipi/Mediaset-Premium-Cinema_o.jpg" group-title="PREMIUM CINEMA",Premium Cinema
-http://190.2.138.110:15000/live/fqrrbxjl/w709Ks3Ghd/163.ts
+http://190.2.138.110:15000/live/bwcspenz/Ekw8532xqB/163.ts
 #EXTINF:-1 tvg-ID="" tvg-name="Premium Cinema 1 +1" tvg-logo="" group-title="Canali +1 e +2",Premium Cinema 1 +1
-http://190.2.138.110:15000/live/fqrrbxjl/w709Ks3Ghd/13154.ts
+http://190.2.138.110:15000/live/bwcspenz/Ekw8532xqB/13154.ts
 #EXTINF:-1 tvg-ID="PremiumCinemaPlus24.it" tvg-name="Premium Cinema +24 HD" tvg-logo="" group-title="PREMIUM CINEMA",Premium Cinema +24 HD
-http://190.2.138.110:15000/live/fqrrbxjl/w709Ks3Ghd/25656.ts
+http://190.2.138.110:15000/live/bwcspenz/Ekw8532xqB/25656.ts
 #EXTINF:-1 tvg-ID="PremiumCinemaComedy.it" tvg-name="Premium Cinema Comedy HD" tvg-logo="" group-title="PREMIUM CINEMA",Premium Cinema Comedy HD
-http://190.2.138.110:15000/live/fqrrbxjl/w709Ks3Ghd/25654.ts
+http://190.2.138.110:15000/live/bwcspenz/Ekw8532xqB/25654.ts
 #EXTINF:-1 tvg-ID="PremiumCinemaComedy.it" tvg-name="Premium Comedy" tvg-logo="http://www.sat-address.com/f/pics/logotipi/Mediaset-Premium-Cinema-Comedy_o.jpg" group-title="PREMIUM CINEMA",Premium Comedy
-http://190.2.138.110:15000/live/fqrrbxjl/w709Ks3Ghd/173.ts
+http://190.2.138.110:15000/live/bwcspenz/Ekw8532xqB/173.ts
 #EXTINF:-1 tvg-ID="" tvg-name="Premium Comedy +1" tvg-logo="" group-title="Canali +1 e +2",Premium Comedy +1
-http://190.2.138.110:15000/live/fqrrbxjl/w709Ks3Ghd/13156.ts
+http://190.2.138.110:15000/live/bwcspenz/Ekw8532xqB/13156.ts
 #EXTINF:-1 tvg-ID="PremiumCinemaEnergy.it" tvg-name="Premium Cinema Energy HD" tvg-logo="" group-title="PREMIUM CINEMA",Premium Cinema Energy HD
-http://190.2.138.110:15000/live/fqrrbxjl/w709Ks3Ghd/25652.ts
+http://190.2.138.110:15000/live/bwcspenz/Ekw8532xqB/25652.ts
 #EXTINF:-1 tvg-ID="PremiumCinemaEnergy.it" tvg-name="Premium Energy" tvg-logo="http://www.sat-address.com/f/pics/logotipi/Mediaset-Premium-Cinema-Energy_o.jpg" group-title="PREMIUM CINEMA",Premium Energy
-http://190.2.138.110:15000/live/fqrrbxjl/w709Ks3Ghd/171.ts
+http://190.2.138.110:15000/live/bwcspenz/Ekw8532xqB/171.ts
 #EXTINF:-1 tvg-ID="" tvg-name="Premium Energy +1" tvg-logo="" group-title="Canali +1 e +2",Premium Energy +1
-http://190.2.138.110:15000/live/fqrrbxjl/w709Ks3Ghd/13159.ts
+http://190.2.138.110:15000/live/bwcspenz/Ekw8532xqB/13159.ts
 #EXTINF:-1 tvg-ID="StudioUniversal.it" tvg-name="Studio Universal" tvg-logo="http://www.sat-address.com/f/pics/logotipi/Studio-Universal-Italy_o.jpg" group-title="PREMIUM CINEMA",Studio Universal
-http://190.2.138.110:15000/live/fqrrbxjl/w709Ks3Ghd/174.ts
+http://190.2.138.110:15000/live/bwcspenz/Ekw8532xqB/174.ts
 #EXTINF:-1 tvg-ID="PremiumCinemaEmotion.it" tvg-name="Premium Emotion HD" tvg-logo="" group-title="PREMIUM CINEMA",Premium Emotion HD
-http://190.2.138.110:15000/live/fqrrbxjl/w709Ks3Ghd/25648.ts
+http://190.2.138.110:15000/live/bwcspenz/Ekw8532xqB/25648.ts
 #EXTINF:-1 tvg-ID="PremiumCinemaEmotion.it" tvg-name="Premium Emotion" tvg-logo="http://www.sat-address.com/f/pics/logotipi/Mediaset-Premium-Cinema-Emotion_o.jpg" group-title="PREMIUM CINEMA",Premium Emotion
-http://190.2.138.110:15000/live/fqrrbxjl/w709Ks3Ghd/172.ts
+http://190.2.138.110:15000/live/bwcspenz/Ekw8532xqB/172.ts
 #EXTINF:-1 tvg-ID="" tvg-name="Premium Emotion +1" tvg-logo="" group-title="Canali +1 e +2",Premium Emotion +1
-http://190.2.138.110:15000/live/fqrrbxjl/w709Ks3Ghd/13158.ts
+http://190.2.138.110:15000/live/bwcspenz/Ekw8532xqB/13158.ts
 #EXTINF:-1 tvg-ID="PremiumCrime.it" tvg-name="Premium Crime HD" tvg-logo="" group-title="PREMIUM CINEMA",Premium Crime HD
-http://190.2.138.110:15000/live/fqrrbxjl/w709Ks3Ghd/25658.ts
+http://190.2.138.110:15000/live/bwcspenz/Ekw8532xqB/25658.ts
 #EXTINF:-1 tvg-ID="PremiumCrime.it" tvg-name="Premium Crime" tvg-logo="http://www.sat-address.com/f/pics/logotipi/Mediaset-Premium-Crime_o.jpg" group-title="PREMIUM CINEMA",Premium Crime
-http://190.2.138.110:15000/live/fqrrbxjl/w709Ks3Ghd/169.ts
+http://190.2.138.110:15000/live/bwcspenz/Ekw8532xqB/169.ts
 #EXTINF:-1 tvg-ID="" tvg-name="Premium Crime HD +1" tvg-logo="" group-title="Canali +1 e +2",Premium Crime HD +1
-http://190.2.138.110:15000/live/fqrrbxjl/w709Ks3Ghd/13157.ts
+http://190.2.138.110:15000/live/bwcspenz/Ekw8532xqB/13157.ts
 #EXTINF:-1 tvg-ID="PremiumAction.it" tvg-name="Premium Action HD" tvg-logo="" group-title="PREMIUM CINEMA",Premium Action HD
-http://190.2.138.110:15000/live/fqrrbxjl/w709Ks3Ghd/25659.ts
+http://190.2.138.110:15000/live/bwcspenz/Ekw8532xqB/25659.ts
 #EXTINF:-1 tvg-ID="PremiumAction.it" tvg-name="Premium Action" tvg-logo="http://www.sat-address.com/f/pics/logotipi/Mediaset-Premium-Action_o.jpg" group-title="PREMIUM CINEMA",Premium Action
-http://190.2.138.110:15000/live/fqrrbxjl/w709Ks3Ghd/167.ts
+http://190.2.138.110:15000/live/bwcspenz/Ekw8532xqB/167.ts
 #EXTINF:-1 tvg-ID="" tvg-name="Premium Action +1" tvg-logo="" group-title="Canali +1 e +2",Premium Action +1
-http://190.2.138.110:15000/live/fqrrbxjl/w709Ks3Ghd/13153.ts
-#EXTINF:-1 tvg-ID="ParamountChannel.it" tvg-name="Paramount Channel HD" tvg-logo="http://www.lyngsat-logo.com/logo/tv/pp/paramount_channel_us.png" group-title="PREMIUM CINEMA",Paramount Channel HD
-http://190.2.138.110:15000/live/fqrrbxjl/w709Ks3Ghd/3342.ts
+http://190.2.138.110:15000/live/bwcspenz/Ekw8532xqB/13153.ts
+#EXTINF:-1 tvg-ID="ParamountChannel.it" tvg-name="Paramount Channel HD" tvg-logo="http://www.lyngsat-logo.com/logo/tv/pp/paramount_channel_us.png" group-title=“PREMIUM CINEMA",Paramount Channel HD
+http://190.2.138.110:15000/live/bwcspenz/Ekw8532xqB/3342.ts
 #EXTINF:-1 tvg-ID="TopCrime.it" tvg-name="Top Crime" tvg-logo="http://www.sat-address.com/f/pics/logotipi/Mediaset-Top-Crime_o.jpg" group-title="PREMIUM CINEMA",Top Crime
-http://190.2.138.110:15000/live/fqrrbxjl/w709Ks3Ghd/176.ts
+http://190.2.138.110:15000/live/bwcspenz/Ekw8532xqB/176.ts
 #EXTINF:-1 tvg-ID="" tvg-name="----- PREMIUM INTRATTENIMENTO -----" tvg-logo="" group-title="",----- PREMIUM INTRATTENIMENTO -----
-http://190.2.138.110:15000/live/fqrrbxjl/w709Ks3Ghd/25143.ts
-#EXTINF:-1 tvg-ID="Joi.it" tvg-name="Premium Joy" tvg-logo="http://www.lyngsat-logo.com/logo/tv/mm/mediaset_premium_joi.png" group-title="",Premium Joy
-http://190.2.138.110:15000/live/fqrrbxjl/w709Ks3Ghd/175.ts
+http://190.2.138.110:15000/live/bwcspenz/Ekw8532xqB/25143.ts
+#EXTINF:-1 tvg-ID="Joi.it" tvg-name="Premium Joy" tvg-logo="http://www.lyngsat-logo.com/logo/tv/mm/mediaset_premium_joi.png" group-title="PREMIUM CINEMA",Premium Joy
+http://190.2.138.110:15000/live/bwcspenz/Ekw8532xqB/175.ts
 #EXTINF:-1 tvg-ID="" tvg-name="Premium Joy +1" tvg-logo="" group-title="Canali +1 e +2",Premium Joy +1
-http://190.2.138.110:15000/live/fqrrbxjl/w709Ks3Ghd/13160.ts
+http://190.2.138.110:15000/live/bwcspenz/Ekw8532xqB/13160.ts
 #EXTINF:-1 tvg-ID="" tvg-name="Premium Stories" tvg-logo="http://www.sat-address.com/f/pics/logotipi/Mediaset-Premium-Stories_o.jpg" group-title="PREMIUM CINEMA",Premium Stories
-http://190.2.138.110:15000/live/fqrrbxjl/w709Ks3Ghd/177.ts
+http://190.2.138.110:15000/live/bwcspenz/Ekw8532xqB/177.ts
 #EXTINF:-1 tvg-ID="" tvg-name="Premium Stories +1" tvg-logo="" group-title="Canali +1 e +2",Premium Stories +1
-http://190.2.138.110:15000/live/fqrrbxjl/w709Ks3Ghd/13161.ts
+http://190.2.138.110:15000/live/bwcspenz/Ekw8532xqB/13161.ts
 #EXTINF:-1 tvg-ID="" tvg-name="Investigation Discovery" tvg-logo="" group-title="PREMIUM CINEMA",Investigation Discovery
-http://190.2.138.110:15000/live/fqrrbxjl/w709Ks3Ghd/13165.ts
+http://190.2.138.110:15000/live/bwcspenz/Ekw8532xqB/13165.ts
 #EXTINF:-1 tvg-ID="" tvg-name="Investigation Discovery +1" tvg-logo="" group-title="Canali +1 e +2",Investigation Discovery +1
-http://190.2.138.110:15000/live/fqrrbxjl/w709Ks3Ghd/13163.ts
-#EXTINF:-1 tvg-ID="" tvg-name="----- PREMIUM SPORT -----" tvg-logo="" group-title="PREMIUM SPORT",----- PREMIUM SPORT -----
-http://190.2.138.110:15000/live/fqrrbxjl/w709Ks3Ghd/25141.ts
+http://190.2.138.110:15000/live/bwcspenz/Ekw8532xqB/13163.ts
+
+
+
+#EXTINF:-1 tvg-ID="" tvg-name="----- PREMIUM SPORT -----" tvg-logo="" group-title="",----- PREMIUM SPORT -----
+http://190.2.138.110:15000/live/bwcspenz/Ekw8532xqB/25141.ts
 #EXTINF:-1 tvg-ID="PremiumSport.it" tvg-name="Premium Sport 1" tvg-logo="" group-title="PREMIUM SPORT",Premium Sport 1
-http://190.2.138.110:15000/live/fqrrbxjl/w709Ks3Ghd/10081.ts
+http://190.2.138.110:15000/live/bwcspenz/Ekw8532xqB/10081.ts
 #EXTINF:-1 tvg-ID="PremiumSport2.it" tvg-name="Premium Sport 2" tvg-logo="" group-title="PREMIUM SPORT",Premium Sport 2
-http://190.2.138.110:15000/live/fqrrbxjl/w709Ks3Ghd/10082.ts
+http://190.2.138.110:15000/live/bwcspenz/Ekw8532xqB/10082.ts
 #EXTINF:-1 tvg-ID="Eurosport1.it" tvg-name="Eurosport 1" tvg-logo="http://www.sat-address.com/f/pics/logotipi/Eurosport-Italia_o.jpg" group-title="PREMIUM SPORT",Eurosport 1
-http://190.2.138.110:15000/live/fqrrbxjl/w709Ks3Ghd/74.ts
-#EXTINF:-1 tvg-ID="Eurosport2.it" tvg-name="Eurosport 2 HD" tvg-logo="http://www.sat-address.com/f/pics/logotipi/Eurosport-2-Italia_o.jpg" group-title="PREMIUM SPORT",Eurosport 2 HD
-http://190.2.138.110:15000/live/fqrrbxjl/w709Ks3Ghd/77.ts
+http://190.2.138.110:15000/live/bwcspenz/Ekw8532xqB/74.ts
+#EXTINF:-1 tvg-ID="Eurosport2.it" tvg-name="Eurosport 2 HD" tvg-logo="http://www.sat-address.com/f/pics/logotipi/Eurosport-2-Italia_o.jpg" group-title="PREMIUM SPORT”,Eurosport 2 HD
+http://190.2.138.110:15000/live/bwcspenz/Ekw8532xqB/77.ts
+
+
+
+
 #EXTINF:-1 tvg-ID="" tvg-name="----- PREMIUM CALCIO -----" tvg-logo="" group-title="",----- PREMIUM CALCIO -----
-http://190.2.138.110:15000/live/fqrrbxjl/w709Ks3Ghd/25140.ts
+http://190.2.138.110:15000/live/bwcspenz/Ekw8532xqB/25140.ts
 #EXTINF:-1 tvg-ID="" tvg-name="Premium Calcio 1" tvg-logo="http://www.lyngsat-logo.com/logo/tv/mm/mediaset_premium_calcio.png" group-title="PREMIUM CALCIO",Premium Calcio 1
-http://190.2.138.110:15000/live/fqrrbxjl/w709Ks3Ghd/2694.ts
-#EXTINF:-1 tvg-ID="PremiumCalcio2.it" tvg-name="Premium Calcio 2" tvg-logo="http://www.sat-address.com/f/pics/logotipi/Mediaset-Calcio-2_o.jpg" group-title="PREMIUM CALCIO",Premium Calcio 2
-http://190.2.138.110:15000/live/fqrrbxjl/w709Ks3Ghd/182.ts
+http://190.2.138.110:15000/live/bwcspenz/Ekw8532xqB/2694.ts
+#EXTINF:-1 tvg-ID="PremiumCalcio2.it" tvg-name="Premium Calcio 2" tvg-logo="http://www.sat-address.com/f/pics/logotipi/Mediaset-Calcio-2_o.jpg" group-title="PREMIUM CALCIO”,Premium Calcio 2
+http://190.2.138.110:15000/live/bwcspenz/Ekw8532xqB/182.ts
 #EXTINF:-1 tvg-ID="PremiumCalcio3.it" tvg-name="Premium Calcio 3" tvg-logo="http://www.sat-address.com/f/pics/logotipi/Mediaset-Calcio-3_o.jpg" group-title="PREMIUM CALCIO",Premium Calcio 3
-http://190.2.138.110:15000/live/fqrrbxjl/w709Ks3Ghd/183.ts
+http://190.2.138.110:15000/live/bwcspenz/Ekw8532xqB/183.ts
 #EXTINF:-1 tvg-ID="PremiumCalcio4.it" tvg-name="Premium Calcio 4" tvg-logo="http://www.sat-address.com/f/pics/logotipi/Mediaset-Calcio-4_o.jpg" group-title="PREMIUM CALCIO",Premium Calcio 4
-http://190.2.138.110:15000/live/fqrrbxjl/w709Ks3Ghd/184.ts
+http://190.2.138.110:15000/live/bwcspenz/Ekw8532xqB/184.ts
 #EXTINF:-1 tvg-ID="PremiumCalcio5.it" tvg-name="Premium Calcio 5" tvg-logo="http://www.sat-address.com/f/pics/logotipi/Mediaset-Calcio-5_o.jpg" group-title="PREMIUM CALCIO",Premium Calcio 5
-http://190.2.138.110:15000/live/fqrrbxjl/w709Ks3Ghd/185.ts
+http://190.2.138.110:15000/live/bwcspenz/Ekw8532xqB/185.ts
 #EXTINF:-1 tvg-ID="PremiumCalcio6.it" tvg-name="Premium Calcio 6" tvg-logo="http://www.sat-address.com/f/pics/logotipi/Mediaset-Calcio-6_o.jpg" group-title="PREMIUM CALCIO",Premium Calcio 6
-http://190.2.138.110:15000/live/fqrrbxjl/w709Ks3Ghd/186.ts
+http://190.2.138.110:15000/live/bwcspenz/Ekw8532xqB/186.ts
+
 
 #EXTINF:-1 tvg-ID="" tvg-name="----- FULL HD -----" tvg-logo="" group-title="Canali Full HD",----- FULL HD -----
-http://190.2.138.110:15000/live/fqrrbxjl/w709Ks3Ghd/25384.ts
+http://190.2.138.110:15000/live/bwcspenz/Ekw8532xqB/25384.ts
 #EXTINF:-1 tvg-ID="" tvg-name="Rai 1 Full HD" tvg-logo="" group-title="Canali Full HD",Rai 1 Full HD
-http://190.2.138.110:15000/live/fqrrbxjl/w709Ks3Ghd/25337.ts
+http://190.2.138.110:15000/live/bwcspenz/Ekw8532xqB/25337.ts
 #EXTINF:-1 tvg-ID="" tvg-name="Rai 2 Full HD" tvg-logo="" group-title="Canali Full HD",Rai 2 Full HD
-http://190.2.138.110:15000/live/fqrrbxjl/w709Ks3Ghd/25335.ts
+http://190.2.138.110:15000/live/bwcspenz/Ekw8532xqB/25335.ts
 #EXTINF:-1 tvg-ID="" tvg-name="Rai 3 Full HD" tvg-logo="" group-title="Canali Full HD",Rai 3 Full HD
-http://190.2.138.110:15000/live/fqrrbxjl/w709Ks3Ghd/25333.ts
+http://190.2.138.110:15000/live/bwcspenz/Ekw8532xqB/25333.ts
 #EXTINF:-1 tvg-ID="" tvg-name="Rete 4 Full HD" tvg-logo="" group-title="Canali Full HD",Rete 4 Full HD
-http://190.2.138.110:15000/live/fqrrbxjl/w709Ks3Ghd/25308.ts
+http://190.2.138.110:15000/live/bwcspenz/Ekw8532xqB/25308.ts
 #EXTINF:-1 tvg-ID="" tvg-name="Canale 5 Full HD" tvg-logo="" group-title="Canali Full HD",Canale 5 Full HD
-http://190.2.138.110:15000/live/fqrrbxjl/w709Ks3Ghd/25351.ts
+http://190.2.138.110:15000/live/bwcspenz/Ekw8532xqB/25351.ts
 #EXTINF:-1 tvg-ID="" tvg-name="Italia 1 Full HD" tvg-logo="" group-title="Canali Full HD",Italia 1 Full HD
-http://190.2.138.110:15000/live/fqrrbxjl/w709Ks3Ghd/25367.ts
+http://190.2.138.110:15000/live/bwcspenz/Ekw8532xqB/25367.ts
 #EXTINF:-1 tvg-ID="" tvg-name="La 7 Full HD" tvg-logo="" group-title="Canali Full HD",La 7 Full HD
-http://190.2.138.110:15000/live/fqrrbxjl/w709Ks3Ghd/25366.ts
+http://190.2.138.110:15000/live/bwcspenz/Ekw8532xqB/25366.ts
 #EXTINF:-1 tvg-ID="" tvg-name="La 7d Full HD" tvg-logo="" group-title="Canali Full HD",La 7d Full HD
-http://190.2.138.110:15000/live/fqrrbxjl/w709Ks3Ghd/25364.ts
+http://190.2.138.110:15000/live/bwcspenz/Ekw8532xqB/25364.ts
 #EXTINF:-1 tvg-ID="" tvg-name="Nove Full HD" tvg-logo="" group-title="Canali Full HD",Nove Full HD
-http://190.2.138.110:15000/live/fqrrbxjl/w709Ks3Ghd/25356.ts
+http://190.2.138.110:15000/live/bwcspenz/Ekw8532xqB/25356.ts
 #EXTINF:-1 tvg-ID="" tvg-name="Rai Movie Full HD" tvg-logo="" group-title="Canali Full HD",Rai Movie Full HD
-http://190.2.138.110:15000/live/fqrrbxjl/w709Ks3Ghd/25325.ts
+http://190.2.138.110:15000/live/bwcspenz/Ekw8532xqB/25325.ts
 #EXTINF:-1 tvg-ID="" tvg-name="Rai 4 Full HD" tvg-logo="" group-title="Canali Full HD",Rai 4 Full HD
-http://190.2.138.110:15000/live/fqrrbxjl/w709Ks3Ghd/25331.ts
+http://190.2.138.110:15000/live/bwcspenz/Ekw8532xqB/25331.ts
 #EXTINF:-1 tvg-ID="" tvg-name="Rai 5 Full HD" tvg-logo="" group-title="Canali Full HD",Rai 5 Full HD
-http://190.2.138.110:15000/live/fqrrbxjl/w709Ks3Ghd/25329.ts
+http://190.2.138.110:15000/live/bwcspenz/Ekw8532xqB/25329.ts
 #EXTINF:-1 tvg-ID="" tvg-name="Rai Premium Full HD" tvg-logo="" group-title="Canali Full HD",Rai Premium Full HD
-http://190.2.138.110:15000/live/fqrrbxjl/w709Ks3Ghd/25321.ts
+http://190.2.138.110:15000/live/bwcspenz/Ekw8532xqB/25321.ts
 #EXTINF:-1 tvg-ID="" tvg-name="Rai Gulp Full HD" tvg-logo="" group-title="Canali Full HD",Rai Gulp Full HD
-http://190.2.138.110:15000/live/fqrrbxjl/w709Ks3Ghd/25327.ts
+http://190.2.138.110:15000/live/bwcspenz/Ekw8532xqB/25327.ts
 #EXTINF:-1 tvg-ID="" tvg-name="Rai Scuola Full HD" tvg-logo="" group-title="Canali Full HD",Rai Scuola Full HD
-http://190.2.138.110:15000/live/fqrrbxjl/w709Ks3Ghd/25319.ts
+http://190.2.138.110:15000/live/bwcspenz/Ekw8532xqB/25319.ts
 #EXTINF:-1 tvg-ID="" tvg-name="Rai Yoyo Full HD" tvg-logo="" group-title="Canali Full HD",Rai Yoyo Full HD
-http://190.2.138.110:15000/live/fqrrbxjl/w709Ks3Ghd/25311.ts
+http://190.2.138.110:15000/live/bwcspenz/Ekw8532xqB/25311.ts
 #EXTINF:-1 tvg-ID="" tvg-name="Rai News 24 Full HD" tvg-logo="" group-title="Canali Full HD",Rai News 24 Full HD
-http://190.2.138.110:15000/live/fqrrbxjl/w709Ks3Ghd/25323.ts
+http://190.2.138.110:15000/live/bwcspenz/Ekw8532xqB/25323.ts
 #EXTINF:-1 tvg-ID="" tvg-name="Rai Sport  Full HD" tvg-logo="" group-title="Canali Full HD",Rai Sport  Full HD
-http://190.2.138.110:15000/live/fqrrbxjl/w709Ks3Ghd/25316.ts
+http://190.2.138.110:15000/live/bwcspenz/Ekw8532xqB/25316.ts
 #EXTINF:-1 tvg-ID="" tvg-name="Supertennis Full HD" tvg-logo="" group-title="Canali Full HD",Supertennis Full HD
-http://190.2.138.110:15000/live/fqrrbxjl/w709Ks3Ghd/25370.ts
+http://190.2.138.110:15000/live/bwcspenz/Ekw8532xqB/25370.ts
 #EXTINF:-1 tvg-ID="" tvg-name="Rai Storia Full HD" tvg-logo="" group-title="Canali Full HD",Rai Storia Full HD
-http://190.2.138.110:15000/live/fqrrbxjl/w709Ks3Ghd/25314.ts
+http://190.2.138.110:15000/live/bwcspenz/Ekw8532xqB/25314.ts
 #EXTINF:-1 tvg-ID="" tvg-name="Teleticino Full HD" tvg-logo="" group-title="Canali Full HD",Teleticino Full HD
-http://190.2.138.110:15000/live/fqrrbxjl/w709Ks3Ghd/156.ts
+http://190.2.138.110:15000/live/bwcspenz/Ekw8532xqB/156.ts
 #EXTINF:-1 tvg-ID="" tvg-name="UnireSat Full HD" tvg-logo="" group-title="Canali Full HD",UnireSat Full HD
-http://190.2.138.110:15000/live/fqrrbxjl/w709Ks3Ghd/25377.ts
+http://190.2.138.110:15000/live/bwcspenz/Ekw8532xqB/25377.ts
 #EXTINF:-1 tvg-ID="" tvg-name="Radio Freccia Full HD" tvg-logo="" group-title="Musica",Radio Freccia Full HD
-http://190.2.138.110:15000/live/fqrrbxjl/w709Ks3Ghd/25373.ts
+http://190.2.138.110:15000/live/bwcspenz/Ekw8532xqB/25373.ts
 #EXTINF:-1 tvg-ID="" tvg-name="Eurosport 1 Full HD" tvg-logo="" group-title="Canali Full HD",Eurosport 1 Full HD
-http://190.2.138.110:15000/live/fqrrbxjl/w709Ks3Ghd/25379.ts
+http://190.2.138.110:15000/live/bwcspenz/Ekw8532xqB/25379.ts
 #EXTINF:-1 tvg-ID="" tvg-name="Discovery Full HD" tvg-logo="" group-title="Canali Full HD",Discovery Full HD
-http://190.2.138.110:15000/live/fqrrbxjl/w709Ks3Ghd/25382.ts
+http://190.2.138.110:15000/live/bwcspenz/Ekw8532xqB/25382.ts
 #EXTINF:-1 tvg-ID="" tvg-name="Discovery  1 Full HD" tvg-logo="" group-title="Canali Full HD",Discovery  1 Full HD
-http://190.2.138.110:15000/live/fqrrbxjl/w709Ks3Ghd/25383.ts
+http://190.2.138.110:15000/live/bwcspenz/Ekw8532xqB/25383.ts
 #EXTINF:-1 tvg-ID="" tvg-name="Discovery Sci Full HD" tvg-logo="" group-title="Canali Full HD",Discovery Sci Full HD
-http://190.2.138.110:15000/live/fqrrbxjl/w709Ks3Ghd/25381.ts
+http://190.2.138.110:15000/live/bwcspenz/Ekw8532xqB/25381.ts
 #EXTINF:-1 tvg-ID="" tvg-name="Discovery T&L Full HD" tvg-logo="" group-title="Canali Full HD",Discovery T&L Full HD
-http://190.2.138.110:15000/live/fqrrbxjl/w709Ks3Ghd/25380.ts
+http://190.2.138.110:15000/live/bwcspenz/Ekw8532xqB/25380.ts
 #EXTINF:-1 tvg-ID="" tvg-name="Nat Geo Full HD" tvg-logo="" group-title="Canali Full HD",Nat Geo Full HD
-http://190.2.138.110:15000/live/fqrrbxjl/w709Ks3Ghd/25361.ts
+http://190.2.138.110:15000/live/bwcspenz/Ekw8532xqB/25361.ts
 #EXTINF:-1 tvg-ID="" tvg-name="Nat Geo +1 Full HD" tvg-logo="" group-title="Canali Full HD",Nat Geo +1 Full HD
-http://190.2.138.110:15000/live/fqrrbxjl/w709Ks3Ghd/25362.ts
+http://190.2.138.110:15000/live/bwcspenz/Ekw8532xqB/25362.ts
 #EXTINF:-1 tvg-ID="" tvg-name="Nat Geo People Full HD" tvg-logo="" group-title="Canali Full HD",Nat Geo People Full HD
-http://190.2.138.110:15000/live/fqrrbxjl/w709Ks3Ghd/25360.ts
+http://190.2.138.110:15000/live/bwcspenz/Ekw8532xqB/25360.ts
 #EXTINF:-1 tvg-ID="" tvg-name="Nat Geo Wild Full HD" tvg-logo="" group-title="Canali Full HD",Nat Geo Wild Full HD
-http://190.2.138.110:15000/live/fqrrbxjl/w709Ks3Ghd/25358.ts
+http://190.2.138.110:15000/live/bwcspenz/Ekw8532xqB/25358.ts
 #EXTINF:-1 tvg-ID="" tvg-name="Nat Geo Wild +1 Full HD" tvg-logo="" group-title="Canali Full HD",Nat Geo Wild +1 Full HD
-http://190.2.138.110:15000/live/fqrrbxjl/w709Ks3Ghd/25359.ts
-#EXTINF:-1 tvg-ID="" tvg-name="Sky Cinema 1 Full HD" tvg-logo="" group-title="",Sky Cinema 1 Full HD
-http://190.2.138.110:15000/live/fqrrbxjl/w709Ks3Ghd/23271.ts
+http://190.2.138.110:15000/live/bwcspenz/Ekw8532xqB/25359.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Sky Cinema 1 Full HD" tvg-logo="" group-title="Canali Full HD",Sky Cinema 1 Full HD
+http://190.2.138.110:15000/live/bwcspenz/Ekw8532xqB/23271.ts
 #EXTINF:-1 tvg-ID="" tvg-name="Cinema Comedy FHD" tvg-logo="" group-title="Canali Full HD",Cinema Comedy FHD
-http://190.2.138.110:15000/live/fqrrbxjl/w709Ks3Ghd/23405.ts
+http://190.2.138.110:15000/live/bwcspenz/Ekw8532xqB/23405.ts
 #EXTINF:-1 tvg-ID="" tvg-name="Sky Cinema Family FHD" tvg-logo="" group-title="Canali Full HD",Sky Cinema Family FHD
-http://190.2.138.110:15000/live/fqrrbxjl/w709Ks3Ghd/23404.ts
+http://190.2.138.110:15000/live/bwcspenz/Ekw8532xqB/23404.ts
 #EXTINF:-1 tvg-ID="SkyCinemaMax.it" tvg-name="Cinema Max FHD" tvg-logo="" group-title="Canali Full HD",Cinema Max FHD
-http://190.2.138.110:15000/live/fqrrbxjl/w709Ks3Ghd/23403.ts
+http://190.2.138.110:15000/live/bwcspenz/Ekw8532xqB/23403.ts
 #EXTINF:-1 tvg-ID="" tvg-name="Sky Cinema +24 FHD" tvg-logo="" group-title="Canali Full HD",Sky Cinema +24 FHD
-http://190.2.138.110:15000/live/fqrrbxjl/w709Ks3Ghd/23410.ts
+http://190.2.138.110:15000/live/bwcspenz/Ekw8532xqB/23410.ts
 #EXTINF:-1 tvg-ID="" tvg-name="Sky Cinema Hits FHD" tvg-logo="" group-title="Canali Full HD",Sky Cinema Hits FHD
-http://190.2.138.110:15000/live/fqrrbxjl/w709Ks3Ghd/23402.ts
+http://190.2.138.110:15000/live/bwcspenz/Ekw8532xqB/23402.ts
 #EXTINF:-1 tvg-ID="" tvg-name="Sky Cinema Classic Full HD" tvg-logo="" group-title="Canali Full HD",Sky Cinema Classic Full HD
-http://190.2.138.110:15000/live/fqrrbxjl/w709Ks3Ghd/23409.ts
+http://190.2.138.110:15000/live/bwcspenz/Ekw8532xqB/23409.ts
 #EXTINF:-1 tvg-ID="SkyCinemaCult.it" tvg-name="Sky Cinema Cult Full HD" tvg-logo="" group-title="Canali Full HD",Sky Cinema Cult Full HD
-http://190.2.138.110:15000/live/fqrrbxjl/w709Ks3Ghd/25643.ts
+http://190.2.138.110:15000/live/bwcspenz/Ekw8532xqB/25643.ts
 #EXTINF:-1 tvg-ID="SkyCinemaPassionHD.it" tvg-name="Sky Cinema Passion Full HD" tvg-logo="" group-title="Canali Full HD",Sky Cinema Passion Full HD
-http://190.2.138.110:15000/live/fqrrbxjl/w709Ks3Ghd/25642.ts
+http://190.2.138.110:15000/live/bwcspenz/Ekw8532xqB/25642.ts
 #EXTINF:-1 tvg-ID="PremiumCinema.it" tvg-name="Premium Cinema Full HD" tvg-logo="" group-title="Canali Full HD",Premium Cinema Full HD
-http://190.2.138.110:15000/live/fqrrbxjl/w709Ks3Ghd/25651.ts
+http://190.2.138.110:15000/live/bwcspenz/Ekw8532xqB/25651.ts
 #EXTINF:-1 tvg-ID="PremiumCinemaPlus24.it" tvg-name="Premium Cinema +24 Full HD" tvg-logo="" group-title="Canali Full HD",Premium Cinema +24 Full HD
-http://190.2.138.110:15000/live/fqrrbxjl/w709Ks3Ghd/25657.ts
+http://190.2.138.110:15000/live/bwcspenz/Ekw8532xqB/25657.ts
 #EXTINF:-1 tvg-ID="PremiumCinemaComedy.it" tvg-name="Premium Cinema Comedy Full HD" tvg-logo="" group-title="Canali Full HD",Premium Cinema Comedy Full HD
-http://190.2.138.110:15000/live/fqrrbxjl/w709Ks3Ghd/25655.ts
+http://190.2.138.110:15000/live/bwcspenz/Ekw8532xqB/25655.ts
 #EXTINF:-1 tvg-ID="PremiumCinemaEnergy.it" tvg-name="Premium Cinema Energy Full HD" tvg-logo="" group-title="Canali Full HD",Premium Cinema Energy Full HD
-http://190.2.138.110:15000/live/fqrrbxjl/w709Ks3Ghd/25653.ts
+http://190.2.138.110:15000/live/bwcspenz/Ekw8532xqB/25653.ts
 #EXTINF:-1 tvg-ID="PremiumCinemaEmotion.it" tvg-name="Premium Emotion Full HD" tvg-logo="" group-title="Canali Full HD",Premium Emotion Full HD
-http://190.2.138.110:15000/live/fqrrbxjl/w709Ks3Ghd/25649.ts
+http://190.2.138.110:15000/live/bwcspenz/Ekw8532xqB/25649.ts
 #EXTINF:-1 tvg-ID="" tvg-name="Ci Crime Investigation Full HD" tvg-logo="" group-title="Canali Full HD",Ci Crime Investigation Full HD
-http://190.2.138.110:15000/live/fqrrbxjl/w709Ks3Ghd/25460.ts
-#EXTINF:-1 tvg-ID="Fox.it" tvg-name="Fox Full HD" tvg-logo="" group-title="Italiani",Fox Full HD
-http://190.2.138.110:15000/live/fqrrbxjl/w709Ks3Ghd/25434.ts
-#EXTINF:-1 tvg-ID="FoxLife.it" tvg-name="Fox Life Full HD" tvg-logo="" group-title="Italiani",Fox Life Full HD
-http://190.2.138.110:15000/live/fqrrbxjl/w709Ks3Ghd/25433.ts
+http://190.2.138.110:15000/live/bwcspenz/Ekw8532xqB/25460.ts
+#EXTINF:-1 tvg-ID="Fox.it" tvg-name="Fox Full HD" tvg-logo="" group-title="Canali Full HD",Fox Full HD
+http://190.2.138.110:15000/live/bwcspenz/Ekw8532xqB/25434.ts
+#EXTINF:-1 tvg-ID="FoxLife.it" tvg-name="Fox Life Full HD" tvg-logo="" group-title="Canali Full HD",Fox Life Full HD
+http://190.2.138.110:15000/live/bwcspenz/Ekw8532xqB/25433.ts
 #EXTINF:-1 tvg-ID="" tvg-name="Fox Animation Full HD" tvg-logo="" group-title="Canali Full HD",Fox Animation Full HD
-http://190.2.138.110:15000/live/fqrrbxjl/w709Ks3Ghd/25461.ts
+http://190.2.138.110:15000/live/bwcspenz/Ekw8532xqB/25461.ts
 #EXTINF:-1 tvg-ID="" tvg-name="Fox Crime Full HD" tvg-logo="" group-title="Canali Full HD",Fox Crime Full HD
-http://190.2.138.110:15000/live/fqrrbxjl/w709Ks3Ghd/25462.ts
+http://190.2.138.110:15000/live/bwcspenz/Ekw8532xqB/25462.ts
 #EXTINF:-1 tvg-ID="" tvg-name="Sky Uno FHD" tvg-logo="" group-title="Canali Full HD",Sky Uno FHD
-http://190.2.138.110:15000/live/fqrrbxjl/w709Ks3Ghd/23408.ts
+http://190.2.138.110:15000/live/bwcspenz/Ekw8532xqB/23408.ts
 #EXTINF:-1 tvg-ID="" tvg-name="Sky Atlantic FHD" tvg-logo="" group-title="Canali Full HD",Sky Atlantic FHD
-http://190.2.138.110:15000/live/fqrrbxjl/w709Ks3Ghd/23407.ts
-#EXTINF:-1 tvg-ID="" tvg-name="Sky Blaze Full HD" tvg-logo="" group-title="Italiani",Sky Blaze Full HD
-http://190.2.138.110:15000/live/fqrrbxjl/w709Ks3Ghd/25459.ts
-#EXTINF:-1 tvg-ID="SKYSport24.it" tvg-name="Sky Sport 24 Full HD" tvg-logo="" group-title="Italiani",Sky Sport 24 Full HD
-http://190.2.138.110:15000/live/fqrrbxjl/w709Ks3Ghd/25432.ts
+http://190.2.138.110:15000/live/bwcspenz/Ekw8532xqB/23407.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Sky Blaze Full HD" tvg-logo="" group-title="Canali Full HD",Sky Blaze Full HD
+http://190.2.138.110:15000/live/bwcspenz/Ekw8532xqB/25459.ts
+#EXTINF:-1 tvg-ID="SKYSport24.it" tvg-name="Sky Sport 24 Full HD" tvg-logo="" group-title="Canali Full HD",Sky Sport 24 Full HD
+http://190.2.138.110:15000/live/bwcspenz/Ekw8532xqB/25432.ts
 #EXTINF:-1 tvg-ID="SkySportPlus.it" tvg-name="Sky Sport Plus Full HD" tvg-logo="" group-title="Canali Full HD",Sky Sport Plus Full HD
-http://190.2.138.110:15000/live/fqrrbxjl/w709Ks3Ghd/25644.ts
+http://190.2.138.110:15000/live/bwcspenz/Ekw8532xqB/25644.ts
 #EXTINF:-1 tvg-ID="" tvg-name="Sky Sport 1 FHD" tvg-logo="" group-title="Canali Full HD",Sky Sport 1 FHD
-http://190.2.138.110:15000/live/fqrrbxjl/w709Ks3Ghd/23400.ts
+http://190.2.138.110:15000/live/bwcspenz/Ekw8532xqB/23400.ts
 #EXTINF:-1 tvg-ID="" tvg-name="Sky Sport Football FHD" tvg-logo="" group-title="Canali Full HD",Sky Sport Football FHD
-http://190.2.138.110:15000/live/fqrrbxjl/w709Ks3Ghd/23399.ts
+http://190.2.138.110:15000/live/bwcspenz/Ekw8532xqB/23399.ts
 #EXTINF:-1 tvg-ID="" tvg-name="Sky Sport 3 FHD" tvg-logo="" group-title="Canali Full HD",Sky Sport 3 FHD
-http://190.2.138.110:15000/live/fqrrbxjl/w709Ks3Ghd/23398.ts
+http://190.2.138.110:15000/live/bwcspenz/Ekw8532xqB/23398.ts
 #EXTINF:-1 tvg-ID="" tvg-name="Sky Sport Serie A FHD" tvg-logo="" group-title="Canali Full HD",Sky Sport Serie A FHD
-http://190.2.138.110:15000/live/fqrrbxjl/w709Ks3Ghd/23401.ts
-#EXTINF:-1 tvg-ID="" tvg-name="Sport Moto GP FHD" tvg-logo="" group-title="",Sport Moto GP FHD
-http://190.2.138.110:15000/live/fqrrbxjl/w709Ks3Ghd/23273.ts
-#EXTINF:-1 tvg-ID="" tvg-name="Sky Sport F1 Full HD" tvg-logo="" group-title="Italiani",Sky Sport F1 Full HD
-http://190.2.138.110:15000/live/fqrrbxjl/w709Ks3Ghd/25457.ts
+http://190.2.138.110:15000/live/bwcspenz/Ekw8532xqB/23401.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Sport Moto GP FHD" tvg-logo="" group-title="Canali Full HD",Sport Moto GP FHD
+http://190.2.138.110:15000/live/bwcspenz/Ekw8532xqB/23273.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Sky Sport F1 Full HD" tvg-logo="" group-title="Canali Full HD",Sky Sport F1 Full HD
+http://190.2.138.110:15000/live/bwcspenz/Ekw8532xqB/25457.ts
 #EXTINF:-1 tvg-ID="" tvg-name="Sky Sport Golf FHD" tvg-logo="" group-title="Canali Full HD",Sky Sport Golf FHD
-http://190.2.138.110:15000/live/fqrrbxjl/w709Ks3Ghd/23406.ts
+http://190.2.138.110:15000/live/bwcspenz/Ekw8532xqB/23406.ts
 
-#EXTINF:-1 tvg-ID="" tvg-name="----- NOTIZIE -----" tvg-logo="" group-title="NOTIZIE",----- NOTIZIE -----
-http://190.2.138.110:15000/live/fqrrbxjl/w709Ks3Ghd/138.ts
-#EXTINF:-1 tvg-ID="TG24.it" tvg-name="Sky Tg 24 HD" tvg-logo="http://www.sat-address.com/f/pics/logotipi/Sky-TG-24-Canale-50_o.jpg" group-title=“NOTIZIE”,Sky Tg 24 HD
-http://190.2.138.110:15000/live/fqrrbxjl/w709Ks3Ghd/139.ts
+
+
+#EXTINF:-1 tvg-ID="" tvg-name="----- NOTIZIE -----" tvg-logo="" group-title="Italiani",----- NOTIZIE -----
+http://190.2.138.110:15000/live/bwcspenz/Ekw8532xqB/138.ts
+#EXTINF:-1 tvg-ID="TG24.it" tvg-name="Sky Tg 24 HD" tvg-logo="http://www.sat-address.com/f/pics/logotipi/Sky-TG-24-Canale-50_o.jpg" group-title="NOTIZIE",Sky Tg 24 HD
+http://190.2.138.110:15000/live/bwcspenz/Ekw8532xqB/139.ts
 #EXTINF:-1 tvg-ID="Tgcom24.it" tvg-name="Tg Com 24" tvg-logo="http://www.sat-address.com/f/pics/logotipi/TG-Mediaset_o.jpg" group-title="NOTIZIE",Tg Com 24
-http://190.2.138.110:15000/live/fqrrbxjl/w709Ks3Ghd/140.ts
+http://190.2.138.110:15000/live/bwcspenz/Ekw8532xqB/140.ts
 #EXTINF:-1 tvg-ID="RaiNews.it" tvg-name="Rai News 24" tvg-logo="http://www.sat-address.com/f/pics/logotipi/Rai-News-24_o.jpg" group-title="NOTIZIE",Rai News 24
-http://190.2.138.110:15000/live/fqrrbxjl/w709Ks3Ghd/141.ts
+http://190.2.138.110:15000/live/bwcspenz/Ekw8532xqB/141.ts
 #EXTINF:-1 tvg-ID="TG24Norba.it" tvg-name="TgNorba 24" tvg-logo="" group-title="NOTIZIE",TgNorba 24
-http://190.2.138.110:15000/live/fqrrbxjl/w709Ks3Ghd/10201.ts
+http://190.2.138.110:15000/live/bwcspenz/Ekw8532xqB/10201.ts
 
-#EXTINF:-1 tvg-ID="" tvg-name="----- SKY PRIMAFILA -----" tvg-logo="" group-title="Italiani",----- SKY PRIMAFILA -----
-http://190.2.138.110:15000/live/fqrrbxjl/w709Ks3Ghd/34.ts
+
+#EXTINF:-1 tvg-ID="" tvg-name="----- SKY PRIMAFILA -----" tvg-logo="" group-title="SKY PRIMAFILA",----- SKY PRIMAFILA -----
+http://190.2.138.110:15000/live/bwcspenz/Ekw8532xqB/34.ts
 #EXTINF:-1 tvg-ID="" tvg-name="Vetrina Primafila" tvg-logo="" group-title="PrimaFila Sky OnDemand",Vetrina Primafila
-http://190.2.138.110:15000/movie/fqrrbxjl/w709Ks3Ghd/4063.mkv
+http://190.2.138.110:15000/movie/bwcspenz/Ekw8532xqB/4063.mkv
 #EXTINF:-1 tvg-ID="" tvg-name="Trailer Primafila 1/2" tvg-logo="" group-title="PrimaFila Sky OnDemand",Trailer Primafila 1/2
-http://190.2.138.110:15000/movie/fqrrbxjl/w709Ks3Ghd/12059.mp4
+http://190.2.138.110:15000/movie/bwcspenz/Ekw8532xqB/12059.mp4
 #EXTINF:-1 tvg-ID="" tvg-name="Primafila 1 HD Live" tvg-logo="" group-title="PrimaFila Sky OnDemand",Primafila 1 HD Live
-http://190.2.138.110:15000/live/fqrrbxjl/w709Ks3Ghd/35.ts
+http://190.2.138.110:15000/live/bwcspenz/Ekw8532xqB/35.ts
 #EXTINF:-1 tvg-ID="" tvg-name="Primafila 2 HD OnDemand" tvg-logo="" group-title="PrimaFila Sky OnDemand",Primafila 2 HD OnDemand
-http://190.2.138.110:15000/movie/fqrrbxjl/w709Ks3Ghd/4054.mkv
+http://190.2.138.110:15000/movie/bwcspenz/Ekw8532xqB/4054.mkv
 #EXTINF:-1 tvg-ID="" tvg-name="Trailer Primafila 3/4" tvg-logo="" group-title="PrimaFila Sky OnDemand",Trailer Primafila 3/4
-http://190.2.138.110:15000/movie/fqrrbxjl/w709Ks3Ghd/12060.mp4
+http://190.2.138.110:15000/movie/bwcspenz/Ekw8532xqB/12060.mp4
 #EXTINF:-1 tvg-ID="" tvg-name="Primafila 3 HD Live" tvg-logo="" group-title="PrimaFila Sky OnDemand",Primafila 3 HD Live
-http://190.2.138.110:15000/live/fqrrbxjl/w709Ks3Ghd/37.ts
+http://190.2.138.110:15000/live/bwcspenz/Ekw8532xqB/37.ts
 #EXTINF:-1 tvg-ID="" tvg-name="Primafila 4 HD OnDemand" tvg-logo="" group-title="PrimaFila Sky OnDemand",Primafila 4 HD OnDemand
-http://190.2.138.110:15000/movie/fqrrbxjl/w709Ks3Ghd/4055.mkv
+http://190.2.138.110:15000/movie/bwcspenz/Ekw8532xqB/4055.mkv
 #EXTINF:-1 tvg-ID="" tvg-name="Trailer Primafila 5/6" tvg-logo="" group-title="PrimaFila Sky OnDemand",Trailer Primafila 5/6
-http://190.2.138.110:15000/movie/fqrrbxjl/w709Ks3Ghd/12061.mp4
+http://190.2.138.110:15000/movie/bwcspenz/Ekw8532xqB/12061.mp4
 #EXTINF:-1 tvg-ID="" tvg-name="Primafila 5 HD Live" tvg-logo="" group-title="PrimaFila Sky OnDemand",Primafila 5 HD Live
-http://190.2.138.110:15000/live/fqrrbxjl/w709Ks3Ghd/39.ts
+http://190.2.138.110:15000/live/bwcspenz/Ekw8532xqB/39.ts
 #EXTINF:-1 tvg-ID="" tvg-name="Primafila 6 HD OnDemand" tvg-logo="" group-title="PrimaFila Sky OnDemand",Primafila 6 HD OnDemand
-http://190.2.138.110:15000/movie/fqrrbxjl/w709Ks3Ghd/4056.mkv
+http://190.2.138.110:15000/movie/bwcspenz/Ekw8532xqB/4056.mkv
 #EXTINF:-1 tvg-ID="" tvg-name="Trailer Primafila 7/8" tvg-logo="" group-title="PrimaFila Sky OnDemand",Trailer Primafila 7/8
-http://190.2.138.110:15000/movie/fqrrbxjl/w709Ks3Ghd/12062.mp4
+http://190.2.138.110:15000/movie/bwcspenz/Ekw8532xqB/12062.mp4
 #EXTINF:-1 tvg-ID="" tvg-name="Primafila 7 HD Live" tvg-logo="" group-title="PrimaFila Sky OnDemand",Primafila 7 HD Live
-http://190.2.138.110:15000/live/fqrrbxjl/w709Ks3Ghd/41.ts
+http://190.2.138.110:15000/live/bwcspenz/Ekw8532xqB/41.ts
 #EXTINF:-1 tvg-ID="" tvg-name="Primafila 8 HD OnDemand" tvg-logo="" group-title="PrimaFila Sky OnDemand",Primafila 8 HD OnDemand
-http://190.2.138.110:15000/movie/fqrrbxjl/w709Ks3Ghd/4057.mkv
+http://190.2.138.110:15000/movie/bwcspenz/Ekw8532xqB/4057.mkv
 #EXTINF:-1 tvg-ID="" tvg-name="Trailer Primafila 9/10" tvg-logo="" group-title="PrimaFila Sky OnDemand",Trailer Primafila 9/10
-http://190.2.138.110:15000/movie/fqrrbxjl/w709Ks3Ghd/12063.mp4
+http://190.2.138.110:15000/movie/bwcspenz/Ekw8532xqB/12063.mp4
 #EXTINF:-1 tvg-ID="" tvg-name="Primafila 9 HD Live" tvg-logo="" group-title="PrimaFila Sky OnDemand",Primafila 9 HD Live
-http://190.2.138.110:15000/live/fqrrbxjl/w709Ks3Ghd/43.ts
+http://190.2.138.110:15000/live/bwcspenz/Ekw8532xqB/43.ts
 #EXTINF:-1 tvg-ID="" tvg-name="Primafila 10 HD OnDemand" tvg-logo="" group-title="PrimaFila Sky OnDemand",Primafila 10 HD OnDemand
-http://190.2.138.110:15000/movie/fqrrbxjl/w709Ks3Ghd/4058.mkv
+http://190.2.138.110:15000/movie/bwcspenz/Ekw8532xqB/4058.mkv
 #EXTINF:-1 tvg-ID="" tvg-name="Trailer Primafila 11/12" tvg-logo="" group-title="PrimaFila Sky OnDemand",Trailer Primafila 11/12
-http://190.2.138.110:15000/movie/fqrrbxjl/w709Ks3Ghd/12064.mp4
+http://190.2.138.110:15000/movie/bwcspenz/Ekw8532xqB/12064.mp4
 #EXTINF:-1 tvg-ID="" tvg-name="Primafila 11 HD Live" tvg-logo="" group-title="PrimaFila Sky OnDemand",Primafila 11 HD Live
-http://190.2.138.110:15000/live/fqrrbxjl/w709Ks3Ghd/521.ts
+http://190.2.138.110:15000/live/bwcspenz/Ekw8532xqB/521.ts
 #EXTINF:-1 tvg-ID="" tvg-name="Primafila 12 HD OnDemand" tvg-logo="" group-title="PrimaFila Sky OnDemand",Primafila 12 HD OnDemand
-http://190.2.138.110:15000/movie/fqrrbxjl/w709Ks3Ghd/4059.mkv
+http://190.2.138.110:15000/movie/bwcspenz/Ekw8532xqB/4059.mkv
 #EXTINF:-1 tvg-ID="" tvg-name="Trailer Primafila 13/14" tvg-logo="" group-title="PrimaFila Sky OnDemand",Trailer Primafila 13/14
-http://190.2.138.110:15000/movie/fqrrbxjl/w709Ks3Ghd/12065.mp4
-#EXTINF:-1 tvg-ID="" tvg-name="Primafila 13 HD Live" tvg-logo="" group-title="",Primafila 13 HD Live
-http://190.2.138.110:15000/live/fqrrbxjl/w709Ks3Ghd/3226.ts
+http://190.2.138.110:15000/movie/bwcspenz/Ekw8532xqB/12065.mp4
+#EXTINF:-1 tvg-ID="" tvg-name="Primafila 13 HD Live" tvg-logo="" group-title="PrimaFila Sky OnDemand",Primafila 13 HD Live
+http://190.2.138.110:15000/live/bwcspenz/Ekw8532xqB/3226.ts
 #EXTINF:-1 tvg-ID="" tvg-name="Primafila 14 HD OnDemand" tvg-logo="" group-title="PrimaFila Sky OnDemand",Primafila 14 HD OnDemand
-http://190.2.138.110:15000/movie/fqrrbxjl/w709Ks3Ghd/4060.mkv
+http://190.2.138.110:15000/movie/bwcspenz/Ekw8532xqB/4060.mkv
 #EXTINF:-1 tvg-ID="" tvg-name="Trailer Primafila 15/16" tvg-logo="" group-title="PrimaFila Sky OnDemand",Trailer Primafila 15/16
-http://190.2.138.110:15000/movie/fqrrbxjl/w709Ks3Ghd/12066.mp4
-#EXTINF:-1 tvg-ID="" tvg-name="Primafila 15 HD Live" tvg-logo="" group-title="",Primafila 15 HD Live
-http://190.2.138.110:15000/live/fqrrbxjl/w709Ks3Ghd/3227.ts
+http://190.2.138.110:15000/movie/bwcspenz/Ekw8532xqB/12066.mp4
+#EXTINF:-1 tvg-ID="" tvg-name="Primafila 15 HD Live" tvg-logo="" group-title="PrimaFila Sky OnDemand",Primafila 15 HD Live
+http://190.2.138.110:15000/live/bwcspenz/Ekw8532xqB/3227.ts
 #EXTINF:-1 tvg-ID="" tvg-name="Primafila 16 HD OnDemand" tvg-logo="" group-title="PrimaFila Sky OnDemand",Primafila 16 HD OnDemand
-http://190.2.138.110:15000/movie/fqrrbxjl/w709Ks3Ghd/4061.mkv
+http://190.2.138.110:15000/movie/bwcspenz/Ekw8532xqB/4061.mkv
 #EXTINF:-1 tvg-ID="" tvg-name="Trailer Primafila 17/18" tvg-logo="" group-title="PrimaFila Sky OnDemand",Trailer Primafila 17/18
-http://190.2.138.110:15000/movie/fqrrbxjl/w709Ks3Ghd/12067.mp4
-#EXTINF:-1 tvg-ID="" tvg-name="Primafila 17 HD Live" tvg-logo="" group-title="",Primafila 17 HD Live
-http://190.2.138.110:15000/live/fqrrbxjl/w709Ks3Ghd/3228.ts
+http://190.2.138.110:15000/movie/bwcspenz/Ekw8532xqB/12067.mp4
+#EXTINF:-1 tvg-ID="" tvg-name="Primafila 17 HD Live" tvg-logo="" group-title="PrimaFila Sky OnDemand",Primafila 17 HD Live
+http://190.2.138.110:15000/live/bwcspenz/Ekw8532xqB/3228.ts
 #EXTINF:-1 tvg-ID="" tvg-name="Primafila 18 HD OnDemand" tvg-logo="" group-title="PrimaFila Sky OnDemand",Primafila 18 HD OnDemand
-http://190.2.138.110:15000/movie/fqrrbxjl/w709Ks3Ghd/4062.mkv
+http://190.2.138.110:15000/movie/bwcspenz/Ekw8532xqB/4062.mkv
 
 
 #EXTINF:-1 tvg-ID="" tvg-name="----- MUSICA -----" tvg-logo="" group-title="Italiani",----- MUSICA -----
-http://190.2.138.110:15000/live/fqrrbxjl/w709Ks3Ghd/188.ts
-#EXTINF:-1 tvg-ID="" tvg-name="MTV Live HD" tvg-logo="" group-title="Italiani",MTV Live HD
-http://190.2.138.110:15000/live/fqrrbxjl/w709Ks3Ghd/25375.ts
-#EXTINF:-1 tvg-ID="" tvg-name="Radio Nobra" tvg-logo="" group-title="Musica",Radio Nobra
-http://190.2.138.110:15000/live/fqrrbxjl/w709Ks3Ghd/25372.ts
-#EXTINF:-1 tvg-ID="" tvg-name="Radio Zeta" tvg-logo="" group-title="Musica",Radio Zeta
-http://190.2.138.110:15000/live/fqrrbxjl/w709Ks3Ghd/25371.ts
-#EXTINF:-1 tvg-ID="" tvg-name="Radio Italia TV" tvg-logo="" group-title="Italiani",Radio Italia TV
-http://190.2.138.110:15000/live/fqrrbxjl/w709Ks3Ghd/191.ts
-#EXTINF:-1 tvg-ID="" tvg-name="Virgin TV" tvg-logo="" group-title="Italiani",Virgin TV
-http://190.2.138.110:15000/live/fqrrbxjl/w709Ks3Ghd/2317.ts
-#EXTINF:-1 tvg-ID="" tvg-name="VH1 Italia" tvg-logo="" group-title="Musica",VH1 Italia
-http://190.2.138.110:15000/live/fqrrbxjl/w709Ks3Ghd/25386.ts
-#EXTINF:-1 tvg-ID="DeejayTV.it" tvg-name="Deejay TV" tvg-logo="http://www.sat-address.com/f/pics/logotipi/DeeJay-TV_o.jpg" group-title="Italiani",Deejay TV
-http://190.2.138.110:15000/live/fqrrbxjl/w709Ks3Ghd/2316.ts
+http://190.2.138.110:15000/live/bwcspenz/Ekw8532xqB/188.ts
+#EXTINF:-1 tvg-ID="" tvg-name="MTV Live HD" tvg-logo="" group-title="MUSICA",MTV Live HD
+http://190.2.138.110:15000/live/bwcspenz/Ekw8532xqB/25375.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Radio Nobra" tvg-logo="" group-title="MUSICA",Radio Nobra
+http://190.2.138.110:15000/live/bwcspenz/Ekw8532xqB/25372.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Radio Zeta" tvg-logo="" group-title="MUSICA",Radio Zeta
+http://190.2.138.110:15000/live/bwcspenz/Ekw8532xqB/25371.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Radio Italia TV" tvg-logo="" group-title="MUSICA",Radio Italia TV
+http://190.2.138.110:15000/live/bwcspenz/Ekw8532xqB/191.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Virgin TV" tvg-logo="" group-title="MUSICA",Virgin TV
+http://190.2.138.110:15000/live/bwcspenz/Ekw8532xqB/2317.ts
+#EXTINF:-1 tvg-ID="" tvg-name="VH1 Italia" tvg-logo="" group-title="MUSICA",VH1 Italia
+http://190.2.138.110:15000/live/bwcspenz/Ekw8532xqB/25386.ts
+#EXTINF:-1 tvg-ID="DeejayTV.it" tvg-name="Deejay TV" tvg-logo="http://www.sat-address.com/f/pics/logotipi/DeeJay-TV_o.jpg" group-title="MUSICA",Deejay TV
+http://190.2.138.110:15000/live/bwcspenz/Ekw8532xqB/2316.ts
+
