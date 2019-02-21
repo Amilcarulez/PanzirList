@@ -1,473 +1,611 @@
 #EXTM3U
-#EXTINF:-1,---- TOP ITALIA ----
+#EXTINF:-1 tvg-id="" tvg-name="---- TOP ITALIA ----" tvg-logo="" group-title="Top Italia",---- TOP ITALIA ----
 http://seelive.club:80/live/RzYsjcpRIJ/FCTLppp899/45.ts
-#EXTINF:-1,Rai1 HD
+#EXTINF:-1 tvg-id="Rai1.it" tvg-name="Rai1 HD" tvg-logo="" group-title="Top Italia",Rai1 HD
 http://seelive.club:80/live/RzYsjcpRIJ/FCTLppp899/46.ts
-#EXTINF:-1,Rai2 HD
+#EXTINF:-1 tvg-id="Rai2.it" tvg-name="Rai2 HD" tvg-logo="" group-title="Top Italia",Rai2 HD
 http://seelive.club:80/live/RzYsjcpRIJ/FCTLppp899/47.ts
-#EXTINF:-1,Rai3 HD
+#EXTINF:-1 tvg-id="Rai3.it" tvg-name="Rai3 HD" tvg-logo="" group-title="Top Italia",Rai3 HD
 http://seelive.club:80/live/RzYsjcpRIJ/FCTLppp899/48.ts
-#EXTINF:-1,Rete 4 HD
+#EXTINF:-1 tvg-id="Rete4.it" tvg-name="Rete 4 HD" tvg-logo="" group-title="Top Italia",Rete 4 HD
 http://seelive.club:80/live/RzYsjcpRIJ/FCTLppp899/49.ts
-#EXTINF:-1,Canale 5 HD
+#EXTINF:-1 tvg-id="Canale5.it" tvg-name="Canale 5 HD" tvg-logo="" group-title="Top Italia",Canale 5 HD
 http://seelive.club:80/live/RzYsjcpRIJ/FCTLppp899/50.ts
-#EXTINF:-1,Italia 1HD
+#EXTINF:-1 tvg-id="Italia1.it" tvg-name="Italia 1HD" tvg-logo="" group-title="Top Italia",Italia 1HD
 http://seelive.club:80/live/RzYsjcpRIJ/FCTLppp899/51.ts
-#EXTINF:-1,Rai 4
+#EXTINF:-1 tvg-id="Rai4.it" tvg-name="Rai 4" tvg-logo="" group-title="Top Italia",Rai 4
 http://seelive.club:80/live/RzYsjcpRIJ/FCTLppp899/59.ts
-#EXTINF:-1,Rai 5
+#EXTINF:-1 tvg-id="Rai5.it" tvg-name="Rai 5" tvg-logo="" group-title="Top Italia",Rai 5
 http://seelive.club:80/live/RzYsjcpRIJ/FCTLppp899/55.ts
-#EXTINF:-1,La5
+#EXTINF:-1 tvg-id="LA5.it" tvg-name="La5" tvg-logo="" group-title="Top Italia",La5
 http://seelive.club:80/live/RzYsjcpRIJ/FCTLppp899/56.ts
-#EXTINF:-1,La7
+#EXTINF:-1 tvg-id="La7.it" tvg-name="La7" tvg-logo="" group-title="Top Italia",La7
 http://seelive.club:80/live/RzYsjcpRIJ/FCTLppp899/52.ts
-#EXTINF:-1,La7d
+#EXTINF:-1 tvg-id="La7d.it" tvg-name="La7d" tvg-logo="" group-title="Top Italia",La7d
 http://seelive.club:80/live/RzYsjcpRIJ/FCTLppp899/791.ts
-#EXTINF:-1,TV8
+#EXTINF:-1 tvg-id="Tv8.it" tvg-name="TV8" tvg-logo="" group-title="Top Italia",TV8
 http://seelive.club:80/live/RzYsjcpRIJ/FCTLppp899/801.ts
-#EXTINF:-1,Nove HD
+#EXTINF:-1 tvg-id="Nove.it" tvg-name="Nove HD" tvg-logo="" group-title="Top Italia",Nove HD
 http://seelive.club:80/live/RzYsjcpRIJ/FCTLppp899/789.ts
-#EXTINF:-1,Comedy Central HD
+#EXTINF:-1 tvg-id="ComedyCentral.it" tvg-name="Comedy Central HD" tvg-logo="" group-title="Top Italia",Comedy Central HD
 http://seelive.club:80/live/RzYsjcpRIJ/FCTLppp899/783.ts
-#EXTINF:-1,Alice
+#EXTINF:-1 tvg-id="" tvg-name="Alice" tvg-logo="" group-title="Top Italia",Alice
 http://seelive.club:80/live/RzYsjcpRIJ/FCTLppp899/10.ts
-#EXTINF:-1,Focus
+#EXTINF:-1 tvg-id="" tvg-name="Focus" tvg-logo="" group-title="Doc e Lifestyle",Focus
 http://seelive.club:80/live/RzYsjcpRIJ/FCTLppp899/9.ts
-#EXTINF:-1,Giallo
+#EXTINF:-1 tvg-id="" tvg-name="Giallo" tvg-logo="" group-title="Intrattenimento",Giallo
 http://seelive.club:80/live/RzYsjcpRIJ/FCTLppp899/8.ts
-#EXTINF:-1,Blaze HD
+#EXTINF:-1 tvg-id="Blaze.it" tvg-name="Blaze HD" tvg-logo="" group-title="Intrattenimento",Blaze HD
 http://seelive.club:80/live/RzYsjcpRIJ/FCTLppp899/795.ts
-#EXTINF:-1,Dove TV
+#EXTINF:-1 tvg-id="DoveTv.it" tvg-name="Dove TV" tvg-logo="" group-title="Top Italia",Dove TV
 http://seelive.club:80/live/RzYsjcpRIJ/FCTLppp899/793.ts
-#EXTINF:-1,CIne Sony
+#EXTINF:-1 tvg-id="CineSonyItalia.it" tvg-name="CIne Sony" tvg-logo="" group-title="Cinema",CIne Sony
 http://seelive.club:80/live/RzYsjcpRIJ/FCTLppp899/794.ts
-#EXTINF:-1,Paramount Channel
+#EXTINF:-1 tvg-id="ParamountChannel.it" tvg-name="Paramount Channel" tvg-logo="" group-title="Cinema",Paramount Channel
 http://seelive.club:80/live/RzYsjcpRIJ/FCTLppp899/787.ts
-#EXTINF:-1,Rai Movie
+#EXTINF:-1 tvg-id="RaiMovie.it" tvg-name="Rai Movie" tvg-logo="" group-title="Top Italia",Rai Movie
 http://seelive.club:80/live/RzYsjcpRIJ/FCTLppp899/786.ts
-#EXTINF:-1,Rai Premium
+#EXTINF:-1 tvg-id="RaiPremium.it" tvg-name="Rai Premium" tvg-logo="" group-title="Top Italia",Rai Premium
 http://seelive.club:80/live/RzYsjcpRIJ/FCTLppp899/6.ts
-#EXTINF:-1,Rai Scuola
+#EXTINF:-1 tvg-id="RaiScuola.it" tvg-name="Rai Scuola" tvg-logo="" group-title="Top Italia",Rai Scuola
 http://seelive.club:80/live/RzYsjcpRIJ/FCTLppp899/5.ts
-#EXTINF:-1,Rai Sport 1 HD
+#EXTINF:-1 tvg-id="RaiSport.it" tvg-name="Rai Sport 1 HD" tvg-logo="" group-title="Top Italia",Rai Sport 1 HD
 http://seelive.club:80/live/RzYsjcpRIJ/FCTLppp899/60.ts
-#EXTINF:-1,Rai Sport 2
+#EXTINF:-1 tvg-id="RaiSport2.it" tvg-name="Rai Sport 2" tvg-logo="" group-title="Top Italia",Rai Sport 2
 http://seelive.club:80/live/RzYsjcpRIJ/FCTLppp899/4.ts
-#EXTINF:-1,Rai Storia
+#EXTINF:-1 tvg-id="RaiStoria.it" tvg-name="Rai Storia" tvg-logo="" group-title="Top Italia",Rai Storia
 http://seelive.club:80/live/RzYsjcpRIJ/FCTLppp899/58.ts
-#EXTINF:-1,RSI LA 1 HD
+#EXTINF:-1 tvg-id="RSILa1.ch" tvg-name="RSI LA 1 HD" tvg-logo="" group-title="Svizzeri",RSI LA 1 HD
 http://seelive.club:80/live/RzYsjcpRIJ/FCTLppp899/53.ts
-#EXTINF:-1,RSI LA 2 HD
+#EXTINF:-1 tvg-id="RSILa2.ch" tvg-name="RSI LA 2 HD" tvg-logo="" group-title="Svizzeri",RSI LA 2 HD
 http://seelive.club:80/live/RzYsjcpRIJ/FCTLppp899/54.ts
-#EXTINF:-1,---- MEDIASET PREMIUM ----
+#EXTINF:-1 tvg-id="" tvg-name="---- MEDIASET PREMIUM ----" tvg-logo="" group-title="Top Italia",---- MEDIASET PREMIUM ----
 http://seelive.club:80/live/RzYsjcpRIJ/FCTLppp899/272.ts
-#EXTINF:-1,20 Mediaset
+#EXTINF:-1 tvg-id="" tvg-name="20 Mediaset" tvg-logo="" group-title="Top Italia",20 Mediaset
 http://seelive.club:80/live/RzYsjcpRIJ/FCTLppp899/798.ts
-#EXTINF:-1,Premium Cinema HD
+#EXTINF:-1 tvg-id="PremiumCinema.it" tvg-name="Premium Cinema HD" tvg-logo="" group-title="Cinema",Premium Cinema HD
 http://seelive.club:80/live/RzYsjcpRIJ/FCTLppp899/273.ts
-#EXTINF:-1,Premium Cinema Energy HD
+#EXTINF:-1 tvg-id="PremiumCinemaEnergy.it" tvg-name="Premium Cinema Energy HD" tvg-logo="" group-title="Cinema",Premium Cinema Energy HD
 http://seelive.club:80/live/RzYsjcpRIJ/FCTLppp899/12.ts
-#EXTINF:-1,Premium Action
+#EXTINF:-1 tvg-id="PremiumAction.it" tvg-name="Premium Action" tvg-logo="" group-title="Cinema",Premium Action
 http://seelive.club:80/live/RzYsjcpRIJ/FCTLppp899/276.ts
-#EXTINF:-1,Premium TopCrime
+#EXTINF:-1 tvg-id="TopCrime.it" tvg-name="Premium TopCrime" tvg-logo="" group-title="Intrattenimento",Premium TopCrime
 http://seelive.club:80/live/RzYsjcpRIJ/FCTLppp899/282.ts
-#EXTINF:-1,Premium Stories
+#EXTINF:-1 tvg-id="Stories.it" tvg-name="Premium Stories" tvg-logo="" group-title="Intrattenimento",Premium Stories
 http://seelive.club:80/live/RzYsjcpRIJ/FCTLppp899/280.ts
-#EXTINF:-1,Premium Studio Universal
-http://seelive.club:80/live/RzYsjcpRIJ/FCTLppp899/281.ts
-#EXTINF:-1,Premium Crime
+#EXTINF:-1 tvg-id="PremiumCrime.it" tvg-name="Premium Crime" tvg-logo="" group-title="Intrattenimento",Premium Crime
 http://seelive.club:80/live/RzYsjcpRIJ/FCTLppp899/283.ts
-#EXTINF:-1,Premium Italiadue
+#EXTINF:-1 tvg-id="Italia2.it" tvg-name="Premium Italiadue" tvg-logo="" group-title="Intrattenimento",Premium Italiadue
 http://seelive.club:80/live/RzYsjcpRIJ/FCTLppp899/286.ts
-#EXTINF:-1,Premium Comedy
+#EXTINF:-1 tvg-id="PremiumCinemaComedy.it" tvg-name="Premium Comedy" tvg-logo="" group-title="Intrattenimento",Premium Comedy
 http://seelive.club:80/live/RzYsjcpRIJ/FCTLppp899/278.ts
-#EXTINF:-1,Premium Emotion
+#EXTINF:-1 tvg-id="PremiumCinemaEmotion.it" tvg-name="Premium Emotion" tvg-logo="" group-title="Cinema",Premium Emotion
 http://seelive.club:80/live/RzYsjcpRIJ/FCTLppp899/275.ts
-#EXTINF:-1,Premium Eurosport
-http://seelive.club:80/live/RzYsjcpRIJ/FCTLppp899/290.ts
-#EXTINF:-1,Premium Eurosport 2
-http://seelive.club:80/live/RzYsjcpRIJ/FCTLppp899/291.ts
-#EXTINF:-1,Premium Extra
+#EXTINF:-1 tvg-id="MediasetExtra.it" tvg-name="Premium Extra" tvg-logo="" group-title="Intrattenimento",Premium Extra
 http://seelive.club:80/live/RzYsjcpRIJ/FCTLppp899/288.ts
-#EXTINF:-1,Premium Investigation Discovery
+#EXTINF:-1 tvg-id="InvestigationDiscovery.it" tvg-name="Premium Investigation Discovery" tvg-logo="" group-title="Intrattenimento",Premium Investigation Discovery
 http://seelive.club:80/live/RzYsjcpRIJ/FCTLppp899/11.ts
-#EXTINF:-1,Premium Joi
+#EXTINF:-1 tvg-id="Joi.it" tvg-name="Premium Joi" tvg-logo="" group-title="Intrattenimento",Premium Joi
 http://seelive.club:80/live/RzYsjcpRIJ/FCTLppp899/279.ts
-#EXTINF:-1,Premium Sport Italia
+#EXTINF:-1 tvg-id="Sportitalia.it" tvg-name="Premium Sport Italia" tvg-logo="" group-title="Sport",Premium Sport Italia
 http://seelive.club:80/live/RzYsjcpRIJ/FCTLppp899/289.ts
-#EXTINF:-1,Premium Sport 2
-http://seelive.club:80/live/RzYsjcpRIJ/FCTLppp899/43.ts
-#EXTINF:-1,---- SKY INTRATTENIMENTO ----
+#EXTINF:-1 tvg-id="" tvg-name="---- SKY INTRATTENIMENTO ----" tvg-logo="" group-title="Intrattenimento",---- SKY INTRATTENIMENTO ----
 http://seelive.club:80/live/RzYsjcpRIJ/FCTLppp899/62.ts
-#EXTINF:-1,Sky Uno Full HD
+#EXTINF:-1 tvg-id="SKYUno.it" tvg-name="Sky Uno Full HD" tvg-logo="" group-title="Intrattenimento",Sky Uno Full HD
 http://seelive.club:80/live/RzYsjcpRIJ/FCTLppp899/17.ts
-#EXTINF:-1,Sky Uno HD
+#EXTINF:-1 tvg-id="SkyUno.it" tvg-name="Sky Uno HD" tvg-logo="" group-title="Intrattenimento",Sky Uno HD
 http://seelive.club:80/live/RzYsjcpRIJ/FCTLppp899/63.ts
-#EXTINF:-1,Sky Uno +1 HD
+#EXTINF:-1 tvg-id="" tvg-name="Sky Uno +1 HD" tvg-logo="" group-title="Intrattenimento",Sky Uno +1 HD
 http://seelive.club:80/live/RzYsjcpRIJ/FCTLppp899/64.ts
-#EXTINF:-1,Sky Atlantic SUPER HD
+#EXTINF:-1 tvg-id="SkyAtlantic.it" tvg-name="Sky Atlantic SUPER HD" tvg-logo="" group-title="Intrattenimento",Sky Atlantic SUPER HD
 http://seelive.club:80/live/RzYsjcpRIJ/FCTLppp899/692.ts
-#EXTINF:-1,Sky Atlantic HD
+#EXTINF:-1 tvg-id="SkyAtlantic.it" tvg-name="Sky Atlantic HD" tvg-logo="" group-title="Intrattenimento",Sky Atlantic HD
 http://seelive.club:80/live/RzYsjcpRIJ/FCTLppp899/66.ts
-#EXTINF:-1,Fox HD
+#EXTINF:-1 tvg-id="Fox.it" tvg-name="Fox HD" tvg-logo="" group-title="Intrattenimento",Fox HD
 http://seelive.club:80/live/RzYsjcpRIJ/FCTLppp899/72.ts
-#EXTINF:-1,Fox Life HD
+#EXTINF:-1 tvg-id="FoxLife.it" tvg-name="Fox Life HD" tvg-logo="" group-title="Intrattenimento",Fox Life HD
 http://seelive.club:80/live/RzYsjcpRIJ/FCTLppp899/69.ts
-#EXTINF:-1,Fox Animation HD
+#EXTINF:-1 tvg-id="FoxAnimation.it" tvg-name="Fox Animation HD" tvg-logo="" group-title="Intrattenimento",Fox Animation HD
 http://seelive.club:80/live/RzYsjcpRIJ/FCTLppp899/75.ts
-#EXTINF:-1,Fox Comedy HD
+#EXTINF:-1 tvg-id="FoxComedy.it" tvg-name="Fox Comedy HD" tvg-logo="" group-title="Intrattenimento",Fox Comedy HD
 http://seelive.club:80/live/RzYsjcpRIJ/FCTLppp899/77.ts
-#EXTINF:-1,Fox Crime HD
+#EXTINF:-1 tvg-id="FoxCrime.it" tvg-name="Fox Crime HD" tvg-logo="" group-title="Intrattenimento",Fox Crime HD
 http://seelive.club:80/live/RzYsjcpRIJ/FCTLppp899/79.ts
-#EXTINF:-1,Laeffe HD
+#EXTINF:-1 tvg-id="LaEffe.it" tvg-name="Laeffe HD" tvg-logo="" group-title="Intrattenimento",Laeffe HD
 http://seelive.club:80/live/RzYsjcpRIJ/FCTLppp899/85.ts
-#EXTINF:-1,Realtime HD
+#EXTINF:-1 tvg-id="RealTime.it" tvg-name="Realtime HD" tvg-logo="" group-title="Intrattenimento",Realtime HD
 http://seelive.club:80/live/RzYsjcpRIJ/FCTLppp899/90.ts
-#EXTINF:-1,MTV HD
+#EXTINF:-1 tvg-id="MTV.it" tvg-name="MTV HD" tvg-logo="" group-title="Intrattenimento",MTV HD
 http://seelive.club:80/live/RzYsjcpRIJ/FCTLppp899/84.ts
-#EXTINF:-1,Iris
+#EXTINF:-1 tvg-id="Iris.it" tvg-name="Iris" tvg-logo="" group-title="Top Italia",Iris
 http://seelive.club:80/live/RzYsjcpRIJ/FCTLppp899/57.ts
-#EXTINF:-1,Crime Inv HD
+#EXTINF:-1 tvg-id="CrimeInvestigation.it" tvg-name="Crime Inv HD" tvg-logo="" group-title="Intrattenimento",Crime Inv HD
 http://seelive.club:80/live/RzYsjcpRIJ/FCTLppp899/82.ts
-#EXTINF:-1,DMAX HD
+#EXTINF:-1 tvg-id="DMAX.it" tvg-name="DMAX HD" tvg-logo="" group-title="Intrattenimento",DMAX HD
 http://seelive.club:80/live/RzYsjcpRIJ/FCTLppp899/92.ts
-#EXTINF:-1,Cielo HD
+#EXTINF:-1 tvg-id="Cielo.it" tvg-name="Cielo HD" tvg-logo="" group-title="Intrattenimento",Cielo HD
 http://seelive.club:80/live/RzYsjcpRIJ/FCTLppp899/89.ts
-#EXTINF:-1,Classica HD
+#EXTINF:-1 tvg-id="Classica.it" tvg-name="Classica HD" tvg-logo="" group-title="Intrattenimento",Classica HD
 http://seelive.club:80/live/RzYsjcpRIJ/FCTLppp899/95.ts
-#EXTINF:-1,---- SKY CINEMA ----
+#EXTINF:-1 tvg-id="" tvg-name="---- SKY CINEMA ----" tvg-logo="" group-title="Cinema",---- SKY CINEMA ----
 http://seelive.club:80/live/RzYsjcpRIJ/FCTLppp899/97.ts
-#EXTINF:-1,Sky Cinema 1 SUPER HD
+#EXTINF:-1 tvg-id="SkyCinemaUno.it" tvg-name="Sky Cinema 1 SUPER HD" tvg-logo="" group-title="Cinema",Sky Cinema 1 SUPER HD
 http://seelive.club:80/live/RzYsjcpRIJ/FCTLppp899/33.ts
-#EXTINF:-1,Sky Cinema 1 HD
+#EXTINF:-1 tvg-id="SkyCinemaUno.it" tvg-name="Sky Cinema 1 HD" tvg-logo="" group-title="Cinema",Sky Cinema 1 HD
 http://seelive.club:80/live/RzYsjcpRIJ/FCTLppp899/99.ts
-#EXTINF:-1,Sky Cinema  24 Full HD
+#EXTINF:-1 tvg-id="SkyCinemaPlus24.it" tvg-name="Sky Cinema  24 Full HD" tvg-logo="" group-title="Cinema",Sky Cinema  24 Full HD
 http://seelive.club:80/live/RzYsjcpRIJ/FCTLppp899/30.ts
-#EXTINF:-1,Sky Cinema  24 HD
+#EXTINF:-1 tvg-id="SkyCinemaPlus24.it" tvg-name="Sky Cinema  24 HD" tvg-logo="" group-title="Cinema",Sky Cinema  24 HD
 http://seelive.club:80/live/RzYsjcpRIJ/FCTLppp899/102.ts
-#EXTINF:-1,Sky Cinema Classic Full HD
+#EXTINF:-1 tvg-id="SkyCinemaClassic.it" tvg-name="Sky Cinema Classic Full HD" tvg-logo="" group-title="Cinema",Sky Cinema Classic Full HD
 http://seelive.club:80/live/RzYsjcpRIJ/FCTLppp899/29.ts
-#EXTINF:-1,Sky Cinema Classic HD
+#EXTINF:-1 tvg-id="SkyCinemaClassic.it" tvg-name="Sky Cinema Classic HD" tvg-logo="" group-title="Cinema",Sky Cinema Classic HD
 http://seelive.club:80/live/RzYsjcpRIJ/FCTLppp899/118.ts
-#EXTINF:-1,Sky Cinema Comedy SUPER HD
+#EXTINF:-1 tvg-id="SkyCinemaComedyHD.it" tvg-name="Sky Cinema Comedy SUPER HD" tvg-logo="" group-title="Cinema",Sky Cinema Comedy SUPER HD
 http://seelive.club:80/live/RzYsjcpRIJ/FCTLppp899/18.ts
-#EXTINF:-1,Sky Cinema Comedy HD
+#EXTINF:-1 tvg-id="SkyCinemaComedyHD.it" tvg-name="Sky Cinema Comedy HD" tvg-logo="" group-title="Cinema",Sky Cinema Comedy HD
 http://seelive.club:80/live/RzYsjcpRIJ/FCTLppp899/111.ts
-#EXTINF:-1,Sky Cinema Cult Full HD
+#EXTINF:-1 tvg-id="SkyCinemaCult.it" tvg-name="Sky Cinema Cult Full HD" tvg-logo="" group-title="Cinema",Sky Cinema Cult Full HD
 http://seelive.club:80/live/RzYsjcpRIJ/FCTLppp899/28.ts
-#EXTINF:-1,Sky Cinema Cult HD
+#EXTINF:-1 tvg-id="SkyCinemaCult.it" tvg-name="Sky Cinema Cult HD" tvg-logo="" group-title="Cinema",Sky Cinema Cult HD
 http://seelive.club:80/live/RzYsjcpRIJ/FCTLppp899/116.ts
-#EXTINF:-1,Sky Cinema Family SUPER HD
+#EXTINF:-1 tvg-id="SkyCinemaFamily.it" tvg-name="Sky Cinema Family SUPER HD" tvg-logo="" group-title="Cinema",Sky Cinema Family SUPER HD
 http://seelive.club:80/live/RzYsjcpRIJ/FCTLppp899/23.ts
-#EXTINF:-1,Sky Cinema Family HD
+#EXTINF:-1 tvg-id="SkyCinemaFamily.it" tvg-name="Sky Cinema Family HD" tvg-logo="" group-title="Cinema",Sky Cinema Family HD
 http://seelive.club:80/live/RzYsjcpRIJ/FCTLppp899/106.ts
-#EXTINF:-1,Sky Cinema Hits SUPER HD
+#EXTINF:-1 tvg-id="SkyCinemaHits.it" tvg-name="Sky Cinema Hits SUPER HD" tvg-logo="" group-title="Cinema",Sky Cinema Hits SUPER HD
 http://seelive.club:80/live/RzYsjcpRIJ/FCTLppp899/27.ts
-#EXTINF:-1,Sky Cinema Hits HD
+#EXTINF:-1 tvg-id="SkyCinemaHits.it" tvg-name="Sky Cinema Hits HD" tvg-logo="" group-title="Cinema",Sky Cinema Hits HD
 http://seelive.club:80/live/RzYsjcpRIJ/FCTLppp899/104.ts
-#EXTINF:-1,Sky Cinema Max SUPER HD
+#EXTINF:-1 tvg-id="SkyCinemaMax.it" tvg-name="Sky Cinema Max SUPER HD" tvg-logo="" group-title="Cinema",Sky Cinema Max SUPER HD
 http://seelive.club:80/live/RzYsjcpRIJ/FCTLppp899/32.ts
-#EXTINF:-1,Sky Cinema Max HD
+#EXTINF:-1 tvg-id="SkyCinemaMax.it" tvg-name="Sky Cinema Max HD" tvg-logo="" group-title="Cinema",Sky Cinema Max HD
 http://seelive.club:80/live/RzYsjcpRIJ/FCTLppp899/113.ts
-#EXTINF:-1,Sky Cinema Passion Full HD
+#EXTINF:-1 tvg-id="SkyCinemaPassionHD.it" tvg-name="Sky Cinema Passion Full HD" tvg-logo="" group-title="Cinema",Sky Cinema Passion Full HD
 http://seelive.club:80/live/RzYsjcpRIJ/FCTLppp899/26.ts
-#EXTINF:-1,Sky Cinema Passion HD
+#EXTINF:-1 tvg-id="SkyCinemaPassionHD.it" tvg-name="Sky Cinema Passion HD" tvg-logo="" group-title="Cinema",Sky Cinema Passion HD
 http://seelive.club:80/live/RzYsjcpRIJ/FCTLppp899/109.ts
-#EXTINF:-1,---- PRIMAFILA  ----
+#EXTINF:-1 tvg-id="" tvg-name="---- PRIMAFILA  ----" tvg-logo="" group-title="Primafila",---- PRIMAFILA  ----
 http://seelive.club:80/live/RzYsjcpRIJ/FCTLppp899/120.ts
-#EXTINF:-1,Primafila 1 HD
+#EXTINF:-1 tvg-id="Primafila1.it" tvg-name="Primafila 1 HD" tvg-logo="" group-title="Primafila",Primafila 1 HD
 http://seelive.club:80/live/RzYsjcpRIJ/FCTLppp899/121.ts
-#EXTINF:-1,Primafila 2
+#EXTINF:-1 tvg-id="Primafila2.it" tvg-name="Primafila 2" tvg-logo="" group-title="Primafila",Primafila 2
 http://seelive.club:80/live/RzYsjcpRIJ/FCTLppp899/122.ts
-#EXTINF:-1,Primafila 3 HD
+#EXTINF:-1 tvg-id="Primafila3.it" tvg-name="Primafila 3 HD" tvg-logo="" group-title="Primafila",Primafila 3 HD
 http://seelive.club:80/live/RzYsjcpRIJ/FCTLppp899/123.ts
-#EXTINF:-1,Primafila 4
+#EXTINF:-1 tvg-id="Primafila4.it" tvg-name="Primafila 4" tvg-logo="" group-title="Primafila",Primafila 4
 http://seelive.club:80/live/RzYsjcpRIJ/FCTLppp899/124.ts
-#EXTINF:-1,Primafila 5 HD
+#EXTINF:-1 tvg-id="Primafila5.it" tvg-name="Primafila 5 HD" tvg-logo="" group-title="Primafila",Primafila 5 HD
 http://seelive.club:80/live/RzYsjcpRIJ/FCTLppp899/125.ts
-#EXTINF:-1,Primafila 6
+#EXTINF:-1 tvg-id="Primafila6.it" tvg-name="Primafila 6" tvg-logo="" group-title="Primafila",Primafila 6
 http://seelive.club:80/live/RzYsjcpRIJ/FCTLppp899/126.ts
-#EXTINF:-1,Primafila 7 HD
+#EXTINF:-1 tvg-id="Primafila7.it" tvg-name="Primafila 7 HD" tvg-logo="" group-title="Primafila",Primafila 7 HD
 http://seelive.club:80/live/RzYsjcpRIJ/FCTLppp899/127.ts
-#EXTINF:-1,Primafila 8
+#EXTINF:-1 tvg-id="Primafila8.it" tvg-name="Primafila 8" tvg-logo="" group-title="Primafila",Primafila 8
 http://seelive.club:80/live/RzYsjcpRIJ/FCTLppp899/128.ts
-#EXTINF:-1,Primafila 9 HD
+#EXTINF:-1 tvg-id="Primafila9.it" tvg-name="Primafila 9 HD" tvg-logo="" group-title="Primafila",Primafila 9 HD
 http://seelive.club:80/live/RzYsjcpRIJ/FCTLppp899/129.ts
-#EXTINF:-1,Primafila 10
+#EXTINF:-1 tvg-id="Primafila10.it" tvg-name="Primafila 10" tvg-logo="" group-title="Primafila",Primafila 10
 http://seelive.club:80/live/RzYsjcpRIJ/FCTLppp899/130.ts
-#EXTINF:-1,Primafila 11 HD
+#EXTINF:-1 tvg-id="Primafila11.it" tvg-name="Primafila 11 HD" tvg-logo="" group-title="Primafila",Primafila 11 HD
 http://seelive.club:80/live/RzYsjcpRIJ/FCTLppp899/131.ts
-#EXTINF:-1,Primafila 12
+#EXTINF:-1 tvg-id="Primafila12.it" tvg-name="Primafila 12" tvg-logo="" group-title="Primafila",Primafila 12
 http://seelive.club:80/live/RzYsjcpRIJ/FCTLppp899/132.ts
-#EXTINF:-1,Primafila 13 HD
+#EXTINF:-1 tvg-id="Primafila13.it" tvg-name="Primafila 13 HD" tvg-logo="" group-title="Primafila",Primafila 13 HD
 http://seelive.club:80/live/RzYsjcpRIJ/FCTLppp899/133.ts
-#EXTINF:-1,Primafila 14
+#EXTINF:-1 tvg-id="Primafila14.it" tvg-name="Primafila 14" tvg-logo="" group-title="Primafila",Primafila 14
 http://seelive.club:80/live/RzYsjcpRIJ/FCTLppp899/134.ts
-#EXTINF:-1,Primafila 15
+#EXTINF:-1 tvg-id="Primafila15.it" tvg-name="Primafila 15" tvg-logo="" group-title="Primafila",Primafila 15
 http://seelive.club:80/live/RzYsjcpRIJ/FCTLppp899/135.ts
-#EXTINF:-1,Primafila 16
+#EXTINF:-1 tvg-id="Primafila16.it" tvg-name="Primafila 16" tvg-logo="" group-title="Primafila",Primafila 16
 http://seelive.club:80/live/RzYsjcpRIJ/FCTLppp899/136.ts
-#EXTINF:-1,Primafila 17
+#EXTINF:-1 tvg-id="Primafila17.it" tvg-name="Primafila 17" tvg-logo="" group-title="Primafila",Primafila 17
 http://seelive.club:80/live/RzYsjcpRIJ/FCTLppp899/137.ts
-#EXTINF:-1,Primafila 18
+#EXTINF:-1 tvg-id="Primafila18.it" tvg-name="Primafila 18" tvg-logo="" group-title="Primafila",Primafila 18
 http://seelive.club:80/live/RzYsjcpRIJ/FCTLppp899/138.ts
-#EXTINF:-1,Primafila 1 HD On_Demand
+#EXTINF:-1 tvg-id="" tvg-name="Primafila 1 HD On_Demand" tvg-logo="" group-title="Primafila On Demand",Primafila 1 HD On_Demand
 http://seelive.club:80/movie/RzYsjcpRIJ/FCTLppp899/673.mkv
-#EXTINF:-1,Primafila 2 On_Demand
+#EXTINF:-1 tvg-id="" tvg-name="Primafila 2 On_Demand" tvg-logo="" group-title="Primafila On Demand",Primafila 2 On_Demand
 http://seelive.club:80/movie/RzYsjcpRIJ/FCTLppp899/674.avi
-#EXTINF:-1,Primafila 3 HD On_Demand
+#EXTINF:-1 tvg-id="" tvg-name="Primafila 3 HD On_Demand" tvg-logo="" group-title="Primafila On Demand",Primafila 3 HD On_Demand
 http://seelive.club:80/movie/RzYsjcpRIJ/FCTLppp899/675.mkv
-#EXTINF:-1,Primafila 4 On_Demand
+#EXTINF:-1 tvg-id="" tvg-name="Primafila 4 On_Demand" tvg-logo="" group-title="Primafila On Demand",Primafila 4 On_Demand
 http://seelive.club:80/movie/RzYsjcpRIJ/FCTLppp899/676.avi
-#EXTINF:-1,Primafila 5 HD On_Demand
+#EXTINF:-1 tvg-id="" tvg-name="Primafila 5 HD On_Demand" tvg-logo="" group-title="Primafila On Demand",Primafila 5 HD On_Demand
 http://seelive.club:80/movie/RzYsjcpRIJ/FCTLppp899/677.mkv
-#EXTINF:-1,Primafila 6 On_Demand
+#EXTINF:-1 tvg-id="" tvg-name="Primafila 6 On_Demand" tvg-logo="" group-title="Primafila On Demand",Primafila 6 On_Demand
 http://seelive.club:80/movie/RzYsjcpRIJ/FCTLppp899/678.avi
-#EXTINF:-1,Primafila 7 HD On_Demand
+#EXTINF:-1 tvg-id="" tvg-name="Primafila 7 HD On_Demand" tvg-logo="" group-title="Primafila On Demand",Primafila 7 HD On_Demand
 http://seelive.club:80/movie/RzYsjcpRIJ/FCTLppp899/679.mkv
-#EXTINF:-1,Primafila 8 On_Demand
+#EXTINF:-1 tvg-id="" tvg-name="Primafila 8 On_Demand" tvg-logo="" group-title="Primafila On Demand",Primafila 8 On_Demand
 http://seelive.club:80/movie/RzYsjcpRIJ/FCTLppp899/680.avi
-#EXTINF:-1,Primafila 9 HD On_Demand
+#EXTINF:-1 tvg-id="" tvg-name="Primafila 9 HD On_Demand" tvg-logo="" group-title="Primafila On Demand",Primafila 9 HD On_Demand
 http://seelive.club:80/movie/RzYsjcpRIJ/FCTLppp899/681.mkv
-#EXTINF:-1,Primafila 10 On_Demand
+#EXTINF:-1 tvg-id="" tvg-name="Primafila 10 On_Demand" tvg-logo="" group-title="Primafila On Demand",Primafila 10 On_Demand
 http://seelive.club:80/movie/RzYsjcpRIJ/FCTLppp899/682.avi
-#EXTINF:-1,Primafila 11 HD On_Demand
+#EXTINF:-1 tvg-id="" tvg-name="Primafila 11 HD On_Demand" tvg-logo="" group-title="Primafila On Demand",Primafila 11 HD On_Demand
 http://seelive.club:80/movie/RzYsjcpRIJ/FCTLppp899/683.mkv
-#EXTINF:-1,Primafila 12 On_Demand
+#EXTINF:-1 tvg-id="" tvg-name="Primafila 12 On_Demand" tvg-logo="" group-title="Primafila On Demand",Primafila 12 On_Demand
 http://seelive.club:80/movie/RzYsjcpRIJ/FCTLppp899/684.avi
-#EXTINF:-1,Primafila 13 HD On_Demand
+#EXTINF:-1 tvg-id="" tvg-name="Primafila 13 HD On_Demand" tvg-logo="" group-title="Primafila On Demand",Primafila 13 HD On_Demand
 http://seelive.club:80/movie/RzYsjcpRIJ/FCTLppp899/685.mkv
-#EXTINF:-1,Primafila 14 On_Demand
+#EXTINF:-1 tvg-id="" tvg-name="Primafila 14 On_Demand" tvg-logo="" group-title="Primafila On Demand",Primafila 14 On_Demand
 http://seelive.club:80/movie/RzYsjcpRIJ/FCTLppp899/686.avi
-#EXTINF:-1,Primafila 15 On_Demand
+#EXTINF:-1 tvg-id="" tvg-name="Primafila 15 On_Demand" tvg-logo="" group-title="Primafila On Demand",Primafila 15 On_Demand
 http://seelive.club:80/movie/RzYsjcpRIJ/FCTLppp899/687.avi
-#EXTINF:-1,Primafila 16 On_Demand
+#EXTINF:-1 tvg-id="" tvg-name="Primafila 16 On_Demand" tvg-logo="" group-title="Primafila On Demand",Primafila 16 On_Demand
 http://seelive.club:80/movie/RzYsjcpRIJ/FCTLppp899/688.avi
-#EXTINF:-1,Primafila 17 On_Demand
+#EXTINF:-1 tvg-id="" tvg-name="Primafila 17 On_Demand" tvg-logo="" group-title="Primafila On Demand",Primafila 17 On_Demand
 http://seelive.club:80/movie/RzYsjcpRIJ/FCTLppp899/689.avi
-#EXTINF:-1,Primafila 18 On_Demand
+#EXTINF:-1 tvg-id="" tvg-name="Primafila 18 On_Demand" tvg-logo="" group-title="Primafila On Demand",Primafila 18 On_Demand
 http://seelive.club:80/movie/RzYsjcpRIJ/FCTLppp899/690.avi
-#EXTINF:-1,Primafila 19 On_Demand
+#EXTINF:-1 tvg-id="" tvg-name="Primafila 19 On_Demand" tvg-logo="" group-title="Primafila On Demand",Primafila 19 On_Demand
 http://seelive.club:80/movie/RzYsjcpRIJ/FCTLppp899/691.avi
-#EXTINF:-1,---- NEWS ----
+#EXTINF:-1 tvg-id="" tvg-name="---- NEWS ----" tvg-logo="" group-title="News",---- NEWS ----
 http://seelive.club:80/live/RzYsjcpRIJ/FCTLppp899/244.ts
-#EXTINF:-1,Sky Tg 24 HD
+#EXTINF:-1 tvg-id="SkyTG24.it" tvg-name="Sky Tg 24 HD" tvg-logo="" group-title="News",Sky Tg 24 HD
 http://seelive.club:80/live/RzYsjcpRIJ/FCTLppp899/245.ts
-#EXTINF:-1,Tgcom24
+#EXTINF:-1 tvg-id="Tgcom24.it" tvg-name="Tgcom24" tvg-logo="" group-title="News",Tgcom24
 http://seelive.club:80/live/RzYsjcpRIJ/FCTLppp899/247.ts
-#EXTINF:-1,Euronews
+#EXTINF:-1 tvg-id="" tvg-name="Euronews" tvg-logo="" group-title="News",Euronews
 http://seelive.club:80/live/RzYsjcpRIJ/FCTLppp899/248.ts
-#EXTINF:-1,Rai News 24
+#EXTINF:-1 tvg-id="RaiNews.it" tvg-name="Rai News 24" tvg-logo="" group-title="News",Rai News 24
 http://seelive.club:80/live/RzYsjcpRIJ/FCTLppp899/246.ts
-#EXTINF:-1,---- SKY CULTURA ----
+#EXTINF:-1 tvg-id="" tvg-name="---- SKY CULTURA ----" tvg-logo="" group-title="Doc e Lifestyle",---- SKY CULTURA ----
 http://seelive.club:80/live/RzYsjcpRIJ/FCTLppp899/159.ts
-#EXTINF:-1,Sky Arte Full HD
+#EXTINF:-1 tvg-id="SkyArte.it" tvg-name="Sky Arte Full HD" tvg-logo="" group-title="Intrattenimento",Sky Arte Full HD
 http://seelive.club:80/live/RzYsjcpRIJ/FCTLppp899/31.ts
-#EXTINF:-1,Sky Arte HD
+#EXTINF:-1 tvg-id="SkyArte.it" tvg-name="Sky Arte HD" tvg-logo="" group-title="Intrattenimento",Sky Arte HD
 http://seelive.club:80/live/RzYsjcpRIJ/FCTLppp899/160.ts
-#EXTINF:-1,Discovery Channel HD
+#EXTINF:-1 tvg-id="Discovery.it" tvg-name="Discovery Channel HD" tvg-logo="" group-title="Doc e Lifestyle",Discovery Channel HD
 http://seelive.club:80/live/RzYsjcpRIJ/FCTLppp899/162.ts
-#EXTINF:-1,Discovery Sci Full HD
+#EXTINF:-1 tvg-id="DiscoverySci.it" tvg-name="Discovery Sci Full HD" tvg-logo="" group-title="Doc e Lifestyle",Discovery Sci Full HD
 http://seelive.club:80/live/RzYsjcpRIJ/FCTLppp899/16.ts
-#EXTINF:-1,Discovery Sci HD
+#EXTINF:-1 tvg-id="DiscoverySci.it" tvg-name="Discovery Sci HD" tvg-logo="" group-title="Doc e Lifestyle",Discovery Sci HD
 http://seelive.club:80/live/RzYsjcpRIJ/FCTLppp899/168.ts
-#EXTINF:-1,Discovery Travel & Living Full HD
-http://seelive.club:80/live/RzYsjcpRIJ/FCTLppp899/15.ts
-#EXTINF:-1,Gambero Rosso HD
+#EXTINF:-1 tvg-id="GamberoRosso.it" tvg-name="Gambero Rosso HD" tvg-logo="" group-title="Doc e Lifestyle",Gambero Rosso HD
 http://seelive.club:80/live/RzYsjcpRIJ/FCTLppp899/181.ts
-#EXTINF:-1,History HD
+#EXTINF:-1 tvg-id="History.it" tvg-name="History HD" tvg-logo="" group-title="Doc e Lifestyle",History HD
 http://seelive.club:80/live/RzYsjcpRIJ/FCTLppp899/172.ts
-#EXTINF:-1,Discovery Travel & Living HD
-http://seelive.club:80/live/RzYsjcpRIJ/FCTLppp899/170.ts
-#EXTINF:-1,National Geo HD
+#EXTINF:-1 tvg-id="NationalGeo.it" tvg-name="National Geo HD" tvg-logo="" group-title="Doc e Lifestyle",National Geo HD
 http://seelive.club:80/live/RzYsjcpRIJ/FCTLppp899/165.ts
-#EXTINF:-1,National Geo People Full HD
+#EXTINF:-1 tvg-id="NatGeoPeople.it" tvg-name="National Geo People Full HD" tvg-logo="" group-title="Doc e Lifestyle",National Geo People Full HD
 http://seelive.club:80/live/RzYsjcpRIJ/FCTLppp899/14.ts
-#EXTINF:-1,National Geo People HD
+#EXTINF:-1 tvg-id="NatGeoPeople.it" tvg-name="National Geo People HD" tvg-logo="" group-title="Doc e Lifestyle",National Geo People HD
 http://seelive.club:80/live/RzYsjcpRIJ/FCTLppp899/178.ts
-#EXTINF:-1,National Wild Full HD
+#EXTINF:-1 tvg-id="NatGeoWild.it" tvg-name="National Wild Full HD" tvg-logo="" group-title="Doc e Lifestyle",National Wild Full HD
 http://seelive.club:80/live/RzYsjcpRIJ/FCTLppp899/13.ts
-#EXTINF:-1,National Wild HD
+#EXTINF:-1 tvg-id="NatGeoWild.it" tvg-name="National Wild HD" tvg-logo="" group-title="Doc e Lifestyle",National Wild HD
 http://seelive.club:80/live/RzYsjcpRIJ/FCTLppp899/175.ts
-#EXTINF:-1,---- DAZN ----
+#EXTINF:-1 tvg-id="" tvg-name="---- DAZN ----" tvg-logo="" group-title="DAZN",---- DAZN ----
 http://seelive.club:80/live/RzYsjcpRIJ/FCTLppp899/806.ts
-#EXTINF:-1,DAZN 1 SAT
+#EXTINF:-1 tvg-id="" tvg-name="DAZN 1 SAT" tvg-logo="" group-title="DAZN",DAZN 1 SAT
 http://seelive.club:80/live/RzYsjcpRIJ/FCTLppp899/889.ts
-#EXTINF:-1,DAZN 2 SAT
+#EXTINF:-1 tvg-id="" tvg-name="DAZN 2 SAT" tvg-logo="" group-title="DAZN",DAZN 2 SAT
 http://seelive.club:80/live/RzYsjcpRIJ/FCTLppp899/888.ts
-#EXTINF:-1,DAZN SERIE A
+#EXTINF:-1 tvg-id="" tvg-name="DAZN SERIE A" tvg-logo="" group-title="DAZN",DAZN SERIE A
 http://seelive.club:80/live/RzYsjcpRIJ/FCTLppp899/887.ts
-#EXTINF:-1,DAZN 1
+#EXTINF:-1 tvg-id="" tvg-name="DAZN 1" tvg-logo="" group-title="DAZN",DAZN 1
 http://seelive.club:80/live/RzYsjcpRIJ/FCTLppp899/807.ts
-#EXTINF:-1,DAZN 2
+#EXTINF:-1 tvg-id="" tvg-name="DAZN 2" tvg-logo="" group-title="DAZN",DAZN 2
 http://seelive.club:80/live/RzYsjcpRIJ/FCTLppp899/816.ts
-#EXTINF:-1,DAZN 3
+#EXTINF:-1 tvg-id="" tvg-name="DAZN 3" tvg-logo="" group-title="DAZN",DAZN 3
 http://seelive.club:80/live/RzYsjcpRIJ/FCTLppp899/815.ts
-#EXTINF:-1,DAZN 4
+#EXTINF:-1 tvg-id="" tvg-name="DAZN 4" tvg-logo="" group-title="DAZN",DAZN 4
 http://seelive.club:80/live/RzYsjcpRIJ/FCTLppp899/814.ts
-#EXTINF:-1,DAZN 5
+#EXTINF:-1 tvg-id="" tvg-name="DAZN 5" tvg-logo="" group-title="DAZN",DAZN 5
 http://seelive.club:80/live/RzYsjcpRIJ/FCTLppp899/813.ts
-#EXTINF:-1,DAZN 6
+#EXTINF:-1 tvg-id="" tvg-name="DAZN 6" tvg-logo="" group-title="DAZN",DAZN 6
 http://seelive.club:80/live/RzYsjcpRIJ/FCTLppp899/812.ts
-#EXTINF:-1,DAZN 7
+#EXTINF:-1 tvg-id="" tvg-name="DAZN 7" tvg-logo="" group-title="DAZN",DAZN 7
 http://seelive.club:80/live/RzYsjcpRIJ/FCTLppp899/811.ts
-#EXTINF:-1,DAZN 8
+#EXTINF:-1 tvg-id="" tvg-name="DAZN 8" tvg-logo="" group-title="DAZN",DAZN 8
 http://seelive.club:80/live/RzYsjcpRIJ/FCTLppp899/810.ts
-#EXTINF:-1,DAZN 9
+#EXTINF:-1 tvg-id="" tvg-name="DAZN 9" tvg-logo="" group-title="DAZN",DAZN 9
 http://seelive.club:80/live/RzYsjcpRIJ/FCTLppp899/809.ts
-#EXTINF:-1,DAZN 10
+#EXTINF:-1 tvg-id="" tvg-name="DAZN 10" tvg-logo="" group-title="DAZN",DAZN 10
 http://seelive.club:80/live/RzYsjcpRIJ/FCTLppp899/808.ts
-#EXTINF:-1,DAZN 11
+#EXTINF:-1 tvg-id="" tvg-name="DAZN 11" tvg-logo="" group-title="DAZN",DAZN 11
 http://seelive.club:80/live/RzYsjcpRIJ/FCTLppp899/827.ts
-#EXTINF:-1,DAZN 12
+#EXTINF:-1 tvg-id="" tvg-name="DAZN 12" tvg-logo="" group-title="DAZN",DAZN 12
 http://seelive.club:80/live/RzYsjcpRIJ/FCTLppp899/828.ts
-#EXTINF:-1,DAZN 13
+#EXTINF:-1 tvg-id="" tvg-name="DAZN 13" tvg-logo="" group-title="DAZN",DAZN 13
 http://seelive.club:80/live/RzYsjcpRIJ/FCTLppp899/829.ts
-#EXTINF:-1,DAZN 14
+#EXTINF:-1 tvg-id="" tvg-name="DAZN 14" tvg-logo="" group-title="DAZN",DAZN 14
 http://seelive.club:80/live/RzYsjcpRIJ/FCTLppp899/830.ts
-#EXTINF:-1,DAZN 1 H265
+#EXTINF:-1 tvg-id="" tvg-name="DAZN 1 H265" tvg-logo="" group-title="DAZN",DAZN 1 H265
 http://seelive.club:80/live/RzYsjcpRIJ/FCTLppp899/826.ts
-#EXTINF:-1,DAZN 2 H265
+#EXTINF:-1 tvg-id="" tvg-name="DAZN 2 H265" tvg-logo="" group-title="DAZN",DAZN 2 H265
 http://seelive.club:80/live/RzYsjcpRIJ/FCTLppp899/825.ts
-#EXTINF:-1,DAZN 3 H265
+#EXTINF:-1 tvg-id="" tvg-name="DAZN 3 H265" tvg-logo="" group-title="DAZN",DAZN 3 H265
 http://seelive.club:80/live/RzYsjcpRIJ/FCTLppp899/824.ts
-#EXTINF:-1,DAZN 4 H265
+#EXTINF:-1 tvg-id="" tvg-name="DAZN 4 H265" tvg-logo="" group-title="DAZN",DAZN 4 H265
 http://seelive.club:80/live/RzYsjcpRIJ/FCTLppp899/823.ts
-#EXTINF:-1,DAZN 5 H265
+#EXTINF:-1 tvg-id="" tvg-name="DAZN 5 H265" tvg-logo="" group-title="DAZN",DAZN 5 H265
 http://seelive.club:80/live/RzYsjcpRIJ/FCTLppp899/822.ts
-#EXTINF:-1,DAZN 6 H265
+#EXTINF:-1 tvg-id="" tvg-name="DAZN 6 H265" tvg-logo="" group-title="DAZN",DAZN 6 H265
 http://seelive.club:80/live/RzYsjcpRIJ/FCTLppp899/821.ts
-#EXTINF:-1,DAZN 7 H265
+#EXTINF:-1 tvg-id="" tvg-name="DAZN 7 H265" tvg-logo="" group-title="DAZN",DAZN 7 H265
 http://seelive.club:80/live/RzYsjcpRIJ/FCTLppp899/820.ts
-#EXTINF:-1,DAZN 8 H265
+#EXTINF:-1 tvg-id="" tvg-name="DAZN 8 H265" tvg-logo="" group-title="DAZN",DAZN 8 H265
 http://seelive.club:80/live/RzYsjcpRIJ/FCTLppp899/819.ts
-#EXTINF:-1,DAZN 9 H265
+#EXTINF:-1 tvg-id="" tvg-name="DAZN 9 H265" tvg-logo="" group-title="DAZN",DAZN 9 H265
 http://seelive.club:80/live/RzYsjcpRIJ/FCTLppp899/818.ts
-#EXTINF:-1,DAZN 10 H265
+#EXTINF:-1 tvg-id="" tvg-name="DAZN 10 H265" tvg-logo="" group-title="DAZN",DAZN 10 H265
 http://seelive.club:80/live/RzYsjcpRIJ/FCTLppp899/817.ts
-#EXTINF:-1,---- SKY SPORT ----
+#EXTINF:-1 tvg-id="" tvg-name="---- SKY SPORT ----" tvg-logo="" group-title="Sport",---- SKY SPORT ----
 http://seelive.club:80/live/RzYsjcpRIJ/FCTLppp899/183.ts
-#EXTINF:-1,Sky Sport Uno SUPER HD
+#EXTINF:-1 tvg-id="SKYSport1.it" tvg-name="Sky Sport Uno SUPER HD" tvg-logo="" group-title="Sport",Sky Sport Uno SUPER HD
 http://seelive.club:80/live/RzYsjcpRIJ/FCTLppp899/25.ts
-#EXTINF:-1,Sky Sport Uno HD
+#EXTINF:-1 tvg-id="SKYSport1.it" tvg-name="Sky Sport Uno HD" tvg-logo="" group-title="Sport",Sky Sport Uno HD
 http://seelive.club:80/live/RzYsjcpRIJ/FCTLppp899/186.ts
-#EXTINF:-1,Sky Sport Arena Full HD
+#EXTINF:-1 tvg-id="SKYSport2.it" tvg-name="Sky Sport Arena Full HD" tvg-logo="" group-title="Sport",Sky Sport Arena Full HD
 http://seelive.club:80/live/RzYsjcpRIJ/FCTLppp899/22.ts
-#EXTINF:-1,Sky Sport Arena HD
+#EXTINF:-1 tvg-id="SKYSport2.it" tvg-name="Sky Sport Arena HD" tvg-logo="" group-title="Sport",Sky Sport Arena HD
 http://seelive.club:80/live/RzYsjcpRIJ/FCTLppp899/188.ts
-#EXTINF:-1,Sky Sport Football Full HD
+#EXTINF:-1 tvg-id="SKYSport3.it" tvg-name="Sky Sport Football Full HD" tvg-logo="" group-title="Sport",Sky Sport Football Full HD
 http://seelive.club:80/live/RzYsjcpRIJ/FCTLppp899/20.ts
-#EXTINF:-1,Sky Sport Football HD
+#EXTINF:-1 tvg-id="SKYSport3.it" tvg-name="Sky Sport Football HD" tvg-logo="" group-title="Sport",Sky Sport Football HD
 http://seelive.club:80/live/RzYsjcpRIJ/FCTLppp899/190.ts
-#EXTINF:-1,Sky Sport 24 Full HD
+#EXTINF:-1 tvg-id="SKYSport24.it" tvg-name="Sky Sport 24 Full HD" tvg-logo="" group-title="Sport",Sky Sport 24 Full HD
 http://seelive.club:80/live/RzYsjcpRIJ/FCTLppp899/21.ts
-#EXTINF:-1,Sky Sport 24 HD
+#EXTINF:-1 tvg-id="SKYSport24.it" tvg-name="Sky Sport 24 HD" tvg-logo="" group-title="Sport",Sky Sport 24 HD
 http://seelive.club:80/live/RzYsjcpRIJ/FCTLppp899/184.ts
-#EXTINF:-1,Sky Sport Mix HD
+#EXTINF:-1 tvg-id="SkySportMix.it" tvg-name="Sky Sport Mix HD" tvg-logo="" group-title="Sport",Sky Sport Mix HD
 http://seelive.club:80/live/RzYsjcpRIJ/FCTLppp899/3.ts
-#EXTINF:-1,Sky Sport F1 SUPER HD
+#EXTINF:-1 tvg-id="SkySportF1.it" tvg-name="Sky Sport F1 SUPER HD" tvg-logo="" group-title="Sport",Sky Sport F1 SUPER HD
 http://seelive.club:80/live/RzYsjcpRIJ/FCTLppp899/24.ts
-#EXTINF:-1,Sky Sport F1 HD
+#EXTINF:-1 tvg-id="SkySportF1.it" tvg-name="Sky Sport F1 HD" tvg-logo="" group-title="Sport",Sky Sport F1 HD
 http://seelive.club:80/live/RzYsjcpRIJ/FCTLppp899/193.ts
-#EXTINF:-1,Sky Sport Moto GP SUPER HD
+#EXTINF:-1 tvg-id="SkySportMotoGP.it" tvg-name="Sky Sport Moto GP SUPER HD" tvg-logo="" group-title="Sport",Sky Sport Moto GP SUPER HD
 http://seelive.club:80/live/RzYsjcpRIJ/FCTLppp899/19.ts
-#EXTINF:-1,Sky Sport Moto GP
+#EXTINF:-1 tvg-id="SkySportMotoGP.it" tvg-name="Sky Sport Moto GP" tvg-logo="" group-title="Sport",Sky Sport Moto GP
 http://seelive.club:80/live/RzYsjcpRIJ/FCTLppp899/195.ts
-#EXTINF:-1,Sky Sport NBA HD
+#EXTINF:-1 tvg-id="SkySportPlus.it" tvg-name="Sky Sport NBA HD" tvg-logo="" group-title="Sport",Sky Sport NBA HD
 http://seelive.club:80/live/RzYsjcpRIJ/FCTLppp899/2.ts
-#EXTINF:-1,Sky Eurosport 2 HD
+#EXTINF:-1 tvg-id="Eurosport2.it" tvg-name="Sky Eurosport 2 HD" tvg-logo="" group-title="Sport",Sky Eurosport 2 HD
 http://seelive.club:80/live/RzYsjcpRIJ/FCTLppp899/797.ts
-#EXTINF:-1,Sky Eurosport HD
+#EXTINF:-1 tvg-id="Eurosport1.it" tvg-name="Sky Eurosport HD" tvg-logo="" group-title="Sport",Sky Eurosport HD
 http://seelive.club:80/live/RzYsjcpRIJ/FCTLppp899/796.ts
-#EXTINF:-1,Sky Sport Golf HD
+#EXTINF:-1 tvg-id="Eurosport1.it" tvg-name="Eurosport" tvg-logo="" group-title="Sport",Eurosport
+http://seelive.club:80/live/RzYsjcpRIJ/FCTLppp899/290.ts
+#EXTINF:-1 tvg-id="" tvg-name="Eurosport 2" tvg-logo="" group-title="Sport",Eurosport 2
+http://seelive.club:80/live/RzYsjcpRIJ/FCTLppp899/291.ts
+#EXTINF:-1 tvg-id="FoxSports.it" tvg-name="Sky Sport Golf HD" tvg-logo="" group-title="Sport",Sky Sport Golf HD
 http://seelive.club:80/live/RzYsjcpRIJ/FCTLppp899/192.ts
-#EXTINF:-1,RedBull TV
+#EXTINF:-1 tvg-id="" tvg-name="RedBull TV" tvg-logo="" group-title="Sport",RedBull TV
 http://seelive.club:80/live/RzYsjcpRIJ/FCTLppp899/785.ts
-#EXTINF:-1,Ginx Esport HD
+#EXTINF:-1 tvg-id="" tvg-name="Ginx Esport HD" tvg-logo="" group-title="Sport",Ginx Esport HD
 http://seelive.club:80/live/RzYsjcpRIJ/FCTLppp899/792.ts
-#EXTINF:-1,Bike Channel
+#EXTINF:-1 tvg-id="BikeChannel.it" tvg-name="Bike Channel" tvg-logo="" group-title="Sport",Bike Channel
 http://seelive.club:80/live/RzYsjcpRIJ/FCTLppp899/44.ts
-#EXTINF:-1,Caccia e Pesca
+#EXTINF:-1 tvg-id="CACCIAePesca.it" tvg-name="Caccia e Pesca" tvg-logo="" group-title="Sport",Caccia e Pesca
 http://seelive.club:80/live/RzYsjcpRIJ/FCTLppp899/217.ts
-#EXTINF:-1,Pesca e Caccia
+#EXTINF:-1 tvg-id="CacciaePESCA.it" tvg-name="Pesca e Caccia" tvg-logo="" group-title="Sport",Pesca e Caccia
 http://seelive.club:80/live/RzYsjcpRIJ/FCTLppp899/218.ts
-#EXTINF:-1,Pescare & Cacciare TV
+#EXTINF:-1 tvg-id="" tvg-name="Pescare & Cacciare TV" tvg-logo="" group-title="Sport",Pescare & Cacciare TV
 http://seelive.club:80/live/RzYsjcpRIJ/FCTLppp899/700.ts
-#EXTINF:-1,SuperTennis HD
+#EXTINF:-1 tvg-id="SuperTennis.it" tvg-name="SuperTennis HD" tvg-logo="" group-title="Sport",SuperTennis HD
 http://seelive.club:80/live/RzYsjcpRIJ/FCTLppp899/197.ts
-#EXTINF:-1,UnireSat HD
+#EXTINF:-1 tvg-id="UnireSat.it" tvg-name="UnireSat HD" tvg-logo="" group-title="Sport",UnireSat HD
 http://seelive.club:80/live/RzYsjcpRIJ/FCTLppp899/703.ts
-#EXTINF:-1,Inter Channel
+#EXTINF:-1 tvg-id="InterChannel.it" tvg-name="Inter Channel" tvg-logo="" group-title="Sport",Inter Channel
 http://seelive.club:80/live/RzYsjcpRIJ/FCTLppp899/214.ts
-#EXTINF:-1,Roma TV
+#EXTINF:-1 tvg-id="RomaChannel.it" tvg-name="Roma TV" tvg-logo="" group-title="Sport",Roma TV
 http://seelive.club:80/live/RzYsjcpRIJ/FCTLppp899/215.ts
-#EXTINF:-1,Lazio Style Channel
+#EXTINF:-1 tvg-id="LazioStyleChannel.it" tvg-name="Lazio Style Channel" tvg-logo="" group-title="Sport",Lazio Style Channel
 http://seelive.club:80/live/RzYsjcpRIJ/FCTLppp899/216.ts
-#EXTINF:-1,Milan Channel
+#EXTINF:-1 tvg-id="MilanTV.it" tvg-name="Milan Channel" tvg-logo="" group-title="Sport",Milan Channel
 http://seelive.club:80/live/RzYsjcpRIJ/FCTLppp899/212.ts
-#EXTINF:-1,Torino Channel HD
+#EXTINF:-1 tvg-id="TorinoChannel.it" tvg-name="Torino Channel HD" tvg-logo="" group-title="Sport",Torino Channel HD
 http://seelive.club:80/live/RzYsjcpRIJ/FCTLppp899/784.ts
-#EXTINF:-1,Sky Sport Serie A SUPER HD
+#EXTINF:-1 tvg-id="SkySupercalcio.it" tvg-name="Sky Sport Serie A SUPER HD" tvg-logo="" group-title="Sport",Sky Sport Serie A SUPER HD
 http://seelive.club:80/live/RzYsjcpRIJ/FCTLppp899/693.ts
-#EXTINF:-1,Sky Sport Serie A HD
+#EXTINF:-1 tvg-id="SkySupercalcio.it" tvg-name="Sky Sport Serie A HD" tvg-logo="" group-title="Sport",Sky Sport Serie A HD
 http://seelive.club:80/live/RzYsjcpRIJ/FCTLppp899/198.ts
-#EXTINF:-1,Sky Sport 251 SUPER HD
+#EXTINF:-1 tvg-id="SkyCalcio1.it" tvg-name="Sky Sport 251 SUPER HD" tvg-logo="" group-title="Sport",Sky Sport 251 SUPER HD
 http://seelive.club:80/live/RzYsjcpRIJ/FCTLppp899/41.ts
-#EXTINF:-1,Sky Sport 251 HD
+#EXTINF:-1 tvg-id="SkyCalcio1.it" tvg-name="Sky Sport 251 HD" tvg-logo="" group-title="Sport",Sky Sport 251 HD
 http://seelive.club:80/live/RzYsjcpRIJ/FCTLppp899/199.ts
-#EXTINF:-1,Sky Sport 252 SUPER HD
+#EXTINF:-1 tvg-id="SkyCalcio2.it" tvg-name="Sky Sport 252 SUPER HD" tvg-logo="" group-title="Sport",Sky Sport 252 SUPER HD
 http://seelive.club:80/live/RzYsjcpRIJ/FCTLppp899/40.ts
-#EXTINF:-1,Sky Sport 252 HD
+#EXTINF:-1 tvg-id="SkyCalcio2.it" tvg-name="Sky Sport 252 HD" tvg-logo="" group-title="Sport",Sky Sport 252 HD
 http://seelive.club:80/live/RzYsjcpRIJ/FCTLppp899/200.ts
-#EXTINF:-1,Sky Sport 253 SUPER HD
+#EXTINF:-1 tvg-id="SkyCalcio3.it" tvg-name="Sky Sport 253 SUPER HD" tvg-logo="" group-title="Sport",Sky Sport 253 SUPER HD
 http://seelive.club:80/live/RzYsjcpRIJ/FCTLppp899/39.ts
-#EXTINF:-1,Sky Sport 253 HD
+#EXTINF:-1 tvg-id="SkyCalcio3.it" tvg-name="Sky Sport 253 HD" tvg-logo="" group-title="Sport",Sky Sport 253 HD
 http://seelive.club:80/live/RzYsjcpRIJ/FCTLppp899/201.ts
-#EXTINF:-1,Sky Sport 254 SUPER HD
+#EXTINF:-1 tvg-id="SkyCalcio4.it" tvg-name="Sky Sport 254 SUPER HD" tvg-logo="" group-title="Sport",Sky Sport 254 SUPER HD
 http://seelive.club:80/live/RzYsjcpRIJ/FCTLppp899/38.ts
-#EXTINF:-1,Sky Sport 254 HD
+#EXTINF:-1 tvg-id="SkyCalcio4.it" tvg-name="Sky Sport 254 HD" tvg-logo="" group-title="Sport",Sky Sport 254 HD
 http://seelive.club:80/live/RzYsjcpRIJ/FCTLppp899/202.ts
-#EXTINF:-1,Sky Sport 255 SUPER HD
+#EXTINF:-1 tvg-id="SkyCalcio5.it" tvg-name="Sky Sport 255 SUPER HD" tvg-logo="" group-title="Sport",Sky Sport 255 SUPER HD
 http://seelive.club:80/live/RzYsjcpRIJ/FCTLppp899/37.ts
-#EXTINF:-1,Sky Sport 255 HD
+#EXTINF:-1 tvg-id="SkyCalcio5.it" tvg-name="Sky Sport 255 HD" tvg-logo="" group-title="Sport",Sky Sport 255 HD
 http://seelive.club:80/live/RzYsjcpRIJ/FCTLppp899/203.ts
-#EXTINF:-1,Sky Sport 256 Full HD
+#EXTINF:-1 tvg-id="SkyCalcio6.it" tvg-name="Sky Sport 256 Full HD" tvg-logo="" group-title="Sport",Sky Sport 256 Full HD
 http://seelive.club:80/live/RzYsjcpRIJ/FCTLppp899/36.ts
-#EXTINF:-1,Sky Sport 256 HD
+#EXTINF:-1 tvg-id="SkyCalcio6.it" tvg-name="Sky Sport 256 HD" tvg-logo="" group-title="Sport",Sky Sport 256 HD
 http://seelive.club:80/live/RzYsjcpRIJ/FCTLppp899/204.ts
-#EXTINF:-1,Sky Sport 257 Full HD
+#EXTINF:-1 tvg-id="SkyCalcio7.it" tvg-name="Sky Sport 257 Full HD" tvg-logo="" group-title="Sport",Sky Sport 257 Full HD
 http://seelive.club:80/live/RzYsjcpRIJ/FCTLppp899/35.ts
-#EXTINF:-1,Sky Sport 257 HD
+#EXTINF:-1 tvg-id="SkyCalcio7.it" tvg-name="Sky Sport 257 HD" tvg-logo="" group-title="Sport",Sky Sport 257 HD
 http://seelive.club:80/live/RzYsjcpRIJ/FCTLppp899/205.ts
-#EXTINF:-1,Sky Sport 258 Full HD
+#EXTINF:-1 tvg-id="SkyCalcio8.it" tvg-name="Sky Sport 258 Full HD" tvg-logo="" group-title="Sport",Sky Sport 258 Full HD
 http://seelive.club:80/live/RzYsjcpRIJ/FCTLppp899/34.ts
-#EXTINF:-1,Sky Sport 258 HD
+#EXTINF:-1 tvg-id="SkyCalcio8.it" tvg-name="Sky Sport 258 HD" tvg-logo="" group-title="Sport",Sky Sport 258 HD
 http://seelive.club:80/live/RzYsjcpRIJ/FCTLppp899/206.ts
-#EXTINF:-1,Sky Sport 259 Full HD
+#EXTINF:-1 tvg-id="SkyCalcio9.it" tvg-name="Sky Sport 259 Full HD" tvg-logo="" group-title="Sport",Sky Sport 259 Full HD
 http://seelive.club:80/live/RzYsjcpRIJ/FCTLppp899/207.ts
-#EXTINF:-1,Sky Sport 260 Full HD
+#EXTINF:-1 tvg-id="SkyCalcio10.it" tvg-name="Sky Sport 260 Full HD" tvg-logo="" group-title="Sport",Sky Sport 260 Full HD
 http://seelive.club:80/live/RzYsjcpRIJ/FCTLppp899/208.ts
-#EXTINF:-1,Sky Sport 261
+#EXTINF:-1 tvg-id="SkyCalcio11.it" tvg-name="Sky Sport 261" tvg-logo="" group-title="Sport",Sky Sport 261
 http://seelive.club:80/live/RzYsjcpRIJ/FCTLppp899/209.ts
-#EXTINF:-1,Sky Sport 262
+#EXTINF:-1 tvg-id="SkyCalcio12.it" tvg-name="Sky Sport 262" tvg-logo="" group-title="Sport",Sky Sport 262
 http://seelive.club:80/live/RzYsjcpRIJ/FCTLppp899/210.ts
-#EXTINF:-1,Sky Sport 263
+#EXTINF:-1 tvg-id="SkyCalcio13.it" tvg-name="Sky Sport 263" tvg-logo="" group-title="Sport",Sky Sport 263
 http://seelive.club:80/live/RzYsjcpRIJ/FCTLppp899/211.ts
-#EXTINF:-1,---- LEGA PRO ----
+#EXTINF:-1 tvg-id="" tvg-name="---- LEGA PRO ----" tvg-logo="" group-title="Lega Pro",---- LEGA PRO ----
 http://seelive.club:80/live/RzYsjcpRIJ/FCTLppp899/230.ts
-#EXTINF:-1,LEGA PRO | Albinoleffe
+#EXTINF:-1 tvg-id="" tvg-name="LEGA PRO | Albinoleffe" tvg-logo="" group-title="Lega Pro",LEGA PRO | Albinoleffe
 http://seelive.club:80/live/RzYsjcpRIJ/FCTLppp899/883.ts
-#EXTINF:-1,LEGA PRO | Albissola
+#EXTINF:-1 tvg-id="" tvg-name="LEGA PRO | Albissola" tvg-logo="" group-title="Lega Pro",LEGA PRO | Albissola
 http://seelive.club:80/live/RzYsjcpRIJ/FCTLppp899/882.ts
-#EXTINF:-1,LEGA PRO | Alessandria
+#EXTINF:-1 tvg-id="" tvg-name="LEGA PRO | Alessandria" tvg-logo="" group-title="Lega Pro",LEGA PRO | Alessandria
 http://seelive.club:80/live/RzYsjcpRIJ/FCTLppp899/881.ts
-#EXTINF:-1,LEGA PRO | Arezzo
+#EXTINF:-1 tvg-id="" tvg-name="LEGA PRO | Arezzo" tvg-logo="" group-title="Lega Pro",LEGA PRO | Arezzo
 http://seelive.club:80/live/RzYsjcpRIJ/FCTLppp899/880.ts
-#EXTINF:-1,LEGA PRO | Arzachena
+#EXTINF:-1 tvg-id="" tvg-name="LEGA PRO | Arzachena" tvg-logo="" group-title="Lega Pro",LEGA PRO | Arzachena
 http://seelive.club:80/live/RzYsjcpRIJ/FCTLppp899/879.ts
-#EXTINF:-1,LEGA PRO | Bisceglie
+#EXTINF:-1 tvg-id="" tvg-name="LEGA PRO | Bisceglie" tvg-logo="" group-title="Lega Pro",LEGA PRO | Bisceglie
 http://seelive.club:80/live/RzYsjcpRIJ/FCTLppp899/878.ts
-#EXTINF:-1,LEGA PRO | Carrarese
+#EXTINF:-1 tvg-id="" tvg-name="LEGA PRO | Carrarese" tvg-logo="" group-title="Lega Pro",LEGA PRO | Carrarese
 http://seelive.club:80/live/RzYsjcpRIJ/FCTLppp899/877.ts
-#EXTINF:-1,LEGA PRO | Casertana
+#EXTINF:-1 tvg-id="" tvg-name="LEGA PRO | Casertana" tvg-logo="" group-title="Lega Pro",LEGA PRO | Casertana
 http://seelive.club:80/live/RzYsjcpRIJ/FCTLppp899/876.ts
+#EXTINF:-1 tvg-id="" tvg-name="LEGA PRO | Catania" tvg-logo="" group-title="Lega Pro",LEGA PRO | Catania
+http://seelive.club:80/live/RzYsjcpRIJ/FCTLppp899/891.ts
+#EXTINF:-1 tvg-id="" tvg-name="LEGA PRO | Catanzaro" tvg-logo="" group-title="Lega Pro",LEGA PRO | Catanzaro
+http://seelive.club:80/live/RzYsjcpRIJ/FCTLppp899/875.ts
+#EXTINF:-1 tvg-id="" tvg-name="LEGA PRO | Cuneo" tvg-logo="" group-title="Lega Pro",LEGA PRO | Cuneo
+http://seelive.club:80/live/RzYsjcpRIJ/FCTLppp899/874.ts
+#EXTINF:-1 tvg-id="" tvg-name="LEGA PRO | Fano" tvg-logo="" group-title="Lega Pro",LEGA PRO | Fano
+http://seelive.club:80/live/RzYsjcpRIJ/FCTLppp899/873.ts
+#EXTINF:-1 tvg-id="" tvg-name="LEGA PRO | Feralpisal" tvg-logo="" group-title="Lega Pro",LEGA PRO | Feralpisal
+http://seelive.club:80/live/RzYsjcpRIJ/FCTLppp899/872.ts
+#EXTINF:-1 tvg-id="" tvg-name="LEGA PRO | Fermana" tvg-logo="" group-title="Lega Pro",LEGA PRO | Fermana
+http://seelive.club:80/live/RzYsjcpRIJ/FCTLppp899/871.ts
+#EXTINF:-1 tvg-id="" tvg-name="LEGA PRO | Francavilla" tvg-logo="" group-title="Lega Pro",LEGA PRO | Francavilla
+http://seelive.club:80/live/RzYsjcpRIJ/FCTLppp899/870.ts
+#EXTINF:-1 tvg-id="" tvg-name="LEGA PRO | Giana Erminio" tvg-logo="" group-title="Lega Pro",LEGA PRO | Giana Erminio
+http://seelive.club:80/live/RzYsjcpRIJ/FCTLppp899/869.ts
+#EXTINF:-1 tvg-id="" tvg-name="LEGA PRO | Gozzano" tvg-logo="" group-title="Lega Pro",LEGA PRO | Gozzano
+http://seelive.club:80/live/RzYsjcpRIJ/FCTLppp899/868.ts
+#EXTINF:-1 tvg-id="" tvg-name="LEGA PRO | Gubbio" tvg-logo="" group-title="Lega Pro",LEGA PRO | Gubbio
+http://seelive.club:80/live/RzYsjcpRIJ/FCTLppp899/867.ts
+#EXTINF:-1 tvg-id="" tvg-name="LEGA PRO | Imolese" tvg-logo="" group-title="Lega Pro",LEGA PRO | Imolese
+http://seelive.club:80/live/RzYsjcpRIJ/FCTLppp899/866.ts
+#EXTINF:-1 tvg-id="" tvg-name="LEGA PRO | Juve Stabia" tvg-logo="" group-title="Lega Pro",LEGA PRO | Juve Stabia
+http://seelive.club:80/live/RzYsjcpRIJ/FCTLppp899/865.ts
+#EXTINF:-1 tvg-id="" tvg-name="LEGA PRO | Juventus 23" tvg-logo="" group-title="Lega Pro",LEGA PRO | Juventus 23
+http://seelive.club:80/live/RzYsjcpRIJ/FCTLppp899/864.ts
+#EXTINF:-1 tvg-id="" tvg-name="LEGA PRO | Lucchese" tvg-logo="" group-title="Lega Pro",LEGA PRO | Lucchese
+http://seelive.club:80/live/RzYsjcpRIJ/FCTLppp899/863.ts
+#EXTINF:-1 tvg-id="" tvg-name="LEGA PRO | Matera" tvg-logo="" group-title="Lega Pro",LEGA PRO | Matera
+http://seelive.club:80/live/RzYsjcpRIJ/FCTLppp899/862.ts
+#EXTINF:-1 tvg-id="" tvg-name="LEGA PRO | Monopoli" tvg-logo="" group-title="Lega Pro",LEGA PRO | Monopoli
+http://seelive.club:80/live/RzYsjcpRIJ/FCTLppp899/861.ts
+#EXTINF:-1 tvg-id="" tvg-name="LEGA PRO | Monza" tvg-logo="" group-title="Lega Pro",LEGA PRO | Monza
+http://seelive.club:80/live/RzYsjcpRIJ/FCTLppp899/860.ts
+#EXTINF:-1 tvg-id="" tvg-name="LEGA PRO | Novara" tvg-logo="" group-title="Lega Pro",LEGA PRO | Novara
+http://seelive.club:80/live/RzYsjcpRIJ/FCTLppp899/859.ts
+#EXTINF:-1 tvg-id="" tvg-name="LEGA PRO | Olbia" tvg-logo="" group-title="Lega Pro",LEGA PRO | Olbia
+http://seelive.club:80/live/RzYsjcpRIJ/FCTLppp899/858.ts
+#EXTINF:-1 tvg-id="" tvg-name="LEGA PRO | Paganese" tvg-logo="" group-title="Lega Pro",LEGA PRO | Paganese
+http://seelive.club:80/live/RzYsjcpRIJ/FCTLppp899/857.ts
+#EXTINF:-1 tvg-id="" tvg-name="LEGA PRO | Pisa" tvg-logo="" group-title="Lega Pro",LEGA PRO | Pisa
+http://seelive.club:80/live/RzYsjcpRIJ/FCTLppp899/856.ts
+#EXTINF:-1 tvg-id="" tvg-name="LEGA PRO | Pistoiese" tvg-logo="" group-title="Lega Pro",LEGA PRO | Pistoiese
+http://seelive.club:80/live/RzYsjcpRIJ/FCTLppp899/855.ts
+#EXTINF:-1 tvg-id="" tvg-name="LEGA PRO | Pontedera" tvg-logo="" group-title="Lega Pro",LEGA PRO | Pontedera
+http://seelive.club:80/live/RzYsjcpRIJ/FCTLppp899/854.ts
+#EXTINF:-1 tvg-id="" tvg-name="LEGA PRO | Pordenone" tvg-logo="" group-title="Lega Pro",LEGA PRO | Pordenone
+http://seelive.club:80/live/RzYsjcpRIJ/FCTLppp899/853.ts
+#EXTINF:-1 tvg-id="" tvg-name="LEGA PRO | Potenza" tvg-logo="" group-title="Lega Pro",LEGA PRO | Potenza
+http://seelive.club:80/live/RzYsjcpRIJ/FCTLppp899/852.ts
+#EXTINF:-1 tvg-id="" tvg-name="LEGA PRO | Pro Piacenza" tvg-logo="" group-title="Lega Pro",LEGA PRO | Pro Piacenza
+http://seelive.club:80/live/RzYsjcpRIJ/FCTLppp899/886.ts
+#EXTINF:-1 tvg-id="" tvg-name="LEGA PRO | Pro vercelli" tvg-logo="" group-title="Lega Pro",LEGA PRO | Pro vercelli
+http://seelive.club:80/live/RzYsjcpRIJ/FCTLppp899/885.ts
+#EXTINF:-1 tvg-id="" tvg-name="LEGA PRO | Propatria" tvg-logo="" group-title="Lega Pro",LEGA PRO | Propatria
+http://seelive.club:80/live/RzYsjcpRIJ/FCTLppp899/851.ts
+#EXTINF:-1 tvg-id="" tvg-name="LEGA PRO | Ravenna" tvg-logo="" group-title="Lega Pro",LEGA PRO | Ravenna
+http://seelive.club:80/live/RzYsjcpRIJ/FCTLppp899/850.ts
+#EXTINF:-1 tvg-id="" tvg-name="LEGA PRO | Reggina" tvg-logo="" group-title="Lega Pro",LEGA PRO | Reggina
+http://seelive.club:80/live/RzYsjcpRIJ/FCTLppp899/849.ts
+#EXTINF:-1 tvg-id="" tvg-name="LEGA PRO | Renate" tvg-logo="" group-title="Lega Pro",LEGA PRO | Renate
+http://seelive.club:80/live/RzYsjcpRIJ/FCTLppp899/848.ts
+#EXTINF:-1 tvg-id="" tvg-name="LEGA PRO | Rende" tvg-logo="" group-title="Lega Pro",LEGA PRO | Rende
+http://seelive.club:80/live/RzYsjcpRIJ/FCTLppp899/847.ts
+#EXTINF:-1 tvg-id="" tvg-name="LEGA PRO | Rieti" tvg-logo="" group-title="Lega Pro",LEGA PRO | Rieti
+http://seelive.club:80/live/RzYsjcpRIJ/FCTLppp899/846.ts
+#EXTINF:-1 tvg-id="" tvg-name="LEGA PRO | Rimini" tvg-logo="" group-title="Lega Pro",LEGA PRO | Rimini
+http://seelive.club:80/live/RzYsjcpRIJ/FCTLppp899/845.ts
+#EXTINF:-1 tvg-id="" tvg-name="LEGA PRO | Robur Siena" tvg-logo="" group-title="Lega Pro",LEGA PRO | Robur Siena
+http://seelive.club:80/live/RzYsjcpRIJ/FCTLppp899/884.ts
+#EXTINF:-1 tvg-id="" tvg-name="LEGA PRO | Sambenedettese" tvg-logo="" group-title="Lega Pro",LEGA PRO | Sambenedettese
+http://seelive.club:80/live/RzYsjcpRIJ/FCTLppp899/844.ts
+#EXTINF:-1 tvg-id="" tvg-name="LEGA PRO | Sicula Leonzio" tvg-logo="" group-title="Lega Pro",LEGA PRO | Sicula Leonzio
+http://seelive.club:80/live/RzYsjcpRIJ/FCTLppp899/843.ts
+#EXTINF:-1 tvg-id="" tvg-name="LEGA PRO | Siracusa" tvg-logo="" group-title="Lega Pro",LEGA PRO | Siracusa
+http://seelive.club:80/live/RzYsjcpRIJ/FCTLppp899/842.ts
+#EXTINF:-1 tvg-id="" tvg-name="LEGA PRO | Sudtirol" tvg-logo="" group-title="Lega Pro",LEGA PRO | Sudtirol
+http://seelive.club:80/live/RzYsjcpRIJ/FCTLppp899/841.ts
+#EXTINF:-1 tvg-id="" tvg-name="LEGA PRO | Teramo" tvg-logo="" group-title="Lega Pro",LEGA PRO | Teramo
+http://seelive.club:80/live/RzYsjcpRIJ/FCTLppp899/840.ts
+#EXTINF:-1 tvg-id="" tvg-name="LEGA PRO | Ternana" tvg-logo="" group-title="Lega Pro",LEGA PRO | Ternana
+http://seelive.club:80/live/RzYsjcpRIJ/FCTLppp899/839.ts
+#EXTINF:-1 tvg-id="" tvg-name="LEGA PRO | Trapani" tvg-logo="" group-title="Lega Pro",LEGA PRO | Trapani
+http://seelive.club:80/live/RzYsjcpRIJ/FCTLppp899/838.ts
+#EXTINF:-1 tvg-id="" tvg-name="LEGA PRO | Triestina" tvg-logo="" group-title="Lega Pro",LEGA PRO | Triestina
+http://seelive.club:80/live/RzYsjcpRIJ/FCTLppp899/837.ts
+#EXTINF:-1 tvg-id="" tvg-name="LEGA PRO | Vibonese" tvg-logo="" group-title="Lega Pro",LEGA PRO | Vibonese
+http://seelive.club:80/live/RzYsjcpRIJ/FCTLppp899/836.ts
+#EXTINF:-1 tvg-id="" tvg-name="LEGA PRO | Vicenza" tvg-logo="" group-title="Lega Pro",LEGA PRO | Vicenza
+http://seelive.club:80/live/RzYsjcpRIJ/FCTLppp899/835.ts
+#EXTINF:-1 tvg-id="" tvg-name="LEGA PRO | Virtus Entella" tvg-logo="" group-title="Lega Pro",LEGA PRO | Virtus Entella
+http://seelive.club:80/live/RzYsjcpRIJ/FCTLppp899/834.ts
+#EXTINF:-1 tvg-id="" tvg-name="LEGA PRO | Virtus Verona" tvg-logo="" group-title="Lega Pro",LEGA PRO | Virtus Verona
+http://seelive.club:80/live/RzYsjcpRIJ/FCTLppp899/833.ts
+#EXTINF:-1 tvg-id="" tvg-name="LEGA PRO | Vis Pesaro" tvg-logo="" group-title="Lega Pro",LEGA PRO | Vis Pesaro
+http://seelive.club:80/live/RzYsjcpRIJ/FCTLppp899/832.ts
+#EXTINF:-1 tvg-id="" tvg-name="LEGA PRO | Viterbese Castrese" tvg-logo="" group-title="Lega Pro",LEGA PRO | Viterbese Castrese
+http://seelive.club:80/live/RzYsjcpRIJ/FCTLppp899/831.ts
+#EXTINF:-1 tvg-id="" tvg-name="---- Ragazzi - BAMBINI ----" tvg-logo="" group-title="Bambini",---- Ragazzi - BAMBINI ----
+http://seelive.club:80/live/RzYsjcpRIJ/FCTLppp899/258.ts
+#EXTINF:-1 tvg-id="Boing.it" tvg-name="Premium Boing" tvg-logo="" group-title="Bambini",Premium Boing
+http://seelive.club:80/live/RzYsjcpRIJ/FCTLppp899/268.ts
+#EXTINF:-1 tvg-id="Cartoonito.it" tvg-name="Premium Cartoonito" tvg-logo="" group-title="Bambini",Premium Cartoonito
+http://seelive.club:80/live/RzYsjcpRIJ/FCTLppp899/269.ts
+#EXTINF:-1 tvg-id="Nickelodeon.it" tvg-name="Nickelodeon" tvg-logo="" group-title="Bambini",Nickelodeon
+http://seelive.club:80/live/RzYsjcpRIJ/FCTLppp899/261.ts
+#EXTINF:-1 tvg-id="BabyTV.it" tvg-name="Baby TV" tvg-logo="" group-title="Bambini",Baby TV
+http://seelive.club:80/live/RzYsjcpRIJ/FCTLppp899/266.ts
+#EXTINF:-1 tvg-id="Boomerang.it" tvg-name="Boomerang" tvg-logo="" group-title="Bambini",Boomerang
+http://seelive.club:80/live/RzYsjcpRIJ/FCTLppp899/263.ts
+#EXTINF:-1 tvg-id="" tvg-name="Cartoon Network" tvg-logo="" group-title="Bambini",Cartoon Network
+http://seelive.club:80/live/RzYsjcpRIJ/FCTLppp899/262.ts
+#EXTINF:-1 tvg-id="" tvg-name="Walt Disney Channel" tvg-logo="" group-title="Bambini",Walt Disney Channel
+http://seelive.club:80/live/RzYsjcpRIJ/FCTLppp899/893.ts
+#EXTINF:-1 tvg-id="DisneyChannel.it" tvg-name="DisneyChannel HD" tvg-logo="" group-title="Bambini",DisneyChannel HD
+http://seelive.club:80/live/RzYsjcpRIJ/FCTLppp899/264.ts
+#EXTINF:-1 tvg-id="DisneyXD.it" tvg-name="Disney XD HD" tvg-logo="" group-title="Bambini",Disney XD HD
+http://seelive.club:80/live/RzYsjcpRIJ/FCTLppp899/265.ts
+#EXTINF:-1 tvg-id="" tvg-name="Disney Junior" tvg-logo="" group-title="Bambini",Disney Junior
+http://seelive.club:80/live/RzYsjcpRIJ/FCTLppp899/892.ts
+#EXTINF:-1 tvg-id="RaiGulp.it" tvg-name="Rai Gulp" tvg-logo="" group-title="Bambini",Rai Gulp
+http://seelive.club:80/live/RzYsjcpRIJ/FCTLppp899/271.ts
+#EXTINF:-1 tvg-id="RaiYoyo.it" tvg-name="Rai YoYo" tvg-logo="" group-title="Bambini",Rai YoYo
+http://seelive.club:80/live/RzYsjcpRIJ/FCTLppp899/270.ts
+#EXTINF:-1 tvg-id="ManGa.it" tvg-name="MAN-GA" tvg-logo="" group-title="Bambini",MAN-GA
+http://seelive.club:80/live/RzYsjcpRIJ/FCTLppp899/96.ts
+#EXTINF:-1 tvg-id="DeAKids.it" tvg-name="DeAKids" tvg-logo="" group-title="Bambini",DeAKids
+http://seelive.club:80/live/RzYsjcpRIJ/FCTLppp899/259.ts
+#EXTINF:-1 tvg-id="Frisbee.it" tvg-name="Frisbee" tvg-logo="" group-title="Bambini",Frisbee
+http://seelive.club:80/live/RzYsjcpRIJ/FCTLppp899/702.ts
+#EXTINF:-1 tvg-id="K2.it" tvg-name="K2" tvg-logo="" group-title="Bambini",K2
+http://seelive.club:80/live/RzYsjcpRIJ/FCTLppp899/701.ts
+#EXTINF:-1 tvg-id="NickJr.it" tvg-name="Nick Jr" tvg-logo="" group-title="Bambini",Nick Jr
+http://seelive.club:80/live/RzYsjcpRIJ/FCTLppp899/260.ts
+#EXTINF:-1 tvg-id="" tvg-name="---- MUSICA ----" tvg-logo="" group-title="Musica",---- MUSICA ----
+http://seelive.club:80/live/RzYsjcpRIJ/FCTLppp899/249.ts
+#EXTINF:-1 tvg-id="" tvg-name="RTL 102.5" tvg-logo="" group-title="Musica",RTL 102.5
+http://seelive.club:80/live/RzYsjcpRIJ/FCTLppp899/250.ts
+#EXTINF:-1 tvg-id="" tvg-name="Virgin Radio TV" tvg-logo="" group-title="Musica",Virgin Radio TV
+http://seelive.club:80/live/RzYsjcpRIJ/FCTLppp899/254.ts
+#EXTINF:-1 tvg-id="" tvg-name="Radio 105 TV" tvg-logo="" group-title="Musica",Radio 105 TV
+http://seelive.club:80/live/RzYsjcpRIJ/FCTLppp899/252.ts
+#EXTINF:-1 tvg-id="" tvg-name="Radio Italia TV" tvg-logo="" group-title="Musica",Radio Italia TV
+http://seelive.club:80/live/RzYsjcpRIJ/FCTLppp899/251.ts
+#EXTINF:-1 tvg-id="" tvg-name="Radio Montecarlo TV" tvg-logo="" group-title="Musica",Radio Montecarlo TV
+http://seelive.club:80/live/RzYsjcpRIJ/FCTLppp899/253.ts
