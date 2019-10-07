@@ -27,6 +27,12 @@ http://dgtstreams.live:80/live/RzYsjcpRIJ/OVpzSCOyip/13.ts
 http://dgtstreams.live:80/live/RzYsjcpRIJ/OVpzSCOyip/14.ts
 #EXTINF:-1,Dove TV
 http://dgtstreams.live:80/live/RzYsjcpRIJ/OVpzSCOyip/16.ts
+#EXTINF:-1,Focus
+http://dgtstreams.live:80/live/RzYsjcpRIJ/OVpzSCOyip/17.ts
+#EXTINF:-1,Giallo
+http://dgtstreams.live:80/live/RzYsjcpRIJ/OVpzSCOyip/18.ts
+#EXTINF:-1,Nove HD
+http://dgtstreams.live:80/live/RzYsjcpRIJ/OVpzSCOyip/19.ts
 #EXTINF:-1,La5
 http://dgtstreams.live:80/live/RzYsjcpRIJ/OVpzSCOyip/20.ts
 #EXTINF:-1,Iris
@@ -35,6 +41,16 @@ http://dgtstreams.live:80/live/RzYsjcpRIJ/OVpzSCOyip/21.ts
 http://dgtstreams.live:80/live/RzYsjcpRIJ/OVpzSCOyip/22.ts
 #EXTINF:-1,Rai 5
 http://dgtstreams.live:80/live/RzYsjcpRIJ/OVpzSCOyip/23.ts
+#EXTINF:-1,Rai Movie
+http://dgtstreams.live:80/live/RzYsjcpRIJ/OVpzSCOyip/24.ts
+#EXTINF:-1,Rai Premium
+http://dgtstreams.live:80/live/RzYsjcpRIJ/OVpzSCOyip/25.ts
+#EXTINF:-1,Rai Scuola
+http://dgtstreams.live:80/live/RzYsjcpRIJ/OVpzSCOyip/26.ts
+#EXTINF:-1,Rai Storia
+http://dgtstreams.live:80/live/RzYsjcpRIJ/OVpzSCOyip/27.ts
+#EXTINF:-1,Rai Sport 1 HD
+http://dgtstreams.live:80/live/RzYsjcpRIJ/OVpzSCOyip/28.ts
 #EXTINF:-1,RSI LA 1 HD
 http://dgtstreams.live:80/live/RzYsjcpRIJ/OVpzSCOyip/29.ts
 #EXTINF:-1,RSI LA 2 HD
@@ -57,33 +73,33 @@ http://dgtstreams.live:80/live/RzYsjcpRIJ/OVpzSCOyip/50.ts
 http://dgtstreams.live:80/live/RzYsjcpRIJ/OVpzSCOyip/51.ts
 #EXTINF:-1,Fox +1 HD
 http://dgtstreams.live:80/live/RzYsjcpRIJ/OVpzSCOyip/52.ts
-#EXTINF:-1,Fox Animation HD
-http://dgtstreams.live:80/live/RzYsjcpRIJ/OVpzSCOyip/53.ts
-#EXTINF:-1,Fox Comedy HD
-http://dgtstreams.live:80/live/RzYsjcpRIJ/OVpzSCOyip/54.ts
 #EXTINF:-1,Fox Crime HD
 http://dgtstreams.live:80/live/RzYsjcpRIJ/OVpzSCOyip/55.ts
 #EXTINF:-1,Crime Inv HD
 http://dgtstreams.live:80/live/RzYsjcpRIJ/OVpzSCOyip/56.ts
-#EXTINF:-1,Premium Crime
-http://dgtstreams.live:80/live/RzYsjcpRIJ/OVpzSCOyip/41.ts
-#EXTINF:-1,Premium TopCrime
-http://dgtstreams.live:80/live/RzYsjcpRIJ/OVpzSCOyip/40.ts
 #EXTINF:-1,Laeffe
 http://dgtstreams.live:80/live/RzYsjcpRIJ/OVpzSCOyip/57.ts
 #EXTINF:-1,Lei
 http://dgtstreams.live:80/live/RzYsjcpRIJ/OVpzSCOyip/58.ts
 #EXTINF:-1,Cielo HD
 http://dgtstreams.live:80/live/RzYsjcpRIJ/OVpzSCOyip/59.ts
+#EXTINF:-1,Realtime HD
+http://dgtstreams.live:80/live/RzYsjcpRIJ/OVpzSCOyip/60.ts
 #EXTINF:-1,DMAX HD
 http://dgtstreams.live:80/live/RzYsjcpRIJ/OVpzSCOyip/61.ts
-#EXTINF:-1,Dove TV
-http://dgtstreams.live:80/live/RzYsjcpRIJ/OVpzSCOyip/16.ts
-#EXTINF:-1,Blaze HD
-http://dgtstreams.live:80/live/RzYsjcpRIJ/OVpzSCOyip/14.ts
+#EXTINF:-1,20 Mediaset
+http://dgtstreams.live:80/live/RzYsjcpRIJ/OVpzSCOyip/35.ts
+#EXTINF:-1,Premium Extra
+http://dgtstreams.live:80/live/RzYsjcpRIJ/OVpzSCOyip/43.ts
+#EXTINF:-1,Premium Italiadue
+http://dgtstreams.live:80/live/RzYsjcpRIJ/OVpzSCOyip/42.ts
+#EXTINF:-1,Classica HD
+http://dgtstreams.live:80/live/RzYsjcpRIJ/OVpzSCOyip/62.ts
+#EXTINF:-1,MTV HD
+http://dgtstreams.live:80/live/RzYsjcpRIJ/OVpzSCOyip/63.ts
 #EXTINF:-1,*** CINEMA ***
 http://dgtstreams.live:80/live/RzYsjcpRIJ/OVpzSCOyip/0.ts
-#EXTINF:-1,Sky Cinema 1 SUPER HD
+#EXTINF:-1,Sky Cinema Uno SUPER HD
 http://dgtstreams.live:80/live/RzYsjcpRIJ/OVpzSCOyip/64.ts
 #EXTINF:-1,Sky Cinema Uno HD
 http://dgtstreams.live:80/live/RzYsjcpRIJ/OVpzSCOyip/65.ts
@@ -123,6 +139,8 @@ http://dgtstreams.live:80/live/RzYsjcpRIJ/OVpzSCOyip/81.ts
 http://dgtstreams.live:80/live/RzYsjcpRIJ/OVpzSCOyip/82.ts
 #EXTINF:-1,Sky Cinema Drama HD
 http://dgtstreams.live:80/live/RzYsjcpRIJ/OVpzSCOyip/83.ts
+#EXTINF:-1,Paramount Channel
+http://dgtstreams.live:80/live/RzYsjcpRIJ/OVpzSCOyip/31.ts
 #EXTINF:-1,Premium Cinema HD
 http://dgtstreams.live:80/live/RzYsjcpRIJ/OVpzSCOyip/32.ts
 #EXTINF:-1,Premium Cinema +24
@@ -133,14 +151,64 @@ http://dgtstreams.live:80/live/RzYsjcpRIJ/OVpzSCOyip/34.ts
 http://dgtstreams.live:80/live/RzYsjcpRIJ/OVpzSCOyip/37.ts
 #EXTINF:-1,Premium Emotion
 http://dgtstreams.live:80/live/RzYsjcpRIJ/OVpzSCOyip/36.ts
-#EXTINF:-1,Paramount Channel
-http://dgtstreams.live:80/live/RzYsjcpRIJ/OVpzSCOyip/31.ts
+#EXTINF:-1,Premium Comedy
+http://dgtstreams.live:80/live/RzYsjcpRIJ/OVpzSCOyip/38.ts
+#EXTINF:-1,Premium Crime
+http://dgtstreams.live:80/live/RzYsjcpRIJ/OVpzSCOyip/41.ts
+#EXTINF:-1,Premium Stories
+http://dgtstreams.live:80/live/RzYsjcpRIJ/OVpzSCOyip/39.ts
+#EXTINF:-1,Premium TopCrime
+http://dgtstreams.live:80/live/RzYsjcpRIJ/OVpzSCOyip/40.ts
+#EXTINF:-1,*** PRIMAFILA ***
+http://dgtstreams.live:80/live/RzYsjcpRIJ/OVpzSCOyip/0.ts
+#EXTINF:-1,PrimaFila 1
+http://dgtstreams.live:80/live/RzYsjcpRIJ/OVpzSCOyip/197.ts
+#EXTINF:-1,PrimaFila 2
+http://dgtstreams.live:80/live/RzYsjcpRIJ/OVpzSCOyip/198.ts
+#EXTINF:-1,PrimaFila 2
+http://dgtstreams.live:80/live/RzYsjcpRIJ/OVpzSCOyip/207.ts
+#EXTINF:-1,PrimaFila 3
+http://dgtstreams.live:80/live/RzYsjcpRIJ/OVpzSCOyip/199.ts
+#EXTINF:-1,PrimaFila 3
+http://dgtstreams.live:80/live/RzYsjcpRIJ/OVpzSCOyip/206.ts
+#EXTINF:-1,PrimaFila 4
+http://dgtstreams.live:80/live/RzYsjcpRIJ/OVpzSCOyip/205.ts
+#EXTINF:-1,PrimaFila 5
+http://dgtstreams.live:80/live/RzYsjcpRIJ/OVpzSCOyip/204.ts
+#EXTINF:-1,PrimaFila 6
+http://dgtstreams.live:80/live/RzYsjcpRIJ/OVpzSCOyip/203.ts
+#EXTINF:-1,PrimaFila 7
+http://dgtstreams.live:80/live/RzYsjcpRIJ/OVpzSCOyip/202.ts
+#EXTINF:-1,PrimaFila 8
+http://dgtstreams.live:80/live/RzYsjcpRIJ/OVpzSCOyip/201.ts
+#EXTINF:-1,PrimaFila 9
+http://dgtstreams.live:80/live/RzYsjcpRIJ/OVpzSCOyip/200.ts
+#EXTINF:-1,PrimaFila 10
+http://dgtstreams.live:80/live/RzYsjcpRIJ/OVpzSCOyip/215.ts
+#EXTINF:-1,PrimaFila 10
+http://dgtstreams.live:80/live/RzYsjcpRIJ/OVpzSCOyip/216.ts
+#EXTINF:-1,PrimaFila 11
+http://dgtstreams.live:80/live/RzYsjcpRIJ/OVpzSCOyip/214.ts
+#EXTINF:-1,PrimaFila 12
+http://dgtstreams.live:80/live/RzYsjcpRIJ/OVpzSCOyip/213.ts
+#EXTINF:-1,PrimaFila 13
+http://dgtstreams.live:80/live/RzYsjcpRIJ/OVpzSCOyip/212.ts
+#EXTINF:-1,PrimaFila 14
+http://dgtstreams.live:80/live/RzYsjcpRIJ/OVpzSCOyip/211.ts
+#EXTINF:-1,PrimaFila 15
+http://dgtstreams.live:80/live/RzYsjcpRIJ/OVpzSCOyip/210.ts
+#EXTINF:-1,PrimaFila 16
+http://dgtstreams.live:80/live/RzYsjcpRIJ/OVpzSCOyip/209.ts
+#EXTINF:-1,PrimaFila 17
+http://dgtstreams.live:80/live/RzYsjcpRIJ/OVpzSCOyip/208.ts
 #EXTINF:-1,*** CULTURA ***
 http://dgtstreams.live:80/live/RzYsjcpRIJ/OVpzSCOyip/0.ts
 #EXTINF:-1,Sky Arte Full HD
 http://dgtstreams.live:80/live/RzYsjcpRIJ/OVpzSCOyip/84.ts
 #EXTINF:-1,Sky Arte HD
 http://dgtstreams.live:80/live/RzYsjcpRIJ/OVpzSCOyip/85.ts
+#EXTINF:-1,Discovery Channel HD
+http://dgtstreams.live:80/live/RzYsjcpRIJ/OVpzSCOyip/86.ts
 #EXTINF:-1,National Geo HD
 http://dgtstreams.live:80/live/RzYsjcpRIJ/OVpzSCOyip/87.ts
 #EXTINF:-1,Discovery Sci Full HD
@@ -153,25 +221,17 @@ http://dgtstreams.live:80/live/RzYsjcpRIJ/OVpzSCOyip/90.ts
 http://dgtstreams.live:80/live/RzYsjcpRIJ/OVpzSCOyip/91.ts
 #EXTINF:-1,National Wild HD
 http://dgtstreams.live:80/live/RzYsjcpRIJ/OVpzSCOyip/92.ts
-#EXTINF:-1,National Geo People Full HD
-http://dgtstreams.live:80/live/RzYsjcpRIJ/OVpzSCOyip/93.ts
-#EXTINF:-1,National Geo People HD
-http://dgtstreams.live:80/live/RzYsjcpRIJ/OVpzSCOyip/94.ts
 #EXTINF:-1,Gambero Rosso HD
 http://dgtstreams.live:80/live/RzYsjcpRIJ/OVpzSCOyip/95.ts
-#EXTINF:-1,Focus
-http://dgtstreams.live:80/live/RzYsjcpRIJ/OVpzSCOyip/17.ts
 #EXTINF:-1,Food Network HD
 http://dgtstreams.live:80/live/RzYsjcpRIJ/OVpzSCOyip/96.ts
-#EXTINF:-1,Classica HD
-http://dgtstreams.live:80/live/RzYsjcpRIJ/OVpzSCOyip/62.ts
 #EXTINF:-1,*** Sport ***
 http://dgtstreams.live:80/live/RzYsjcpRIJ/OVpzSCOyip/0.ts
 #EXTINF:-1,Sky Sport 24 Full HD
 http://dgtstreams.live:80/live/RzYsjcpRIJ/OVpzSCOyip/114.ts
 #EXTINF:-1,Sky Sport 24 HD
 http://dgtstreams.live:80/live/RzYsjcpRIJ/OVpzSCOyip/115.ts
-#EXTINF:-1,Sky Sport Uno
+#EXTINF:-1,Sky Sport Uno HD
 http://dgtstreams.live:80/live/RzYsjcpRIJ/OVpzSCOyip/2.ts
 #EXTINF:-1,Sky Sport Uno SUPER HD
 http://dgtstreams.live:80/live/RzYsjcpRIJ/OVpzSCOyip/116.ts
@@ -207,6 +267,18 @@ http://dgtstreams.live:80/live/RzYsjcpRIJ/OVpzSCOyip/131.ts
 http://dgtstreams.live:80/live/RzYsjcpRIJ/OVpzSCOyip/132.ts
 #EXTINF:-1,Sky Sport Serie A HD
 http://dgtstreams.live:80/live/RzYsjcpRIJ/OVpzSCOyip/133.ts
+#EXTINF:-1,Sky Sport 251 SUPER HD
+http://dgtstreams.live:80/live/RzYsjcpRIJ/OVpzSCOyip/147.ts
+#EXTINF:-1,Sky Sport 252 SUPER HD
+http://dgtstreams.live:80/live/RzYsjcpRIJ/OVpzSCOyip/148.ts
+#EXTINF:-1,Sky Sport 253 SUPER HD
+http://dgtstreams.live:80/live/RzYsjcpRIJ/OVpzSCOyip/149.ts
+#EXTINF:-1,Sky Sport 254 SUPER HD
+http://dgtstreams.live:80/live/RzYsjcpRIJ/OVpzSCOyip/150.ts
+#EXTINF:-1,Sky Sport 255 SUPER HD
+http://dgtstreams.live:80/live/RzYsjcpRIJ/OVpzSCOyip/151.ts
+#EXTINF:-1,Sky Sport 256 Full HD
+http://dgtstreams.live:80/live/RzYsjcpRIJ/OVpzSCOyip/152.ts
 #EXTINF:-1,Sky Sport 251 HD
 http://dgtstreams.live:80/live/RzYsjcpRIJ/OVpzSCOyip/134.ts
 #EXTINF:-1,Sky Sport 252 HD
@@ -233,18 +305,6 @@ http://dgtstreams.live:80/live/RzYsjcpRIJ/OVpzSCOyip/144.ts
 http://dgtstreams.live:80/live/RzYsjcpRIJ/OVpzSCOyip/145.ts
 #EXTINF:-1,Sky Sport 263 HD
 http://dgtstreams.live:80/live/RzYsjcpRIJ/OVpzSCOyip/146.ts
-#EXTINF:-1,Sky Sport 251 SUPER HD
-http://dgtstreams.live:80/live/RzYsjcpRIJ/OVpzSCOyip/147.ts
-#EXTINF:-1,Sky Sport 252 SUPER HD
-http://dgtstreams.live:80/live/RzYsjcpRIJ/OVpzSCOyip/148.ts
-#EXTINF:-1,Sky Sport 253 SUPER HD
-http://dgtstreams.live:80/live/RzYsjcpRIJ/OVpzSCOyip/149.ts
-#EXTINF:-1,Sky Sport 254 SUPER HD
-http://dgtstreams.live:80/live/RzYsjcpRIJ/OVpzSCOyip/150.ts
-#EXTINF:-1,Sky Sport 255 SUPER HD
-http://dgtstreams.live:80/live/RzYsjcpRIJ/OVpzSCOyip/151.ts
-#EXTINF:-1,Sky Sport 256 Full HD
-http://dgtstreams.live:80/live/RzYsjcpRIJ/OVpzSCOyip/152.ts
 #EXTINF:-1,Eleven Sports 1 HD
 http://dgtstreams.live:80/live/RzYsjcpRIJ/OVpzSCOyip/153.ts
 #EXTINF:-1,Eleven Sports 2 HD
@@ -283,6 +343,8 @@ http://dgtstreams.live:80/live/RzYsjcpRIJ/OVpzSCOyip/97.ts
 http://dgtstreams.live:80/live/RzYsjcpRIJ/OVpzSCOyip/98.ts
 #EXTINF:-1,DAZN SERIE A
 http://dgtstreams.live:80/live/RzYsjcpRIJ/OVpzSCOyip/99.ts
+#EXTINF:-1,DAZN 1 ONE HD
+http://dgtstreams.live:80/live/RzYsjcpRIJ/OVpzSCOyip/195.ts
 #EXTINF:-1,DAZN 1
 http://dgtstreams.live:80/live/RzYsjcpRIJ/OVpzSCOyip/100.ts
 #EXTINF:-1,DAZN 2
@@ -311,6 +373,166 @@ http://dgtstreams.live:80/live/RzYsjcpRIJ/OVpzSCOyip/111.ts
 http://dgtstreams.live:80/live/RzYsjcpRIJ/OVpzSCOyip/112.ts
 #EXTINF:-1,DAZN 14
 http://dgtstreams.live:80/live/RzYsjcpRIJ/OVpzSCOyip/113.ts
+#EXTINF:-1,*** LEGA PRO ***
+http://dgtstreams.live:80/live/RzYsjcpRIJ/OVpzSCOyip/0.ts
+#EXTINF:-1,LEGAPRO Albinoleffe
+http://dgtstreams.live:80/live/RzYsjcpRIJ/OVpzSCOyip/220.ts
+#EXTINF:-1,LEGAPRO Albissola
+http://dgtstreams.live:80/live/RzYsjcpRIJ/OVpzSCOyip/221.ts
+#EXTINF:-1,LEGAPRO Alessandria
+http://dgtstreams.live:80/live/RzYsjcpRIJ/OVpzSCOyip/222.ts
+#EXTINF:-1,LEGAPRO AltoAdige
+http://dgtstreams.live:80/live/RzYsjcpRIJ/OVpzSCOyip/223.ts
+#EXTINF:-1,LEGAPRO Arezzo
+http://dgtstreams.live:80/live/RzYsjcpRIJ/OVpzSCOyip/224.ts
+#EXTINF:-1,LEGAPRO Arzachena
+http://dgtstreams.live:80/live/RzYsjcpRIJ/OVpzSCOyip/225.ts
+#EXTINF:-1,LEGAPRO Avellino
+http://dgtstreams.live:80/live/RzYsjcpRIJ/OVpzSCOyip/226.ts
+#EXTINF:-1,LEGAPRO AZPicerno
+http://dgtstreams.live:80/live/RzYsjcpRIJ/OVpzSCOyip/227.ts
+#EXTINF:-1,LEGAPRO Bari
+http://dgtstreams.live:80/live/RzYsjcpRIJ/OVpzSCOyip/228.ts
+#EXTINF:-1,LEGAPRO Bisceglie
+http://dgtstreams.live:80/live/RzYsjcpRIJ/OVpzSCOyip/229.ts
+#EXTINF:-1,LEGAPRO Carpi
+http://dgtstreams.live:80/live/RzYsjcpRIJ/OVpzSCOyip/230.ts
+#EXTINF:-1,LEGAPRO Carrarese
+http://dgtstreams.live:80/live/RzYsjcpRIJ/OVpzSCOyip/231.ts
+#EXTINF:-1,LEGAPRO Casertana
+http://dgtstreams.live:80/live/RzYsjcpRIJ/OVpzSCOyip/232.ts
+#EXTINF:-1,LEGAPRO CATANIA
+http://dgtstreams.live:80/live/RzYsjcpRIJ/OVpzSCOyip/233.ts
+#EXTINF:-1,LEGAPRO Catanzaro
+http://dgtstreams.live:80/live/RzYsjcpRIJ/OVpzSCOyip/234.ts
+#EXTINF:-1,LEGAPRO Cavese
+http://dgtstreams.live:80/live/RzYsjcpRIJ/OVpzSCOyip/235.ts
+#EXTINF:-1,LEGAPRO Cesena
+http://dgtstreams.live:80/live/RzYsjcpRIJ/OVpzSCOyip/236.ts
+#EXTINF:-1,LEGAPRO Como
+http://dgtstreams.live:80/live/RzYsjcpRIJ/OVpzSCOyip/237.ts
+#EXTINF:-1,LEGAPRO Cuneo
+http://dgtstreams.live:80/live/RzYsjcpRIJ/OVpzSCOyip/238.ts
+#EXTINF:-1,LEGAPRO Fano
+http://dgtstreams.live:80/live/RzYsjcpRIJ/OVpzSCOyip/239.ts
+#EXTINF:-1,LEGAPRO Feralpisalo
+http://dgtstreams.live:80/live/RzYsjcpRIJ/OVpzSCOyip/240.ts
+#EXTINF:-1,LEGAPRO Fermana
+http://dgtstreams.live:80/live/RzYsjcpRIJ/OVpzSCOyip/241.ts
+#EXTINF:-1,LEGAPRO Francavilla
+http://dgtstreams.live:80/live/RzYsjcpRIJ/OVpzSCOyip/243.ts
+#EXTINF:-1,LEGAPRO GianaErminio
+http://dgtstreams.live:80/live/RzYsjcpRIJ/OVpzSCOyip/244.ts
+#EXTINF:-1,LEGAPRO Gozzano
+http://dgtstreams.live:80/live/RzYsjcpRIJ/OVpzSCOyip/245.ts
+#EXTINF:-1,LEGAPRO Gubbio
+http://dgtstreams.live:80/live/RzYsjcpRIJ/OVpzSCOyip/246.ts
+#EXTINF:-1,LEGAPRO Imolese
+http://dgtstreams.live:80/live/RzYsjcpRIJ/OVpzSCOyip/247.ts
+#EXTINF:-1,LEGAPRO Juventus23
+http://dgtstreams.live:80/live/RzYsjcpRIJ/OVpzSCOyip/249.ts
+#EXTINF:-1,LEGAPRO JuveStabia
+http://dgtstreams.live:80/live/RzYsjcpRIJ/OVpzSCOyip/248.ts
+#EXTINF:-1,LEGAPRO Lecco
+http://dgtstreams.live:80/live/RzYsjcpRIJ/OVpzSCOyip/250.ts
+#EXTINF:-1,LEGAPRO Lucchese
+http://dgtstreams.live:80/live/RzYsjcpRIJ/OVpzSCOyip/251.ts
+#EXTINF:-1,LEGAPRO Matera
+http://dgtstreams.live:80/live/RzYsjcpRIJ/OVpzSCOyip/252.ts
+#EXTINF:-1,LEGAPRO Modena
+http://dgtstreams.live:80/live/RzYsjcpRIJ/OVpzSCOyip/253.ts
+#EXTINF:-1,LEGAPRO Monopoli
+http://dgtstreams.live:80/live/RzYsjcpRIJ/OVpzSCOyip/254.ts
+#EXTINF:-1,LEGAPRO Monza
+http://dgtstreams.live:80/live/RzYsjcpRIJ/OVpzSCOyip/255.ts
+#EXTINF:-1,LEGAPRO Novara
+http://dgtstreams.live:80/live/RzYsjcpRIJ/OVpzSCOyip/256.ts
+#EXTINF:-1,LEGAPRO Olbia
+http://dgtstreams.live:80/live/RzYsjcpRIJ/OVpzSCOyip/257.ts
+#EXTINF:-1,LEGAPRO Padova
+http://dgtstreams.live:80/live/RzYsjcpRIJ/OVpzSCOyip/258.ts
+#EXTINF:-1,LEGAPRO Paganese
+http://dgtstreams.live:80/live/RzYsjcpRIJ/OVpzSCOyip/259.ts
+#EXTINF:-1,LEGAPRO Pergolettese
+http://dgtstreams.live:80/live/RzYsjcpRIJ/OVpzSCOyip/261.ts
+#EXTINF:-1,LEGAPRO Pianese
+http://dgtstreams.live:80/live/RzYsjcpRIJ/OVpzSCOyip/262.ts
+#EXTINF:-1,LEGAPRO Pistoiese
+http://dgtstreams.live:80/live/RzYsjcpRIJ/OVpzSCOyip/263.ts
+#EXTINF:-1,LEGAPRO Pontedera
+http://dgtstreams.live:80/live/RzYsjcpRIJ/OVpzSCOyip/264.ts
+#EXTINF:-1,LEGAPRO Pordenone
+http://dgtstreams.live:80/live/RzYsjcpRIJ/OVpzSCOyip/265.ts
+#EXTINF:-1,LEGAPRO Potenza
+http://dgtstreams.live:80/live/RzYsjcpRIJ/OVpzSCOyip/266.ts
+#EXTINF:-1,LEGAPRO ProPatria
+http://dgtstreams.live:80/live/RzYsjcpRIJ/OVpzSCOyip/267.ts
+#EXTINF:-1,LEGAPRO ProPiacenza
+http://dgtstreams.live:80/live/RzYsjcpRIJ/OVpzSCOyip/218.ts
+#EXTINF:-1,LEGAPRO Provercelli
+http://dgtstreams.live:80/live/RzYsjcpRIJ/OVpzSCOyip/217.ts
+#EXTINF:-1,LEGAPRO Ravenna
+http://dgtstreams.live:80/live/RzYsjcpRIJ/OVpzSCOyip/268.ts
+#EXTINF:-1,LEGAPRO Reggina
+http://dgtstreams.live:80/live/RzYsjcpRIJ/OVpzSCOyip/269.ts
+#EXTINF:-1,LEGAPRO ReggioAudace
+http://dgtstreams.live:80/live/RzYsjcpRIJ/OVpzSCOyip/270.ts
+#EXTINF:-1,LEGAPRO Renate
+http://dgtstreams.live:80/live/RzYsjcpRIJ/OVpzSCOyip/271.ts
+#EXTINF:-1,LEGAPRO Rende
+http://dgtstreams.live:80/live/RzYsjcpRIJ/OVpzSCOyip/272.ts
+#EXTINF:-1,LEGAPRO Rieti
+http://dgtstreams.live:80/live/RzYsjcpRIJ/OVpzSCOyip/273.ts
+#EXTINF:-1,LEGAPRO Rimini
+http://dgtstreams.live:80/live/RzYsjcpRIJ/OVpzSCOyip/274.ts
+#EXTINF:-1,LEGAPRO RoburSiena
+http://dgtstreams.live:80/live/RzYsjcpRIJ/OVpzSCOyip/219.ts
+#EXTINF:-1,LEGAPRO Sambenedettese
+http://dgtstreams.live:80/live/RzYsjcpRIJ/OVpzSCOyip/275.ts
+#EXTINF:-1,LEGAPRO SiculaLeonzio
+http://dgtstreams.live:80/live/RzYsjcpRIJ/OVpzSCOyip/276.ts
+#EXTINF:-1,LEGAPRO Siracusa
+http://dgtstreams.live:80/live/RzYsjcpRIJ/OVpzSCOyip/277.ts
+#EXTINF:-1,LEGAPRO Sudtirol
+http://dgtstreams.live:80/live/RzYsjcpRIJ/OVpzSCOyip/278.ts
+#EXTINF:-1,LEGAPRO Teramo
+http://dgtstreams.live:80/live/RzYsjcpRIJ/OVpzSCOyip/279.ts
+#EXTINF:-1,LEGAPRO Ternana
+http://dgtstreams.live:80/live/RzYsjcpRIJ/OVpzSCOyip/280.ts
+#EXTINF:-1,LEGAPRO Trapani
+http://dgtstreams.live:80/live/RzYsjcpRIJ/OVpzSCOyip/281.ts
+#EXTINF:-1,LEGAPRO Triestina
+http://dgtstreams.live:80/live/RzYsjcpRIJ/OVpzSCOyip/282.ts
+#EXTINF:-1,LEGAPRO UnionArzignanoChiampo
+http://dgtstreams.live:80/live/RzYsjcpRIJ/OVpzSCOyip/283.ts
+#EXTINF:-1,LEGAPRO Vibonese
+http://dgtstreams.live:80/live/RzYsjcpRIJ/OVpzSCOyip/285.ts
+#EXTINF:-1,LEGAPRO Vicenza
+http://dgtstreams.live:80/live/RzYsjcpRIJ/OVpzSCOyip/286.ts
+#EXTINF:-1,LEGAPRO VirtusEntella
+http://dgtstreams.live:80/live/RzYsjcpRIJ/OVpzSCOyip/287.ts
+#EXTINF:-1,LEGAPRO VirtusFrancavilla
+http://dgtstreams.live:80/live/RzYsjcpRIJ/OVpzSCOyip/288.ts
+#EXTINF:-1,LEGAPRO VirtusVerona
+http://dgtstreams.live:80/live/RzYsjcpRIJ/OVpzSCOyip/284.ts
+#EXTINF:-1,LEGAPRO VisPesaro
+http://dgtstreams.live:80/live/RzYsjcpRIJ/OVpzSCOyip/289.ts
+#EXTINF:-1,LEGAPRO Viterbese
+http://dgtstreams.live:80/live/RzYsjcpRIJ/OVpzSCOyip/290.ts
+#EXTINF:-1,LEGAPRO ViterbeseCastrese
+http://dgtstreams.live:80/live/RzYsjcpRIJ/OVpzSCOyip/291.ts
+#EXTINF:-1,SERIED FOGGIA
+http://dgtstreams.live:80/live/RzYsjcpRIJ/OVpzSCOyip/242.ts
+#EXTINF:-1,SERIED PALERMO
+http://dgtstreams.live:80/live/RzYsjcpRIJ/OVpzSCOyip/260.ts
+#EXTINF:-1,*** NEWS ***
+http://dgtstreams.live:80/live/RzYsjcpRIJ/OVpzSCOyip/0.ts
+#EXTINF:-1,Sky Tg 24 HD
+http://dgtstreams.live:80/live/RzYsjcpRIJ/OVpzSCOyip/168.ts
+#EXTINF:-1,Tgcom24
+http://dgtstreams.live:80/live/RzYsjcpRIJ/OVpzSCOyip/170.ts
+#EXTINF:-1,Rai News 24
+http://dgtstreams.live:80/live/RzYsjcpRIJ/OVpzSCOyip/169.ts
 #EXTINF:-1,*** MUSICA ***
 http://dgtstreams.live:80/live/RzYsjcpRIJ/OVpzSCOyip/0.ts
 #EXTINF:-1,Radio 105 TV
@@ -329,10 +551,10 @@ http://dgtstreams.live:80/live/RzYsjcpRIJ/OVpzSCOyip/0.ts
 http://dgtstreams.live:80/live/RzYsjcpRIJ/OVpzSCOyip/176.ts
 #EXTINF:-1,Nickelodeon
 http://dgtstreams.live:80/live/RzYsjcpRIJ/OVpzSCOyip/177.ts
-#EXTINF:-1,Nick Jr
-http://dgtstreams.live:80/live/RzYsjcpRIJ/OVpzSCOyip/191.ts
 #EXTINF:-1,Boomerang
 http://dgtstreams.live:80/live/RzYsjcpRIJ/OVpzSCOyip/178.ts
+#EXTINF:-1,Nick Jr
+http://dgtstreams.live:80/live/RzYsjcpRIJ/OVpzSCOyip/191.ts
 #EXTINF:-1,MAN-GA
 http://dgtstreams.live:80/live/RzYsjcpRIJ/OVpzSCOyip/179.ts
 #EXTINF:-1,Baby TV
