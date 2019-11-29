@@ -1,12 +1,4 @@
-#EXTM3U
-#EXTINF:-1 tvg-id="" tvg-name="*** TOP ITALIA ***" tvg-logo="" group-title="Top Italia",*** TOP ITALIA ***
-http://dgtstreams.live:80/RzYsjcpRIJ/OVpzSCOyip/254
-#EXTINF:-1 tvg-id="Rai1.it" tvg-name="Rai1 HD" tvg-logo="" group-title="Top Italia",Rai1 HD
-http://dgtstreams.live:80/RzYsjcpRIJ/OVpzSCOyip/2
-#EXTINF:-1 tvg-id="Rai2.it" tvg-name="Rai2 HD" tvg-logo="" group-title="Top Italia",Rai2 HD
-http://dgtstreams.live:80/RzYsjcpRIJ/OVpzSCOyip/3
-#EXTINF:-1 tvg-id="Rai3.it" tvg-name="Rai3 HD" tvg-logo="" group-title="Top Italia",Rai3 HD
-http://dgtstreams.live:80/RzYsjcpRIJ/OVpzSCOyip/4
+
 #EXTINF:-1 tvg-id="Rete4.it" tvg-name="Rete 4 HD" tvg-logo="" group-title="Top Italia",Rete 4 HD
 http://dgtstreams.live:80/RzYsjcpRIJ/OVpzSCOyip/5
 #EXTINF:-1 tvg-id="Canale5.it" tvg-name="Canale 5 HD" tvg-logo="" group-title="Top Italia",Canale 5 HD
@@ -49,13 +41,13 @@ http://dgtstreams.live:80/RzYsjcpRIJ/OVpzSCOyip/24
 http://dgtstreams.live:80/RzYsjcpRIJ/OVpzSCOyip/23
 #EXTINF:-1 tvg-id="RaiStoria.it" tvg-name="Rai Storia" tvg-logo="" group-title="Top Italia",Rai Storia
 http://dgtstreams.live:80/RzYsjcpRIJ/OVpzSCOyip/29
-#EXTINF:-1 tvg-id="RaiSport.it" tvg-name="Rai Sport 1 HD" tvg-logo="" group-title="Top Italia",Rai Sport 1 HD
+#EXTINF:-1 tvg-id="RaiSport.it" tvg-name="Rai Sport 1 HD" tvg-logo="" group-title="Sport",Rai Sport 1 HD
 http://dgtstreams.live:80/RzYsjcpRIJ/OVpzSCOyip/28
 #EXTINF:-1 tvg-id="" tvg-name="RSI LA 1 HD" tvg-logo="" group-title="Top Italia",RSI LA 1 HD
 http://dgtstreams.live:80/RzYsjcpRIJ/OVpzSCOyip/27
 #EXTINF:-1 tvg-id="" tvg-name="RSI LA 2 HD" tvg-logo="" group-title="Top Italia",RSI LA 2 HD
 http://dgtstreams.live:80/RzYsjcpRIJ/OVpzSCOyip/30
-#EXTINF:-1 tvg-id="" tvg-name="*** INTRATTENIMENTO ***" tvg-logo="" group-title="Intrattenimento",*** INTRATTENIMENTO ***
+#EXTINF:-1 tvg-id="" tvg-name="--- INTRATTENIMENTO ---" tvg-logo="" group-title="Intrattenimento",--- INTRATTENIMENTO ---
 http://dgtstreams.live:80/RzYsjcpRIJ/OVpzSCOyip/255
 #EXTINF:-1 tvg-id="SkyUno.it" tvg-name="Sky Uno Full HD" tvg-logo="" group-title="Intrattenimento",Sky Uno Full HD
 http://dgtstreams.live:80/RzYsjcpRIJ/OVpzSCOyip/26
@@ -95,7 +87,7 @@ http://dgtstreams.live:80/RzYsjcpRIJ/OVpzSCOyip/164
 http://dgtstreams.live:80/RzYsjcpRIJ/OVpzSCOyip/49
 #EXTINF:-1 tvg-id="MTV.it" tvg-name="MTV HD" tvg-logo="" group-title="Intrattenimento",MTV HD
 http://dgtstreams.live:80/RzYsjcpRIJ/OVpzSCOyip/42
-#EXTINF:-1 tvg-id="" tvg-name="*** CINEMA ***" tvg-logo="" group-title="Cinema",*** CINEMA ***
+#EXTINF:-1 tvg-id="" tvg-name="--- CINEMA ---" tvg-logo="" group-title="Cinema",--- CINEMA ---
 http://dgtstreams.live:80/RzYsjcpRIJ/OVpzSCOyip/256
 #EXTINF:-1 tvg-id="SkyCinemaUno.it" tvg-name="Sky Cinema Uno SUPER HD" tvg-logo="" group-title="Cinema",Sky Cinema Uno SUPER HD
 http://dgtstreams.live:80/RzYsjcpRIJ/OVpzSCOyip/51
@@ -109,6 +101,8 @@ http://dgtstreams.live:80/RzYsjcpRIJ/OVpzSCOyip/50
 http://dgtstreams.live:80/RzYsjcpRIJ/OVpzSCOyip/45
 #EXTINF:-1 tvg-id="SkyCinemaDue.it" tvg-name="Sky Cinema Due HD" tvg-logo="" group-title="Cinema",Sky Cinema Due HD
 http://dgtstreams.live:80/RzYsjcpRIJ/OVpzSCOyip/46
+#EXTINF:-1 tvg-id="SkyCinemaDue+24.it" tvg-name="Sky Cinema Due +24 HD" tvg-logo="" group-title="Cinema",Sky Cinema Due +24 HD
+http://dgtstreams.live:80/RzYsjcpRIJ/OVpzSCOyip/308
 #EXTINF:-1 tvg-id="SkyCinemaCollection.it" tvg-name="Sky Cinema Collection SUPER HD" tvg-logo="" group-title="Cinema",Sky Cinema Collection SUPER HD
 http://dgtstreams.live:80/RzYsjcpRIJ/OVpzSCOyip/47
 #EXTINF:-1 tvg-id="SkyCinemaCollection.it" tvg-name="Sky Cinema Collection HD" tvg-logo="" group-title="Cinema",Sky Cinema Collection HD
@@ -155,12 +149,42 @@ http://dgtstreams.live:80/RzYsjcpRIJ/OVpzSCOyip/169
 http://dgtstreams.live:80/RzYsjcpRIJ/OVpzSCOyip/171
 #EXTINF:-1 tvg-id="TopCrime.it" tvg-name="Premium TopCrime" tvg-logo="" group-title="Cinema",Premium TopCrime
 http://dgtstreams.live:80/RzYsjcpRIJ/OVpzSCOyip/173
+#EXTINF:-1 tvg-id="Spike.it" tvg-name="Spike" tvg-logo="" group-title="Intrattenimento",Spike
+http://dgtstreams.live:80/RzYsjcpRIJ/OVpzSCOyip/276
+#EXTINF:-1 tvg-id="alpha59.it" tvg-name="Alpha" tvg-logo="" group-title="Intrattenimento",Alpha
+http://dgtstreams.live:80/RzYsjcpRIJ/OVpzSCOyip/279
+#EXTINF:-1 tvg-id="" tvg-name="--- PRIMAFILA ---" tvg-logo="" group-title="Primafila",--- PRIMAFILA ---
+http://dgtstreams.live:80/RzYsjcpRIJ/OVpzSCOyip/257
+#EXTINF:-1 tvg-id="" tvg-name="Primafila 1" tvg-logo="" group-title="Primafila",Primafila 1
+http://dgtstreams.live:80/movie/RzYsjcpRIJ/OVpzSCOyip/267.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Primafila 2" tvg-logo="" group-title="Primafila",Primafila 2
+http://dgtstreams.live:80/movie/RzYsjcpRIJ/OVpzSCOyip/268.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Primafila 4" tvg-logo="" group-title="Primafila",Primafila 4
+http://dgtstreams.live:80/movie/RzYsjcpRIJ/OVpzSCOyip/269.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Primafila 8" tvg-logo="" group-title="Primafila",Primafila 8
+http://dgtstreams.live:80/movie/RzYsjcpRIJ/OVpzSCOyip/270.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Primafila 10" tvg-logo="" group-title="Primafila",Primafila 10
+http://dgtstreams.live:80/movie/RzYsjcpRIJ/OVpzSCOyip/271.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Primafila 13" tvg-logo="" group-title="Primafila",Primafila 13
+http://dgtstreams.live:80/movie/RzYsjcpRIJ/OVpzSCOyip/272.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Primafila 14" tvg-logo="" group-title="Primafila",Primafila 14
+http://dgtstreams.live:80/movie/RzYsjcpRIJ/OVpzSCOyip/273.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Primafila 15" tvg-logo="" group-title="Primafila",Primafila 15
+http://dgtstreams.live:80/movie/RzYsjcpRIJ/OVpzSCOyip/274.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Primafila 16" tvg-logo="" group-title="Primafila",Primafila 16
+http://dgtstreams.live:80/movie/RzYsjcpRIJ/OVpzSCOyip/275.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Primafila 6" tvg-logo="" group-title="Primafila",Primafila 6
+http://dgtstreams.live:80/movie/RzYsjcpRIJ/OVpzSCOyip/307.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Primafila 3" tvg-logo="" group-title="Primafila",Primafila 3
+http://dgtstreams.live:80/movie/RzYsjcpRIJ/OVpzSCOyip/310.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Primafila 17" tvg-logo="" group-title="Primafila",Primafila 17
+http://dgtstreams.live:80/movie/RzYsjcpRIJ/OVpzSCOyip/312.mkv
+#EXTINF:-1 tvg-id="" tvg-name="--- CULTURA ---" tvg-logo="" group-title="Cultura",--- CULTURA ---
+http://dgtstreams.live:80/RzYsjcpRIJ/OVpzSCOyip/258
 #EXTINF:-1 tvg-id="SkyArte.it" tvg-name="Sky Arte Full HD" tvg-logo="" group-title="Cultura",Sky Arte Full HD
 http://dgtstreams.live:80/RzYsjcpRIJ/OVpzSCOyip/83
 #EXTINF:-1 tvg-id="SkyArte.it" tvg-name="Sky Arte HD" tvg-logo="" group-title="Cultura",Sky Arte HD
 http://dgtstreams.live:80/RzYsjcpRIJ/OVpzSCOyip/82
-#EXTINF:-1 tvg-id="" tvg-name="*** CULTURA ***" tvg-logo="" group-title="Cultura",*** CULTURA ***
-http://dgtstreams.live:80/RzYsjcpRIJ/OVpzSCOyip/258
 #EXTINF:-1 tvg-id="Discovery.it" tvg-name="Discovery Channel HD" tvg-logo="" group-title="Cultura",Discovery Channel HD
 http://dgtstreams.live:80/RzYsjcpRIJ/OVpzSCOyip/96
 #EXTINF:-1 tvg-id="NationalGeo.it" tvg-name="National Geo HD" tvg-logo="" group-title="Cultura",National Geo HD
@@ -179,9 +203,7 @@ http://dgtstreams.live:80/RzYsjcpRIJ/OVpzSCOyip/97
 http://dgtstreams.live:80/RzYsjcpRIJ/OVpzSCOyip/76
 #EXTINF:-1 tvg-id="FoodNetwork.it" tvg-name="Food Network HD" tvg-logo="" group-title="Cultura",Food Network HD
 http://dgtstreams.live:80/RzYsjcpRIJ/OVpzSCOyip/98
-#EXTINF:-1 tvg-id="" tvg-name="*** PRIMAFILA ***" tvg-logo="" group-title="Primafila",*** PRIMAFILA ***
-http://dgtstreams.live:80/RzYsjcpRIJ/OVpzSCOyip/257
-#EXTINF:-1 tvg-id="" tvg-name="*** SPORT ***" tvg-logo="" group-title="Sport",*** SPORT ***
+#EXTINF:-1 tvg-id="" tvg-name="--- SPORT ---" tvg-logo="" group-title="Sport",--- SPORT ---
 http://dgtstreams.live:80/RzYsjcpRIJ/OVpzSCOyip/259
 #EXTINF:-1 tvg-id="SkySport24.it" tvg-name="Sky Sport 24 Full HD" tvg-logo="" group-title="Sport",Sky Sport 24 Full HD
 http://dgtstreams.live:80/RzYsjcpRIJ/OVpzSCOyip/62
@@ -283,11 +305,25 @@ http://dgtstreams.live:80/RzYsjcpRIJ/OVpzSCOyip/134
 http://dgtstreams.live:80/RzYsjcpRIJ/OVpzSCOyip/135
 #EXTINF:-1 tvg-id="SuperTennis.it" tvg-name="SuperTennis HD" tvg-logo="" group-title="Sport",SuperTennis HD
 http://dgtstreams.live:80/RzYsjcpRIJ/OVpzSCOyip/137
-#EXTINF:-1 tvg-id="" tvg-name="UnireSat HD" tvg-logo="" group-title="Sport",UnireSat HD
-http://dgtstreams.live:80/RzYsjcpRIJ/OVpzSCOyip/138
 #EXTINF:-1 tvg-id="" tvg-name="Top Calcio 24" tvg-logo="" group-title="Sport",Top Calcio 24
 http://dgtstreams.live:80/RzYsjcpRIJ/OVpzSCOyip/139
-#EXTINF:-1 tvg-id="" tvg-name="*** DAZN ***" tvg-logo="" group-title="DAZN",*** DAZN ***
+#EXTINF:-1 tvg-id="GinxEsportsTV.it" tvg-name="Sky Ginx Esport TV" tvg-logo="" group-title="Sport",Sky Ginx Esport TV
+http://dgtstreams.live:80/RzYsjcpRIJ/OVpzSCOyip/282
+#EXTINF:-1 tvg-id="" tvg-name="UnireSat HD" tvg-logo="" group-title="Sport",UnireSat HD
+http://dgtstreams.live:80/RzYsjcpRIJ/OVpzSCOyip/138
+#EXTINF:-1 tvg-id="" tvg-name="My Sports 1" tvg-logo="" group-title="Lega Pro",My Sports 1
+http://dgtstreams.live:80/RzYsjcpRIJ/OVpzSCOyip/295
+#EXTINF:-1 tvg-id="" tvg-name="My Sports 2" tvg-logo="" group-title="Lega Pro",My Sports 2
+http://dgtstreams.live:80/RzYsjcpRIJ/OVpzSCOyip/296
+#EXTINF:-1 tvg-id="" tvg-name="My Sports 3" tvg-logo="" group-title="Lega Pro",My Sports 3
+http://dgtstreams.live:80/RzYsjcpRIJ/OVpzSCOyip/297
+#EXTINF:-1 tvg-id="" tvg-name="My Sports 4" tvg-logo="" group-title="Lega Pro",My Sports 4
+http://dgtstreams.live:80/RzYsjcpRIJ/OVpzSCOyip/298
+#EXTINF:-1 tvg-id="" tvg-name="My Sports 6" tvg-logo="" group-title="Lega Pro",My Sports 6
+http://dgtstreams.live:80/RzYsjcpRIJ/OVpzSCOyip/300
+#EXTINF:-1 tvg-id="" tvg-name="My Sports 8" tvg-logo="" group-title="Lega Pro",My Sports 8
+http://dgtstreams.live:80/RzYsjcpRIJ/OVpzSCOyip/302
+#EXTINF:-1 tvg-id="" tvg-name="--- DAZN ---" tvg-logo="" group-title="DAZN",--- DAZN ---
 http://dgtstreams.live:80/RzYsjcpRIJ/OVpzSCOyip/260
 #EXTINF:-1 tvg-id="DAZN209.it" tvg-name="DAZN 1 SAT" tvg-logo="" group-title="DAZN",DAZN 1 SAT
 http://dgtstreams.live:80/RzYsjcpRIJ/OVpzSCOyip/75
@@ -321,7 +357,7 @@ http://dgtstreams.live:80/RzYsjcpRIJ/OVpzSCOyip/64
 http://dgtstreams.live:80/RzYsjcpRIJ/OVpzSCOyip/63
 #EXTINF:-1 tvg-id="" tvg-name="DAZN 14" tvg-logo="" group-title="DAZN",DAZN 14
 http://dgtstreams.live:80/RzYsjcpRIJ/OVpzSCOyip/101
-#EXTINF:-1 tvg-id="" tvg-name="*** LEGAPRO ***" tvg-logo="" group-title="Lega Pro",*** LEGAPRO ***
+#EXTINF:-1 tvg-id="" tvg-name="--- LEGAPRO ---" tvg-logo="" group-title="Lega Pro",--- LEGAPRO ---
 http://dgtstreams.live:80/RzYsjcpRIJ/OVpzSCOyip/261
 #EXTINF:-1 tvg-id="" tvg-name="LEGAPRO Bari" tvg-logo="" group-title="Lega Pro",LEGAPRO Bari
 http://dgtstreams.live:80/RzYsjcpRIJ/OVpzSCOyip/186
@@ -473,7 +509,7 @@ http://dgtstreams.live:80/RzYsjcpRIJ/OVpzSCOyip/242
 http://dgtstreams.live:80/RzYsjcpRIJ/OVpzSCOyip/218
 #EXTINF:-1 tvg-id="" tvg-name="SERIE D Foggia" tvg-logo="" group-title="Lega Pro",SERIE D Foggia
 http://dgtstreams.live:80/RzYsjcpRIJ/OVpzSCOyip/200
-#EXTINF:-1 tvg-id="" tvg-name="*** NEWS ***" tvg-logo="" group-title="News",*** NEWS ***
+#EXTINF:-1 tvg-id="" tvg-name="--- NEWS ---" tvg-logo="" group-title="News",--- NEWS ---
 http://dgtstreams.live:80/RzYsjcpRIJ/OVpzSCOyip/262
 #EXTINF:-1 tvg-id="Tgcom24.it" tvg-name="Tgcom24" tvg-logo="" group-title="News",Tgcom24
 http://dgtstreams.live:80/RzYsjcpRIJ/OVpzSCOyip/142
@@ -481,13 +517,17 @@ http://dgtstreams.live:80/RzYsjcpRIJ/OVpzSCOyip/142
 http://dgtstreams.live:80/RzYsjcpRIJ/OVpzSCOyip/141
 #EXTINF:-1 tvg-id="" tvg-name="Sky Tg 24 HD" tvg-logo="" group-title="News",Sky Tg 24 HD
 http://dgtstreams.live:80/RzYsjcpRIJ/OVpzSCOyip/140
-#EXTINF:-1 tvg-id="" tvg-name="*** MUSICA ***" tvg-logo="" group-title="Musica",*** MUSICA ***
+#EXTINF:-1 tvg-id="" tvg-name="--- MUSICA ---" tvg-logo="" group-title="Musica",--- MUSICA ---
 http://dgtstreams.live:80/RzYsjcpRIJ/OVpzSCOyip/263
 #EXTINF:-1 tvg-id="" tvg-name="Radio Italia TV" tvg-logo="" group-title="Musica",Radio Italia TV
 http://dgtstreams.live:80/RzYsjcpRIJ/OVpzSCOyip/266
 #EXTINF:-1 tvg-id="" tvg-name="RTL 102.5" tvg-logo="" group-title="Musica",RTL 102.5
 http://dgtstreams.live:80/RzYsjcpRIJ/OVpzSCOyip/265
-#EXTINF:-1 tvg-id="" tvg-name="*** BAMBINI ***" tvg-logo="" group-title="Bambini",*** BAMBINI ***
+#EXTINF:-1 tvg-id="VH1.it" tvg-name="VH1" tvg-logo="" group-title="Musica",VH1
+http://dgtstreams.live:80/RzYsjcpRIJ/OVpzSCOyip/281
+#EXTINF:-1 tvg-id="RDS.it" tvg-name="RDS TV" tvg-logo="" group-title="Musica",RDS TV
+http://dgtstreams.live:80/RzYsjcpRIJ/OVpzSCOyip/285
+#EXTINF:-1 tvg-id="" tvg-name="--- BAMBINI ---" tvg-logo="" group-title="Bambini",--- BAMBINI ---
 http://dgtstreams.live:80/RzYsjcpRIJ/OVpzSCOyip/264
 #EXTINF:-1 tvg-id="DisneyChannel.it" tvg-name="Disney Channel HD" tvg-logo="" group-title="Bambini",Disney Channel HD
 http://dgtstreams.live:80/RzYsjcpRIJ/OVpzSCOyip/148
@@ -507,7 +547,7 @@ http://dgtstreams.live:80/RzYsjcpRIJ/OVpzSCOyip/154
 http://dgtstreams.live:80/RzYsjcpRIJ/OVpzSCOyip/157
 #EXTINF:-1 tvg-id="BabyTV.it" tvg-name="Baby TV" tvg-logo="" group-title="Bambini",Baby TV
 http://dgtstreams.live:80/RzYsjcpRIJ/OVpzSCOyip/147
-#EXTINF:-1 tvg-id="Boing.it" tvg-name="Premium Boing" tvg-logo="" group-title="Bambini",Premium Boing
+#EXTINF:-1 tvg-id="Boing.it" tvg-name="Boing" tvg-logo="" group-title="Bambini",Boing
 http://dgtstreams.live:80/RzYsjcpRIJ/OVpzSCOyip/150
 #EXTINF:-1 tvg-id="Boomerang.it" tvg-name="Boomerang" tvg-logo="" group-title="Bambini",Boomerang
 http://dgtstreams.live:80/RzYsjcpRIJ/OVpzSCOyip/145
@@ -523,9 +563,69 @@ http://dgtstreams.live:80/RzYsjcpRIJ/OVpzSCOyip/155
 http://dgtstreams.live:80/RzYsjcpRIJ/OVpzSCOyip/153
 #EXTINF:-1 tvg-id="RaiYoyo.it" tvg-name="Rai YoYo" tvg-logo="" group-title="Bambini",Rai YoYo
 http://dgtstreams.live:80/RzYsjcpRIJ/OVpzSCOyip/152
-#EXTINF:-1 tvg-id="" tvg-name="Pescare & Cacciare TV" tvg-logo="" group-title="Altri canali",Pescare & Cacciare TV
-http://dgtstreams.live:80/RzYsjcpRIJ/OVpzSCOyip/136
-#EXTINF:-1 tvg-id="" tvg-name="RedBull TV" tvg-logo="" group-title="Altri canali",RedBull TV
-http://dgtstreams.live:80/RzYsjcpRIJ/OVpzSCOyip/104
-#EXTINF:-1 tvg-id="" tvg-name="POP" tvg-logo="" group-title="Altri canali",POP
-http://dgtstreams.live:80/RzYsjcpRIJ/OVpzSCOyip/158
+#EXTINF:-1 tvg-id="Boing.it" tvg-name="Boing Plus" tvg-logo="" group-title="Bambini",Boing Plus
+http://dgtstreams.live:80/RzYsjcpRIJ/OVpzSCOyip/306
+#EXTINF:-1 tvg-id="" tvg-name="--- NEWS AL CINEMA ---" tvg-logo="" group-title="News Al Cinema",--- NEWS AL CINEMA ---
+http://dgtstreams.live:80/movie/RzYsjcpRIJ/OVpzSCOyip/345.mkv
+#EXTINF:-1 tvg-id="" tvg-name="A Spasso col Panda (2019)" tvg-logo="" group-title="News Al Cinema",A Spasso col Panda (2019)
+http://dgtstreams.live:80/movie/RzYsjcpRIJ/OVpzSCOyip/313.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Ad Astra (2019)" tvg-logo="" group-title="News Al Cinema",Ad Astra (2019)
+http://dgtstreams.live:80/movie/RzYsjcpRIJ/OVpzSCOyip/315.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Brave Ragazze (2019)" tvg-logo="" group-title="News Al Cinema",Brave Ragazze (2019)
+http://dgtstreams.live:80/movie/RzYsjcpRIJ/OVpzSCOyip/316.mkv
+#EXTINF:-1 tvg-id="" tvg-name="C'era una volta a Hollywood (2019)" tvg-logo="" group-title="News Al Cinema",C'era una volta a Hollywood (2019)
+http://dgtstreams.live:80/movie/RzYsjcpRIJ/OVpzSCOyip/318.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Chiara Ferragni Unposted (2019)" tvg-logo="" group-title="News Al Cinema",Chiara Ferragni Unposted (2019)
+http://dgtstreams.live:80/movie/RzYsjcpRIJ/OVpzSCOyip/319.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Diego Maradona (2019)" tvg-logo="" group-title="News Al Cinema",Diego Maradona (2019)
+http://dgtstreams.live:80/movie/RzYsjcpRIJ/OVpzSCOyip/320.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Doctor Sleep (2019)" tvg-logo="" group-title="News Al Cinema",Doctor Sleep (2019)
+http://dgtstreams.live:80/movie/RzYsjcpRIJ/OVpzSCOyip/321.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Dora E La Citta Perduta (2019)" tvg-logo="" group-title="News Al Cinema",Dora E La Citta Perduta (2019)
+http://dgtstreams.live:80/movie/RzYsjcpRIJ/OVpzSCOyip/322.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Downton Abbey (2019)" tvg-logo="" group-title="News Al Cinema",Downton Abbey (2019)
+http://dgtstreams.live:80/movie/RzYsjcpRIJ/OVpzSCOyip/323.mkv
+#EXTINF:-1 tvg-id="" tvg-name="E Poi C'E Katherine (2019)" tvg-logo="" group-title="News Al Cinema",E Poi C'E Katherine (2019)
+http://dgtstreams.live:80/movie/RzYsjcpRIJ/OVpzSCOyip/324.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Finche Morte Non Ci Separi (2019)" tvg-logo="" group-title="News Al Cinema",Finche Morte Non Ci Separi (2019)
+http://dgtstreams.live:80/movie/RzYsjcpRIJ/OVpzSCOyip/325.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Gemini Man (2019)" tvg-logo="" group-title="News Al Cinema",Gemini Man (2019)
+http://dgtstreams.live:80/movie/RzYsjcpRIJ/OVpzSCOyip/326.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Il giorno piu bello del mondo (2019)" tvg-logo="" group-title="News Al Cinema",Il giorno piu bello del mondo (2019)
+http://dgtstreams.live:80/movie/RzYsjcpRIJ/OVpzSCOyip/327.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Il Piccolo Yeti (2019)" tvg-logo="" group-title="News Al Cinema",Il Piccolo Yeti (2019)
+http://dgtstreams.live:80/movie/RzYsjcpRIJ/OVpzSCOyip/328.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Il sindaco del rione sanita (2019)" tvg-logo="" group-title="News Al Cinema",Il sindaco del rione sanita (2019)
+http://dgtstreams.live:80/movie/RzYsjcpRIJ/OVpzSCOyip/329.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Io Leonardo (2019)" tvg-logo="" group-title="News Al Cinema",Io Leonardo (2019)
+http://dgtstreams.live:80/movie/RzYsjcpRIJ/OVpzSCOyip/330.mkv
+#EXTINF:-1 tvg-id="" tvg-name="It Capitolo Due (2019)" tvg-logo="" group-title="News Al Cinema",It Capitolo Due (2019)
+http://dgtstreams.live:80/movie/RzYsjcpRIJ/OVpzSCOyip/331.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Joker (2019)" tvg-logo="" group-title="News Al Cinema",Joker (2019)
+http://dgtstreams.live:80/movie/RzYsjcpRIJ/OVpzSCOyip/332.mkv
+#EXTINF:-1 tvg-id="" tvg-name="La famiglia Addams (2019)" tvg-logo="" group-title="News Al Cinema",La famiglia Addams (2019)
+http://dgtstreams.live:80/movie/RzYsjcpRIJ/OVpzSCOyip/333.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Maleficent Signora Del Male (2019)" tvg-logo="" group-title="News Al Cinema",Maleficent Signora Del Male (2019)
+http://dgtstreams.live:80/movie/RzYsjcpRIJ/OVpzSCOyip/334.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Non Succede Ma Se Succede (2019)" tvg-logo="" group-title="News Al Cinema",Non Succede Ma Se Succede (2019)
+http://dgtstreams.live:80/movie/RzYsjcpRIJ/OVpzSCOyip/335.mkv
+#EXTINF:-1 tvg-id="" tvg-name="One Piece Stampede Il Film (2019)" tvg-logo="" group-title="News Al Cinema",One Piece Stampede Il Film (2019)
+http://dgtstreams.live:80/movie/RzYsjcpRIJ/OVpzSCOyip/336.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Rambo V Last Blood (2019)" tvg-logo="" group-title="News Al Cinema",Rambo V Last Blood (2019)
+http://dgtstreams.live:80/movie/RzYsjcpRIJ/OVpzSCOyip/337.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Scary Stories To Tell In The Dark (2019)" tvg-logo="" group-title="News Al Cinema",Scary Stories To Tell In The Dark (2019)
+http://dgtstreams.live:80/movie/RzYsjcpRIJ/OVpzSCOyip/338.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Se Mi Vuoi Bene (2019)" tvg-logo="" group-title="News Al Cinema",Se Mi Vuoi Bene (2019)
+http://dgtstreams.live:80/movie/RzYsjcpRIJ/OVpzSCOyip/339.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Shaun Vita Da Pecora Farmageddon Il Film (2019)" tvg-logo="" group-title="News Al Cinema",Shaun Vita Da Pecora Farmageddon Il Film (2019)
+http://dgtstreams.live:80/movie/RzYsjcpRIJ/OVpzSCOyip/340.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Terminator Destino Oscuro (2019)" tvg-logo="" group-title="News Al Cinema",Terminator Destino Oscuro (2019)
+http://dgtstreams.live:80/movie/RzYsjcpRIJ/OVpzSCOyip/341.mkv
+#EXTINF:-1 tvg-id="" tvg-name="The Informer Tre Secondi Per Sopravvivere (2019)" tvg-logo="" group-title="News Al Cinema",The Informer Tre Secondi Per Sopravvivere (2019)
+http://dgtstreams.live:80/movie/RzYsjcpRIJ/OVpzSCOyip/342.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Tutta Un Altra Vita (2019)" tvg-logo="" group-title="News Al Cinema",Tutta Un Altra Vita (2019)
+http://dgtstreams.live:80/movie/RzYsjcpRIJ/OVpzSCOyip/343.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Angry Birds 2 Amici Nemici Per Sempre (2019)" tvg-logo="" group-title="News Al Cinema",Angry Birds 2 Amici Nemici Per Sempre (2019)
+http://dgtstreams.live:80/movie/RzYsjcpRIJ/OVpzSCOyip/344.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Good Boys Quei Cattivi Ragazzi (2019)" tvg-logo="" group-title="News Al Cinema",Good Boys Quei Cattivi Ragazzi (2019)
+http://dgtstreams.live:80/movie/RzYsjcpRIJ/OVpzSCOyip/346.mkv
